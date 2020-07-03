@@ -109,6 +109,6 @@ Where you put HTML or Markdown files for pages depends on how you want the pages
 
 Both methods work fine (and can be used in conjunction with each other), with the only real difference being the resulting URLs. By default, pages retain the same folder structure in `_site` as they do in the source directory.
 
-## New heading
+## [New heading](#new-heading)
 
 Here's a new section.
