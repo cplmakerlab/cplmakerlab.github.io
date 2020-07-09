@@ -12,7 +12,7 @@ resources:
     link: 'https://jekyllrb.com/docs/collections/'
   - name: Source code
     link: 'https://github.com/CloudCannon/bakery-store/tree/collections'
-type: Video
+type: Document
 set:
 set_order: 4
 ---
