@@ -43,7 +43,7 @@ exclude:
 collections:
   sets:
     output: true
-    permalink: /:collection/:name
+
 
 
 jekyll-archives:
