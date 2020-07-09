@@ -58,7 +58,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true
+      comments: false
   -
     scope:
       type: "sets"
@@ -66,7 +66,7 @@ defaults:
       _hide_content: true
   -
     scope:
-      path: "index.html"
+      path: "learn.html"
     values:
       body_class: "show_hero_search"
 
