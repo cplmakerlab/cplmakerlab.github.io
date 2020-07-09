@@ -1,8 +1,8 @@
-- name: Learn
+- name: Home
   link: /
+- name: Learn
+  link: /learn/
 - name: Make
   link: /make/
 - name: Community
   link: /community/
-- name: Home
-  link: /
