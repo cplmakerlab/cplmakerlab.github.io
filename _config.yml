@@ -42,7 +42,6 @@ exclude:
 
 collections:
   sets:
-    output: true
 
 
 
