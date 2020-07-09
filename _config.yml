@@ -41,8 +41,12 @@ exclude:
   - LICENCE
 
 collections:
-  - how-to
-  - sets
+  how-to:
+    output: true
+    permalink: /:collection/:name
+  sets:
+    output: true
+    permalink: /:collection/:name
 
 
 jekyll-archives:
