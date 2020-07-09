@@ -1,6 +1,6 @@
 ---
-layout: default
-title: home
+layout: learn
+title: learn
 ---
 
 <section class="categories">
