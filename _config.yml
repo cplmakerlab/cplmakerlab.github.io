@@ -10,7 +10,7 @@ newsletter_action:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Chicago Public Library Maker Lab Website
+description: Chicago Public Library Maker Lab Knowledgebase
 author:
   name:
   email:
