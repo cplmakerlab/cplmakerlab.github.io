@@ -1,6 +1,6 @@
 ---
 date: 2017-01-15 00:00:00
-title: Client editable Jekyll sites
+title: E-Cutter Basics
 video_id: _iH8f5alzWA
 description: Have non-technical people update Jekyll sites
 categories:
