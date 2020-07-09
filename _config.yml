@@ -66,7 +66,7 @@ defaults:
       _hide_content: true
   -
     scope:
-      path: "learn.html"
+      path: "learn"
     values:
       body_class: "show_hero_search"
 
@@ -93,9 +93,4 @@ types:
 
 _comments:
 
-_options:
-  image: # Front matter field
-    uploads_dir: "uploads/front-matter-images/:title"
-  content: # Content Editor and block Editable Regions
-    uploads_dir: "uploads/:year/:month/:day/:title"
 
