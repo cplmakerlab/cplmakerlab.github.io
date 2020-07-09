@@ -1,6 +1,8 @@
-- name: Tutorials
+- name: Home
   link: /
-- name: Videos
-  link: /videos/
-- name: FAQ
-  link: /faq/
+- name: Learn
+  link: /learn/
+- name: Make
+  link: /make/
+- name: Community
+  link: /community/

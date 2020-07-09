@@ -10,7 +10,7 @@ newsletter_action:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Knowledge base template for Jekyll.
+description: Chicago Public Library Maker Lab Knowledgebase
 author:
   name:
   email:
@@ -58,7 +58,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true
+      comments: false
   -
     scope:
       type: "sets"
@@ -66,9 +66,11 @@ defaults:
       _hide_content: true
   -
     scope:
-      path: "index.html"
+      path: "learn.html"
     values:
       body_class: "show_hero_search"
+
+
 
 # -----------
 # CloudCannon
@@ -90,3 +92,10 @@ types:
   - Video
 
 _comments:
+
+_options:
+  image: # Front matter field
+    uploads_dir: "uploads/front-matter-images/:title"
+  content: # Content Editor and block Editable Regions
+    uploads_dir: "uploads/:year/:month/:day/:title"
+
