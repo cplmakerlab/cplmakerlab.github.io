@@ -41,9 +41,6 @@ exclude:
   - LICENCE
 
 collections:
-  how-to:
-    output: true
-    permalink: /:collection/:name
   sets:
     output: true
     permalink: /:collection/:name
