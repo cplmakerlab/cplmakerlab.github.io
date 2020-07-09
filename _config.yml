@@ -70,6 +70,8 @@ defaults:
     values:
       body_class: "show_hero_search"
 
+
+
 # -----------
 # CloudCannon
 
@@ -90,3 +92,10 @@ types:
   - Video
 
 _comments:
+
+_options:
+  image: # Front matter field
+    uploads_dir: "uploads/front-matter-images/:title"
+  content: # Content Editor and block Editable Regions
+    uploads_dir: "uploads/:year/:month/:day/:title"
+
