@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Make
+title: Home
 ---
 
-# Make stuff
+# Welcome home
 
 Some examples of things you can make 123
 
