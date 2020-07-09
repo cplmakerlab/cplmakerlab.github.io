@@ -41,7 +41,8 @@ exclude:
   - LICENCE
 
 collections:
-  sets:
+  - how-to
+  - sets
 
 
 jekyll-archives:
@@ -87,9 +88,6 @@ social_icons:
   - Email
   - RSS
 
-types:
-  - Document
-  - Video
 
 _comments:
 
