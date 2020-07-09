@@ -1,6 +1,6 @@
 ---
 date: 2017-01-15 00:00:00
-title: Lasercutting 101
+title: Lasercutting Basics
 video_id: o7ygmIRgvUA
 description: Learn how to use collections to manage and organize related content
 categories:
@@ -17,7 +17,7 @@ set:
 set_order: 4
 ---
 
-Lasercutting 101
+Lasercutting Basics
 
 &nbsp;
 
