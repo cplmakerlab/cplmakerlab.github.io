@@ -4,7 +4,10 @@ title: Lasercutting
 categories:
   - Lasercutting
 description:
-type: Document
+machine: 
+ - lasercutter
+software:
+ - inkscape
 ---
 
 ## Lasercutting
