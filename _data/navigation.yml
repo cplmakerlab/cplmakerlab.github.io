@@ -1,12 +1,11 @@
 - name: Home
   link: /
+  subnav:  
 - name: Learn
   link: /learn/
+  subnav:  
 - name: Make
   link: /make/
   subnav:
-    - name: Community
-      link: /community/
-    - name: Community2
-      link: /community2/
+
       
