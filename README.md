@@ -2,9 +2,9 @@
 
 This is a Jekyll-powered website that is hosted using Github Pages and managed using [CloudCannon](http://cloudcannon.com/). Cloudcannon provides a content editor and friendly administration interface for managing Jekyll sites.
 
-Jekyll is a site generator. Rather than reading and writing from a database (like Wordpress does), a Jekyll website uses flat files and a script to reenerate the entire HTML site whenever a change is made. 
+Jekyll is a site generator. Rather than reading and writing from a database (like Wordpress does), a Jekyll website uses flat files and an automated script to regenerate the entire HTML site whenever a change is made. 
 
-Things like pages and blog posts are stored in Markdown files that end in .md or .html. At the top of each file is a section for storing metadata such as date, categories, and author, that Jekyll uses to render pages. Page files are located in the top-level directory, while posts are stored in the ```_posts``` directory. Content other than a page or a post is stored in its own collections directory. For instance the collection ```_guides``` contains how-to guides.
+Things like pages and blog posts are stored in Markdown files that end in .md or .html. At the top of each file is a section for storing page metadata such as date and categories. Standalone pages are stored in the root directory, while posts are stored in the ```_posts``` directory. Content other than a page or a post must be stored in a collections directory. For instance the collection ```_guides``` contains how-to guides.
 
 The YAML data files are used for storing site settings. For instance, ```_config.yml``` contains the general site settings, and ```_data/navigation.yml``` contains navigation elements. 
 
