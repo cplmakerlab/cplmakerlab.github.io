@@ -4,7 +4,6 @@ title: 3D Printing Basics
 categories:
   - 3D Printing
 description:
-type: Document
 ---
 
 ## 3D Printing Basics

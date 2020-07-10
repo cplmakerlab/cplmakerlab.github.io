@@ -62,7 +62,6 @@ defaults:
       type: "sets"
     values:
       _hide_content: true
-  -
 
 
 # -----------
