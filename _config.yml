@@ -41,7 +41,7 @@ exclude:
   - LICENCE
 
 collections:
-- tools:
+- equipment:
 - software:
 - templates:
     output: true
