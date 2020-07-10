@@ -41,7 +41,8 @@ exclude:
   - LICENCE
 
 collections:
-  sets:
+- tools
+- software
 
 
 defaults:
