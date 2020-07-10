@@ -4,5 +4,9 @@
   link: /learn/
 - name: Make
   link: /make/
-- name: Community
-  link: /community/
+  subnav:
+    - name: Community
+      link: /community/
+    - name: Community2
+      link: /community2/
+      
