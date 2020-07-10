@@ -41,8 +41,8 @@ exclude:
   - LICENCE
 
 collections:
-- tools
-- software
+- tools:
+- software:
 - templates:
     output: true
     permalink: /template/:path/
