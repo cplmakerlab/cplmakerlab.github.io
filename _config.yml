@@ -41,14 +41,14 @@ exclude:
   - LICENCE
 
 collections:
-- equipment:
-- software:
-- templates:
-    output: true
-    permalink: /template/:path/
-- guides:
-    output: true
-    permalink: /guide/:path/
+  - equipment
+  - software
+  - templates:
+      output: true
+      permalink: /template/:path/
+  - guides:
+      output: true
+      permalink: /guide/:path/
 
 
 
