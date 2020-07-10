@@ -41,9 +41,14 @@ exclude:
   - LICENCE
 
 collections:
-- how-to
 - tools
 - software
+  how-to:
+    output: true
+    permalink: /how-to/:path/
+
+
+
 
 
 defaults:
