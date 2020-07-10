@@ -43,9 +43,12 @@ exclude:
 collections:
 - tools
 - software
-  how-to:
+- templates:
     output: true
-    permalink: /how-to/:path/
+    permalink: /template/:path/
+- guides:
+    output: true
+    permalink: /guide/:path/
 
 
 
