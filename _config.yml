@@ -41,14 +41,11 @@ exclude:
   - LICENCE
 
 collections:
-  - 
-    equipment:
-  - 
-    software:
-  - 
-    guides:
-      output: true
-      permalink: /guide/:path/
+  equipment:
+  software:
+  guides:
+    output: true
+    permalink: /guide/:path/
 
 defaults:
   -
