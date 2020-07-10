@@ -47,10 +47,6 @@ collections:
       output: true
       permalink: /guide/:path/
 
-
-
-
-
 defaults:
   -
     scope:
