@@ -1,10 +1,9 @@
 ---
 ---
 
-{% include search.html %}
-
 <section class="categories">
 	{% assign categories = site.categories | sort %}
+	{{ site.categories | json }}
 	{% for category in categories %}
 		{% assign name = category[0] %}
 		{% assign posts = category[1] %}

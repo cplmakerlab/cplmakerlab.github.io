@@ -2,7 +2,18 @@
   link: /
 - name: Learn
   link: /learn/
+  subnav:
+    - name:
+      link: 
 - name: Make
   link: /make/
+  subnav:
+    - name:
+      link:
 - name: Community
   link: /community/
+  subnav:
+    - name:
+      link:
+
+      

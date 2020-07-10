@@ -6,8 +6,8 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
 		<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/screen.css">
-		<link rel="apple-touch-icon" href="{{ site.baseurl }}/apple-touch-icon.png">
-		<link rel="icon" type="image/png" href="{{ site.baseurl }}/touch-icon.png" sizes="192x192">
+		<link rel="apple-touch-icon" href="{{ site.baseurl }}/assets/images/apple-touch-icon.png">
+		<link rel="icon" type="image/png" href="{{ site.baseurl }}/assets/images/touch-icon.png" sizes="192x192">
 		<link rel="icon" type="image/png" href="{{ site.baseurl }}/assets/images/favicon.png">
 		<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Merriweather:400italic,400,300italic,300,700,700italic|Open+Sans:400italic,600italic,700italic,700,600,400|Inconsolata:400,700">
 
@@ -28,14 +28,15 @@
 
 	<body class="{{ page.body_class }}">
 		<header>
+		  	<div class="bc-widget bc-my-account-nav"></div>
+  
 			<div class="wrapper">
 				<section class="top-bar">
-					<div class="logo"><a href="{{ site.baseurl }}/">{% include logo.html %}</a></div>
+					<div class="logo"><a href="{{ site.baseurl }}/"><img alt="logo" title="Logo" src="{{ site.baseurl }}/assets/images/logo.png" /></a></div>
 					{% include navigation.html %}
 					{% include search.html %}
 				</section>
 			</div>
-
 		</header>
 		<section class="content">
 			<div class="wrapper">
@@ -44,25 +45,13 @@
 		</section>
 
 		{% include footer.html %}
-		<script>
-			$(function() {
-				$('a[href*=\\#]').not(".no-smooth").on('click', function(event){
-					var el = $(this.hash);
-					if (el.length > 0) {
-						// event.preventDefault();
-						$('html,body').animate({scrollTop:$(this.hash).offset().top - 50}, 500);
-					}
-				});
-
-				$('svg').click(function() {
-					$(this).parent('form').submit();
-				});
-			});
-
-			document.getElementById("open-nav").addEventListener("click", function (event) {
-				event.preventDefault();
-				document.body.classList.toggle("nav-open");
-			});
-		</script>
 	</body>
+	
+    /* Bibliocommons widget: https://chipublib.bibliocommons.com/info/integration */
+	<script async="async" type="text/javascript">
+	  (function(){var e=document.createElement("script");
+      e.src="https://chipublib.bibliocommons.com/javascripts/sdk.js"; 
+      e.async=true;var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})()
+    </script>
+
 </html>
