@@ -9,11 +9,11 @@ disqus_shortname:
 newsletter_action:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /siteicon.png
-description: Chicago Public Library Maker Lab Knowledgebase
+logo: /assets/images/logo.png
+description: Chicago Public Library Maker Lab
 author:
-  name:
-  email:
+  name: CPL Maker Lab
+  email: makerspace@chipublib.org
   twitter: # twitter username without the @ symbol
 social:
   name: Base Template
