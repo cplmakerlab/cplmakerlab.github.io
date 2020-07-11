@@ -1,5 +1,0 @@
----
-title: Inkscape
-description:
----
-
