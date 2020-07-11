@@ -1,7 +1,10 @@
 ---
 title: How to trace an image in Inkscape
 categories:
-equipment: 'Lasercutter, Electronic Cutter, Milling'
+equipment: 
+  - Lasercutter 
+  - Electronic Cutter
+  - Milling
 software:
   - Inkscape
 ---
