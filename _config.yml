@@ -41,11 +41,29 @@ exclude:
   - LICENCE
 
 collections:
-  equipment:
-  software:
   guides:
     output: true
     permalink: /guide/:path/
+
+equipment:
+  - 3D Printer
+  - Lasercutter
+  - Electronic Cutter
+  - Sewing
+  - Electronics
+  - Computers
+  - Milling
+  - Crafts
+  
+software:
+  - Inkscape
+  - Tinkercad
+  - Blender
+  - Fusion 360
+  - Audacity
+
+
+
 
 defaults:
   -
