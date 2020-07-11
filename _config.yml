@@ -41,8 +41,8 @@ exclude:
   - LICENCE
 
 collections:
-  equipment:
-  software:
+  equipment
+  software
   guides:
     output: true
     permalink: /guide/:path/
