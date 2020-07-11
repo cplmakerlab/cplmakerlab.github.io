@@ -1,7 +1,7 @@
 ---
 title: How to trace an image in Inkscape
 categories:
-equipment:
+equipment: 'Lasercutter, Electronic Cutter, Milling'
 software:
   - Inkscape
 ---
@@ -12,7 +12,7 @@ Inkscape is a vector drawing program that can be used for creating design files 
 
 In this how-to we will show you how to trace a bitmap image in Inkscape to create a vector image. This will convert the pixels of the bitmap into line paths that a machine can follow.
 
-### 1\. Find an image you'd like to trace
+### 1\. Find an image you’d like to trace
 
 High contrast images work best such as black and white line drawings, outlines, and silhouettes. You can search for images online or take a digital photo of a line drawing you made. The image should be saved as a .bmp, .jpg, or .png.
 
