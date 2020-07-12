@@ -8,7 +8,6 @@
 	}
 }
 
-
 header {
 	padding: 16px 0 10px 0;
 	/*background: $header-color;*/
@@ -49,7 +48,6 @@ header {
 	}
 
 	nav {
-	    background: #333;
 		@media #{$mid-point} {
 			flex: 1;
 			margin: 0 0 0 10px;
