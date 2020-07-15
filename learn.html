@@ -2,24 +2,11 @@
 ---
 
 <section class="categories">
-    {% assign collection  = site.guides %}
-    {{  collection | pprint}}
     {% assign groups = site.guides | group_by: "categories" | sort: "name" %}
 
-    {% for group in groups %}
-		{% assign name = group.name %}
-		{% assign posts = group.items %}
-		{% assign size = group.items | size %}
-		<section class="category">
-				<h3>
-					<a href="{{ site.baseurl }}/category/{{ name | slugify }}/">{{ name | replace: "-", " " }}</a>
-				</h3>
 
-			<ul>
-				{% if size > 4 %}
-					<li><a href="{{ site.baseurl }}/category/{{ name | slugify }}/">{{ size | minus: 4 }} more...</a></li>
-				{% endif %}
-			</ul>
-		</section>
-	{% endfor %}
+    {% for guide in site.guides %}
+        {{ guide.title }}
+    {% endfor %}
+
 </section>
