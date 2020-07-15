@@ -3,7 +3,7 @@
 
 <section class="categories">
     {% assign groups = site.guides | group_by: "categories" | sort: "name" %}
-    {{ site.guides | json}}
+    {{ site.collections | json}}
     {% for group in groups %}
 		{% assign name = group.name %}
 		{% assign posts = group.items %}
