@@ -108,15 +108,16 @@ header {
 				}
 			}
 		}
-		ul li {
-		    list-style:none;
-		    display:inline;
-		    li {
-		        display:hide;
-		    }
-		}
 		
 	}
+}
+
+nav ul li {
+    display:inline;
+    list-style:none;
+}
+nav ul li li {
+    display:none;
 }
 
 .nav-open header nav {
