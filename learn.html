@@ -11,7 +11,7 @@
 
 
     {% for guide in site.guides %}
-		{% assign name = guide.name %}
+		{% assign name = guide.title %}
 		{% assign posts = guide.items %}
 		{% assign size = guide.items | size %}
 		<section class="category">
