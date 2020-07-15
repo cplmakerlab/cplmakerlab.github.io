@@ -1,6 +1,7 @@
 ---
 title: How to trace an image in Inkscape
 categories:
+tags:
 equipment:
   - Lasercutter
   - Electronic Cutter
