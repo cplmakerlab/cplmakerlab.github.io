@@ -12,8 +12,8 @@
 - name: Make
   link: /make/
   subnav:
-    - name: Design
-      link: design
+    - name: Software
+      link: software
     - name: Materials
       link: materials
     - name: Equipment
