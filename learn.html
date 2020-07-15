@@ -2,7 +2,7 @@
 ---
 
 <section class="categories">
-    {% assign groups = site.guides | group_by: "category" | sort: "name" %}
+    {% assign groups = site.guides | group_by: "categories" | sort: "name" %}
 
     {% for group in groups %}
 		{% assign name = group.name %}
