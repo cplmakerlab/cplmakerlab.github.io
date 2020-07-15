@@ -4,16 +4,16 @@
 <section class="categories">
     {% assign groups = site.guides | group_by: "categories" | sort: "name" %}
 
-    
+
     {% for guide in site.guides %}
-       {{ guide || JSON }}
+       {{ guide.title }}
     {% endfor %}
 
 
-    {% for group in groups %}
-		{% assign name = group.name %}
-		{% assign posts = group.items %}
-		{% assign size = group.items | size %}
+    {% for guide in site.guides %}
+		{% assign name = guide.name %}
+		{% assign posts = guide.items %}
+		{% assign size = guide.items | size %}
 		<section class="category">
 				<h3>
 					<a href="{{ site.baseurl }}/category/{{ name | slugify }}/">{{ name | replace: "-", " " }}</a>
