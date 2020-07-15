@@ -4,12 +4,6 @@ categories:
   - Software
 tags:
   - Inkscape
-equipment:
-  - Lasercutter
-  - Electronic Cutter
-  - Milling
-software:
-  - Inkscape
 ---
 
 # How to Trace an Image in Inkscape
