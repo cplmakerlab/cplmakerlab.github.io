@@ -10,19 +10,7 @@
 			{% assign class = class | append: " active" %}
 		{% endif %}
 		<li><a href="{% include relative-src.html src=link.link %}" class="{{ class }}">{{ link.name }}</a>
-		  {% if link.subnav }
-		  <ul>
-		    {% for sublink in link.subnav}
-		        {% assign subclass = "" %}
 
-        		{% if sublink.link == page.url %}
-        			{% assign subclass = subclass | append: " active" %}
-        		{% endif %}
-		    
-		     	<li><a href="{% include relative-src.html src=sublink.link %}" class="{{ subclass }}">{{ sublink.name }}</a>
-		    {% endfor %}
-		  </ul>
-		  {% endif %}
 		</li>
 	{% endfor %}
 	</ul>
