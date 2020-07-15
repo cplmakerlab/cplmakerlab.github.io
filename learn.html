@@ -2,13 +2,9 @@
 ---
 
 <section class="categories">
+    {% assign collection  = site.guides %}
+    {{  collection | json}}
     {% assign groups = site.guides | group_by: "categories" | sort: "name" %}
-{% for group in groups %}
-    {{ group.name }}
-    {% for item in group.items %}
-        {{item.abbrev}}
-    {%endfor%}
-{%endfor%}
 
     {% for group in groups %}
 		{% assign name = group.name %}
