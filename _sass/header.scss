@@ -34,11 +34,16 @@ header {
 				line-height: 0;
 			}
 
-			svg, img {
+			svg {
 				fill: #fff;
 				width: 100%;
 				height: 46px;
 				min-width: 100px;
+			}
+			img {
+			  height:50px;
+			}
+			    
 			}
 		}
 
