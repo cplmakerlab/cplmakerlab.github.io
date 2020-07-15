@@ -108,6 +108,14 @@ header {
 				}
 			}
 		}
+		ul li {
+		    list-style:none;
+		    display:inline;
+		    li {
+		        display:hide;
+		    }
+		}
+		
 	}
 }
 
