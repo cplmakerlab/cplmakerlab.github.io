@@ -2,8 +2,8 @@
 ---
 
 <section class="categories">
-    {{ site.collections | where: "label", "guides" | first }}
-	{% assign categories = site.categories | sort %}
+	{% assign categories = site.guides | map: 'categories' | uniq %} 
+
 	{% for category in categories %}
 		{% assign name = category[0] %}
 		{% assign posts = category[1] %}
