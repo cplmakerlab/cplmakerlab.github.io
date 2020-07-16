@@ -97,12 +97,6 @@ _options:
     format: p h3
     undo: true
     redo: true
- image_path:
-    width: 90
-    height: 120
-    resize_style: "contain"
-    mime_type: "image/jpeg"
-    expandable: true    
   content:
     format: p h1 h2 h3 h4 h5 h6 pre address div
     bold: true
@@ -113,8 +107,4 @@ _options:
     table: true
     right: align-to-right
     embed: true
-    width: 90
-    height: 120
-    resize_style: "cover"
-    mime_type: "image/png"    
 
