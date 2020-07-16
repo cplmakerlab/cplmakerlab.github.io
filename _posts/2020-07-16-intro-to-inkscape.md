@@ -7,7 +7,7 @@ tags:
   - Inkscape
 ---
 
-What is Inkscape?
+## What is Inkscape 2?
 
 Inkscape is a vector drawing program that can be used for creating design files for CNC (Computer Numerically Controlled) machines such as a lasercutter, electronic (vinyl) cutter, milling machine and mor
 
