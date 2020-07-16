@@ -2,34 +2,6 @@
 ---
 
 <section class="categories">
-    {% assign collection  = site.guides %}
-    {% assign groups = site.guides | group_by: "categories" | sort: "name" %}
-
-
-    {% for guide in site.guides %}
-        <a href="{{ guide.url }}">{{ guide.title }}</a>
-    {% endfor %}
-
-
-    {% for group in groups %}
-		{% assign name = group.title %}
-		{% assign posts = group.items %}
-		{% assign size = group.items | size %}
-		<section class="category">
-				<h3>
-					<a href="{{ site.baseurl }}/category/{{ name | slugify }}/">{{ name | replace: "-", " " }}</a>
-				</h3>
-
-			<ul>
-				{% if size > 4 %}
-					<li><a href="{{ site.baseurl }}/category/{{ name | slugify }}/">{{ size | minus: 4 }} more...</a></li>
-				{% endif %}
-			</ul>
-		</section>
-	{% endfor %}
-</section>
-
-<section class="categories">
 	{% assign categories = site.categories | sort %}
 	{% for category in categories %}
 		{% assign name = category[0] %}
