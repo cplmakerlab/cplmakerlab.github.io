@@ -86,8 +86,24 @@ social_icons:
   - RSS
 
 
-_comments:
-
 _options:
+  some_markdown:
+    bold: true
+    table: true
+    link: true
+  _text:
+    italic: true
+  _block:
+    format: p h3
+    undo: true
+    redo: true
   content:
+    format: p h1 h2 h3 h4 h5 h6 pre address div
+    bold: true
+    link: true
+    numberedlist: true
+    code: true
+    table: true
+    right: align-to-right
     embed: true
+
