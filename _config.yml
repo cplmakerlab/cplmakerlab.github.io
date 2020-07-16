@@ -31,8 +31,12 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
-#  - jekyll-extract-element
-#  - jekyll-archives
+  - jekyll-extract-element
+  - jekyll-archives
+
+
+jekyll-archives:
+  enabled: ['categories']
 
 exclude:
   - Gemfile
@@ -44,7 +48,6 @@ collections:
   guides:
     output: true
     permalink: /guide/:path/
-
 
 
 
