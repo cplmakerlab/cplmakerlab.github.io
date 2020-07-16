@@ -108,8 +108,8 @@ _options:
     unorderedlist: true
     code: true
     table: true
-    left: 
-    right: align-to-right
+    left: align-left
+    right: align-right
     center: align-center
     embed: true
 
