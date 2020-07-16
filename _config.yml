@@ -88,4 +88,6 @@ social_icons:
 
 _comments:
 
-
+_options:
+  content:
+    embed: true
