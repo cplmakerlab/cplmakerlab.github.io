@@ -2,6 +2,7 @@
 date: 2020-07-09 00:00:00
 title: How to Trace an Image in Inkscape
 categories:
+  - How-To
 tags:
   - Inkscape
 description:
