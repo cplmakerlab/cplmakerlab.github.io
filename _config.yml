@@ -103,6 +103,7 @@ _options:
     italic: true
     underline: true
     link: true
+    image:true
     numberedlist: true
     unorderedlist: true
     code: true
