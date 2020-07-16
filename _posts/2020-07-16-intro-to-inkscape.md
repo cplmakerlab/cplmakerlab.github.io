@@ -14,8 +14,6 @@ Inkscape is a vector drawing program that can be used for creating design files 
 | 1 | 2 | 3 |
 | 4 | 5 | 6 |
 
-&nbsp;
-
 Download Inkscape here: [http://inkscape.org/](http://inkscape.org/){: target="_blank"}
 
 ![](/uploads/cpl-makerlab-banner-760x230.png){: width="760" height="230"}
