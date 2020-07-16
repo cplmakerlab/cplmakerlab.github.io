@@ -108,7 +108,8 @@ _options:
     code: true
     table: true
     left: align-left
-    right: align-right
     center: align-center
+    right: align-right
+    justify: align-justify
     embed: true
 
