@@ -2,13 +2,18 @@
 date: 2020-07-09 00:00:00
 title: E-Cutter Basics
 categories:
-  - Electronic Cutter
+  - Equipment
+tags:
+  - E-cutter
+  - CNC
 description:
-type: Document
 ---
 
-## E-Cutter Basics
+## Electronic Cutter Basics
 
-&nbsp;
+An electronic cutter's are handy machines that can cut flat materials such as vinyl, heat transfers, and paper. They are great for making vinyl stickers, letters, signs, paper crafts, greeting cards, and more! 
 
-[Download handout](/files/chair-handout.pdf){: target="_blank"}
+At the Maker Lab we use a Cricut, although in the past we've used a Cameo machine. Both are about the size of a desktop printer and come with their own special software to use with the machine.
+
+An electronic cutter is a type of CNC machine. CNC stands for "Computer Numeric Control" machine which simply means you use a commputer to control the machine, rather than manually operating the machine by hand.
+
