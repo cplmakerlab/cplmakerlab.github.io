@@ -101,10 +101,15 @@ _options:
     format: p h1 h2 h3 h4 h5 h6 pre address div
     bold: true
     italic: true
+    underline: true
     link: true
+    image: true
     numberedlist: true
+    unorderedlist: true
     code: true
     table: true
+    left: 
     right: align-to-right
+    center: align-center
     embed: true
 
