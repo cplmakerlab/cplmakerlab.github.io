@@ -3,7 +3,7 @@ jQuery(function() {
     
     // Mobile Menu Toggle
     $('body').on('click', '.mobile-menu-toggle', function(){
-      $('nav').toggleClass('hide');
+      $('nav').toggleClass('in out');
     });
     
     
