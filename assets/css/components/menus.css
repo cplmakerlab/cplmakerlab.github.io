@@ -58,4 +58,9 @@ ul.menu.hide {
 nav {
     position:absolute;
     width:300px;
+    border-left:solid #ddd 3px;
+    top:30px;
+    right:0;
+    z-index:10;
+    background:#fff;
 }
