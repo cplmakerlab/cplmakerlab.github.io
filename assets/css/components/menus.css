@@ -55,4 +55,7 @@ ul.menu.hide {
   display:none;
 }
 
-
+nav {
+    position:absolute;
+    width:300px;
+}
