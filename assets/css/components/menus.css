@@ -75,6 +75,9 @@ nav {
   background:#eee;
   height:auto;
 }
+nav.hide {
+  display:none;
+}
 
 a.mobile-menu-toggle {
   color:#222; 
