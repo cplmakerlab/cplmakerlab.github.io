@@ -1,6 +1,7 @@
 ---
 title: How to trace an image in Inkscape
 topics:
+type:
 ---
 
 # How to Trace an Image in Inkscape
