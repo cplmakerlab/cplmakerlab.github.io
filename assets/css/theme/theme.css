@@ -28,7 +28,6 @@ html, #container, .inner {
 }
 a {
   color:#2d63af;
-  border-bottom:solid 1px #949494;
 }
 #content {
   padding:20px;
@@ -38,7 +37,7 @@ a {
 }
 
 #content a {
-  border-bottom:dotted 1px #DDD;
+  border-bottom:solid 1px #949494;
 }
 
 
