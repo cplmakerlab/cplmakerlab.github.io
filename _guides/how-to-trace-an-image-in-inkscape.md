@@ -1,6 +1,9 @@
 ---
 title: How to trace an image in Inkscape
 topics:
+  - 2d-design
+  - lasercutting
+  - milling
 type:
   - how-to
 ---
