@@ -1,8 +1,29 @@
+<a class="nav-toggle" id="open-nav" href="#">&#9776;</a>
+<nav>
+	<a class="editor-link btn" href="cloudcannon:collections/_data/navigation.yml" class="btn" style="padding: 5px;"><strong>&#9998;</strong> Edit navigation</a>
+	<ul>
+	{% for link in site.data.navigation %}
+	{% assign class = "" %}
 
- <ul>
-      {% for p in site.pages %}
-        <li>
-          <a href="{{ p.url }}">{{ p.title }}</a>
-        </li>
-      {% endfor %}
-    </ul>
+		{% if link.link == page.url %}
+			{% assign class = class | append: " active" %}
+		{% endif %}
+		<li><a href="{% include relative-src.html src=link.link %}" class="{{ class }}">{{ link.name }}</a>
+		  {% if link.subnav.size > 0 %}
+    		  <ul>
+    		    {% for sublink in link.subnav}
+		        {% assign subclass = "" %}
+
+        		{% if sublink.link == page.url %}
+        			{% assign subclass = subclass | append: " active" %}
+        		{% endif %}
+		    
+		     	<li><a href="{% include relative-src.html src=sublink.link %}" class="{{ subclass }}">{{ sublink.name }}</a>
+    		    {% endfor %}
+    		  </ul>
+		  {% endif %}
+		</li>
+	{% endfor %}
+	</ul>
+</nav>
+
