@@ -93,6 +93,8 @@ type:
   - how-to
   - video
 
+_source_editor:   
+  tab_size: 2
   
 _options:
   content:
