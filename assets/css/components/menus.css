@@ -30,9 +30,11 @@
   text-align:center;
   outline:none;
   color:#666;
+  font-weight:bold;
 }
 .menu li li a {
   font-size:1.4rem; 
+  font-weight:normal;
 }
 .menu li a:hover {
   color:#222;
