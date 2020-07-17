@@ -78,4 +78,5 @@ nav {
 
 a.mobile-menu-toggle {
    color:#222; 
+   z-index:11;
 }
