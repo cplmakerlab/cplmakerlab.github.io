@@ -31,12 +31,13 @@
   outline:none;
   color:#666;
 }
-.menu li a a {
-  font-size:143rem;
+.menu li li a {
+  font-size:14rem;
 }
 .menu li a:hover {
   color:#222;
   /*border-bottom-color:#d35400;*/
+  background-color:#ccc;
 }
 .menu li a:focus {
   color:#222;
