@@ -107,5 +107,4 @@ _options:
     bulletedlist: true
     code: true
     table: true
-    right: align-to-right
     embed: true
