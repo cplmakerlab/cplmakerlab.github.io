@@ -67,9 +67,10 @@ html {
 header {
   background:#16191e;
   color:#FFF;
-  position:sticky;
+  /*position:sticky;
   top:0px;
   z-index:10;
+  */
 }
 header a {
   color:#cfd2da;
@@ -127,11 +128,13 @@ header a {
  * Footer
  */
 footer {
+  /*
   color:#000;
   position:fixed;
   bottom:0;
   left:0;
   right:0;
+  */
 }
 .footer-text,
 .pt-controls {
