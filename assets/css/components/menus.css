@@ -72,3 +72,7 @@ nav {
     z-index:10;
     background:#eee;
 }
+
+a.mobile-menu-toggle {
+   color:#222; 
+}
