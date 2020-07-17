@@ -27,7 +27,7 @@
   border-left:solid 3px transparent;
   line-height:50px; /* this plus borders = 56px*/
   /* border-right:solid 1px #333;*/  
-  text-align:center;
+  text-align:left;
   outline:none;
   color:#666;
   font-weight:bold;
