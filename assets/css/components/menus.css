@@ -25,15 +25,15 @@
   outline:none;
 }
 .menu li a:hover {
-  color:#FFF;
+  color:#666;
   /*border-bottom-color:#d35400;*/
 }
 .menu li a:focus {
-  color:#FFF;
+  color:#666;
 }
 .menu li a.active {
   border-bottom-color:#d35400;
-  color:#FFF;
+  color:#666;
 }
 .mobile-menu-toggle {
   display:block;
