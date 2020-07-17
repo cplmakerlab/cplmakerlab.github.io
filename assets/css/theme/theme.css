@@ -33,7 +33,6 @@ a {
   padding:20px;
   margin:0 auto;
   background:rgba(0,0,0,.5);
-  color:#FFF;
   margin:0 auto;
 }
 
@@ -41,15 +40,7 @@ a {
   border-bottom:dotted 1px #DDD;
 }
 
-#content h1.title a {
-  border:none;
-  color:#FFF;
-}
-#content .tracklist a,
-#content .pt-play-all {
-  border-bottom:none;
-  color:#fff;
-}
+
 
 /* Uncomment for full scale background style */
 /*
@@ -65,8 +56,10 @@ html {
  * Header
  */
 header {
+  /*
   background:#16191e;
   color:#FFF;
+  */
   /*position:sticky;
   top:0px;
   z-index:10;
