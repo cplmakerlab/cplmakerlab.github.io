@@ -23,7 +23,8 @@
     margin:0;
     float:none;
   }
-  ul.menu.hide {
+  ul.menu.hide, ul.menu {
     display:block;
+    position:relative;
   }
 }
