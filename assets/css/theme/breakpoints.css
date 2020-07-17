@@ -21,6 +21,9 @@
   .main-menu li {
     display:inline;
   }
+  .main-menu li a {
+    display:inline-block;
+  }
   .main-menu ul {
     display:hide;
   }
