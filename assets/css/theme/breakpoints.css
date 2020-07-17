@@ -12,5 +12,9 @@
   nav.hide {
     display:block;
     position:relative;
+    top:auto;
+    bottom:auto;
+    right:auto;
+    width:auto;
   }
 }
