@@ -56,11 +56,11 @@ ul.menu.hide {
 }
 
 nav {
-    position:absolute;
+    position:sticky;
     width:300px;
-    border-left:solid #ddd 3px;
+    border:solid 1px #fdfdfd;
     top:30px;
     right:0;
     z-index:10;
-    background:#fff;
+    background:#eee;
 }
