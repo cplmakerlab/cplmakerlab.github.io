@@ -80,6 +80,6 @@ a.mobile-menu-toggle {
    color:#222; 
 }
 a.mobile-menu-toggle.close {
-  color:#ff5252;
-  
+  float:none;
+  text-align:right;
 }
