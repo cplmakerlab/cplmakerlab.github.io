@@ -3,22 +3,12 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-
-		<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/screen.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"/>
+        
+		<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/screen.css"> <!-- Transpiled source: assets/css/screen.scss -->
 		<link rel="apple-touch-icon" href="{{ site.baseurl }}/assets/images/apple-touch-icon.png">
 		<link rel="icon" type="image/png" href="{{ site.baseurl }}/assets/images/touch-icon.png" sizes="192x192">
 		<link rel="icon" type="image/png" href="{{ site.baseurl }}/assets/images/favicon.png">
-		<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Merriweather:400italic,400,300italic,300,700,700italic|Open+Sans:400italic,600italic,700italic,700,600,400|Inconsolata:400,700">
-
-		{% if jekyll.environment == 'production' and site.google_analytics_key != '' %}
-			<script>
-				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-				ga('create', '{{ site.google_analytics_key }}', 'auto');
-				ga('send', 'pageview');
-			</script>
-			<script async src='https://www.google-analytics.com/analytics.js'></script>
-		{% endif %}
 
 		{% seo %}
 		{% feed_meta %}
@@ -28,30 +18,47 @@
 
 	<body class="{{ page.body_class }}">
 	    <!-- div class="bc-widget bc-my-account-nav"></div -->
-		<header>
-			<div class="wrapper">
-				<section class="top-bar">
-					<div class="logo"><a href="{{ site.baseurl }}/"><img alt="logo" title="Logo" src="{{ site.baseurl }}/assets/images/logo.png" /></a></div>
-					{% include navigation.html %} 				
-					{% include search.html %}
-				</section>
-			</div>
-		</header>
-		<section class="content">
-
-			<div class="wrapper">
-				{{ content }}
-			</div>
+        
+        <header id="header">       
+          <a class="mobile-menu-toggle no-user-select visible-xs"><i class="fa fa-bars"><span class="element-invisible">Menu</span></i></a> 
+    
+          <section id="logo-site-name">
+			<div class="logo"><a href="{{ site.baseurl }}/"><img alt="logo" title="Logo" src="{{ site.baseurl }}/assets/images/logo.png" /></a></div>
+          </section>
+          {% include navigation.html %} 				
+          {% include search.html %}               
+        </header>
+        
+		<section id="container">
+          <div class="inner">
+            <div id="content" class="container-fluid">
+              {{ content }}
+            </div>
+          </div>
 		</section>
-
+        
 		{% include footer.html %}
+
 	</body>
 	
-    <!-- Bibliocommons widget: https://chipublib.bibliocommons.com/info/integration -->
-	<script async="async" type="text/javascript">
-	  (function(){var e=document.createElement("script");
-      e.src="https://chipublib.bibliocommons.com/javascripts/sdk.js"; 
-      e.async=true;var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})()
-    </script>
-
+    <!-- Scripts -->
+    {% if jekyll.environment == 'production' and site.google_analytics_key != '' %}
+        <script>
+            window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+            ga('create', '{{ site.google_analytics_key }}', 'auto');
+            ga('send', 'pageview');
+        </script>
+        <script async src='https://www.google-analytics.com/analytics.js'></script>
+    {% endif %}
+    
 </html>
+
+
+
+
+
+
+
+
+
+
