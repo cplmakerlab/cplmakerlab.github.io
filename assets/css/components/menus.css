@@ -14,7 +14,7 @@
   padding:0 1rem;
 }
 .menu li {
-  display:inline;
+  /*display:inline;*/
 }  
 .menu li a {
   margin:0;
