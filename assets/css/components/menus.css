@@ -23,17 +23,18 @@
   /* border-right:solid 1px #333;*/  
   text-align:center;
   outline:none;
+  color:#666;
 }
 .menu li a:hover {
-  color:#666;
+  color:#222;
   /*border-bottom-color:#d35400;*/
 }
 .menu li a:focus {
-  color:#666;
+  color:#222;
 }
 .menu li a.active {
   border-bottom-color:#d35400;
-  color:#666;
+  color:#222;
 }
 .mobile-menu-toggle {
   display:block;
