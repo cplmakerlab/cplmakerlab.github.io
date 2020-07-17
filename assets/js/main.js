@@ -6,6 +6,5 @@ jQuery(function() {
       $('nav').toggleClass('hide');
     });
     
-    
 });
 
