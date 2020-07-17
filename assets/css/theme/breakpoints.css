@@ -18,13 +18,13 @@
     width:auto;
   }
 
-  .main-menu li {
+  #main-menu li {
     display:inline;
   }
-  .main-menu li a {
+  #main-menu li a {
     display:inline-block;
   }
-  .main-menu ul {
+  #main-menu ul {
     display:hide;
   }
   
