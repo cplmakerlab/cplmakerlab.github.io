@@ -27,7 +27,8 @@ html, #container, .inner {
   overflow:auto;
 }
 a {
-  color:#DDD;
+  color:#2d63af;
+  border-bottom:solid 1px #949494;
 }
 #content {
   padding:20px;
@@ -66,10 +67,10 @@ header {
   */
 }
 header a {
-  color:#cfd2da;
+  /*color:#cfd2da;*/
 }
 #logo-site-name {
-  color:#000;
+  /*color:#000;*/
   margin-right:2rem;
 }
 #site-name {
