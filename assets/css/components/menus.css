@@ -76,7 +76,10 @@ nav {
     background:#eee;
 }
 
-a.mobile-menu-close {
+a.mobile-menu-toggle {
    color:#222; 
-   z-index:11;
+}
+a.mobile-menu-toggle.close {
+  color:#ff5252;
+  
 }
