@@ -9,6 +9,10 @@
   display:block;
 }
 
+.menu ul {
+  margin:0;
+  padding:0 1rem;
+}
 .menu li {
   display:inline;
 }  
@@ -33,7 +37,7 @@
   color:#222;
 }
 .menu li a.active {
-  border-bottom-color:#d35400;
+  border-left-color:#d35400;
   color:#222;
 }
 
