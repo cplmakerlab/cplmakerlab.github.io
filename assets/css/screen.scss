@@ -9,23 +9,23 @@
 /* Base */
 @import "http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,700,600,400|Inconsolata:400,700";
 @import "https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css";
-@import "_sass/base/normalize.css";
-@import "base/typography";
-@import "base/states";
+@import "/base/normalize.css";
+@import "_sass/base/typography.css";
+@import "_sass/base/states.css";
 
 /* Layout */
-@import "layout/grid/css/grid12";
+@import "_sass/layout/grid/css/grid12.css";
 
 
 /* Components */
-@import "components/buttons";
-@import "components/forms";
-@import "components/images";
-@import "components/lists";
-@import "components/menus";
-@import "components/tables";
-@import "components/code";
+@import "_sass/components/buttons.css";
+@import "_sass/components/forms.css";
+@import "_sass/components/images.css";
+@import "_sass/components/lists.css";
+@import "_sass/components/menus.css";
+@import "_sass/components/tables.css";
+@import "_sass/components/code.css";
 
 /* Theme*/
-@import "theme/code";
-@import "theme/breakpoints";
+@import "_sass/theme/code.css";
+@import "_sass/theme/breakpoints.css";
