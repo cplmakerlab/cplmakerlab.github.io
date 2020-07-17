@@ -1,4 +1,4 @@
 ---
-title: Design
+title: Design Thinking
 ---
 
