@@ -17,4 +17,12 @@
     right:auto;
     width:auto;
   }
+
+  ul.menu li {
+    display:inline;
+  }
+  ul.menu ul {
+    display:hide;
+  }
+  
 }
