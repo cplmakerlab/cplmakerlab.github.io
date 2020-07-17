@@ -8,7 +8,7 @@
     float:left;
   } 
 
-  ul.menu.hide, ul.menu {
+  nav, nav.hide, {
     display:block;
     position:relative;
   }
