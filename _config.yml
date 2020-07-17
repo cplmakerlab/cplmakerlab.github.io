@@ -44,10 +44,14 @@ exclude:
   - README.md
   - LICENCE
 
+# Collections are like custom content types.
 collections:
   guides:
     output: true
     permalink: /guide/:path/
+  topics:    
+    output: true
+    permalink: /topic/:path/
 
 
 defaults:
