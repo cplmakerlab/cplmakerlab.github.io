@@ -24,6 +24,7 @@
   vertical-align:middle;
   border-top:solid 3px transparent;
   border-bottom:solid 3px transparent;
+  border-left:solid 3px transparent;
   line-height:50px; /* this plus borders = 56px*/
   /* border-right:solid 1px #333;*/  
   text-align:center;
