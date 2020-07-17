@@ -3,17 +3,23 @@
 - name: Learn
   link: /learn/
   subnav:
-    - name:
-      link: 
+    - name: How-To Guides
+      link: guides
+    - name: Workshops
+      link: workshops
+    - name: Jobs & Career Training
+      link: continuing-education
 - name: Make
   link: /make/
   subnav:
-    - name:
-      link:
+    - name: Software
+      link: software
+    - name: Materials
+      link: materials
+    - name: Equipment
+      link: equipment
 - name: Community
   link: /community/
   subnav:
     - name:
       link:
-
-      

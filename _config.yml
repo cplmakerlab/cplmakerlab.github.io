@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Base
+title: Chicago Public Library Maker Lab
 url: "https://orange-ape.cloudvent.net/"
 baseurl:
 google_analytics_key:
@@ -9,11 +9,11 @@ disqus_shortname:
 newsletter_action:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /siteicon.png
-description: Chicago Public Library Maker Lab Knowledgebase
+logo: /assets/images/logo.png
+description: Chicago Public Library Maker Lab
 author:
-  name:
-  email:
+  name: CPL Maker Lab
+  email: makerspace@chipublib.org
   twitter: # twitter username without the @ symbol
 social:
   name: Base Template
@@ -34,15 +34,24 @@ plugins:
 #  - jekyll-extract-element
 #  - jekyll-archives
 
+# This plugin is not on github :-/
+# jekyll-archives:
+#  enabled: ['categories']
+
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
   - LICENCE
 
+# Collections are like custom content types.
 collections:
-- tools
-- software
+  guides:
+    output: true
+    permalink: /guide/:path/
+  topics:    
+    output: true
+    permalink: /topic/:path/
 
 
 defaults:
@@ -78,8 +87,25 @@ social_icons:
   - YouTube
   - Email
   - RSS
+  
+type:
+  - document
+  - how-to
+  - video
 
-
-_comments:
-
-
+  
+_options:
+  content:
+    format: p h1 h2 h3 h4 h5 h6
+    bold: true
+    italic: true
+    removeformat: true
+    link: true
+    image: true
+    blockquote: true
+    numberedlist: true
+    bulletedlist: true
+    code: true
+    table: true
+    right: align-to-right
+    embed: true
