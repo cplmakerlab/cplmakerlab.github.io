@@ -1,9 +1,6 @@
 ---
 title: How to trace an image in Inkscape
-categories:
-  - Software
-tags:
-  - Inkscape
+topics:
 ---
 
 # How to Trace an Image in Inkscape
