@@ -94,6 +94,11 @@ header a {
 }
 .search-form {
 }
+.search-form input:before {
+  float:left;
+  content:"\f002"; /* search icon */
+  font-family:FontAwesome;
+}
 .search-form input {
   border:none;
   border-bottom:solid 5px #666;
@@ -101,6 +106,7 @@ header a {
   border-radius:0;
   font-size:3.0rem;
   padding:3.0rem;
+  padding-left:5rem;
   width:100%;
   background-color:#FDFDFD;
   font-family:Inconsolata, mono;
