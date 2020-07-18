@@ -95,7 +95,7 @@ header a {
 .search-form {
   position:absolute;
   vertical-align:middle;
-  background:#fdfdfd;
+  background:#ccc;
   border-bottom:solid #ddd 1px;
   text-align:center;
   top:0;
@@ -105,7 +105,7 @@ header a {
 }
 .search-form input {
   border:none;
-  border-bottom:solid 3px #666;
+  border-bottom:dotted 3px #666;
   color:#333;
   border-radius:0;
 }
