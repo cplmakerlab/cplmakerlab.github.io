@@ -95,13 +95,12 @@ header a {
 .search-form {
 }
 .search-form input {
-  text-align:center;
   border:none;
   border-bottom:solid 5px #666;
   color:#666;
   border-radius:0;
-  font-size:4.0rem;
-  padding:2.0rem;
+  font-size:3.0rem;
+  padding:3.0rem;
   width:100%;
   background-color:#FDFDFD;
   font-family:Inconsolata, mono;
