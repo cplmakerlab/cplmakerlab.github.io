@@ -71,7 +71,7 @@ header a {
 header {
   background:url(../../../assets/images/3D-Printers-at-Chicago-Public-Library.jpg) center center no-repeat fixed;
   background-size:cover;  
-  height:20rem;
+  min-height:20rem;
 }
 #logo-site-name {
   /*color:#000;*/
@@ -92,7 +92,7 @@ header {
 }
 .logo img {
   vertical-align:middle;
-  padding:1rem;
+  padding:2rem;
 }
 #site-name a {
   color:#FFF;
