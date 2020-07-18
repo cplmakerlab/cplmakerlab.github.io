@@ -94,10 +94,9 @@ header a {
 }
 .search-form {
   position:absolute;
-  padding:50px;
   vertical-align:middle;
-  background:#FFF;
-  font-size:3.5rem;
+  background:#fdfdfd;
+  border-bottom:solid #ddd 1px;
   text-align:center;
   top:0;
   bottom:0;
