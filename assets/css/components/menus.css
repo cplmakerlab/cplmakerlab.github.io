@@ -60,6 +60,16 @@
   padding:10px 20px;
   z-index:101;
   cursor:pointer;
+  color:#222;
+}
+
+.mobile-menu-toggle.close,
+.mobile-search-toggle.close {
+  float:none;
+  text-align:right;
+  background-color:#ddd;
+  border-bottom:solid 1px #ccc;
+  color:#666;
 }
 
 ul.menu.hide {
@@ -79,17 +89,4 @@ nav {
 }
 nav.hide {
   display:none;
-}
-
-a.mobile-menu-toggle, 
-a.mobile-search-toggle {
-  color:#222;
-}
-a.mobile-menu-toggle.close,
-a.mobile-search-toggle.close {
-  float:none;
-  text-align:right;
-  background-color:#ddd;
-  border-bottom:solid 1px #ccc;
-  color:#666;
 }
