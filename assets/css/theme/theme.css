@@ -105,8 +105,8 @@ header a {
 }
 .search-form input {
   border:none;
-  border-bottom:solid 3px #333;
-  color:#666;
+  border-bottom:solid 3px #666;
+  color:#333;
 }
 .search-form.hide {
   display:none;  
