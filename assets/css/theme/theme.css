@@ -95,6 +95,7 @@ header a {
 .search-form {
   position:absolute;
   padding:50px;
+  vertical-align:middle;
   background:#FFF;
   font-size:3.5rem;
   text-align:center;
@@ -107,6 +108,7 @@ header a {
   border:none;
   border-bottom:solid 3px #666;
   color:#333;
+  border-radius:0;
 }
 .search-form.hide {
   display:none;  
