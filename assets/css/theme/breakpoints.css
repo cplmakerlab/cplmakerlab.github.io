@@ -5,7 +5,7 @@
     width:90%;
   }
   #logo-site-name {
-    float:left;
+    /*float:left;*/
   } 
 
   nav, 
@@ -23,6 +23,7 @@
   }
   .menu li a {
     display:inline-block;
+    font-weight:normal
   }
   .menu ul {
     display:none;
