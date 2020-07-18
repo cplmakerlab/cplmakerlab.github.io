@@ -97,7 +97,7 @@ header a {
 }
 .search-form input {
   border:none;
-  border-bottom:solid 3px #666;
+  border-bottom:solid 5px #666;
   color:#333;
   border-radius:0;
   font-size:2.0rem;
