@@ -45,9 +45,10 @@
         {% include search.html %}     	          
         
         <header id="header">       
-          <a class="mobile-menu-toggle no-user-select visible-xs"><i class="fa fa-bars"><span class="element-invisible">Menu</span></i></a> 
-          <a class="mobile-search-toggle no-user-select visible-xs"><i class="fa fa-search"><span class="element-invisible">Search</span></i></a> 
-          
+          <div class="mobile-menu-icons visible-xs">
+            <a class="mobile-menu-toggle no-user-select"><i class="fa fa-bars"><span class="element-invisible">Menu</span></i></a> 
+            <a class="mobile-search-toggle no-user-select"><i class="fa fa-search"><span class="element-invisible">Search</span></i></a> 
+          </div>
           {% include navigation.html %} 	
           <section id="logo-site-name">
 			      <div class="logo"><a href="{{ site.baseurl }}/"><img alt="logo" title="Logo" src="{{ site.baseurl }}/assets/images/logo.png" /></a></div>
