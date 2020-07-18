@@ -109,7 +109,7 @@ header a {
   border-radius:0;
   font-size:3.0rem;
   padding:3.0rem;
-  padding-left:5rem;
+  margin-left:5rem;
   width:100%;
   background-color:#FDFDFD;
   font-family:Inconsolata, mono;
