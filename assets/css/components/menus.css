@@ -52,7 +52,8 @@
   color:#222;
 }
 
-.mobile-menu-toggle {
+.mobile-menu-toggle,
+.mobile-search-toggle {
   display:block;
   float:right;
   font-size:2.2rem;
@@ -60,6 +61,7 @@
   z-index:101;
   cursor:pointer;
 }
+
 ul.menu.hide {
   display:none;
 }
@@ -82,7 +84,6 @@ nav.hide {
 a.mobile-menu-toggle, 
 a.mobile-search-toggle {
   color:#222;
-  float:right;
 }
 a.mobile-menu-toggle.close,
 a.mobile-search-toggle.close {
