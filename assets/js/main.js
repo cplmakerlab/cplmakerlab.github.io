@@ -12,5 +12,16 @@ jQuery(function() {
       }
     });
     
+    // Mobile Search Toggle
+    $('body').on('click', '.mobile-search-toggle', function(){
+      var search = $('.search-form');
+      if($(search[0]).hasClass('hide')) {
+        $(search[0]).removeClass('hide');
+      }
+      else {
+        $(search[0]).addClass('hide');
+      }
+    });
+    
 });
 
