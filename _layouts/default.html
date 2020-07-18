@@ -45,11 +45,10 @@
         
         <header id="header">       
           <a class="mobile-menu-toggle no-user-select visible-xs"><i class="fa fa-bars"><span class="element-invisible">Menu</span></i></a> 
+          {% include navigation.html %} 	
           <section id="logo-site-name">
-			<div class="logo"><a href="{{ site.baseurl }}/"><img alt="logo" title="Logo" src="{{ site.baseurl }}/assets/images/logo.png" /></a></div>
+			      <div class="logo"><a href="{{ site.baseurl }}/"><img alt="logo" title="Logo" src="{{ site.baseurl }}/assets/images/logo.png" /></a></div>
           </section>
-          {% include search.html %}               
-          {% include navigation.html %} 				
         </header>
         
 		<section id="container">
