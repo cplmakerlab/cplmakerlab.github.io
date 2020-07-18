@@ -95,10 +95,8 @@ header a {
 .search-form {
   position:relative;
 }
-.search-form input:before {
-  position:absolute;
-  left:0;
-  width:40px;
+.search-form input::before {
+  float:left;
   content:"\f002"; /* search icon */
   font-family:FontAwesome;
 }
@@ -108,8 +106,7 @@ header a {
   color:#666;
   border-radius:0;
   font-size:3.0rem;
-  padding:3.0rem;
-  margin-left:5rem;
+  padding:3.0rem 5rem;
   width:100%;
   background-color:#FDFDFD;
   font-family:Inconsolata, mono;
