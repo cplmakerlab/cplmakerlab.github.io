@@ -103,7 +103,7 @@ header a {
   border-bottom:solid 3px #666;
   background-color:#fdfdfd;
   color:#333;
-  border-radius:10px;
+  border-radius:0;
 }
 .search-form.hide {
   display:none;  
