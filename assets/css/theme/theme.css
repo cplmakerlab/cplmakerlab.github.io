@@ -98,12 +98,12 @@ header a {
   text-align:center;
   border:none;
   border-bottom:solid 5px #666;
-  color:#FF5722;
+  color:#666;
   border-radius:0;
   font-size:2.0rem;
-  padding:2.0rem;
+  padding:3.0rem;
   width:100%;
-  background-color:#EEE;
+  background-color:#FDFDFD;
 }
 .search-form input::placeholder {
   color:#CCC;
