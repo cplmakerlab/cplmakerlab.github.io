@@ -104,6 +104,7 @@ header a {
   padding:3.0rem;
   width:100%;
   background-color:#FDFDFD;
+  font-family:Inconsolata, mono;
 }
 .search-form input::placeholder {
   color:#CCC;
@@ -112,7 +113,7 @@ header a {
 .search-form input:focus {
   border:none;
   border-bottom:solid 5px #666;
-  background:#EEE;
+  background:#CFD8DC;
 }
 .search-form input:focus::placeholder {
   display:none;
