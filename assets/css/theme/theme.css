@@ -115,7 +115,6 @@ header a {
   font-family:Inconsolata, mono;
 }
 .search-form input::placeholder {
-  color:#CCC;
   font-style:italic;
 }
 .search-form input:focus {
