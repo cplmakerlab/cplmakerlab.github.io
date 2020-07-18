@@ -63,9 +63,12 @@
   color:#222;
 }
 
+.mobile-menu-icons {
+  float:right;
+}
+
 .mobile-menu-toggle.close,
 .mobile-search-toggle.close {
-  float:none;
   text-align:right;
   background-color:#ddd;
   border-bottom:solid 1px #ccc;
