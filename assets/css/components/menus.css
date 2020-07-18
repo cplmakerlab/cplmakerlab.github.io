@@ -75,6 +75,7 @@
 
 
 .mobile-search-toggle.close {
+  float:right;
   text-align:left;
   color:#666;
 }
