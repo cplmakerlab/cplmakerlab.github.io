@@ -68,6 +68,10 @@ header {
 header a {
   /*color:#cfd2da;*/
 }
+header {
+  background:url(assets/images/background/3D-Printers-at-Chicago-Public-Library.jpg) center center no-repeat fixed;
+  background-size:cover;  
+}
 #logo-site-name {
   /*color:#000;*/
   margin-right:2rem;
