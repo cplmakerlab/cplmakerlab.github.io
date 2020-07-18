@@ -94,18 +94,14 @@ header a {
 }
 .search-form {
   position:absolute;
-  vertical-align:middle;
   background:#ccc;
   border-bottom:solid #ddd 1px;
   text-align:center;
   top:0;
-  bottom:0;
-  left:0;
-  right:0;
 }
 .search-form input {
   border:none;
-  border-bottom:dotted 3px #666;
+  border-bottom:solid 3px #666;
   color:#333;
   border-radius:0;
 }
