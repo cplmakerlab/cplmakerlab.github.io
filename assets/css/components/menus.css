@@ -92,6 +92,7 @@ nav {
   width:300px;
   height:auto;
   background:#eee;
+  z-index:101;
 }
 nav.hide {
   display:none;
