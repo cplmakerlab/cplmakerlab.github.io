@@ -81,7 +81,8 @@ nav.hide {
 
 a.mobile-menu-toggle, 
 a.mobile-search-toggle {
-  color:#222; 
+  color:#222;
+  float:right;
 }
 a.mobile-menu-toggle.close,
 a.mobile-search-toggle.close {
