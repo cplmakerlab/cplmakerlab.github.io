@@ -93,9 +93,12 @@ header a {
   color:#FFF;
 }
 .search-form {
+  position:relative;
 }
 .search-form input:before {
-  float:left;
+  position:absolute;
+  left:0;
+  width:40px;
   content:"\f002"; /* search icon */
   font-family:FontAwesome;
 }
