@@ -116,7 +116,8 @@ header a {
 
 footer {
   text-align:center;
-  background-color:#666;
+  border-top:solid 5px #666;
+  padding:50px;
 }
 ul.footer-links {
   list-style:none;
