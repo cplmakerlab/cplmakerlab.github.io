@@ -23,10 +23,17 @@
   }
   .menu li a {
     display:inline-block;
-    font-weight:normal
+    font-weight:normal;
+    border:none;
+    border-bottom:solid 3px transparent;
+    
   }
   .menu ul {
     display:none;
   }
+  
+  
+  
+  
   
 }
