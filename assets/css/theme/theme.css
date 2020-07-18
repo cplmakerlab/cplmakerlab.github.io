@@ -93,15 +93,12 @@ header a {
   color:#FFF;
 }
 .search-form {
-  position:absolute;
-  background:#ccc;
-  border-bottom:solid #ddd 1px;
-  text-align:center;
-  top:0;
+  background-color:#ddd;
+  border-bottom:solid 1px #333;
 }
 .search-form input {
   border:none;
-  border-bottom:solid 3px #666;
+  border-bottom:dotted 3px #666;
   color:#333;
   border-radius:0;
 }
