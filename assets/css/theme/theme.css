@@ -95,6 +95,7 @@ header a {
 .search-form {
 }
 .search-form input {
+  text-align:center;
   border:none;
   border-bottom:solid 5px #666;
   color:#FF5722;
@@ -104,10 +105,17 @@ header a {
   width:100%;
   background-color:#EEE;
 }
+.search-form input::placeholder {
+  color:#CCC;
+  font-style:italic;
+}
 .search-form input:focus {
   border:none;
   border-bottom:solid 5px #666;
   background:#EEE;
+}
+.search-form input:focus::placeholder {
+  display:none;
 }
 .search-form.hide {
   display:none;  
