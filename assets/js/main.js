@@ -17,6 +17,7 @@ jQuery(function() {
       var search = $('.search-form');
       if($(search[0]).hasClass('hide')) {
         $(search[0]).removeClass('hide');
+        $('.search-form input').focus();
       }
       else {
         $(search[0]).addClass('hide');
