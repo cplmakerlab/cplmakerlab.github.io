@@ -91,7 +91,6 @@ nav {
   bottom:0;
   width:300px;
   height:auto;
-  border-bottom:solid 1px #fdfdfd;
   background:#eee;
 }
 nav.hide {
