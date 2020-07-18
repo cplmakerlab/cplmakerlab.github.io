@@ -25,7 +25,7 @@
     display:inline-block;
   }
   .menu ul {
-    display:hide;
+    display:none;
   }
   
 }
