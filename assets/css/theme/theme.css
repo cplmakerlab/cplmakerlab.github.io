@@ -95,13 +95,18 @@ header a {
 .search-form {
   position:absolute;
   padding:50px;
-  background:rgba(255,255,255,.9);
+  background:#FFF;
   font-size:3.5rem;
   text-align:center;
   top:0;
   bottom:0;
   left:0;
   right:0;
+}
+.search-form input {
+  border:none;
+  border-bottom:solid 3px #333;
+  color:#666;
 }
 .search-form.hide {
   display:none;  
