@@ -84,12 +84,13 @@ header {
   display:inline-block;
   line-height:56px; /* This is affected by top & bottom border widths*/
 }
-#logo {
+.logo {
   display:inline-block;
 }
-#logo a {
+.logo a {
 }
-#logo img {
+.logo img {
+  height:100px;
   vertical-align:middle;
 }
 #site-name a {
