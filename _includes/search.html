@@ -1,4 +1,6 @@
+
 <form class="search-form hide" action="{{ site.baseurl }}/search/" method="get">
+  <a class="mobile-search-toggle close no-user-select visible-xs"><i class="fa fa-close"><span class="element-invisible">Close search</span></i></a> 
 	<input type="search" name="q" {% if include.add_id %}id="search-input"{% endif %} placeholder="Search..." autofocus>
 	<input type="submit" value="Search" style="display: none;">
 </form>
