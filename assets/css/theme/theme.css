@@ -18,7 +18,7 @@ html {
 html, #container, .inner {
   position: relative;
   min-height: 100%;  
-  background-color:#222;
+  /*background-color:#222;*/
 }
 #container {
   margin:0 auto;
@@ -27,29 +27,20 @@ html, #container, .inner {
   overflow:auto;
 }
 a {
-  color:#DDD;
+  color:#2d63af;
 }
 #content {
   padding:20px;
   margin:0 auto;
-  background:rgba(0,0,0,.5);
-  color:#FFF;
+  /*background:rgba(0,0,0,.5);*/
   margin:0 auto;
 }
 
 #content a {
-  border-bottom:dotted 1px #DDD;
+  border-bottom:solid 1px #949494;
 }
 
-#content h1.title a {
-  border:none;
-  color:#FFF;
-}
-#content .tracklist a,
-#content .pt-play-all {
-  border-bottom:none;
-  color:#fff;
-}
+
 
 /* Uncomment for full scale background style */
 /*
@@ -65,17 +56,25 @@ html {
  * Header
  */
 header {
+  /*
   background:#16191e;
   color:#FFF;
-  position:sticky;
+  */
+  /*position:sticky;
   top:0px;
   z-index:10;
+  */
 }
 header a {
-  color:#cfd2da;
+  /*color:#cfd2da;*/
+}
+header {
+  background:url(../../../assets/images/header-bg.jpg) #333 center center no-repeat fixed;
+  background-size:cover;  
+  min-height:20rem;
 }
 #logo-site-name {
-  color:#000;
+  /*color:#000;*/
   margin-right:2rem;
 }
 #site-name {
@@ -86,113 +85,63 @@ header a {
   display:inline-block;
   line-height:56px; /* This is affected by top & bottom border widths*/
 }
-#logo {
+.logo {
   display:inline-block;
 }
-#logo a {
+.logo a {
 }
-#logo img {
-  height:56px;
+.logo img {
   vertical-align:middle;
+  padding:2rem;
 }
 #site-name a {
   color:#FFF;
 }
-
-/**
- * Release
- */
-.artwork {
-  clear:both;
-  border:solid #5F5F5F 1px;
+.search-form {
   position:relative;
-  width:100%;
-  margin-bottom:1em;
 }
-.artwork img {
-  padding:0;
-  margin:0;
-  display:block;
-  width:100%;
+.search-form input::before {
+  float:left;
+  content:"\f002"; /* search icon */
+  font-family:FontAwesome;
 }
-.tracklist {
-  /*
-  margin-left:2em;
-  list-style-type:decimal-leading-zero;
-  */
-  margin-bottom:2em;
+.search-form input {
+  border:none;
+  border-bottom:solid 5px #666;
+  color:#666;
+  border-radius:0;
+  font-size:3.0rem;
+  padding:3.0rem 5rem;
+  width:100%;
+  background-color:#FDFDFD;
+  font-family:Inconsolata, mono;
+}
+.search-form input::placeholder {
+  font-style:italic;
+}
+.search-form input:focus {
+  border:none;
+  border-bottom:solid 5px #666;
+  background:#CFD8DC;
+}
+.search-form input:focus::placeholder {
+  display:none;
+}
+.search-form.hide {
+  display:none;  
 }
 
-/**
- * Footer
- */
 footer {
-  color:#000;
-  position:fixed;
-  bottom:0;
-  left:0;
-  right:0;
+  text-align:center;
+  border-top:solid 5px #666;
+  padding:50px;
 }
-.footer-text,
-.pt-controls {
-  padding:1rem;
-  font-size:1.2rem;
-  line-height:1.2rem;
-  background-color:rgba(0,0,0,.9);
-  /*border-top:solid 1px #444;*/
-}
-.footer-text {
-  font-size:1.2rem;
-  padding:.75rem;
-  background-color:#000;
-  color:#999;
-  border-top:solid 1px #222;
-}
-.pt-controls {
-  width:100%;
-  font-size:1.5rem;
-  line-height:2.5rem;
-  padding:1rem 2rem;
-}
-
-/**
- * Releases page
- */
-ul.release-list {
+ul.footer-links {
   list-style:none;
   margin:0;
   padding:0;
 }
-ul.release-list li {
-  display:inline;
-}
-ul.release-list .release-title {
-  display:inline-block;
-}
-ul.release-list .artwork {
-  float:none;
-}
-#content .release {
-  overflow:auto;
-  border:none;
-  padding-bottom:20px;
-  margin-bottom:20px;
-  display:block;
-  vertical-align:middle;
-}
-.creator {
-  display:inline-block;
-  margin-left:1rem;
-  color:#888;
-  font-size:3rem;
-}
-.creator:before {
-  content:' by ';
-}
-.artist {
-  display:inline-block;
-  margin-left:1rem;
-  color:#888;
-  font-style:italic;
+ul.footer-links li {
+  display:inline;  
 }
 

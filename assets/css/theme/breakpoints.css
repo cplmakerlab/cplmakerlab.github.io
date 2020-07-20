@@ -5,25 +5,37 @@
     width:90%;
   }
   #logo-site-name {
-    float:left;
+    /*float:left;*/
   } 
-  .artwork {
-    float:right;
-    margin-left:4rem;
-    width:auto;
-    max-width:600px;
-  }
-  .release {
-    float:left;
-    margin:3rem;
-  }
-  .release-list li .artwork,
-  .release-list li h3 {
-    max-width:300px;
-    margin:0;
-    float:none;
-  }
-  ul.menu.hide {
+
+  nav, 
+  nav.hide {
     display:block;
+    position:relative;
+    top:auto;
+    bottom:auto;
+    right:auto;
+    width:auto;
+    text-align:right;
+    opacity:.9;
   }
+
+  .menu li {
+    display:inline;
+  }
+  .menu li a {
+    display:inline-block;
+    font-weight:normal;
+    border:none;
+    border-bottom:solid 3px transparent;
+    
+  }
+  .menu ul {
+    display:none;
+  }
+  
+  
+  
+  
+  
 }

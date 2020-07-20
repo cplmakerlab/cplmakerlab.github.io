@@ -21,7 +21,7 @@ social:
     - https://github.com/CloudCannon/base-jekyll-template
 
 # -----
-# Build
+# Build 
 
 timezone: Etc/UTC
 
@@ -49,10 +49,21 @@ collections:
   guides:
     output: true
     permalink: /guide/:path/
-  topics:    
-    output: true
-    permalink: /topic/:path/
 
+topics:
+  - 2D design
+  - 3D design
+  - 3D printing
+  - Coding
+  - Design thinking
+  - Digital security
+  - Electronic cutter
+  - Electronics
+  - Handcraft
+  - Lasercutting
+  - Milling
+  - Sewing
+  
 
 defaults:
   -
@@ -93,6 +104,8 @@ type:
   - how-to
   - video
 
+_source_editor:   
+  tab_size: 2
   
 _options:
   content:

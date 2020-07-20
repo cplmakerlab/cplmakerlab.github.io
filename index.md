@@ -5,13 +5,11 @@ title: Home
 
 ## Chicago Public Library Maker Lab
 
-![](/assets/images/3D-Printers-at-Chicago-Public-Library.jpg){: width="576" height="384"}
-
 The Maker Lab, Chicago’s first free and publicly accessible maker space, is on the 3rd floor of Harold Washington Library Center. The Maker Lab features introductory [workshops](http://chipublib.bibliocommons.com/events#/events/search/fq=program:&#40;53f20a07e04c1e3b1c00d3e4&#41;){: target="_blank"} and [open shop](https://chipublib.bibliocommons.com/events/search/q=%22Open%20Shop%22&amp;fq=program:&#40;53f20a07e04c1e3b1c00d3e4&#41;){: target="_blank"} for personal projects and collaboration. We encourage you to explore the full range of making, both high-tech and hands-on.
 
-## Events
+## Upcoming events
 
-[MakerLab Calendar](https://chipublib.bibliocommons.com/events/search/fq=program:&#40;53f20a07e04c1e3b1c00d3e4){: target="_blank"}
+***NEW\!*** Online workshops are now available. You must register for an online event in advance. [View the Maker Lab calendar](https://chipublib.bibliocommons.com/events/search/fq=program:&#40;53f20a07e04c1e3b1c00d3e4&#41;) for more details.
 
 ## Hours
 
