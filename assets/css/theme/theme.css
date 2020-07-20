@@ -116,7 +116,7 @@ header {
 }
 .search-form input:focus {
   border:none;
-  border-color:solid 1px #999;
+  border-bottom:dashed 1px #aaa;
 }
 
 .search-form.hide {
