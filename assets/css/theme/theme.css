@@ -100,12 +100,13 @@ header {
 .search-form {
   position:relative;
   background:#FDFDFD;
+  text-align:center;
 }
 .search-form input {
   border:none;
   border:solid 1px #666;
   color:#666;
-  border-radius:10px;
+  border-radius:2px;
   font-size:2.0rem;
   margin:2rem auto;
   width:90%;
