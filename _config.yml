@@ -49,10 +49,21 @@ collections:
   guides:
     output: true
     permalink: /guide/:path/
-  topics:    
-    output: true
-    permalink: /topic/:path/
 
+topics:
+  - 2D design
+  - 3D design
+  - 3D printing
+  - Coding
+  - Design thinking
+  - Digital security
+  - Electronic cutter
+  - Electronics
+  - Handcraft
+  - Lasercutting
+  - Milling
+  - Sewing
+  
 
 defaults:
   -
