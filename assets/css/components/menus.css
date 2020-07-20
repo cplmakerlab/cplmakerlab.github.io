@@ -61,6 +61,13 @@
   cursor:pointer;
   color:#222;
 }
+.mobile-menu-toggle:hover,
+.mobile-menu-toggle:active,
+.mobile-search-toggle:hover
+.mobile-search-toggle:active {
+  background-color:#ccc;
+  border-radius:50%;
+}
 
 .mobile-menu-icons {
   float:right;
