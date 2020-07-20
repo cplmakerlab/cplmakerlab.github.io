@@ -42,7 +42,10 @@
 
 	<body class="{{ page.body_class }}">
 	    <!-- div class="bc-widget bc-my-account-nav"></div -->
-        {% include search.html %}     	          
+        <form class="search-form hide" action="{{ site.baseurl }}/search/" method="get">
+        	<input type="search" name="q" {% if include.add_id %}id="search-input"{% endif %} placeholder="Search..." autofocus>
+        	<input type="submit" value="Search" style="display: none;">
+        </form>   	          
         
         <header id="header">       
           <div class="mobile-menu-icons visible-xs">
