@@ -22,7 +22,7 @@
     
        	<li><a href="{% include relative-src.html src=sublink.link %}" class="{{ subclass }}">{{ sublink.name }}</a>
   		    {% endfor %}
-  		  <li><a class="mobile-search-toggle no-user-select"><i class="fa fa-search"><span class="">Search</span></i></a></li>
+  		  <li><a class="mobile-search-toggle no-user-select"><i class="fa fa-search" aria-hidden="true"></i>><span class="">Search</span></a></li>
 		  </ul>
 		  {% endif %}
 		</li>
