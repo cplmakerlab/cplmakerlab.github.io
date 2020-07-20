@@ -12,17 +12,18 @@
 		{% endif %}
 		<li><a href="{% include relative-src.html src=link.link %}" class="{{ class }}">{{ link.name }}</a>
 		  {% if link.subnav.size > 0 %}
-    		  <ul>
-    		    {% for sublink in link.subnav}
-		        {% assign subclass = "" %}
+		  <ul>
+		    {% for sublink in link.subnav}
+        {% assign subclass = "" %}
 
-        		{% if sublink.link == page.url %}
-        			{% assign subclass = subclass | append: " active" %}
-        		{% endif %}
-		    
-		     	<li><a href="{% include relative-src.html src=sublink.link %}" class="{{ subclass }}">{{ sublink.name }}</a>
-    		    {% endfor %}
-    		  </ul>
+    		{% if sublink.link == page.url %}
+    			{% assign subclass = subclass | append: " active" %}
+    		{% endif %}
+    
+       	<li><a href="{% include relative-src.html src=sublink.link %}" class="{{ subclass }}">{{ sublink.name }}</a>
+  		    {% endfor %}
+  		  <li><a class="mobile-search-toggle no-user-select"><i class="fa fa-search"><span class="">Search</span></i></a></li>
+		  </ul>
 		  {% endif %}
 		</li>
 	{% endfor %}
