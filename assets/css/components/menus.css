@@ -59,7 +59,8 @@
   padding:10px 20px;
   z-index:101;
   cursor:pointer;
-  color:#666;
+  color:#FFF;
+  background:#666;
 }
 
 .mobile-menu-icons {
