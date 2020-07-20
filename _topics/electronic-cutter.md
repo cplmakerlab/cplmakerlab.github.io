@@ -1,4 +1,0 @@
----
-title: Electronic (Vinyl) Cutter
----
-
