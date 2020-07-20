@@ -116,12 +116,9 @@ header {
 }
 .search-form input:focus {
   border:none;
-  border-bottom:solid 5px #666;
-  background:#CFD8DC;
+  border-color:solid 1px #999;
 }
-.search-form input:focus::placeholder {
-  display:none;
-}
+
 .search-form.hide {
   display:none;  
 }
