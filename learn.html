@@ -4,6 +4,7 @@
 <section class="topics">
   {% assign groups = site.guides | group_by: "topics" | sort: "name" %}
   {% for group in groups %}
+    {{ group | json }}
 		{% assign name = group.title %}
 		{% assign guides = group.items %}
 		{% assign size = group.items | size %}
