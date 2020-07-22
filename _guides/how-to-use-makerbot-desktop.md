@@ -1,7 +1,7 @@
 ---
 title: How to use Makerbot Desktop
 topics:
-  - 3D Printing
+  - 3D printing
 ---
 
 # How to use Makerbot Desktop
