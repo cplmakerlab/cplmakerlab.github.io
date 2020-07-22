@@ -5,16 +5,17 @@
   {% assign topics = site.topics | sort: "name" %}
 
   {% for topic in topics %}
-
+   {% assign guides = site.guides | where:"topics",topic %}
+   {% if guides.size > 0 %}
 		<section class="category">
-			<h2>{{ topic }}</h2>
-      {% assign guides = site.guides | where:"topics",topic %}
+			<h2>{{ topic }} ({{guides.size}})</h2>
 			<ul>
 			  {% for guide in guides %}
 			    <li><a href="{{ guide.url }}">{{ guide.title }}</a></li>
 			  {% endfor %}
 			</ul>
 		</section>
+		{% endif %}
 	{% endfor %}
 	
 </section>
