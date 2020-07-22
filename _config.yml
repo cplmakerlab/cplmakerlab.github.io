@@ -47,12 +47,11 @@ exclude:
 # Collections are like custom content types.
 collections:
   pages:
-    _name: Pages
-    _singular_name: Page
+    output: true
+    permalink: /:path/
   guides:
     output: true
     permalink: /guide/:path/
-    _name: Guide
     _singular_name: Guide    
 
 topics:
