@@ -1,11 +1,11 @@
 ---
 title:
-categories: 
-equipment:
-software:
+topic:
+tags:
+type:
+steps:
 ---
 
-# How-To _________
 
 Enter a brief description of what you will be demonstrating. Include a picture or video showing the end result.
 
