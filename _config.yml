@@ -111,6 +111,9 @@ _explore:
       collections:
         - posts
         - drafts
+    - header: Site Settings
+      collections:
+        - data
 
 
 _source_editor:   
