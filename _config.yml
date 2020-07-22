@@ -72,6 +72,14 @@ defaults:
       path: ""
     values:
       layout: "default"
+    scope:
+      type: "pages"
+    values:
+      layout: "default"
+      _add_options:
+        - name: Add Page
+        icon: page
+        href: "cloudcannon::editor/:collections_dir/.:extension🆕"
   -
     scope:
       type: "posts"
