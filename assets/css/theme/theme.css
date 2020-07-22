@@ -99,34 +99,26 @@ header {
 }
 .search-form {
   position:relative;
-}
-.search-form input::before {
-  float:left;
-  content:"\f002"; /* search icon */
-  font-family:FontAwesome;
+  background:#FDFDFD;
+  text-align:center;
 }
 .search-form input {
   border:none;
-  border-bottom:solid 5px #666;
+  border:solid 1px #666;
   color:#666;
-  border-radius:0;
-  font-size:3.0rem;
-  padding:3.0rem 5rem;
-  width:100%;
-  background-color:#FDFDFD;
-  font-family:Inconsolata, mono;
+  border-radius:2px;
+  font-size:2.0rem;
+  margin:1rem auto;
+  width:90%;
 }
 .search-form input::placeholder {
   font-style:italic;
 }
 .search-form input:focus {
   border:none;
-  border-bottom:solid 5px #666;
-  background:#CFD8DC;
+  border-bottom:dotted 1px #ccc;
 }
-.search-form input:focus::placeholder {
-  display:none;
-}
+
 .search-form.hide {
   display:none;  
 }

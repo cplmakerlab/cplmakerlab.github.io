@@ -1,26 +1,21 @@
 ---
 ---
+test
+<section class="topics">
+  {% assign topics = site.topics | sort: "name" %}
 
-<section class="categories">
-	{% assign categories = site.categories | sort %}
-	{% for category in categories %}
-		{% assign name = category[0] %}
-		{% assign posts = category[1] %}
-		{% assign size = posts | size %}
+  {% for topic in topics %}
+   {% assign guides = site.guides | where:"topics",topic %}
+   {% if guides.size > 0 %}
 		<section class="category">
-				<h3>
-					<a href="{{ site.baseurl }}/category/{{ name | slugify }}/">{{ name | replace: "-", " " }}</a>
-				</h3>
-
+			<h3 name="{{topic}}">{{ topic }} ({{ guides.size }})</h3>
 			<ul>
-				{% assign tutorials = posts | sort: "title" %}
-				{% for tutorial in tutorials limit: 4 %}
-					<li><a href="{{ site.baseurl }}{{ tutorial.url }}">{% include document-icon.html icon=tutorial.type %}{{ tutorial.title }}</a></li>
-				{% endfor %}
-				{% if size > 4 %}
-					<li><a href="{{ site.baseurl }}/category/{{ name | slugify }}/">{{ size | minus: 4 }} more...</a></li>
-				{% endif %}
+			  {% for guide in guides %}
+			    <li><a href="{{ guide.url }}">{{ guide.title }}</a></li>
+			  {% endfor %}
 			</ul>
 		</section>
+		{% endif %}
 	{% endfor %}
+	
 </section>

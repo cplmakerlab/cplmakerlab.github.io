@@ -1,6 +1,5 @@
 ---
 date:
 title:
-categories:
 tags:
 ---

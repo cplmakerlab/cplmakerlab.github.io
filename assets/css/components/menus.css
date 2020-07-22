@@ -59,11 +59,18 @@
   padding:10px 20px;
   z-index:101;
   cursor:pointer;
-  color:#222;
+  color:#FFF;
+  background:#222;
+}
+
+nav .mobile-search-toggle {
+  background:transparent;
+  color:inherit;
 }
 
 .mobile-menu-icons {
   float:right;
+  margin:2rem 1rem;
 }
 
 .mobile-menu-toggle.close {

@@ -14,7 +14,7 @@ description: Chicago Public Library Maker Lab
 author:
   name: CPL Maker Lab
   email: makerspace@chipublib.org
-  twitter: # twitter username without the @ symbol
+  twitter: cplmakerlab
 social:
   name: Base Template
   links:
@@ -27,6 +27,7 @@ timezone: Etc/UTC
 
 permalink: /:categories/:title/
 
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
@@ -34,7 +35,7 @@ plugins:
 #  - jekyll-extract-element
 #  - jekyll-archives
 
-# This plugin is not on github :-/
+# This plugin is not availabl for Github Pages :-/
 # jekyll-archives:
 #  enabled: ['categories']
 
@@ -46,14 +47,18 @@ exclude:
 
 # Collections are like custom content types.
 collections:
+  pages:
+    output: true
+    permalink: /:path/
   guides:
     output: true
     permalink: /guide/:path/
+    _singular_name: Guide    
 
 topics:
   - 2D design
   - 3D design
-  - 3D printing
+  - 3D printing  
   - Coding
   - Design thinking
   - Digital security
@@ -77,16 +82,54 @@ defaults:
     values:
       layout: "default"
       comments: false
-  -
-    scope:
-      type: "sets"
-    values:
-      _hide_content: true
 
+type:
+  - document
+  - how-to
+  - video
 
 # -----------
 # CloudCannon
 
+
+# CloudCannon Explore UI Settings
+_explore:
+  groups:
+    - heading: Pages
+      collections:
+        - pages
+    - heading: How-To Guides
+      collections:
+        - guides        
+    - heading: Blogging
+      collections:
+        - posts
+        - drafts
+    - heading: Site Settings
+      collections:
+        - data
+
+# CloudCannon Source Editor
+_source_editor:   
+  tab_size: 2
+  
+# CloudCannon Content Editor 
+_options:
+  content:
+    format: p h2 h3 h4
+    bold: true
+    italic: true
+    link: true    
+    image: true
+    removeformat: true
+    blockquote: true
+    numberedlist: true
+    bulletedlist: true
+    code: true
+    table: true
+    embed: true
+    
+# Footer Icons
 social_icons:
   - Facebook
   - Google Plus
@@ -98,26 +141,3 @@ social_icons:
   - YouTube
   - Email
   - RSS
-  
-type:
-  - document
-  - how-to
-  - video
-
-_source_editor:   
-  tab_size: 2
-  
-_options:
-  content:
-    format: p h1 h2 h3 h4 h5 h6
-    bold: true
-    italic: true
-    removeformat: true
-    link: true
-    image: true
-    blockquote: true
-    numberedlist: true
-    bulletedlist: true
-    code: true
-    table: true
-    embed: true
