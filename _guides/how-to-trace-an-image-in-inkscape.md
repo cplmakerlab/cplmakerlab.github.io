@@ -6,6 +6,8 @@ topics:
   - Milling
 type:
   - how-to
+gallery:
+
 ---
 
 # How to Trace an Image in Inkscape
