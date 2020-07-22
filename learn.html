@@ -1,21 +1,40 @@
 ---
-layout: sidebar
+layout: default
 ---
-<section class="topics">
-  {% assign topics = site.topics | sort: "name" %}
 
-  {% for topic in topics %}
-   {% assign guides = site.guides | where:"topics",topic %}
-   {% if guides.size > 0 %}
-		<section class="category">
-			<h5 name="{{topic}}">{{ topic }} ({{ guides.size }})</h5>
-			<ul>
-			  {% for guide in guides %}
-			    <li><a href="{{ guide.url }}">{{ guide.title }}</a></li>
-			  {% endfor %}
-			</ul>
-		</section>
-		{% endif %}
-	{% endfor %}
-	
+{% assign topics = site.topics | sort: "name" %}
+
+<section class="row topics">
+  <div class="col-sm-2">
+
+    <div class="content-nav">
+      <h3>Content</h3>
+      <ul>
+      {% for topic in topics %}
+       {% assign guides = site.guides | where:"topics",topic %}
+       {% if guides.size > 0 %}
+    			<li><a href="#{{ topic }}">{{ topic }}</a></li>
+    		{% endif %}
+    	{% endfor %}
+  	  </ul>
+  	</div>
+    
+  </div>
+  <div class="col-sm-10">
+    
+    {% for topic in topics %}
+     {% assign guides = site.guides | where:"topics",topic %}
+     {% if guides.size > 0 %}
+  		<section class="category">
+  			<h4>{{ topic }}<a name="{{topic}}"></a></h4>
+  			<ul>
+  			  {% for guide in guides %}
+  			    <li><a href="{{ guide.url }}">{{ guide.title }}</a></li>
+  			  {% endfor %}
+  			</ul>
+  		</section>
+  		{% endif %}
+  	{% endfor %}    
+    
+  </div>
 </section>
