@@ -101,34 +101,8 @@ type:
 # -----------
 # CloudCannon
 
-social_icons:
-  - Facebook
-  - Google Plus
-  - Instagram
-  - LinkedIn
-  - Pinterest
-  - Tumblr
-  - Twitter
-  - YouTube
-  - Email
-  - RSS
 
-_array_structures:
-  gallery:
-    style: select
-    values:
-      - label: Image
-        image: /path/to/source-image.png
-        value:
-          image: /placeholder.png
-          caption:
-      - label: External link
-        icon: link
-        value:
-          url:
-          title:
-
-
+# CloudCannon Explore UI Settings
 _explore:
   groups:
     - heading: Pages
@@ -145,11 +119,11 @@ _explore:
       collections:
         - data
 
-# For the code editor
+# CloudCannon Source Editor
 _source_editor:   
   tab_size: 2
   
-# Sets options for the content editor  
+# CloudCannon Content Editor 
 _options:
   content:
     format: p h2 h3 h4
@@ -164,3 +138,32 @@ _options:
     code: true
     table: true
     embed: true
+    
+# Set default array structures when adding new content
+_array_structures:
+  gallery:
+    style: select
+    values:
+      - label: Image
+        image: /path/to/source-image.png
+        value:
+          image: /placeholder.png
+          caption:
+      - label: External link
+        icon: link
+        value:
+          url:
+          title:
+          
+# Footer Icons
+social_icons:
+  - Facebook
+  - Google Plus
+  - Instagram
+  - LinkedIn
+  - Pinterest
+  - Tumblr
+  - Twitter
+  - YouTube
+  - Email
+  - RSS
