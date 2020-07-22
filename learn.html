@@ -6,6 +6,7 @@
 
   {% for topic in topics %}
    {% assign guides = site.guides | where:"topics",topic %}
+   {{ guides.size }}
    {% if guides.size > 0 %}
 		<section class="category">
 			<h2>{{ topic }} ({{guides.size}})</h2>
