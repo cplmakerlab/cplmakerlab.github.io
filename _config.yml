@@ -86,12 +86,6 @@ defaults:
     values:
       layout: "default"
       comments: false
-  -
-    scope:
-      type: "pages"
-    values:
-      layout: "default"
-      _singular_name: Pages
   - 
     scope:
       type: "data"
