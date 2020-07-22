@@ -1,13 +1,15 @@
 ---
 title: How to trace an image in Inkscape
 topics:
-  - 2D Design
   - Lasercutting
   - Milling
 type:
   - how-to
 gallery:
-
+  - image: /assets/images/header-bg.jpg
+    caption: Here's an image...
+  - image: /assets/images/logo.png
+    caption: Another one
 ---
 
 # How to Trace an Image in Inkscape
