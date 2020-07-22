@@ -48,6 +48,7 @@ exclude:
 collections:
   guides:
     output: true
+    _singular_name: How-To Guide
     permalink: /guide/:path/
 
 topics:
@@ -98,12 +99,43 @@ social_icons:
   - Email
   - RSS
 
+_array_structures:
+  gallery:
+    style: select
+    values:
+      - label: Image
+        image: /path/to/source-image.png
+        value:
+          image: /placeholder.png
+          caption:
+      - label: External link
+        icon: link
+        value:
+          url:
+          title:
 
 
+_explore:
+  groups:
+    - heading: Pages
+      collections:
+        - pages
+    - heading: How-To Guides
+      collections:
+        - guides        
+    - heading: Blogging
+      collections:
+        - posts
+        - drafts
+    - heading: Site Settings
+      collections:
+        - data
 
+# For the code editor
 _source_editor:   
   tab_size: 2
   
+# Sets options for the content editor  
 _options:
   content:
     format: p h2 h3 h4
