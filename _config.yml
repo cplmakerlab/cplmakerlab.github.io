@@ -14,7 +14,7 @@ description: Chicago Public Library Maker Lab
 author:
   name: CPL Maker Lab
   email: makerspace@chipublib.org
-  twitter: # twitter username without the @ symbol
+  twitter: cplmakerlab
 social:
   name: Base Template
   links:
@@ -128,9 +128,9 @@ _options:
     format: p h2 h3 h4
     bold: true
     italic: true
-    removeformat: true
-    link: true
+    link: true    
     image: true
+    removeformat: true
     blockquote: true
     numberedlist: true
     bulletedlist: true
@@ -138,22 +138,6 @@ _options:
     table: true
     embed: true
     
-# Set default array structures when adding new content
-_array_structures:
-  gallery:
-    style: select
-    values:
-      - label: Image
-        image: /path/to/source-image.png
-        value:
-          image: /placeholder.png
-          caption:
-      - label: External link
-        icon: link
-        value:
-          url:
-          title:
-          
 # Footer Icons
 social_icons:
   - Facebook
