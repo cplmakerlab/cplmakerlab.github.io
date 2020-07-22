@@ -1,9 +1,6 @@
 ---
 title:
-topic:
-tags:
-type:
-steps:
+topics:
 ---
 
 
