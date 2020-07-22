@@ -47,6 +47,7 @@ exclude:
 # Collections are like custom content types.
 collections:
   guides:
+    _singular_name: How-To Guide
     output: true
     permalink: /guide/:path/
 
