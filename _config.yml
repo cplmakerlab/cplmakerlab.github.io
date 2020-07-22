@@ -48,7 +48,6 @@ exclude:
 collections:
   guides:
     output: true
-    _singular_name: How-To Guide
     permalink: /guide/:path/
 
 topics:
