@@ -8,11 +8,11 @@
 
 		<section class="category">
 			<h2>{{ topic }}</h2>
-      {{% assign guides = site.guides | where:"topics",topic %}}
+      {% assign guides = site.guides | where:"topics",topic %}
 			<ul>
 			  {% for guide in guides %}
 			    <li><a href="{{ guide.url }}">{{ guide.title }}</a></li>
-			  {{% endfor %}}
+			  {% endfor %}
 			</ul>
 		</section>
 	{% endfor %}
