@@ -78,6 +78,10 @@ defaults:
       layout: "default"
       comments: false
 
+type:
+  - document
+  - how-to
+  - video
 
 # -----------
 # CloudCannon
@@ -93,11 +97,6 @@ social_icons:
   - YouTube
   - Email
   - RSS
-  
-type:
-  - document
-  - how-to
-  - video
 
 _explore:
   groups:
@@ -111,7 +110,7 @@ _explore:
       collections:
         - posts
         - drafts
-    - header: Site Settings
+    - header: Settings
       collections:
         - data
 
@@ -121,7 +120,7 @@ _source_editor:
   
 _options:
   content:
-    format: p h1 h2 h3 h4 h5 h6
+    format: p h2 h3 h4
     bold: true
     italic: true
     removeformat: true
