@@ -46,10 +46,14 @@ exclude:
 
 # Collections are like custom content types.
 collections:
+  pages:
+    _name: Pages
+    _singular_name: Page
   guides:
     output: true
-    _singular_name: How-To Guide
     permalink: /guide/:path/
+    _name: Guide
+    _singular_name: Guide    
 
 topics:
   - 2D design
@@ -78,6 +82,17 @@ defaults:
     values:
       layout: "default"
       comments: false
+  -
+    scope:
+      type: "pages"
+    values:
+      layout: "default"
+      _singular_name: Pages
+  - 
+    scope:
+      type: "data"
+    values:
+      _
 
 type:
   - document
