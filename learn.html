@@ -1,6 +1,6 @@
 ---
+layout:sidebar
 ---
-test
 <section class="topics">
   {% assign topics = site.topics | sort: "name" %}
 
@@ -8,7 +8,7 @@ test
    {% assign guides = site.guides | where:"topics",topic %}
    {% if guides.size > 0 %}
 		<section class="category">
-			<h3 name="{{topic}}">{{ topic }} ({{ guides.size }})</h3>
+			<h5 name="{{topic}}">{{ topic }} ({{ guides.size }})</h5>
 			<ul>
 			  {% for guide in guides %}
 			    <li><a href="{{ guide.url }}">{{ guide.title }}</a></li>
