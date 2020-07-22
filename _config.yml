@@ -76,21 +76,12 @@ defaults:
       path: ""
     values:
       layout: "default"
-    scope:
-      type: "pages"
-    values:
-      layout: "default"
   -
     scope:
       type: "posts"
     values:
       layout: "default"
       comments: false
-  - 
-    scope:
-      type: "data"
-    values:
-      _
 
 type:
   - document
