@@ -2,19 +2,17 @@
 ---
 
 <section class="topics">
-  {% assign groups = site.guides | group_by: "topic" | sort: "name" %}
-  {% for group in groups %}
-    {{ group | json }}
-		{% assign name = group.title %}
-		{% assign guides = group.items %}
-		{% assign size = group.items | size %}
-		<section class="category">
-			<h2>{{ name }} ({{ size }})</h2>
+  {% assign topics = site.topics | sort: "name" %}
 
+  {% for topic in topics %}
+
+		<section class="category">
+			<h2>{{ topic }}</h2>
+      {{% assign guides = site.guides | where:"topics",topic %}}
 			<ul>
-        {% for guide in guides %}
-          <li><a href="{{guide.url}}">{{guide.title}}</a></li>
-        {% endfor %}
+			  {% for guide in guides %}
+			    <li><a href="{{ guide.url }}">{{ guide.title }}</a></li>
+			  {{% endfor %}}
 			</ul>
 		</section>
 	{% endfor %}
