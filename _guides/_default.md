@@ -1,6 +1,6 @@
 ---
 title:
-topics:
+topic:
 ---
 
 
