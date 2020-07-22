@@ -78,8 +78,8 @@ defaults:
       layout: "default"
       _add_options:
         - name: Add Page
-        icon: page
-        href: "cloudcannon::editor/:collections_dir/.:extension🆕"
+          icon: page
+          href: "cloudcannon::editor/:collections_dir/.:extension🆕"
   -
     scope:
       type: "posts"
