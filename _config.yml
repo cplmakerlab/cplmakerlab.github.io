@@ -34,7 +34,7 @@ plugins:
 #  - jekyll-extract-element
 #  - jekyll-archives
 
-# This plugin is not on github :-/
+# This plugin is not availabl for Github Pages :-/
 # jekyll-archives:
 #  enabled: ['categories']
 
@@ -53,7 +53,7 @@ collections:
 topics:
   - 2D design
   - 3D design
-  - 3D printing
+  - 3D printing  
   - Coding
   - Design thinking
   - Digital security
@@ -77,11 +77,6 @@ defaults:
     values:
       layout: "default"
       comments: false
-  -
-    scope:
-      type: "sets"
-    values:
-      _hide_content: true
 
 
 # -----------
