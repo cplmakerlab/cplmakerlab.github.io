@@ -1,6 +1,6 @@
 ---
 title: Digital Security 101
-topic: Digital security
+topics: Digital security
 tags:
 type:
 steps:
