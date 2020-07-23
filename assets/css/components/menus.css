@@ -104,3 +104,26 @@ nav {
 nav.hide {
   display:none;
 }
+
+/* jump-nav */
+.jump-nav {
+  border-left:solid 5px #ddd;
+}
+
+.jump-nav h3 {
+  text-transform:uppercase;
+  color:#666;
+  font-size:14rem;
+}
+.jump-nav ul {
+  list-style:none;
+  margin:0;
+  padding:0;
+}
+.jump-nav li a {
+  color:#888;
+  display:block;
+}
+.jump-nav li a:hover {
+  color:#333;
+}
