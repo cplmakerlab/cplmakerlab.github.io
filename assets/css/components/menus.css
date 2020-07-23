@@ -109,6 +109,7 @@ nav.hide {
 .jump-nav {
   border-left:solid 5px #eee;
   padding:1rem;
+  background-color:#efefef;
 }
 
 .jump-nav h3 {
