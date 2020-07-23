@@ -3,8 +3,6 @@ layout: default
 title: Community
 ---
 
-# Community
-
 We've loosely categorized some local spaces. Please check their websites for more information. You can also visit [www.makersinchicago.org](makersinchicago.org){: target="_blank"} to preview several calendars at once.
 
 ## For Young Makers&nbsp;
