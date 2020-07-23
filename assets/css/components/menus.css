@@ -104,3 +104,34 @@ nav {
 nav.hide {
   display:none;
 }
+
+/* jump-nav */
+.jump-nav {
+  border-left:solid 5px #eee;
+  padding:1rem;
+  background-color:#efefef;
+}
+
+.jump-nav h3 {
+  text-transform:uppercase;
+  color:#222;
+  font-size:1.4rem;
+  letter-spacing:2px;
+}
+.jump-nav ul {
+  list-style:none;
+  margin:0;
+  padding:0;
+  margin-left:1rem;
+}
+
+#content .jump-nav li a {
+  color:#888;
+  font-size:1.2rem;
+  display:block;
+  border:none;
+  text-transform:uppercase;
+}
+.jump-nav li a:hover {
+  color:#333;
+}

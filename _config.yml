@@ -60,7 +60,7 @@ topics:
   - 3D design
   - 3D printing  
   - Coding
-  - Design thinking
+  - Design 
   - Digital security
   - Electronic cutter
   - Electronics
@@ -91,6 +91,7 @@ type:
 # -----------
 # CloudCannon
 
+uploads_dir: "uploads/:categories/:year/:month/:day/:title"
 
 # CloudCannon Explore UI Settings
 _explore:
