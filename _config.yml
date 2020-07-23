@@ -91,6 +91,7 @@ type:
 # -----------
 # CloudCannon
 
+uploads_dir: "uploads/:categories/:year/:month/:day/:title"
 
 # CloudCannon Explore UI Settings
 _explore:
