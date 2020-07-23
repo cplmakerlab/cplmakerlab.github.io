@@ -3,8 +3,6 @@ layout: default
 title: Make
 ---
 
-# Make
-
 * Design&nbsp;
 
 * Inspiration, Design strategy&nbsp;
