@@ -108,7 +108,7 @@ nav.hide {
 /* jump-nav */
 .jump-nav {
   border-left:solid 5px #eee;
-  padding:20px;
+  padding:1rem;
 }
 
 .jump-nav h3 {
@@ -120,6 +120,7 @@ nav.hide {
   list-style:none;
   margin:0;
   padding:0;
+  margin-left:1rem;
 }
 
 #content .jump-nav li a {
