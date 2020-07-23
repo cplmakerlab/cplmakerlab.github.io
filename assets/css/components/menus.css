@@ -113,8 +113,9 @@ nav.hide {
 
 .jump-nav h3 {
   text-transform:uppercase;
-  color:#666;
-  font-size:1rem;
+  color:#333;
+  font-size:1.6rem;
+  letter-spacing:2px;
 }
 .jump-nav ul {
   list-style:none;
@@ -125,6 +126,7 @@ nav.hide {
 
 #content .jump-nav li a {
   color:#888;
+  font-size:1.2rem;
   display:block;
   border:none;
   text-transform:uppercase;
