@@ -5,7 +5,7 @@ layout: default
 {% assign topics = site.topics | sort: "name" %}
 
 <section class="row topics">
-  <div class="col-sm-2">
+  <div class="col-sm-4">
 
     <div class="jump-nav">
       <h3>Content</h3>
@@ -20,7 +20,7 @@ layout: default
   	</div>
     
   </div>
-  <div class="col-sm-10">
+  <div class="col-sm-8">
     
     {% for topic in topics %}
      {% assign guides = site.guides | where:"topics",topic %}
