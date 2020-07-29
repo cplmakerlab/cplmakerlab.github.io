@@ -10,16 +10,18 @@
 
   nav, 
   nav.hide {
-    display:inline-block;
+    display:block;
     position:relative;
     top:auto;
     bottom:auto;
-    right:auto;
-    width:auto;
-    text-align:right;
+    right:0;
+    width:100%;
     overflow-x:visible;
   }
-
+  .menu {
+    margin-left:auto;
+    margin-right:0;
+  }
   .menu li {
     color: #fff;
     display: block;
