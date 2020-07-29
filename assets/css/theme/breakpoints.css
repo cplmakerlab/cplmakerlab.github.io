@@ -10,14 +10,13 @@
 
   nav, 
   nav.hide {
-    display:block;
-    position:relative;
+    display:inline-block;
+    position:static;
     top:auto;
     bottom:auto;
     right:auto;
     width:auto;
     text-align:right;
-    opacity:.9;
   }
 
   .menu li {
