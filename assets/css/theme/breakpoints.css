@@ -21,21 +21,53 @@
   }
 
   .menu li {
-    display:inline;
+    color: #fff;
+    background: darkorange;
+    display: block;
+    float: left;
+    padding: 1rem;
+    position: relative;
+    text-decoration: none;
+    transition-duration: 0.5s;
   }
   .menu li a {
-    display:inline-block;
-    font-weight:normal;
-    border:none;
-    border-bottom:solid 3px transparent;
+    color:#fff;
+  }
+  .menu li:hover,
+  .menu li:focus-within {
+  	background: red;
+  	cursor: pointer;
+  }
+  
+  .menu li:focus-within a {
+    outline: none;
+  }
+  
+  .menu li ul {
+  	background: orange;
+  	visibility: hidden;
+    opacity: 0;
+    min-width: 5rem;
+  	position: absolute;
+    transition: all 0.5s ease;
+    margin-top: 1rem;
+  	left: 0;
+    display: none;
+  }
+  
+  .menu li:hover > ul,
+  .menu li:focus-within > ul,
+  .menu li ul:hover,
+  .menu li ul:focus {
+     visibility: visible;
+     opacity: 1;
+     display: block;
+  }
+  
+  .menu li ul li {
+  	clear: both;
+    width: 100%;
+  }
     
-  }
-  .menu ul {
-    display:none;
-  }
-  
-  
-  
-  
   
 }
