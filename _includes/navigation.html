@@ -1,18 +1,24 @@
 
 
-<nav class="slide hide">
+<nav class="slide hide" role="navigation">
   <a class="mobile-menu-toggle close no-user-select visible-xs"><i class="fa fa-close"><span class="element-invisible">Menu</span></i></a> 
 	<a class="editor-link btn" href="cloudcannon:collections/_data/navigation.yml" class="btn" style="padding: 5px;"><strong>&#9998;</strong> Edit navigation</a>
 	<ul id="main-menu" class="menu side-scroll">
   	{% for link in site.data.navigation %}
     	{% assign class = "" %}
+    	{% assign aria = "" %}
   
   		{% if link.link == page.url %}
   			{% assign class = class | append: " active" %}
   		{% endif %}
-  		<li><a href="{% include relative-src.html src=link.link %}" class="{{ class }}">{{ link.name }}</a>
+  		
+      {% if link.subnav.size > 0 %}
+        {% assign aria = aria | append: "true" %}
+      {% endif %}
+  		
+  		<li><a href="{% include relative-src.html src=link.link %}" aria-haspopup="{{ aria }}" class="{{ class }}">{{ link.name }}</a>
   		  {% if link.subnav.size > 0 %}
-  		  <ul>
+  		  <ul class="dropdown" aria-label="submenu">
   		    {% for sublink in link.subnav}
           {% assign subclass = "" %}
   
