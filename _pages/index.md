@@ -19,4 +19,3 @@ The Maker Lab is currently closed until further notice.
 * [makerspace@chipublib.org](mailto:makerspace@chipublib.org)
 * [Harold Washington Library, 400 S State St 3rd floor, Chicago, IL 60605](https://www.google.com/maps/place/Maker+Lab/@41.8762718,-87.6284723,19.22z/data=!4m5!3m4!1s0x880e2d2424036683:0x85347e60c55165c!8m2!3d41.8762378!4d-87.6281586)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d635.4442524156807!2d-87.62847231371407!3d41.87627176290428!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2d2424036683%3A0x85347e60c55165c!2sMaker%20Lab!5e0!3m2!1sen!2sus!4v1594350984981!5m2!1sen!2sus" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0" width="600" height="450" frameborder="0"></iframe>
