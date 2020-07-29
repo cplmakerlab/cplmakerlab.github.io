@@ -11,26 +11,25 @@
   nav, 
   nav.hide {
     display:inline-block;
-    position:static;
+    position:relative;
     top:auto;
     bottom:auto;
     right:auto;
     width:auto;
     text-align:right;
+    overflow-x:visible;
   }
 
   .menu li {
     color: #fff;
-    background: darkorange;
     display: block;
     float: left;
-    padding: 1rem;
     position: relative;
     text-decoration: none;
     transition-duration: 0.5s;
   }
   .menu li a {
-    color:#fff;
+
   }
   .menu li:hover,
   .menu li:focus-within {
@@ -62,11 +61,12 @@
      opacity: 1;
      display: block;
   }
-  
+  /*
   .menu li ul li {
   	clear: both;
     width: 100%;
   }
+  */
     
   
 }
