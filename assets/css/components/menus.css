@@ -100,8 +100,11 @@ nav {
   height:auto;
   background:#eee;
   z-index:101;
+  visibility:visible;
+  transition: all .5s ease;  
 }
 nav.hide {
+  visibility:hidden;
   display:none;
 }
 
