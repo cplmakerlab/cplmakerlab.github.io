@@ -60,6 +60,9 @@
     line-height:normal;
     background:transparent;
   }
+  .menu li li a {
+    display:block;
+  }
 
   .menu li:hover > ul,
   .menu li:focus-within > ul,
