@@ -60,6 +60,9 @@
     line-height:normal;
     background:transparent;
   }
+  .menu li li {
+    display:block;
+  }
   .menu li li a,
   .menu li li a  {
     display:block;
