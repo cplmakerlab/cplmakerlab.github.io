@@ -37,7 +37,8 @@
     border:none;
     border-bottom:solid 3px transparent;
   }
-  .menu li a:hover {
+  .menu li:hover a,
+  .menu li:focus-within a {
     background:#ccc;
   }  
   .menu ul {
