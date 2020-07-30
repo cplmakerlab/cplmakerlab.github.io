@@ -14,61 +14,28 @@
     position:relative;
     top:auto;
     bottom:auto;
-    right:0;
-    width:100%;
-    overflow-x:visible;
+    right:auto;
+    width:auto;
+    text-align:right;
+    opacity:.9;
   }
-  .menu {
-    margin-left:auto;
-    margin-right:0;
-  }
+
   .menu li {
-    color: #fff;
-    display: block;
-    float: left;
-    position: relative;
-    text-decoration: none;
-    transition-duration: 0.5s;
+    display:inline;
   }
   .menu li a {
-
-  }
-  .menu li:hover,
-  .menu li:focus-within {
-  	background: red;
-  	cursor: pointer;
-  }
-  
-  .menu li:focus-within a {
-    outline: none;
-  }
-  
-  .menu li ul {
-  	background: orange;
-  	visibility: hidden;
-    opacity: 0;
-    min-width: 5rem;
-  	position: absolute;
-    transition: all 0.5s ease;
-    margin-top: 1rem;
-  	left: 0;
-    display: none;
-  }
-  
-  .menu li:hover > ul,
-  .menu li:focus-within > ul,
-  .menu li ul:hover,
-  .menu li ul:focus {
-     visibility: visible;
-     opacity: 1;
-     display: block;
-  }
-  /*
-  .menu li ul li {
-  	clear: both;
-    width: 100%;
-  }
-  */
+    display:inline-block;
+    font-weight:normal;
+    border:none;
+    border-bottom:solid 3px transparent;
     
+  }
+  .menu ul {
+    display:none;
+  }
+  
+  
+  
+  
   
 }
