@@ -56,6 +56,9 @@
     padding:0 2rem;
     line-height:normal;
   }
+  .menu li li a:hover {
+    background:#ccc;
+  }  
   .menu li:hover > ul,
   .menu li:focus-within > ul,
   .menu li ul:hover,
