@@ -52,6 +52,7 @@
     background:#ccc;
   }
   .menu li li a {
+    padding:0 2rem;
     line-height:normal;
   }
   .menu li:hover > ul,
