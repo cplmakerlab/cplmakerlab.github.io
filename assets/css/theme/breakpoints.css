@@ -19,12 +19,12 @@
     background:rgba(255,255,255,1);
     overflow-y:visible;
     visibility:visible;
-    opacity:.9;
   }
   .menu {
     white-space:normal;
     overflow-y:visible;
     overflow-x:visible;
+    right:0;
   }
   .menu li {
     display:inline-block;
