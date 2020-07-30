@@ -16,7 +16,7 @@
     bottom:auto;
     right:auto;
     width:auto;
-    background:rgba(255,255,255,.9);
+    background:rgba(255,255,255,1);
     overflow-y:visible;
 
   }
@@ -45,9 +45,13 @@
     margin:0;
   	left: 0;
     display: none;  
-    background:rgba(255,255,255,.9);
+    background:#ccc;
   }
-
+  .menu li a,
+  .menu li li a {
+    padding:0;
+    line-height:normal;
+  }
   .menu li:hover > ul,
   .menu li:focus-within > ul,
   .menu li ul:hover,
