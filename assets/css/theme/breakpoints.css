@@ -37,6 +37,8 @@
     font-weight:normal;
     border:none;
     border-bottom:solid 3px transparent;
+    transition-duration: 0.5s;
+    
   }
   .menu li:hover a,
   .menu li:focus-within a {
@@ -51,6 +53,8 @@
   	left: 0;
     display: none;  
     background:#fff;
+    border-radius:5px;
+    border:solid 1px #ededed;
   }
   .menu li:hover li,
   .menu li:focus-within li {
