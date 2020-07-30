@@ -16,9 +16,8 @@
     bottom:auto;
     right:auto;
     width:auto;
-    text-align:right;
     background:rgba(255,255,255,.9);
-        overflow-y:visible;
+    overflow-y:visible;
 
   }
   .menu {
@@ -26,12 +25,13 @@
     overflow-y:visible;
     overflow-x:visible;
   }
-  .menu > li {
+  .menu li {
     display:inline-block;
     position:relative;
     overflow-y:visible;
+    margin-bottom:0;
   }
-  .menu > li a {
+  .menu li a {
     display:inline-block;
     font-weight:normal;
     border:none;
