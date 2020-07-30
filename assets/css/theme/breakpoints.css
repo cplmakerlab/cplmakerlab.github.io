@@ -18,6 +18,8 @@
     width:auto;
     text-align:right;
     background:rgba(255,255,255,.9);
+        overflow-y:visible;
+
   }
   .menu {
     white-space:normal;
