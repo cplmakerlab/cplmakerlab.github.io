@@ -33,6 +33,7 @@
   }
   .menu li a {
     display:inline-block;
+    min-width:1.5rem;
     font-weight:normal;
     border:none;
     border-bottom:solid 3px transparent;
