@@ -38,10 +38,7 @@
     border:none;
     border-bottom:solid 3px transparent;
   }
-  .menu li:hover a,
-  .menu li:focus-within a {
-    background:#ccc;
-  }  
+
   .menu ul {
     visibility:hidden;
     position:absolute;
@@ -58,7 +55,6 @@
     margin:0;
     padding:0;
     line-height:normal;
-    background:#fff;
   }
   .menu li li a {
     display:block;
@@ -66,7 +62,6 @@
     padding:0 2rem;
   }
   .menu li li a:hover {
-    background:#ccc;
   }  
 
   .menu li:hover > ul,
