@@ -8,7 +8,7 @@ jQuery(function() {
         $(nav[0]).removeClass('out').addClass('in').removeClass('hide');
       }
       else {
-        $(nav[0]).removeClass('in').addClass('out').addClass('hide');
+        $(nav[0]).removeClass('in').addClass('hide');
       }
     });
     
