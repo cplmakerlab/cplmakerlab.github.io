@@ -13,7 +13,7 @@ jQuery(function() {
       }
     });
     
-    
+    // Close menu if menu is open and user clicks elsewhere
     function closeMenu(e){
       if(e.target.id != 'nav'){
          document.body.removeEventListener('click', closeMenu, false);
