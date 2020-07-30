@@ -58,11 +58,16 @@
     margin:0;
     padding:0;
     line-height:normal;
-    background:transparent;
+    background:#fff;
   }
   .menu li li a {
     display:block;
+    line-height:normal;
+    padding:0 2rem;
   }
+  .menu li li a:hover {
+    background:#ccc;
+  }  
 
   .menu li:hover > ul,
   .menu li:focus-within > ul,
