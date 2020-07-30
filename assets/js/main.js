@@ -15,7 +15,7 @@ jQuery(function() {
     
     
     function closeMenu(e){
-      if(e.target.id != 'main-nav'){
+      if(e.target.id != 'nav'){
          document.body.removeEventListener('click', closeMenu, false);
         $('nav').removeClass('in').addClass('hide');
       }
