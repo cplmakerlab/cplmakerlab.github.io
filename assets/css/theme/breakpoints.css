@@ -54,12 +54,17 @@
   }
   .menu li:hover li a,
   .menu li:focus-within li a {
-    display:block;
+    display:inline-block;
     margin:0;
-    padding:0 2rem;
+    padding:0;
     line-height:normal;
     background:transparent;
   }
+  .menu li li a,
+  .menu li li a  {
+    display:block;
+  }
+
   .menu li:hover > ul,
   .menu li:focus-within > ul,
   .menu li ul:hover,
