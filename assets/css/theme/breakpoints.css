@@ -19,10 +19,14 @@
     text-align:right;
     background:rgba(255,255,255,.9);
   }
-
+  .menu {
+    white-space:normal;
+    overflow-y:visible;
+  }
   .menu li {
     display:inline-block;
     position:relative;
+    overflow-y:visible;
   }
   .menu li a {
     display:inline-block;
