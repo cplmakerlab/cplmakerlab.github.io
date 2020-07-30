@@ -47,9 +47,8 @@
     display: none;  
     background:#ccc;
   }
-  .menu li a,
   .menu li li a {
-    padding:0;
+    padding:5px;
     line-height:normal;
   }
   .menu li:hover > ul,
