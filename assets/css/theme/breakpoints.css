@@ -53,7 +53,7 @@
   	left: 0;
     display: none;  
     background:#fff;
-    border-radius:5px;
+    border-radius:0 0 5px 5px;
     border:solid 1px #ededed;
   }
   .menu li:hover li,
@@ -67,7 +67,7 @@
   .menu li:focus-within li a {
     display:block;
     line-height:normal;
-    padding:0 2rem;
+    padding:10px 2rem;
     background:#fff;
   }
   .menu li:hover li a:hover,
