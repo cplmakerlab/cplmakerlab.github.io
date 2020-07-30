@@ -55,6 +55,7 @@
   .menu li li a {
     padding:0 2rem;
     line-height:normal;
+    border-bottom:solid 1px #ededed;
   }
   .menu li li a:hover {
     background:#ccc;
