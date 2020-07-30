@@ -50,7 +50,7 @@
     margin:0;
   	left: 0;
     display: none;  
-    background:#ccc;
+    background:#fff;
   }
   .menu li li a {
     padding:0 2rem;
@@ -65,8 +65,5 @@
     display: block;
   }
 
-  
-  
-  
-  
+
 }
