@@ -38,7 +38,10 @@
     border:none;
     border-bottom:solid 3px transparent;
   }
-
+  .menu li:hover a,
+  .menu li:focus-within a {
+    background:#ccc;
+  }  
   .menu ul {
     visibility:hidden;
     position:absolute;
@@ -56,13 +59,17 @@
     padding:0;
     line-height:normal;
   }
-  .menu li li a {
+  .menu li:hover li a,
+  .menu li:focus-within li a {
     display:block;
     line-height:normal;
     padding:0 2rem;
+    background:#fff;
   }
-  .menu li li a:hover {
-  }  
+  .menu li:hover li a:hover,
+  .menu li:focus-within li a:focus-within {
+    background:#ccc;
+  } 
 
   .menu li:hover > ul,
   .menu li:focus-within > ul,
