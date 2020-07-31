@@ -20,14 +20,15 @@
   		  {%- if link.subnav.size > 0 -%}
   		  <ul class="dropdown" aria-label="submenu">
   		    {%- for sublink in link.subnav -%}
-          {%- assign subclass = "" -%}
-  
-      		{%- if sublink.link == page.url -%}
-      			{%- assign subclass = subclass | append: " active" -%}
-      		{%- endif -%}
-      
-         	<li><a href="{%- include relative-src.html src=sublink.link -%}" class="{{- subclass -}}">{{- sublink.name -}}</a>
-    		    {%- endfor -%}
+            {%- assign subclass = "" -%}
+    
+        		{%- if sublink.link == page.url -%}
+        			{%- assign subclass = subclass | append: " active" -%}
+        		{%- endif -%}
+            {%- if sublink.name > 0 -%}
+           	  <li><a href="{%- include relative-src.html src=sublink.link -%}" class="{{- subclass -}}">{{- sublink.name -}}</a>
+           	{%- endif  -%}
+    		  {%- endfor -%}
   		  </ul>
   		  {%- endif -%}
   		</li>
