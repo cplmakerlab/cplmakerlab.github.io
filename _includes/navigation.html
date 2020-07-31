@@ -17,7 +17,7 @@
       {%- endif -%}
       
   		<li><a href="{%- include relative-src.html src=link.link -%}" aria-haspopup="{{- aria -}}" class="{{- class -}}">{{- link.name -}}</a>
-  		  {% if link.subnav.size > 0 %}
+  		  {%- if link.subnav.size > 0 -%}
   		  <ul class="dropdown" aria-label="submenu">
   		    {%- for sublink in link.subnav -%}
           {%- assign subclass = "" -%}
