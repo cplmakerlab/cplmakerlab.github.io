@@ -1,16 +1,16 @@
 - name: Home
   link: /
 - name: Learn
-  link: /learn/
+  link: learn
   subnav:
     - name: How-To Guides
-      link: guides
+      link: learn
     - name: Workshops
       link: workshops
     - name: Jobs & Career Training
       link: continuing-education
 - name: Make
-  link: /make/
+  link: /make
   subnav:
     - name: Software
       link: software
@@ -19,7 +19,9 @@
     - name: Equipment
       link: equipment
 - name: Community
-  link: /community/
+  link: community
   subnav:
-    - name:
+    - name: Local organizations
       link:
+    - name: Stories
+      link: stories
