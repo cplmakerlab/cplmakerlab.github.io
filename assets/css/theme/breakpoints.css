@@ -10,7 +10,7 @@
 
   nav, 
   nav.hide {
-    display:block;
+    display:flex;
     position:static;
     top:auto;
     bottom:auto;
@@ -24,7 +24,7 @@
     white-space:normal;
     overflow-y:visible;
     overflow-x:visible;
-    float:right;
+    justify-content: flex-end;
   }
   .menu li {
     display:inline-block;
