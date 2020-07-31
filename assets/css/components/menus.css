@@ -102,6 +102,7 @@ nav {
   z-index:101;
   visibility:visible;
   transition: all .5s ease;  
+  overflow-y:scroll;
 }
 nav.hide {
   visibility:hidden;
