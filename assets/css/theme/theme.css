@@ -110,7 +110,7 @@ header {
   font-size:2.0rem;
   margin:1rem auto; 
   width:90%;
-  background-color:#eee;
+  background-color:#fdfdfd;
 }
 .search-form input::placeholder {
   font-style:italic;
