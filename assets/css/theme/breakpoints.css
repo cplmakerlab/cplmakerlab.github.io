@@ -24,7 +24,7 @@
     white-space:normal;
     overflow-y:visible;
     overflow-x:visible;
-    right:0;
+    float:right;
   }
   .menu li {
     display:inline-block;
