@@ -12,12 +12,12 @@
 - name: Make
   link: /make
   subnav:
+    - name: Equipment
+      link: equipment
     - name: Software
       link: software
     - name: Materials
       link: materials
-    - name: Equipment
-      link: equipment
 - name: Community
   link: community
   subnav:
