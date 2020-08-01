@@ -109,10 +109,12 @@ nav.hide {
   display:none;
 }
 
-/* jump-nav */
+/* Jump-nav for /learn */
+/* colors: https://www.materialui.co/colors */
 .jump-nav {
-  border-left:solid 5px #ddd;
-  background-color:#efefef;
+  border-top:solid 5px #1E88E5;
+  background-color:#B0BEC5;
+  padding:15px;
 }
 
 .jump-nav h3 {
