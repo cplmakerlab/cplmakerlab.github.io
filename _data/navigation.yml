@@ -21,7 +21,7 @@
 - name: Community
   link: community
   subnav:
-    - name: Local organizations
-      link:
+    - name: Organizations
+      link: organizations
     - name: Stories
       link: stories
