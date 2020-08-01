@@ -1,6 +1,6 @@
 ---
 title: Community
-header_image: /uploads/2020/07/31/community/community-1.jpg
+header_image: /uploads/2020/08/01/community/community.jpg
 ---
 
 We've loosely categorized some local spaces. Please check their websites for more information. You can also visit [www.makersinchicago.org](makersinchicago.org){: target="_blank"} to preview several calendars at once.
