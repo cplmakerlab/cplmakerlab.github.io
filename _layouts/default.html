@@ -48,6 +48,7 @@
     {% assign header_image = site.data.images.header_image %}    
 
     {% if page.header_image %}
+      {% assign header_image = page.header_image %}
     {% endif %} 
     <header id="header" style="background-image:url({{ header_image }})">       
       <div class="mobile-menu-icons visible-xs">
