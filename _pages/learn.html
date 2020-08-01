@@ -4,7 +4,7 @@ header_image: uploads/coding.jpg
 ---
 
 {% assign topics = site.topics | sort: "name" %}
-
+{ topics | json }
 <section class="row topics">
   <div class="col-sm-4">
 
