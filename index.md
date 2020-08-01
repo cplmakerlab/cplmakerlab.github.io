@@ -10,7 +10,7 @@ The Maker Lab, Chicago’s first free and publicly accessible maker space, is on
 
 ## Hours
 
-The Maker Lab is currently closed until further notice.
+Due to the COVID-19 pandemic, the Maker Lab is currently closed until further notice.
 
 ## Contact Us
 
