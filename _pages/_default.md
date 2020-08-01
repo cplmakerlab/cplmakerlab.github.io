@@ -1,4 +1,5 @@
 ---
 title:
+header_image:
 ---
 
