@@ -50,6 +50,7 @@ collections:
   pages:
     output: true
     permalink: /:path
+    _singular_name: Page   
   guides:
     output: true
     permalink: /guide/:path/
@@ -64,9 +65,9 @@ topics:
   - Digital security
   - Electronic cutter
   - Electronics
-  - Handcraft
+  - Crafts
   - Lasercutting
-  - Milling
+  - CNC Milling
   - Sewing
   
 
@@ -126,6 +127,7 @@ _options:
     blockquote: true
     numberedlist: true
     bulletedlist: true
+    horizontalrule: true
     code: true
     table: true
     embed: true
