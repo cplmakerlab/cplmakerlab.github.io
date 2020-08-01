@@ -4,12 +4,14 @@ header_image: /uploads/2020/07/31/make/header-bg6.jpg
 ---
 
 ## 2D Design
-Inkscape
-GIMP (gimp.org)
-Krita (krita.org)
-Paint.NET (getpaint.net) 
+
+- Inkscape
+- GIMP (gimp.org)
+- Krita (krita.org)
+- Paint.NET (getpaint.net) 
 
 ## 3D Design
+
 - Blender (blender.org) 
 - Fusion 360 (autodesk.com/fusion360)
 - Meshmixer (meshmixer.com)
