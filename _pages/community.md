@@ -5,6 +5,8 @@ header_image: /uploads/2020/08/01/community/community.jpg
 
 We've loosely categorized some local spaces. Please check their websites for more information. You can also visit [www.makersinchicago.org](makersinchicago.org){: target="_blank"} to preview several calendars at once.
 
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSBzcmM9Imh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vbWFwcy9kL3UvMS9lbWJlZD9taWQ9MWZlTUpzdzRVSEFYQWxTQkt0VHRKUUdtbzZRaTN2ZkU5IiB3aWR0aD0iNjQwIiBoZWlnaHQ9IjQ4MCI+PC9pZnJhbWU+"><iframe src="https://www.google.com/maps/d/u/1/embed?mid=1feMJsw4UHAXAlSBKtTtJQGmo6Qi3vfE9" width="640" height="480"></iframe></div>
+
 ## For Young Makers&nbsp;
 
 * [The Fab Lab at the Museum of Science & Industry](http://www.msichicago.org/whats-here/fab-lab/)\: 5700 S. Lake Shore Drive, Chicago, IL 60637Part of the MIT network of Fab Labs, which are all over the world\! The Fab Lab [evolved from the Center for Bits and Atoms](http://fab.cba.mit.edu/), and from a class called "How to Make (almost) Anything."
