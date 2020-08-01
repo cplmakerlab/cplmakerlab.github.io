@@ -1,5 +1,5 @@
 ---
-header_image:
+header_image: /uploads/2020/07/31/community/community.jpg
 title: Community
 ---
 
