@@ -70,7 +70,7 @@ header a {
 }
 header {
   /*background:url(../../../assets/images/header-bg.jpg) #333 left center no-repeat fixed;*/
-  background:url(../../../assets/images/header-bg.jpg) #333 no-repeat;
+  background:url(../../../assets/images/header-bg.jpg) #333 no-repeat left center scroll;
   background-size:cover;  
   min-height:20rem;
 }
