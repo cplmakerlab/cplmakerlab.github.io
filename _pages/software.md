@@ -19,7 +19,7 @@ header_image: /uploads/2020/07/31/make/header-bg6.jpg
 * [Meshmixer](meshmixer.com){: target="_blank" rel="noopener"} (3D mesh editor)
 * [Meshroom](https://alicevision.org/#meshroom){: target="_blank" rel="noopener"} (3D scanning)
 * [ReconstructMe](reconstructme.net){: target="_blank" rel="noopener"} (3D scanning)
-* [Skanect](skanect.occipital.com) (3D Scanning)
+* [Skanect](skanect.occipital.com){: target="_blank" rel="noopener"} (3D Scanning)
 
 ## **Equipment Software **
 
@@ -29,9 +29,11 @@ header_image: /uploads/2020/07/31/make/header-bg6.jpg
 * [Easel](easel.inventables.com){: target="_blank" rel="noopener"} (CNC Milling)
 * [Inkstitch](inkstitch.org){: target="_blank" rel="noopener"} (Embroidery)
 
-## Accepted File Formats
+## File Formats
 
 * **3D Printing:** .STL (StereoLithography), .OBJ (Object)
 * **Laser Cutting:** .SVG (Scalable Vector Graphics), .PDF (Portable Document Format)
 * **CNC Milling:** .SVG
 * **Electronic Cutter:** .SVG
+
+When exporting a design file for one of our machines, please note the preparation instructions on our [equipment](equipment) page.
