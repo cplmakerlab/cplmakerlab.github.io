@@ -1,6 +1,6 @@
 ---
 title: 3D Printing Basics
-topics: 3D printing
+topic: 3D printing
 ---
 
 ## 3D Printing Basics
