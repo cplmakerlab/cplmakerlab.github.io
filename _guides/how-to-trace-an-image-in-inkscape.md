@@ -1,11 +1,7 @@
 ---
-title:
-topics:
-  - Lasercutting
-  - Milling
+title: How to trace an Image in Inkscape
+topic: 2D design
 ---
-
-# How to Trace an Image in Inkscape
 
 Inkscape is a vector drawing program that can be used for creating design files for CNC (Computer Numerically Controlled) machines such as a lasercutter, electronic (vinyl) cutter, milling machine and more.
 

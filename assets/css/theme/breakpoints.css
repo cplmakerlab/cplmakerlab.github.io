@@ -2,7 +2,7 @@
 @media screen and (min-width:768px) {
 
   #content {
-    width:90%;
+    max-width:850px;
   }
   #logo-site-name {
     /*float:left;*/
@@ -10,32 +10,80 @@
 
   nav, 
   nav.hide {
-    display:block;
-    position:relative;
-    top:auto;
+    display:flex;
+    justify-content: flex-end;    
+    position:static;
+    top:0;
     bottom:auto;
     right:auto;
     width:auto;
-    text-align:right;
-    opacity:.9;
+    background:rgba(255,255,255,1);
+    overflow-y:visible;
+    visibility:visible;
+    border:solid 1px #ededed;
   }
-
+  .menu {
+    white-space:normal;
+    overflow-y:visible;
+    overflow-x:visible;
+  }
   .menu li {
-    display:inline;
+    display:inline-block;
+    position:relative;
+    overflow-y:visible;
+    margin-bottom:0;
   }
   .menu li a {
     display:inline-block;
     font-weight:normal;
     border:none;
     border-bottom:solid 3px transparent;
+    transition-duration: 0.5s;
     
   }
+  .menu li:hover a,
+  .menu li:focus-within a {
+    background:#ccc;
+  }  
   .menu ul {
-    display:none;
+    visibility:hidden;
+    position:absolute;
+    transition: all 0.5s ease;
+    min-width:1.5rem;
+    margin:0;
+  	left: 0;
+    display: none;  
+    background:#fff;
+    border-radius:0 0 5px 5px;
+    border:solid 1px #ededed;
   }
-  
-  
-  
-  
-  
+  .menu li:hover li,
+  .menu li:focus-within li {
+    display:block;
+    margin:0;
+    padding:0;
+    line-height:normal;
+  }
+  .menu li:hover li a,
+  .menu li:focus-within li a {
+    display:block;
+    line-height:normal;
+    padding:10px 2rem;
+    background:#fff;
+  }
+  .menu li:hover li a:hover,
+  .menu li:focus-within li a:focus-within {
+    background:#ccc;
+  } 
+
+  .menu li:hover > ul,
+  .menu li:focus-within > ul,
+  .menu li ul:hover,
+  .menu li ul:focus {
+    visibility: visible;
+    opacity: 1;
+    display: block;
+  }
+
+
 }

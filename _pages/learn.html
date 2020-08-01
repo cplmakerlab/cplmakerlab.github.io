@@ -1,17 +1,18 @@
 ---
-layout: default
+title: Guides
+header_image: uploads/coding.jpg
 ---
 
 {% assign topics = site.topics | sort: "name" %}
 
 <section class="row topics">
-  <div class="col-sm-2">
+  <div class="col-sm-4">
 
     <div class="jump-nav">
-      <h3>Content</h3>
+      <h3>Topics</h3>
       <ul>
       {% for topic in topics %}
-       {% assign guides = site.guides | where:"topics",topic %}
+       {% assign guides = site.guides | where:"topic",topic %}
        {% if guides.size > 0 %}
     			<li><a href="#{{ topic }}">{{ topic }}</a></li>
     		{% endif %}
@@ -20,10 +21,10 @@ layout: default
   	</div>
     
   </div>
-  <div class="col-sm-10">
+  <div class="col-sm-8">
     
     {% for topic in topics %}
-     {% assign guides = site.guides | where:"topics",topic %}
+     {% assign guides = site.guides | where:"topic",topic %}
      {% if guides.size > 0 %}
   		<section class="category">
   			<h4>{{ topic }}<a name="{{topic}}"></a></h4>

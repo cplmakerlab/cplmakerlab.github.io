@@ -1,7 +1,6 @@
 ---
 title: Electronic Cutter Basics
-topics:
-  - Electronic cutter
+topic: Electronic cutter
 ---
 
 ## Electronic Cutter Basics

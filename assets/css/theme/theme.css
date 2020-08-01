@@ -69,7 +69,8 @@ header a {
   /*color:#cfd2da;*/
 }
 header {
-  background:url(../../../assets/images/header-bg.jpg) #333 center center no-repeat fixed;
+  /*background:url(../../../assets/images/header-bg.jpg) #333 left center no-repeat fixed;*/
+  background:url(../../../assets/images/header-bg.jpg) #333 no-repeat left center scroll;
   background-size:cover;  
   min-height:20rem;
 }
@@ -104,19 +105,20 @@ header {
 }
 .search-form input {
   border:none;
-  border:solid 1px #666;
+  border:dotted 1px #666;
   color:#666;
-  border-radius:2px;
+  border-radius:5px;
   font-size:2.0rem;
-  margin:1rem auto;
+  margin:1rem auto; 
   width:90%;
+  background-color:#fdfdfd;
 }
 .search-form input::placeholder {
   font-style:italic;
 }
 .search-form input:focus {
-  border:none;
-  border-bottom:dotted 1px #ccc;
+  border:solid 1px #ccc;
+  background-color:#transparent;
 }
 
 .search-form.hide {

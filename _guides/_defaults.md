@@ -1,6 +1,11 @@
 ---
 title:
-topics:
+topic:
+difficulty:
+time:
+tools: 
+example_image:
+tags:
 ---
 
 

@@ -6,11 +6,20 @@ jQuery(function() {
       var nav = $('nav');
       if($(nav[0]).hasClass('hide')) {
         $(nav[0]).removeClass('out').addClass('in').removeClass('hide');
+        document.body.addEventListener('click', closeMenu, false);
       }
       else {
-        $(nav[0]).removeClass('in').addClass('out').addClass('hide');
+        $(nav[0]).removeClass('in').addClass('hide');
       }
     });
+    
+    // Close menu if menu is open and user clicks elsewhere
+    function closeMenu(e){
+      if(e.target.id != 'nav'){
+         document.body.removeEventListener('click', closeMenu, false);
+        $('nav').removeClass('in').addClass('hide');
+      }
+    }
     
     // Mobile Search Toggle
     $('body').on('click', '.mobile-search-toggle', function(){

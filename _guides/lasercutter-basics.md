@@ -1,7 +1,6 @@
 ---
 title: Lasercutter Basics
-topics:
-  - Lasercutting
+topic: Lasercutting
 ---
 
 ## Lasercutter Basics
