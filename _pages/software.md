@@ -21,11 +21,17 @@ header_image: /uploads/2020/07/31/make/header-bg6.jpg
 * [ReconstructMe](reconstructme.net){: target="_blank" rel="noopener"} (3D scanning)
 * [Skanect](skanect.occipital.com) (3D Scanning)
 
+## **Equipment Software **
+
+* [MakerBot Desktop](makerbot.com){: target="_blank" rel="noopener"} (3D printing)
+* [RetinaEngrave](fslaser.com){: target="_blank" rel="noopener"} (Laser cutter)
+* [Cricut Design Space](design.cricut.com){: target="_blank" rel="noopener"} (Electronic cutter)
+* [Easel](easel.inventables.com){: target="_blank" rel="noopener"} (CNC Milling)
+* [Inkstitch](inkstitch.org){: target="_blank" rel="noopener"} (Embroidery)
+
 ## Accepted File Formats
 
 * **3D Printing:** .STL (StereoLithography), .OBJ (Object)
 * **Laser Cutting:** .SVG (Scalable Vector Graphics), .PDF (Portable Document Format)
 * **CNC Milling:** .SVG
 * **Electronic Cutter:** .SVG
-
-&nbsp;
