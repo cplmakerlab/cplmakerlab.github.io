@@ -47,7 +47,7 @@ exclude:
 
 # Collections are like custom content types.
 collections:
-  pages:
+  site_pages:
     output: true
     permalink: /:path
     _singular_name: Page   
