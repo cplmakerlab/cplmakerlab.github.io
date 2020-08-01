@@ -99,7 +99,7 @@ _explore:
   groups:
     - heading: Pages
       collections:
-        - pages
+        - site_pages
     - heading: How-To Guides
       collections:
         - guides        
