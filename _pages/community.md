@@ -1,5 +1,5 @@
 ---
-header_image: site.data.images.header_image
+header_image:
 title: Community
 ---
 
