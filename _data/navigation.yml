@@ -23,5 +23,5 @@
   subnav:
     - name: Organizations
       link: organizations
-    - name: Libary Makerspaces
+    - name: Other Library Makerspaces
       link: library-makerspaces
