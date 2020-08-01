@@ -23,5 +23,5 @@
   subnav:
     - name: Organizations
       link: organizations
-    - name: CPL Maker Labs
-      link: locations
+    - name: Libary Makerspaces
+      link: library-makerspaces
