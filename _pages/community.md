@@ -1,5 +1,5 @@
 ---
-layout: default
+header_image: site.data.images.header_image
 title: Community
 ---
 
