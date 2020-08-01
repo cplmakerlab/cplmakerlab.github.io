@@ -6,7 +6,7 @@ The Maker Lab, Chicago’s first free and publicly accessible maker space, is on
 
 ## Upcoming events
 
-***NEW\!*** Online workshops are now available. You must register for an online event in advance. [View the Maker Lab calendar](https://chipublib.bibliocommons.com/events/search/fq=program:&#40;53f20a07e04c1e3b1c00d3e4&#41;) for more details.
+***NEW\!***<br>Online workshops are now available. You must register for an online event in advance. [View the Maker Lab calendar](https://chipublib.bibliocommons.com/events/search/fq=program:&#40;53f20a07e04c1e3b1c00d3e4&#41;) for more details.
 
 ## Hours
 
