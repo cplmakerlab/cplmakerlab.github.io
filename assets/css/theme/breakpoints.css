@@ -12,7 +12,7 @@
   nav.hide {
     display:flex;
     justify-content: flex-end;    
-    position:sticky;
+    position:static;
     top:0;
     bottom:auto;
     right:auto;
