@@ -27,7 +27,6 @@ timezone: Etc/UTC
 
 permalink: /:categories/:title/
 
-
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
