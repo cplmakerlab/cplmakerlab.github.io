@@ -92,19 +92,6 @@ uploads_dir: "uploads/:title"
 # See: https://docs.cloudcannon.com/editing/interfaces/inputs/#general-inputs/select
 # TODO find out if this is also a Jekyll/Ruby convention...
 
-topics:
-  - 2D design
-  - 3D design
-  - 3D printing  
-  - Coding
-  - Digital security
-  - Electronic cutter
-  - Electronics
-  - Crafts
-  - Lasercutting
-  - CNC Milling
-  - Sewing
-  
 # CloudCannon Explore UI Settings
 _explore:
   groups:
