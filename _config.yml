@@ -91,6 +91,7 @@ uploads_dir: "uploads/:title"
 # The reason is because Cloudcannon convention shows a multiselect dropdown for "topics:" but only a single select dropdown for "topic:".
 # See: https://docs.cloudcannon.com/editing/interfaces/inputs/#general-inputs/select
 # @@TODO find out if this is also a Jekyll/Ruby convention...
+
 topics:
   - 2D design
   - 3D design
