@@ -50,7 +50,6 @@ exclude:
 # - posts is a default Jekyll collection used for blog posts. Folder: _posts
 # - pages is a default Jekyll collection that scans the root directory for any loose or standalone pages, such as 404.html.
 # The reason we are using site_pages instead of default pages is for better organization, and to allow for creating new pages within the CloudCannon Admin UI.
-
 collections:
   site_pages:
     output: true
@@ -83,21 +82,7 @@ type:
 # -----------
 # CloudCannon
 
-# Default upload directory
 uploads_dir: "uploads/:title"
-
-topics:
-  - 2D design
-  - 3D design
-  - 3D printing  
-  - Coding
-  - Digital security
-  - Electronic cutter
-  - Electronics
-  - Crafts
-  - Lasercutting
-  - CNC Milling
-  - Sewing
 
 # CloudCannon Explore UI Settings
 _explore:
@@ -113,7 +98,7 @@ _explore:
         - posts
         - drafts
     - heading: Site Settings
-      collections:s
+      collections:
         - data
 
 # CloudCannon Source Editor
