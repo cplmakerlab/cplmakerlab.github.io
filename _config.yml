@@ -16,9 +16,9 @@ author:
   email: makerspace@chipublib.org
   twitter: cplmakerlab
 social:
-  name: Base Template
+  name: CPL Maker Lab
   links:
-    - https://github.com/CloudCannon/base-jekyll-template
+    - http://chipublib.org/maker-lab
 
 # -----
 # Build 
@@ -45,31 +45,21 @@ exclude:
   - LICENCE
 
 # Collections are like custom content types.
+# - site_pages is a custom collection for organzing pages like home, about, and listing pages. Folder: _site_pages
+# - guides is a custom collection. Folder: _guides
+# - posts is a default Jekyll collection used for blog posts. Folder: _posts
+# - pages is a default Jekyll collection that scans the root directory for any loose or standalone pages, such as 404.html.
+# The reason we are using site_pages instead of default pages is for better organization, and to allow for creating new pages within the CloudCannon Admin UI.
 collections:
-  pages:
+  site_pages:
     output: true
     permalink: /:path
     _singular_name: Page 
-    _disable_add: false
   guides:
     output: true
     permalink: /guide/:path/
     _singular_name: Guide    
 
-topics:
-  - 2D design
-  - 3D design
-  - 3D printing  
-  - Coding
-  - Design 
-  - Digital security
-  - Electronic cutter
-  - Electronics
-  - Crafts
-  - Lasercutting
-  - CNC Milling
-  - Sewing
-  
 
 defaults:
   -
@@ -92,7 +82,7 @@ type:
 # -----------
 # CloudCannon
 
-uploads_dir: "uploads/:categories/:year/:month/:day/:title"
+uploads_dir: "uploads/:title"
 
 # CloudCannon Explore UI Settings
 _explore:
