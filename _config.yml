@@ -50,6 +50,7 @@ exclude:
 # - posts is a default Jekyll collection used for blog posts. Folder: _posts
 # - pages is a default Jekyll collection that scans the root directory for any loose or standalone pages, such as 404.html.
 # The reason we are using site_pages instead of default pages is for better organization, and to allow for creating new pages within the CloudCannon Admin UI.
+
 collections:
   site_pages:
     output: true
@@ -82,8 +83,27 @@ type:
 # -----------
 # CloudCannon
 
+# Default upload directory
 uploads_dir: "uploads/:title"
 
+# Topics are used to organize guides. Each guide in the collection is assigned a single topic from a dropdown list.
+# Here we define the option for "topics:" (plural) but in the guide frontmatter we use "topic:" (singular form)
+# The reason is because Cloudcannon convention shows a multiselect dropdown for "topics:" but only a single select dropdown for "topic:".
+# See: https://docs.cloudcannon.com/editing/interfaces/inputs/#general-inputs/select
+# @@TODO find out if this is also a Jekyll/Ruby convention...
+topics:
+  - 2D design
+  - 3D design
+  - 3D printing  
+  - Coding
+  - Digital security
+  - Electronic cutter
+  - Electronics
+  - Crafts
+  - Lasercutting
+  - CNC Milling
+  - Sewing
+  
 # CloudCannon Explore UI Settings
 _explore:
   groups:
@@ -98,7 +118,7 @@ _explore:
         - posts
         - drafts
     - heading: Site Settings
-      collections:
+      collections:s
         - data
 
 # CloudCannon Source Editor
