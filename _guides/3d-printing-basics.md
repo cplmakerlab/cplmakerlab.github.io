@@ -1,6 +1,6 @@
 ---
 title: 3D Printing Basics
-topic:
+topic: 3D printing
 tags:
   - makerbot
   - ultimaker
@@ -18,7 +18,7 @@ Turn on machine.
 
 ### Step 2:
 
-...
+…
 
 ### Step 3:
 
