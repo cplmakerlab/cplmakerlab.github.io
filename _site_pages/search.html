@@ -8,7 +8,8 @@ sitemap: false
 
 <script>
 	window.data = {
-		{% for post in site.guides %}
+	  {% assign searchable = site.guides | concat: site.pages | concat: site.posts %}
+		{% for post in searchable %}
 			{% if post.title %}
 				{% unless post.excluded_in_search %}
 					{% if added %},{% endif %}
