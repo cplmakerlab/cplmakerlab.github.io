@@ -1,5 +1,6 @@
 ---
 title: 3D Printing Basics
+guide_image:
 topic:
 difficulty:
 time_required:
