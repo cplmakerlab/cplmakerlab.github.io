@@ -1,20 +1,20 @@
 ---
-title: Guides
+title: Tags
 header_image: uploads/coding.jpg
 ---
 
-{% assign topics = site.topics | sort: "name" %}
+{% assign tags = site.tags | sort: "name" %}
  
 <section class="row topics">
   <div class="col-sm-4">
 
     <div class="jump-nav">
-      <h3>Topics</h3>
+      <h3>Tags</h3>
       <ul>
-      {% for topic in topics %}
-       {% assign guides = site.guides | where:"topic",topic %}
+      {% for tag in tags %}
+       {% assign guides = site.guides | where:"tag",tag %}
        {% if guides.size > 0 %}
-    			<li><a href="#{{ topic }}">{{ topic }}</a></li>
+    			<li><a href="#{{ tag }}">{{ tag }}</a></li>
     		{% endif %}
     	{% endfor %}
   	  </ul>
@@ -23,11 +23,11 @@ header_image: uploads/coding.jpg
   </div>
   <div class="col-sm-8">
     
-    {% for topic in topics %}
-     {% assign guides = site.guides | where:"topic",topic %}
+    {% for tag in tags %}
+     {% assign guides = site.guides | where:"tag",tag %}
      {% if guides.size > 0 %}
   		<section class="category">
-  			<h4>{{ topic }}<a name="{{topic}}"></a></h4>
+  			<h4>{{ tag }}<a name="{{tag}}"></a></h4>
   			<ul>
   			  {% for guide in guides %}
   			    <li><a href="{{ guide.url }}">{{ guide.title }}</a></li>
