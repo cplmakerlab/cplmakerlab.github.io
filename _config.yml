@@ -99,9 +99,9 @@ topics:
   - Sewing
 
 difficulties:
-  - easy
-  - medium
-  - hard
+  - 1: easy
+  - 2: medium
+  - 3: hard
 
 
 # -----------
