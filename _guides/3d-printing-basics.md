@@ -1,6 +1,6 @@
 ---
 title: 3D Printing Basics
-topic: 3D printing
+topics:
 tags:
   - makerbot
   - ultimaker
