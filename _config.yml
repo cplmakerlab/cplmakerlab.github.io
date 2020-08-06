@@ -73,6 +73,11 @@ defaults:
     values:
       layout: "default"
       comments: false
+  -
+    scope:
+      type: "guides"
+    values:
+      layout: "guide"
 
 type:
   - document
