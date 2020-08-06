@@ -12,14 +12,14 @@ time_required: 5 - 15 minutes
 
 A 3D printer is like a printer, except 3D…um. etc
 
-#### Step 1:
+### Step 1:
 
 Turn on machine.
 
-#### Step 2:
+### Step 2:
 
 ...
 
-#### Step 3:
+### Step 3:
 
 Profit.
