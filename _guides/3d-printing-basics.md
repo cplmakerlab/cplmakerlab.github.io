@@ -1,10 +1,10 @@
 ---
 title: 3D Printing Basics
-guide_image:
 topic:
+tags:
+example_image:
 difficulty:
 time_required:
-tags:
 ---
 
 ## 3D Printing Basics
