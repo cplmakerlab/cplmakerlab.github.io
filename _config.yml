@@ -98,10 +98,11 @@ topics:
   - CNC Milling
   - Sewing
 
+# In front matter, use difficulty: (singular form).
 difficulties:
-   1: easy
-   2: medium
-   3: hard
+  - easy
+  - medium
+  - hard
 
 
 # -----------
