@@ -1,6 +1,9 @@
 ---
 title: 3D Printing Basics
-topic: 3D printing
+topic:
+difficulty:
+time_required:
+tags:
 ---
 
 ## 3D Printing Basics
