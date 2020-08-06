@@ -2,17 +2,17 @@
 layout: default
 ---
 {% if page.example_image %}
-<div class="row">
+<div class="guide-header row">
   <div class="col-sm-6">
     <img class="guide-example-image" src="{{ page.example_image }}">
   </div>
   <div class="col-sm-6">
     <ul class="guide-summary">
       {% if page.difficulty %}
-        <li><i class="fa fa-bolt" aria-hidden="true"></i><span class="label">Difficulty:</span> {{ page.difficulty }}</li>
+        <li><i class="fa fa-bolt fa-fw" aria-hidden="true"></i><span class="label">Difficulty:</span> {{ page.difficulty }}</li>
       {% endif %}
       {% if page.difficulty %}
-        <li><i class="fa fa-clock-o" aria-hidden="true"></i><span class="label">Time required:</span> {{ page.time_required }}</li>
+        <li><i class="fa fa-clock-o fa-fw" aria-hidden="true"></i><span class="label">Time required:</span> {{ page.time_required }}</li>
       {% endif %}
     </ul>
   </div>
