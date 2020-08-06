@@ -14,6 +14,9 @@ layout: default
       {% if page.difficulty %}
         <li><i class="fa fa-clock-o fa-fw" aria-hidden="true"></i><span class="label">Time required:</span> {{ page.time_required }}</li>
       {% endif %}
+      {% if page.file_attachment_path %}
+        <li><i class="fa fa-file fa-fw" aria-hidden="true"></i><span class="label"><a target="_blank" href="{{ page.file_attachment_path }}">Download files</a></span></li>
+      {% endif %}      
     </ul>
   </div>
 </div>
@@ -25,6 +28,9 @@ layout: default
   {% if page.time_required %}
     <li><i class="fa fa-clock-o fa-fw" aria-hidden="true"></i> <span class="label">Time required:</span>{{ page.time_required }}</li>
   {% endif %}
+  {% if page.file_attachment_path %}
+    <li><i class="fa fa-file fa-fw" aria-hidden="true"></i><span class="label"><a target="_blank" href="{{ page.file_attachment_path }}">Download files</a></span></li>
+  {% endif %}    
 </ul>
 {% endif %}
 
