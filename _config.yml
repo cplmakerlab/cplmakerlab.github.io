@@ -98,6 +98,12 @@ topics:
   - CNC Milling
   - Sewing
 
+difficulty:
+  - easy
+  - medium
+  - hard
+
+
 # -----------
 # CloudCannon
 
