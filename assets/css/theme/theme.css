@@ -161,7 +161,22 @@ ul.guide-summary .label {
   text-transform:uppercase;
   font-weight:400;
   font-style:normal;
+  padding-left:2em;
 }
+
+/**
+ * https://www.materialui.co/colors
+ **/
+.difficulty.easy {
+  color:#8BC34A;
+}
+.difficulty.medium {
+  color:#FFC107;
+}
+.difficulty.hard {
+  color:#FF5722;
+}
+
 
 
 
