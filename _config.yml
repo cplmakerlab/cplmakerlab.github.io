@@ -73,11 +73,6 @@ defaults:
     values:
       layout: "default"
       comments: false
-  -
-    scope:
-      type: "guides"
-    values:
-      layout: "guide"
 
 type:
   - document
@@ -105,9 +100,9 @@ topics:
 
 # In front matter, use difficulty: (singular form).
 difficulties:
-  easy: 1 - Easy
-  medium: 2 - Medium
-  hard: 3 - Hard
+  Easy: 1 - Easy
+  Medium: 2 - Medium
+  Hard: 3 - Hard
 
 
 # -----------
