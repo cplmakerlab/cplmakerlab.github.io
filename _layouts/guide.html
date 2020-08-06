@@ -30,9 +30,11 @@ layout: default
 
 {{ content }}
 
+{% if page.tags.size > 0 %}
 Tags: <span>
   {% for tag in page.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
     <a href="/tags#{{ tag_name }}">{{ tag_name }}</a> 
   {% endfor %}
 </span>
+{% endif %}
