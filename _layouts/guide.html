@@ -1,14 +1,26 @@
 ---
 layout: default
 ---
+<div class="row">
+  <div class="col-sm-4">
+    <img src="{{ page.example_image }}">
+  </div>
+  <div class="col-sm-8">
+    <div class="guide-helper">
+      <i class="fa fa-thermometer-three-quarters" aria-hidden="true"></i> Difficulty: {{ page.difficulty }}
+      <i class="fa fa-clock-o" aria-hidden="true"></i> Time Required:  {{ page.time_required }}
+    </div>
+</div>
+    
+  </div>
 
-Difficulty: {{ page.difficulty }}
-Time Required: {{ page.time_required }}
+</div>
+
 
 <span>[
   {% for tag in page.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+    <a href="/tags#{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
   {% endfor %}
 ]</span>
 
