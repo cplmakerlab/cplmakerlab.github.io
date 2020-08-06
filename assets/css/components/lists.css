@@ -30,13 +30,12 @@ ul.guide-summary {
   padding:0;
 }
 ul.guide-summary li {
-  display:block;
+  display:inline-block;
   padding:10px;
-  margin-bottom:5px;
+  margin-bottom:10px;
   border:solid 1px #ddd;
   border-radius:5px;
 }
 ul.guide-summary .label {
-  font-weight:bold;
   text-transform:uppercase;
 }
