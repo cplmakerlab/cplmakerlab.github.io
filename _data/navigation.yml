@@ -1,27 +1,27 @@
 - name: Home
   link: /
 - name: Learn
-  link: learn
+  link: /learn
   subnav:
     - name: How-To Guides
-      link: learn
+      link: /learn
     - name: Workshops
-      link: workshops
+      link: /workshops
     - name: Jobs & Career Training
-      link: continuing-education
+      link: /continuing-education
 - name: Make
   link: /make
   subnav:
     - name: Equipment
-      link: equipment
+      link: /equipment
     - name: Software
-      link: software
+      link: /software
     - name: Materials
-      link: materials
+      link: /materials
 - name: Community
-  link: community
+  link: /community
   subnav:
     - name: Organizations
-      link: organizations
+      link: /organizations
     - name: Other Library Makerspaces
-      link: library-makerspaces
+      link: /library-makerspaces
