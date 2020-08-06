@@ -17,7 +17,7 @@ layout: default
     </ul>
   </div>
 </div>
-{{ elsif page.difficulty or page.time_required }}
+{{% elsif page.difficulty or page.time_required %}}
 <ul class="guide-summary">
   {{% if page.difficulty %}}
     <li><i class="fa fa-bolt" aria-hidden="true"></i><label>Difficulty:</label> {{ page.difficulty }}</li>
