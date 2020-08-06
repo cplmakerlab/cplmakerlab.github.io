@@ -24,24 +24,3 @@ ul.inline li {
   padding: 0 0.5em;
 }
 
-ul.guide-summary {
-  list-style:none;
-  margin:0;
-  padding:0;
-}
-ul.guide-summary li {
-  display:block;
-  padding:10px;
-  margin-bottom:10px;
-  border:solid 1px #ddd;
-  border-radius:5px;
-  font-style:italic;
-}
-
-ul.guide-summary .label {
-  text-transform:uppercase;
-  font-weight:400;
-  font-style:normal;
-}
-
-
