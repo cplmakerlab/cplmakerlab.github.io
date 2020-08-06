@@ -1,5 +1,5 @@
 ---
-title:
+title:  
 topic:
 tags:
 example_image:
@@ -8,20 +8,22 @@ time_required:
 ---
 
 
-Enter a brief description of what you will be demonstrating. Include video or pictures showing the end result.
+Write a brief overview or description of what this guide is about. 
+
+[optional] Embed a youtube video. 
 
 #### Step 1
 
-Enter step details...
+Enter step details...photos and screenshots always help.
 
 #### Step 2
 
-Enter step details...
+Enter step details...photos and screenshots always help.
 
 #### Step 3
 
-Enter# step details...
+Enter step details...photos and screenshots always help.
 
 #### Congratulations!
 
-Links or resources for further learning (link to another how-to).
+Add links or resources for further learning (or link to another how-to).
