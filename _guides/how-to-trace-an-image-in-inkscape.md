@@ -2,8 +2,9 @@
 title: How to trace an Image in Inkscape
 topic: 2D design
 tags:
-difficulty:
-time_required:
+  - Inkscape
+difficulty: medium
+time_required: 10-15 minutes
 ---
 
 Inkscape is a vector drawing program that can be used for creating design files for CNC (Computer Numerically Controlled) machines such as a lasercutter, electronic (vinyl) cutter, milling machine and more.
