@@ -100,9 +100,9 @@ topics:
 
 # In front matter, use difficulty: (singular form).
 difficulties:
-  - easy
-  - medium
-  - hard
+  easy: 1 - easy
+  medium: 2 - medium
+  hard: 3 - hard
 
 
 # -----------
