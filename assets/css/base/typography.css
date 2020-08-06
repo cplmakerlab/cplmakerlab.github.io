@@ -95,13 +95,9 @@ blockquote p:last-child {
 /* https://css-tricks.com/examples/hrs/ */
 hr {
   border: 0;
-  height: 1px;
-  margin:2em auto;
-  width:85%;
-  background-image: -webkit-linear-gradient(left, rgba(80,80,80,0), rgba(80,80,80,.5), rgba(80,80,80,0));
-  background-image:    -moz-linear-gradient(left, rgba(80,80,80,0), rgba(80,80,80,.5), rgba(80,80,80,0));
-  background-image:     -ms-linear-gradient(left, rgba(80,80,80,0), rgba(80,80,80,.5), rgba(80,80,80,0));
-  background-image:      -o-linear-gradient(left, rgba(80,80,80,0), rgba(80,80,80,.5), rgba(80,80,80,0));
+  height: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
 hr.thin {
   margin: 10px auto;
