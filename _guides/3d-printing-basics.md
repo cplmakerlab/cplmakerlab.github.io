@@ -4,7 +4,7 @@ topic: 3D printing
 tags:
   - makerbot
   - ultimaker
-category:
+categories:
 example_image: /uploads/3d-printing-basics/3d-printers-at-chicago-public-library.jpg
 difficulty: Easy
 time_required: 5 - 15 minutes
