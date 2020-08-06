@@ -1,9 +1,9 @@
 ---
 title:
 topic:
+tags
 difficulty:
 time_required:
-tags:
 ---
 
 
