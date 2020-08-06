@@ -36,3 +36,7 @@ ul.guide-summary li {
   border:solid 1px #ddd;
   border-radius:5px;
 }
+ul.guide-summary .label {
+  font-weight:bold;
+  text-transform:uppercase;
+}
