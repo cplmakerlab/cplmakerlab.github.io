@@ -23,3 +23,16 @@ ul.inline li {
   list-style-type: none;
   padding: 0 0.5em;
 }
+
+ul.guide-summary {
+  list-style:none;
+  margin:0;
+  padding:0;
+}
+ul.guide-summary li {
+  display:block;
+  padding:10px;
+  margin-bottom:5px;
+  border:solid 1px #ddd;
+  border-radius:5px;
+}
