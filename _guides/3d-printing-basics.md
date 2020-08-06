@@ -7,6 +7,16 @@ difficulty: Easy
 time_required: 5 - 15 minutes
 ---
 
-## 3D Printing Basics
+A 3D printer is like a printer, except 3D…um. etc
 
-A 3D printer is like a printer, except 3D…um.
+#### Step 1:
+
+Turn on machine.
+
+#### Step 2:
+
+...
+
+#### Step 3:
+
+Profit.
