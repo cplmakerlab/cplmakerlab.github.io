@@ -30,14 +30,18 @@ ul.guide-summary {
   padding:0;
 }
 ul.guide-summary li {
-  display:inline-block;
+  display:block;
   padding:10px;
   margin-bottom:10px;
   border:solid 1px #ddd;
   border-radius:5px;
+  font-style:italic;
 }
 
 ul.guide-summary .label {
   text-transform:uppercase;
   font-weight:400;
+  font-style:none;
 }
+
+
