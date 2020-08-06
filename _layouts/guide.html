@@ -1,17 +1,32 @@
 ---
 layout: default
 ---
+{{% if page.example_image %}}
 <div class="row">
-  <div class="col-sm-4">
+  <div class="col-sm-6">
     <img src="{{ page.example_image }}">
   </div>
-  <div class="col-sm-8">
+  <div class="col-sm-6">
     <ul class="guide-summary">
-      <li><i class="fa fa-bolt" aria-hidden="true"></i><label>Difficulty:</label> {{ page.difficulty }}</li>
-      <li><i class="fa fa-clock-o" aria-hidden="true"></i> <label>Time required:</label>  {{ page.time_required }}</li>
+      {{% if page.difficulty %}}
+        <li><i class="fa fa-bolt" aria-hidden="true"></i><label>Difficulty:</label> {{ page.difficulty }}</li>
+      {{% endif %}}
+      {{% if page.difficulty %}}
+        <li><i class="fa fa-clock-o" aria-hidden="true"></i> <label>Time required:</label>  {{ page.time_required }}</li>
+      {{% endif %}}
     </ul>
   </div>
 </div>
+{{ elsif page.difficulty or page.time_required }}
+<ul class="guide-summary">
+  {{% if page.difficulty %}}
+    <li><i class="fa fa-bolt" aria-hidden="true"></i><label>Difficulty:</label> {{ page.difficulty }}</li>
+  {{% endif %}}
+  {{% if page.time_required %}}
+    <li><i class="fa fa-clock-o" aria-hidden="true"></i> <label>Time required:</label>  {{ page.time_required }}</li>
+  {{% endif %}}
+</ul>
+{{% endif %}}
 
 {{ content }}
 
