@@ -5,9 +5,9 @@ tags:
   - makerbot
   - ultimaker
 example_image: /uploads/3d-printing-basics/3d-printers-at-chicago-public-library.jpg
-difficulty: Easy
+difficulty: Hard
 time_required: 5 - 15 minutes
-file_attachment_path:
+file_attachment_path: /uploads/3d-printing-basics/workshop-template.svg
 ---
 
 A 3D printer is like a printer, except 3D…um. etc
