@@ -119,3 +119,7 @@ hr.collapse-margin {
   -webkit-overflow-scrolling: touch;
   -ms-overflow-style: -ms-autohiding-scrollbar;
 }
+
+.print-only {
+  display: none;
+}
