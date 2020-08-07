@@ -163,12 +163,12 @@ ul.guide-summary .label {
   font-weight:400;
   font-style:normal;
   padding-left:.6rem;
-  display:inline-block;
 }
 
 ul.guide-summary .detail {
   text-align:right;
-  display:inline-block;
+  display:block;
+  float:right;
 }
 /**
  * https://www.materialui.co/colors
