@@ -53,6 +53,8 @@
     border-bottom:solid 3px #000;
     min-height:auto;
   }
+  nav,
+  .mobile-menu-icons,
   footer {
     display:none;
   }
