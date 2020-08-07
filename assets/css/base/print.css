@@ -7,7 +7,7 @@
   }
   body {
     padding-top: 0;
-    font-size:1.4px;
+    font-size:1.4px !important;
   }
   a, a:visited {
     text-decoration: underline;
@@ -58,17 +58,19 @@
   .mobile-menu-icons,
   .guide-header,
   footer {
-    display:none;
+    display:none !important;
   }
   .logo {
     width:150px !important;
     height:auto;
   }
   h1 {
-    font-size: 16px;
+    font-size: 18px !important;
+    font-weight:bold;
   }
   h2, h3, h4 {
-  font-size: 14px;
+  font-size: 16px !important;
+  font-weight:bold;
   text-transform:uppercase;
   }  
 }
