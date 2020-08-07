@@ -51,9 +51,10 @@
   header {
     background:none !important;
     border-bottom:solid 3px #000;
+    min-height:auto;
   }
   .logo {
-    width:100px !important;
+    width:150px !important;
     height:auto;
   }
 }
