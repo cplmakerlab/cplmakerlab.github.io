@@ -66,6 +66,9 @@
     width:100px !important;
     height:auto;
   }
+  p {
+   margin: 0 auto 1em auto !important;  
+  }
   h1 { font-size: 2.2rem !important; font-weight:bold !important; }
   h2 { font-size: 1.8rem !important; font-weight:bold !important; }
   h3 { font-size: 1.6rem !important; }
