@@ -14,7 +14,7 @@
     text-decoration: underline;
   }
   pre, blockquote {
-    border: 1px solid #999;
+    /*border: 1px solid #999;*/
     page-break-inside: avoid;
   }
   thead {
