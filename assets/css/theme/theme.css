@@ -156,7 +156,6 @@ ul.guide-summary li {
   border-radius:5px;
   font-style:italic;
   text-transform:uppercase;
-  font-size:1.0rem;
 }
 
 ul.guide-summary .label {
@@ -165,19 +164,18 @@ ul.guide-summary .label {
   font-style:normal;
   padding-left:.75rem;
   width:150px;
-  font-size:1.2rem;
 }
 
 /**
  * https://www.materialui.co/colors
  **/
-.difficulty.easy {
+.easy {
   color:#8BC34A;
 }
-.difficulty.medium {
+.medium {
   color:#FFC107;
 }
-.difficulty.hard {
+.hard {
   color:#FF5722;
 }
 
