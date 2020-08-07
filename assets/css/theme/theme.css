@@ -162,10 +162,14 @@ ul.guide-summary .label {
   text-transform:uppercase;
   font-weight:400;
   font-style:normal;
-  padding-left:.75rem;
-  width:150px;
+  padding-left:.6rem;
+  display:inline-block;
 }
 
+ul.guide-summary .detail {
+  text-align:right;
+  display:inline-block;
+}
 /**
  * https://www.materialui.co/colors
  **/
