@@ -51,7 +51,7 @@
   header {
     background:none !important;
     border-bottom:solid 3px #000;
-    min-height:auto;
+    min-height:auto !important;
   }
   nav,
   .mobile-menu-icons,
