@@ -53,6 +53,9 @@
     border-bottom:solid 3px #000;
     min-height:auto;
   }
+  footer {
+    display:none;
+  }
   .logo {
     width:150px !important;
     height:auto;
