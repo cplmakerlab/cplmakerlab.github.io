@@ -49,6 +49,16 @@
   .print-hidden {
     display:none;  
   }
+  p {
+   margin: 0 auto 1em auto !important;  
+  }
+  h1 { font-size: 2.2rem !important; font-weight:bold !important; }
+  h2 { font-size: 1.8rem !important; font-weight:bold !important; }
+  h3 { font-size: 1.6rem !important; }
+  h4 { font-size: 1.4rem !important; }
+  h5 { font-size: 1.4rem !important; }
+  h6 { font-size: 1.4rem !important; }
+    
   header {
     background:none !important;
     border-bottom:solid 3px #000;
@@ -72,17 +82,7 @@
   .logo img {
     padding:5px !important;
   }
-  p {
-   margin: 0 auto 1em auto !important;  
-  }
-  h1 { font-size: 2.2rem !important; font-weight:bold !important; }
-  h2 { font-size: 1.8rem !important; font-weight:bold !important; }
-  h3 { font-size: 1.6rem !important; }
-  h4 { font-size: 1.4rem !important; }
-  h5 { font-size: 1.4rem !important; }
-  h6 { font-size: 1.4rem !important; }
-  
-  h1.page-title {
+  header h1.page-title {
     display:inline-block !important;
     margin:0 !important;
     font-size: 2.6rem !important;
