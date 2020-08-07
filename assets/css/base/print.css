@@ -48,4 +48,12 @@
   .print-hidden {
     display:none;  
   }
+  header {
+    background:none !important;
+    border-bottom:solid 3px #000;
+  }
+  .logo {
+    width:100px !important;
+    height:auto;
+  }
 }
