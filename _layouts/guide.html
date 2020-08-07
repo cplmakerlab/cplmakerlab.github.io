@@ -9,14 +9,14 @@ layout: default
   <div class="col-sm-6">
     <ul class="guide-summary">
       {% if page.difficulty %}
-        <li class="difficulty"><i class="fa fa-cogs fa-fw" aria-hidden="true"></i> <span class="label">Difficulty:</span> <span class="{{ page.difficulty }}">{{ page.difficulty }}</span></li>
+        <li class="difficulty"><i class="fa fa-cogs fa-fw" aria-hidden="true"></i> <span class="label">Difficulty:</span> <span class="detail {{ page.difficulty }}">{{ page.difficulty }}</span></li>
       {% endif %}
       {% if page.time_required %}
-        <li class="time-required"><i class="fa fa-clock-o fa-fw" aria-hidden="true"></i> <span class="label">Time required:</span> {{ page.time_required }}</li>
+        <li class="time-required"><i class="fa fa-clock-o fa-fw" aria-hidden="true"></i> <span class="label">Time required:</span> <span class="detail">{{ page.time_required }}</span></li>
       {% endif %}
       {% if page.file_attachment_path %}
       {% assign fileurl = page.file_attachment_path | split: "/" %}
-        <li class="attachment"><i class="fa fa-download fa-fw" aria-hidden="true"></i> <span class="label">Download: </span> <a target="_blank" href="{{ page.file_attachment_path }}">{{ fileurl.last }}</a></span></li>
+        <li class="attachment"><span class="label">Download: </span> <span class="detail"><a target="_blank" href="{{ page.file_attachment_path }}">{{ fileurl.last }}</a></span></li>
       {% endif %}        
     </ul>
   </div>
@@ -24,14 +24,14 @@ layout: default
 {% elsif page.difficulty or page.time_required %}
 <ul class="guide-summary">
   {% if page.difficulty %}
-    <li class="difficulty"><i class="fa fa-cogs fa-fw" aria-hidden="true"></i> <span class="label">Difficulty:</span> <span class="{{ page.difficulty }}">{{ page.difficulty }}</span></li>
+    <li class="difficulty"><i class="fa fa-cogs fa-fw" aria-hidden="true"></i> <span class="label">Difficulty:</span> <span class="detail {{ page.difficulty }}">{{ page.difficulty }}</span></li>
   {% endif %}
   {% if page.time_required %}
-    <li class="time-required"><i class="fa fa-clock-o fa-fw" aria-hidden="true"></i> <span class="label">Time required:</span> {{ page.time_required }}</li>
+    <li class="time-required"><i class="fa fa-clock-o fa-fw" aria-hidden="true"></i> <span class="label">Time required:</span> <span class="detail">{{ page.time_required }}</span></li>
   {% endif %}
   {% if page.file_attachment_path %}
   {% assign fileurl = page.file_attachment_path | split: "/" %}
-    <li class="attachment"><i class="fa fa-download fa-fw" aria-hidden="true"></i> <span class="label">Download: </span> <a target="_blank" href="{{ page.file_attachment_path }}">{{ fileurl.last }}</a></span></li>
+    <li class="attachment"><i class="fa fa-download fa-fw" aria-hidden="true"></i> <span class="label">Download: </span> <span class="detail"><a target="_blank" href="{{ page.file_attachment_path }}">{{ fileurl.last }}</a></span></li>
   {% endif %}    
 </ul>
 {% endif %}
