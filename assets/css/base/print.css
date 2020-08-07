@@ -62,8 +62,11 @@
     display:none !important;
   }
   .logo {
-    width:100px !important;
+    width:75px !important;
     height:auto;
+  }
+  .logo img {
+    padding:5px;
   }
   p {
    margin: 0 auto 1em auto !important;  
