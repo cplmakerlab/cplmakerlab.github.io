@@ -59,12 +59,13 @@
       <section id="logo-site-name">
         <div class="logo"><a href="{{ site.baseurl }}/"><img alt="logo" title="Logo" src="{{site.data.images.logo_image}}" /></a></div>
       </section>
+      <h1 class="page-title print-only">{{ page.title }}</h1>
     </header>
         
 		<section id="container">
           <div class="inner">
             <div id="content" class="container-fluid">
-              <h1>{{ page.title }}</h1>
+              <h1 class="page-title print-hidden">{{ page.title }}</h1>
               {{ content }}
             </div>
           </div>
