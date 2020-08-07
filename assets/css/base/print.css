@@ -4,6 +4,7 @@
     color: #000 !important; /* Black prints faster: h5bp.com/s */
     box-shadow: none !important;
     text-shadow: none !important;
+    font-size:1.2rem;
   }
   body {
     padding-top: 0;
@@ -62,4 +63,14 @@
     width:150px !important;
     height:auto;
   }
+  h1 {
+    font-size: 3rem;
+  }
+  h2 {
+    font-size: 2rem;  
+  }
+  h2, h3, h4 {
+  font-size: 1.4rem;
+  margin-top: 25px;
+  }  
 }
