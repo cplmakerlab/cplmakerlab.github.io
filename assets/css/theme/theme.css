@@ -154,14 +154,12 @@ ul.guide-summary li {
   margin-bottom:10px;
   border:solid 1px #ddd;
   border-radius:5px;
-  font-style:italic;
   text-transform:uppercase;
 }
 
 ul.guide-summary .label {
   text-transform:uppercase;
   font-weight:400;
-  font-style:normal;
   padding-left:.6rem;
 }
 
