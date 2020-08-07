@@ -53,6 +53,10 @@
     background:none !important;
     border-bottom:solid 3px #000;
     min-height:auto !important;
+    overflow:auto;
+  }
+  header #logo-site-name {
+    float:left;
   }
   nav,
   .mobile-menu-icons,
@@ -77,4 +81,11 @@
   h4 { font-size: 1.4rem !important; }
   h5 { font-size: 1.4rem !important; }
   h6 { font-size: 1.4rem !important; }
+  
+  h1.page-title {
+    display:inline-block !important;
+    margin:0 !important;
+    font-size: 2.6rem !important;
+    font-weight:normal !important;
+  }  
 }
