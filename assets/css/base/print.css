@@ -5,8 +5,7 @@
     box-shadow: none !important;
     text-shadow: none !important;
   }
-  @page  
-  { 
+  @page { 
       size: auto;   /* auto is the initial value */ 
   
       /* this affects the margin in the printer settings */ 
