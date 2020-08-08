@@ -9,7 +9,7 @@
       size: auto;   /* auto is the initial value */ 
   
       /* this affects the margin in the printer settings */ 
-      margin: 25mm 25mm 25mm 25mm;  
+      margin: 0;
   }   
   body {
     margin:0;
