@@ -5,7 +5,15 @@
     box-shadow: none !important;
     text-shadow: none !important;
   }
+  @page  
+  { 
+      size: auto;   /* auto is the initial value */ 
+  
+      /* this affects the margin in the printer settings */ 
+      margin: 25mm 25mm 25mm 25mm;  
+  }   
   body {
+    margin:0;
     padding-top: 0;
     font-size:1.4em !important;
   }
