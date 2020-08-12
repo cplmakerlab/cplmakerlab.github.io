@@ -87,9 +87,9 @@ defaults:
       type: "slidedecks"
     values:
       layout: "slidedeck"
-    _options:
-      content:
-        hidden: true
+      _options:
+        content:
+          hidden: true
 
 
 type:
