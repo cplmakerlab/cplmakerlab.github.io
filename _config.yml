@@ -138,7 +138,10 @@ _explore:
         - site_pages
     - heading: How-To Guides
       collections:
-        - guides        
+        - guides   
+    - heading: Slide decks
+      collections:
+        - slidedecks             
     - heading: Blogging
       collections:
         - posts
