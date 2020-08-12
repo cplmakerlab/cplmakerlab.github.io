@@ -40,9 +40,10 @@ layout: default
 
 {{ content }}
 
+<hr class="print-hidden">
 
 {% if page.tags.size > 0 %}
-<span class="tags">
+<span class="tags print-hidden">
   {% for tag in page.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
     <a class="tag-name" href="/tags#{{ tag_name }}">{{ tag_name }}</a> 
