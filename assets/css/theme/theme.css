@@ -183,6 +183,7 @@ ul.guide-summary .detail {
 
 
 #content a.print-icon {
+  display:block;
   float:right:
   border-bottom:none;
   color: #000;
