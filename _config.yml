@@ -77,7 +77,7 @@ defaults:
     scope:
       type: "posts"
     values:
-      layout: "default"
+      layout: "blog"
       comments: false
   -
     scope:
