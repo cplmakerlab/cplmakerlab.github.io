@@ -136,16 +136,16 @@ _explore:
     - heading: Pages
       collections:
         - site_pages
-    - heading: How-To Guides
-      collections:
-        - guides   
-    - heading: Slide decks
-      collections:
-        - slidedecks             
     - heading: Blogging
       collections:
         - posts
-        - drafts
+        - drafts        
+    - heading: How-To Guides
+      collections:
+        - guides   
+    - heading: Slide Decks
+      collections:
+        - slidedecks             
     - heading: Site Settings
       collections:
         - data
