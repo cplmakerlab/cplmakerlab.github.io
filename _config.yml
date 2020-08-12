@@ -113,6 +113,16 @@ difficulties:
 # -----------
 # CloudCannon
 
+
+# Complex array structures
+# See: https://docs.cloudcannon.com/editing/options/input-options/#array-structures
+_array_structures:
+  slides:
+    - label: Slide
+      icon: collections
+      value:
+        content_markdown:
+
 uploads_dir: "uploads/:title"
 
 # CloudCannon Explore UI Settings
