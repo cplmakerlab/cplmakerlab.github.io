@@ -22,18 +22,20 @@ layout: default
   </div>
 </div>
 {% elsif page.difficulty or page.time_required %}
-<ul class="guide-summary">
-  {% if page.difficulty %}
-    <li class="difficulty"><i class="fa fa-cogs fa-fw" aria-hidden="true"></i> <span class="label">Difficulty</span> <span class="detail {{ page.difficulty | downcase }}">{{ page.difficulty }}</span></li>
-  {% endif %}
-  {% if page.time_required %}
-    <li class="time-required"><i class="fa fa-clock-o fa-fw" aria-hidden="true"></i> <span class="label">Time required</span> <span class="detail">{{ page.time_required }}</span></li>
-  {% endif %}
-  {% if page.file_attachment_path %}
-  {% assign fileurl = page.file_attachment_path | split: "/" %}
-    <li class="attachment"><i class="fa fa-file-o fa-fw" aria-hidden="true"></i> <span class="label">File </span> <span class="detail"><a target="_blank" href="{{ page.file_attachment_path }}" download><i class="fa fa-download" aria-hidden="true"></i> {{ fileurl.last }}</a></span></li>
-  {% endif %}    
-</ul>
+<div class="guide-header">
+  <ul class="guide-summary">
+    {% if page.difficulty %}
+      <li class="difficulty"><i class="fa fa-cogs fa-fw" aria-hidden="true"></i> <span class="label">Difficulty</span> <span class="detail {{ page.difficulty | downcase }}">{{ page.difficulty }}</span></li>
+    {% endif %}
+    {% if page.time_required %}
+      <li class="time-required"><i class="fa fa-clock-o fa-fw" aria-hidden="true"></i> <span class="label">Time required</span> <span class="detail">{{ page.time_required }}</span></li>
+    {% endif %}
+    {% if page.file_attachment_path %}
+    {% assign fileurl = page.file_attachment_path | split: "/" %}
+      <li class="attachment"><i class="fa fa-file-o fa-fw" aria-hidden="true"></i> <span class="label">File </span> <span class="detail"><a target="_blank" href="{{ page.file_attachment_path }}" download><i class="fa fa-download" aria-hidden="true"></i> {{ fileurl.last }}</a></span></li>
+    {% endif %}    
+  </ul>
+</div>
 {% endif %}
 
 
