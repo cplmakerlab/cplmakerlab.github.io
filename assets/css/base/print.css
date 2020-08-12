@@ -50,9 +50,11 @@
     border-width: 1px;
     border-left-color: #999;
   }
+  #content .print-only,
   .print-only {
     display: block;
   }
+  #content .print-hidden,
   .print-hidden {
     display:none;  
   }
