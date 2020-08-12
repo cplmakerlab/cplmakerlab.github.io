@@ -58,7 +58,12 @@ collections:
   guides:
     output: true
     permalink: /guide/:path/
-    _singular_name: Guide    
+    _singular_name: Guide
+  slidedecks:
+    output: true
+    permalink: /slidedeck/:path 
+    _singular_name: Slidedeck
+    
 
 
 defaults:
