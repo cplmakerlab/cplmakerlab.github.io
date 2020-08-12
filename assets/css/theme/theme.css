@@ -147,6 +147,7 @@ ul.guide-summary {
   list-style:none;
   margin:0;
   padding:0;
+  margin-bottom:1.6rem;
 }
 ul.guide-summary li {
   display:block;
