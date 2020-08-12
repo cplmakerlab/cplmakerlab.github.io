@@ -16,7 +16,7 @@ layout: default
       {% endif %}
       {% if page.file_attachment_path %}
       {% assign fileurl = page.file_attachment_path | split: "/" %}
-        <li class="attachment"><i class="fa fa-download fa-fw" aria-hidden="true"></i> <span class="label">Download: </span> <span class="detail"><a target="_blank" href="{{ page.file_attachment_path }}" download>{{ fileurl.last }}</a></span></li>
+        <li class="attachment"><i class="fa fa-download fa-fw" aria-hidden="true"></i> <span class="label">File: </span> <span class="detail"><a target="_blank" href="{{ page.file_attachment_path }}" download>{{ fileurl.last }}</a></span></li>
       {% endif %}        
     </ul>
   </div>
@@ -31,7 +31,7 @@ layout: default
   {% endif %}
   {% if page.file_attachment_path %}
   {% assign fileurl = page.file_attachment_path | split: "/" %}
-    <li class="attachment"><i class="fa fa-download fa-fw" aria-hidden="true"></i> <span class="label">Download: </span> <span class="detail"><a target="_blank" href="{{ page.file_attachment_path }}" download>{{ fileurl.last }}</a></span></li>
+    <li class="attachment"><i class="fa fa-download fa-fw" aria-hidden="true"></i> <span class="label">File: </span> <span class="detail"><a target="_blank" href="{{ page.file_attachment_path }}" download>{{ fileurl.last }}</a></span></li>
   {% endif %}    
 </ul>
 {% endif %}
