@@ -63,6 +63,7 @@ collections:
     output: true
     permalink: /slidedeck/:path 
     _singular_name: Slidedeck
+    _hide_content: true
     
 
 
@@ -87,9 +88,6 @@ defaults:
       type: "slidedecks"
     values:
       layout: "slidedeck"
-      _options:
-        content:
-          hidden: true
 
 
 type:
