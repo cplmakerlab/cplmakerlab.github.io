@@ -182,9 +182,9 @@ ul.guide-summary .detail {
 }
 
 
-.print-icon {
-  float-right:
-  text-decoration:none;
+#content a.print-icon {
+  float:right:
+  border-bottom:none;
   color: #000;
 }
 
