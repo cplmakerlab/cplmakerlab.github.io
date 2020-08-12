@@ -83,6 +83,14 @@ defaults:
       type: "guides"
     values:
       layout: "guide"
+  - scope:
+      type: "slidedecks"
+    values:
+      layout: "slidedeck"
+    _options:
+      content:
+        hidden: true
+
 
 type:
   - document
