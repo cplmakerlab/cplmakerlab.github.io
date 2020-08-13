@@ -5,6 +5,8 @@
   subnav:
     - name: How-To Guides
       link: /learn
+    - name: Slide Decks
+      link: /slidedecks
     - name: Workshops
       link: /workshops
     - name: Jobs & Career Training
