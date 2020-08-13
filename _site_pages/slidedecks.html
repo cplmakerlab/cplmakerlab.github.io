@@ -7,7 +7,7 @@ title: Slide Decks
  {% if decks.size > 0 %}
 		<ul>
 		  {% for deck in decks %}
-		    <li><a href="{{ deck.url }}">{{ deck.title }}</a> | <a target="_blank" href="{{deck.url}}?print-pdf"><i class="fa fa-print"></i></a></li>
+		    <li><a target="_blank" href="{{ deck.url }}"><i class="fa fa-newspaper-o"></i> {{ deck.title }}</a></li>
 		  {% endfor %}
 		</ul>
 	{% endif %}
