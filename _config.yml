@@ -88,7 +88,21 @@ defaults:
       type: "slidedecks"
     values:
       layout: "slidedeck"
-
+      _options:
+        content_markdown:
+          format: p h2 h3 h4
+          bold: true
+          italic: true
+          link: true    
+          image: true
+          removeformat: true
+          blockquote: true
+          numberedlist: true
+          bulletedlist: true
+          horizontalrule: true
+          code: true
+          table: true
+          embed: true
 
 type:
   - document
@@ -132,6 +146,7 @@ _array_structures:
     - label: Slide
       icon: collections
       value:
+        title:
         content_markdown:
 
 uploads_dir: "uploads/:title"
