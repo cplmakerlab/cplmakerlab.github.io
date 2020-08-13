@@ -12,7 +12,7 @@ slides:
       ## 1st Amendment
 
 
-      > "Congress shall make no law... abridging the freedom of speech... or the
+      > "Congress shall make no law… abridging the freedom of speech… or the
       right of the people peaceably to assemble and to petition the government
       for a redress of grievances."
     background_color: '#cacaca'
@@ -38,4 +38,7 @@ slides:
 
       &nbsp;
     background_color: '#ebd323'
+  - title:
+    content_markdown:
+    background_color:
 ---
