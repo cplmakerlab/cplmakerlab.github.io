@@ -20,7 +20,7 @@
 		<div class="reveal">
 			<div class="slides">
       {% for slide in page.slides %}
-        <section class="content editable">{{ slide.content_markdown | markdownify }}</section>
+        <section data-background-color="{{ slide.bg_color }}" class="content editable">{{ slide.content_markdown | markdownify }}</section>
       {% endfor %}
 			</div>
 		</div>
@@ -33,11 +33,14 @@
 			// - https://revealjs.com/config/
 			Reveal.initialize({
 				hash: true,
-				slideNumber: 'c/t' 
+				slideNumber: 'c/t',
 				// Learn about plugins: https://revealjs.com/plugins/
 				plugins: [ RevealHighlight ]
 			});
-		
+      Reveal.initialize.then( () => {
+        // reveal.js is ready
+        Reveal.toggleOverview();
+      } )			
 		</script>
 	</body>
 </html>
