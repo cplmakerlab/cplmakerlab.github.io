@@ -17,7 +17,7 @@
 		<div class="reveal">
 			<div class="slides">
       {% for slide in page.slides %}
-        <section>{{ slide.content_markdown }}</section>
+        <section class="content editable">{{ slide.content_markdown | markdownify }}</section>
       {% endfor %}
 			</div>
 		</div>
