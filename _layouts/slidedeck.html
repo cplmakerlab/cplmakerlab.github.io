@@ -17,10 +17,13 @@
 		<link rel="stylesheet" href="{{ site.baseurl }}/assets/js/revealjs/plugin/highlight/monokai.css" id="highlight-theme" />
 	</head>
 	<body>
+	  <div class="slidedeck-branding">
+	     
+	  </div>
 		<div class="reveal">
 			<div class="slides">
       {% for slide in page.slides %}
-        <section data-background-color="{{ slide.bg_color }}" class="content editable">{{ slide.content_markdown | markdownify }}</section>
+        <section data-background-color="{{ slide.background_color }}" class="content editable">{{ slide.content_markdown | markdownify }}</section>
       {% endfor %}
 			</div>
 		</div>
