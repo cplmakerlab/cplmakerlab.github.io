@@ -62,7 +62,7 @@ collections:
   slidedecks:
     output: true
     permalink: /slidedeck/:path 
-    _singular_name: Slidedeck
+    _singular_name: Slide Deck
     _hide_content: true
     
 
