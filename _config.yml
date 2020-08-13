@@ -148,7 +148,7 @@ _array_structures:
       value:
         title:
         content_markdown:
-
+        
 uploads_dir: "uploads/:title"
 
 # CloudCannon Explore UI Settings
