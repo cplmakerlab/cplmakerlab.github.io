@@ -36,12 +36,13 @@
 				slideNumber: 'c/t',
 				// Learn about plugins: https://revealjs.com/plugins/
 				plugins: [ RevealHighlight ]
-			});
-      Reveal.initialize.then(function() {
-        // reveal.js is ready
-        console.log('fired');
-        Reveal.toggleOverview(true);
-      });
+			}).then(
+  			function(){
+          console.log('fired');
+          Reveal.toggleOverview(true);			 
+  			}
+			);
+
 		</script>
 	</body>
 </html>
