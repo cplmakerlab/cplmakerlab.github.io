@@ -20,7 +20,7 @@
 		<div class="reveal">
 			<div class="slides">
       {% for slide in page.slides %}
-        <section data-background-color="{{ slide.bg_color }}" class="content editable">{{ slide.content_markdown | markdownify }}</section>
+        <section class="content editable">{{ slide.content_markdown | markdownify }}</section>
       {% endfor %}
 			</div>
 		</div>
