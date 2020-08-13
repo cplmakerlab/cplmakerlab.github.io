@@ -1,0 +1,13 @@
+img {
+  max-width:100%;
+  height:auto;
+}
+
+iframe {
+  width:100%;
+}
+
+img.guide-example-image {
+  border-radius:5px;
+  border:solid 1px #ddd;
+}
