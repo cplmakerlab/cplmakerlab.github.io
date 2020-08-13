@@ -16,16 +16,11 @@
 	<body>
 		<div class="reveal">
 			<div class="slides">
-				<section>Slide 1</section>
-				<section>Slide 2</section>
+      {% for slide in page.slides %}
+        <section>{{ slide.content_markdown }}</section>
+      {% endfor %}
 			</div>
 		</div>
-		
-    {% for slide in page.slides %}
-      <section>{{ slide.content_markdown }}</section>
-    {% endfor %}
-		
-		
 
 		<script src="{{ site.baseurl }}/assets/js/revealjs/dist/reveal.js"></script>
 		<script src="{{ site.baseurl }}/assets/js/revealjs/plugin/notes/notes.js"></script>
