@@ -4,8 +4,8 @@ title: Slide Decks
 
     
 {% for topic in topics %}
- {% assign decks = site.slidedecks | sort %}
- {% if guides.size > 0 %}
+ {% assign decks = site.slidedecks %}
+ {% if decks.size > 0 %}
 		<ul>
 		  {% for deck in decks %}
 		    <li><a href="{{ deck.url }}">{{ deck.title }}</a> | <a target="_blank" href="{{deck.url}}?print-pdf"><i class="fa fa-print"></i></a></li>
