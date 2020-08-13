@@ -1,5 +1,5 @@
 ---
 title:
 slides:
-slide_theme:
+slide_theme: simple
 ---
