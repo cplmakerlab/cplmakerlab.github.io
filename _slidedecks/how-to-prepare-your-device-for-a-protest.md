@@ -1,6 +1,6 @@
 ---
 title: How to prepare your device for a protest
-slide_theme: moon
+slide_theme: sky
 slides:
   - title: Background
     content_markdown: |-
