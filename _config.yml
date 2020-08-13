@@ -161,7 +161,7 @@ _array_structures:
       value:
         title:
         content_markdown:
-        bg_color:
+        background_color:
         
 uploads_dir: "uploads/:title"
 
