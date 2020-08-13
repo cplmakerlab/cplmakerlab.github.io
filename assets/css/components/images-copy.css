@@ -1,13 +1,7 @@
-img {
-  max-width:100%;
-  height:auto;
-}
-
-iframe {
-  width:100%;
-}
-
-img.guide-example-image {
-  border-radius:5px;
-  border:solid 1px #ddd;
+.slidedeck-branding {
+  position:absolute;
+  bottom:0;
+  left:0;
+  width:75px;
+  padding:2rem;
 }
