@@ -1,5 +1,5 @@
 ---
 title:
 slides:
-slide_theme: simple
+slide_theme: blood
 ---
