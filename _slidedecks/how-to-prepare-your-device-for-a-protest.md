@@ -1,6 +1,6 @@
 ---
 title: How to prepare your device for a protest
-slide_theme: night
+slide_theme: blood
 slides:
   - title: Background
     content_markdown: |-
