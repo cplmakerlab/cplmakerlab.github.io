@@ -203,6 +203,14 @@ ul.guide-summary .detail {
 .tags .tag-name:hover {
   background-color:#f6f6f6;
 }
+.listjs-search {
+  margin-bottom:25px;
+  position:relative;
+}
+.listjs-search .fa-search {
+  position:absolute;
+  right:5px;
+}
 
 
 
