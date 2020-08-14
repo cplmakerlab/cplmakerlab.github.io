@@ -23,10 +23,10 @@ header_image: uploads/coding.jpg
   </div>
   <div class="col-sm-8">
     <div id="guide-list">
-      <div class="list">
         <input class="search" />
-        <span class="sort" data-sort="topic">Sort by topic</span>      
-        <span class="sort" data-sort="title">Sort by title</span>
+        <span class="sort button" data-sort="topic">Sort by topic</span>      
+        <span class="sort button" data-sort="title">Sort by title</span>      
+      <div class="list">
         {% for topic in topics %}
          {% assign guides = site.guides | where:"topic",topic %}
          {% if guides.size > 0 %}
