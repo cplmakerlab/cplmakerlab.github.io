@@ -33,5 +33,11 @@ jQuery(function() {
       }
     });
     
+    /* ListJS search*/
+    var options = {
+      valueNames: [ 'title', 'topic' ]
+    };
+    var guideList = new List('guide-list', options); 
+    
 });
 
