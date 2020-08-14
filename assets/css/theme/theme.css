@@ -206,6 +206,10 @@ ul.guide-summary .detail {
 .listjs-search {
   margin-bottom:25px;
   position:relative;
+  max-width:300px;
+}
+.listjs-search input {
+  width:100%;
 }
 .listjs-search .fa-search {
   position:absolute;
