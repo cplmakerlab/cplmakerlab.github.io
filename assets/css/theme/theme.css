@@ -210,6 +210,8 @@ ul.guide-summary .detail {
 }
 .listjs-search input {
   width:100%;
+  padding:10px;
+  border-radius:10px;
 }
 .listjs-search .fa-search {
   position:absolute;
