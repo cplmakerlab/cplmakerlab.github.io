@@ -22,20 +22,29 @@ header_image: uploads/coding.jpg
     
   </div>
   <div class="col-sm-8">
-    
-    {% for topic in topics %}
-     {% assign guides = site.guides | where:"topic",topic %}
-     {% if guides.size > 0 %}
-  		<section class="category">
-  			<h4>{{ topic }}<a name="{{topic}}"></a></h4>
-  			<ul>
-  			  {% for guide in guides %}
-  			    <li><a href="{{ guide.url }}">{{ guide.title }}</a></li>
-  			  {% endfor %}
-  			</ul>
-  		</section>
-  		{% endif %}
-  	{% endfor %}    
-    
+    <div id="guide-list">
+      <input class="search" />
+      <span class="sort" data-sort="topic">Sort by topic</span>      
+      <span class="sort" data-sort="title">Sort by title</span>
+      {% for topic in topics %}
+       {% assign guides = site.guides | where:"topic",topic %}
+       {% if guides.size > 0 %}
+    		<section class="category">
+    			<h4 class="topic">{{ topic }}<a name="{{topic}}"></a></h4>
+    			<ul>
+    			  {% for guide in guides %}
+    			    <li class="title"><a href="{{ guide.url }}">{{ guide.title }}</a></li>
+    			  {% endfor %}
+    			</ul>
+    		</section>
+    		{% endif %}
+    	{% endfor %}    
+    </div>
   </div>
 </section>
+<script>
+  var options = {
+    valueNames: [ 'title', 'topic' ]
+  };
+  var guideList = new List('guide-list', options);  
+</script>
