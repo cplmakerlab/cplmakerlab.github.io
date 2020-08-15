@@ -214,7 +214,7 @@ ul.guide-summary .detail {
   border-radius:5px;
   border:solid 1px #ddd;
 }
-.listjs-search input:focus {
+.listjs-search input:outline {
   border-color:#666;
 }
 .listjs-search .fa-search {
