@@ -214,11 +214,14 @@ ul.guide-summary .detail {
   border-radius:5px;
   border:solid 1px #ddd;
 }
+.listjs-search input:focus {
+  border-color:#666;
+}
 .listjs-search .fa-search {
   position:absolute;
   right:10px;
   top:9px;
-  color:#ddd;
+  color:#666;
 }
 
 
