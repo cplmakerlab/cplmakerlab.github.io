@@ -8,13 +8,13 @@
     - name: How-To Guides
       link: /learn
       open_in_new_window: false
-    - name: Workshops
-      link: >-
-        https://chipublib.bibliocommons.com/events/search/fq=program:(53f20a07e04c1e3b1c00d3e4)
-      open_in_new_window: true
     - name: Slide Decks
       link: /slidedecks
       open_in_new_window: false
+    - name: Workshops & Events
+      link: >-
+        https://chipublib.bibliocommons.com/events/search/fq=program:(53f20a07e04c1e3b1c00d3e4)
+      open_in_new_window: true
     - name: Jobs & Career Training
       link: /continuing-education
       open_in_new_window: false
@@ -31,12 +31,15 @@
       link: /materials
       open_in_new_window: false
 - name: Community
-  link: /community
+  link: /blog
   open_in_new_window: false
   subnav:
-    - name: Organizations
+    - name: Blog
+      link: /blog
+      open_in_new_window: false
+    - name: Local organizations
       link: /organizations
       open_in_new_window: false
-    - name: Other Library Makerspaces
-      link: /library-makerspaces
-      open_in_new_window: false
+    - name: Nation of Makers
+      link: 'https://www.nationofmakers.us/'
+      open_in_new_window: true
