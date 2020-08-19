@@ -39,7 +39,9 @@
     border:none;
     border-bottom:solid 3px transparent;
     transition-duration: 0.5s;
-    
+  }
+  .menu li li a {
+    min-width:150px;  
   }
   .menu li:hover a,
   .menu li:focus-within a {
