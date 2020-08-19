@@ -1,14 +1,6 @@
 - name: Home
   link: /
   open_in_new_window: false
-- name: Events
-  link: >-
-    https://chipublib.bibliocommons.com/events/search/fq=program:(53f20a07e04c1e3b1c00d3e4)
-  open_in_new_window: true
-  subnav:
-    - name:
-      link:
-      open_in_new_window: false
 - name: Learn
   link: /learn
   open_in_new_window: false
@@ -33,6 +25,14 @@
       open_in_new_window: false
     - name: Materials
       link: /materials
+      open_in_new_window: false
+- name: Events
+  link: >-
+    https://chipublib.bibliocommons.com/events/search/fq=program:(53f20a07e04c1e3b1c00d3e4)
+  open_in_new_window: true
+  subnav:
+    - name:
+      link:
       open_in_new_window: false
 - name: Community
   link: /community
