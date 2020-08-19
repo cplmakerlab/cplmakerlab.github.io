@@ -27,3 +27,9 @@
       link: /organizations
     - name: Other Library Makerspaces
       link: /library-makerspaces
+- name: Events
+  link: >-
+    https://chipublib.bibliocommons.com/events/search/fq=program:(53f20a07e04c1e3b1c00d3e4)
+  subnav:
+    - name:
+      link:
