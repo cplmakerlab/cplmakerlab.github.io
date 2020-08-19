@@ -20,6 +20,16 @@
       link: /software
     - name: Materials
       link: /materials
+- name: Events
+  link: >-
+    https://chipublib.bibliocommons.com/events/search/fq=program:(53f20a07e04c1e3b1c00d3e4)
+  subnav:
+    - name: All events
+      link: >-
+        https://chipublib.bibliocommons.com/events/search/fq=program:(53f20a07e04c1e3b1c00d3e4)
+    - name: Upcoming events
+      link: >-
+        https://chipublib.bibliocommons.com/events/search/fq=program:(53f20a07e04c1e3b1c00d3e4)
 - name: Community
   link: /community
   subnav:
@@ -27,9 +37,3 @@
       link: /organizations
     - name: Other Library Makerspaces
       link: /library-makerspaces
-- name: Events
-  link: >-
-    https://chipublib.bibliocommons.com/events/search/fq=program:(53f20a07e04c1e3b1c00d3e4)
-  subnav:
-    - name:
-      link:
