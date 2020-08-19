@@ -1,0 +1,46 @@
+---
+title: Guides
+header_image: uploads/coding.jpg
+---
+
+{% assign topics = site.topics | sort: "name" %}
+ 
+<section class="row topics">
+  <div class="col-sm-4">
+
+    <div class="jump-nav">
+      <h3>Topics</h3>
+      <ul>
+      {% for topic in topics %}
+       {% assign guides = site.guides | where:"topic",topic %}
+       {% if guides.size > 0 %}
+    			<li><a href="#{{ topic }}">{{ topic }}</a></li>
+    		{% endif %}
+    	{% endfor %}
+  	  </ul>
+  	</div>
+    
+  </div>
+  <div class="col-sm-8">
+    <div id="guide-list">
+      <div class="listjs-search">
+        <input placeholder="Filter..." class="search" /> <i class="fa fa-search"></i>
+      </div>
+      <div class="list">
+        {% for topic in topics %}
+         {% assign guides = site.guides | where:"topic",topic %}
+         {% if guides.size > 0 %}
+      		<section class="category">
+      			<h4 class="topic">{{ topic }}<a name="{{topic}}"></a></h4>
+      			<ul>
+      			  {% for guide in guides %}
+      			    <li class="title"><a href="{{ guide.url }}">{{ guide.title }}</a></li>
+      			  {% endfor %}
+      			</ul>
+      		</section>
+      		{% endif %}
+      	{% endfor %} 
+    	</div>
+    </div>
+  </div>
+</section>
