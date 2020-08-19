@@ -1,5 +1,5 @@
 ---
-title: Community
+title: Local organizations
 header_image: /uploads/2020/08/01/community/community.jpg
 ---
 
