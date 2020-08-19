@@ -45,9 +45,7 @@
   }
   .menu li li a.active {
     border:0;
-    border-left:solid 3px #d35400;
-    border-right:solid 3px #d35400;
-    
+    color:#d35400;
   }  
   .menu li:hover a,
   .menu li:focus-within a {
