@@ -5,29 +5,41 @@
 	<a class="editor-link btn" href="cloudcannon:collections/_data/navigation.yml" class="btn" style="padding: 5px;"><strong>&#9998;</strong> Edit navigation</a>
 	<ul id="main-menu" class="menu side-scroll">
   	{%- for link in site.data.navigation -%}
-    	{%- assign class = "" -%}
-    	{%- assign aria = "" -%}
-  
+
+
+    	{%- assign class = "" -%}  
   		{%- if link.link == page.url -%}
   			{%- assign class = class | append: " active" -%}
   		{%- endif -%}
   		
+    	{%- assign aria = "" -%}  		
       {%- if link.subnav.size > 0 -%}
         {%- assign aria = aria | append: "true" -%}
       {%- endif -%}
       
-  		<li><a href="{%- include relative-src.html src=link.link -%}" aria-haspopup="{{- aria -}}" class="{{- class -}}">{{- link.name -}}</a>
+      {%- assign target = "" -%}
+      {%- if link.open_in_new_window == true -%}
+        {%- assign target = target | append: "_blank" -%}
+      {%- endif -%}
+      
+  		<li><a href="{%- include relative-src.html src=link.link -%}" aria-haspopup="{{- aria -}}" class="{{- class -}}" target="{{- target -}}">{{- link.name -}}</a>
   		  {%- if link.subnav.size > 0 -%}
   		  <ul class="dropdown" aria-label="submenu">
   		    {%- for sublink in link.subnav -%}
             {%- assign subclass = "" -%}
-    
         		{%- if sublink.link == page.url -%}
         			{%- assign subclass = subclass | append: " active" -%}
         		{%- endif -%}
+
+            {%- assign subtarget = "" -%}
+            {%- if sublink.open_in_new_window == true -%}
+              {%- assign subtarget = subtarget | append: "_blank" -%}
+            {%- endif -%}        		
+        		
             {%- if sublink.name.size > 0 -%}
-           	  <li><a href="{%- include relative-src.html src=sublink.link -%}" class="{{- subclass -}}">{{- sublink.name -}}</a>
+           	  <li><a href="{%- include relative-src.html src=sublink.link -%}" class="{{- subclass -}}" target="{{- subtarget -}}">{{- sublink.name -}}</a>
            	{%- endif  -%}
+    		  
     		  {%- endfor -%}
   		  </ul>
   		  {%- endif -%}
