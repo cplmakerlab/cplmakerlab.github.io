@@ -8,6 +8,9 @@
     - name: How-To Guides
       link: /learn
       open_in_new_window: false
+    - name: Videos
+      link: 'https://www.youtube.com/channel/UCgYrYjnoluGLUl-fdpSMSJQ/videos'
+      open_in_new_window: true
     - name: Slide Decks
       link: /slidedecks
       open_in_new_window: false
