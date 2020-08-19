@@ -43,6 +43,9 @@
   .menu li li a {
     min-width:150px;  
   }
+  .menu li li a.active {
+    border:0 0 0 3px;
+  }  
   .menu li:hover a,
   .menu li:focus-within a {
     background:#ccc;
