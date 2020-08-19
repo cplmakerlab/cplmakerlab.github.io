@@ -3,11 +3,15 @@ title: Blog
 header_image: 
 ---
 
-<ul>
-  {% for post in site.posts %}
+{% for post in site.posts limit:1 %}
+  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  {{ post.excerpt }}
+{% endfor %}
+
+<h1>Older Posts</h1>
+{% for post in site.posts offset:1%}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
       {{ post.excerpt }}
     </li>
-  {% endfor %}
-</ul>
+{% endfor %}
