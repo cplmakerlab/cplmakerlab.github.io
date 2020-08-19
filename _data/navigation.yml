@@ -3,7 +3,7 @@
   open_in_new_window: false
 - name: Learn
   link: /learn
-  open_in_new_window: false  
+  open_in_new_window: false
   subnav:
     - name: How-To Guides
       link: /learn
@@ -11,35 +11,36 @@
     - name: Slide Decks
       link: /slidedecks
       open_in_new_window: false
-    - name: Workshops
-      link: /workshops
-      open_in_new_window: false  
     - name: Jobs & Career Training
       link: /continuing-education
-      open_in_new_window: false  
+      open_in_new_window: false
 - name: Make
   link: /make
   subnav:
     - name: Equipment
       link: /equipment
-      open_in_new_window: false  
+      open_in_new_window: false
     - name: Software
       link: /software
-      open_in_new_window: false  
+      open_in_new_window: false
     - name: Materials
       link: /materials
-      open_in_new_window: false  
-- name: Events
-  link: https://chipublib.bibliocommons.com/events/search/fq=program:(53f20a07e04c1e3b1c00d3e4)
-  open_in_new_window: true
+      open_in_new_window: false
 - name: Community
   link: /community
-  open_in_new_window: false  
+  open_in_new_window: false
   subnav:
     - name: Organizations
       link: /organizations
-      open_in_new_window: false  
+      open_in_new_window: false
     - name: Other Library Makerspaces
       link: /library-makerspaces
-      open_in_new_window: false  
-      
+      open_in_new_window: false
+- name: Events
+  link: >-
+    https://chipublib.bibliocommons.com/events/search/fq=program:(53f20a07e04c1e3b1c00d3e4)
+  open_in_new_window: true
+  subnav:
+    - name:
+      link:
+      open_in_new_window: false
