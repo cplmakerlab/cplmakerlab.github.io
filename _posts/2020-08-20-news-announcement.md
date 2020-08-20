@@ -13,4 +13,6 @@ We're happy to announce that we have a news announcement. There has never been a
 
 A foldable box:
 
+&nbsp;
+
 ![](/uploads/news-announcement/box-template.jpg){: width="1000" height="1000"}
