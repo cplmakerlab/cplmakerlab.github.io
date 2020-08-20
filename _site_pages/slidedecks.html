@@ -5,9 +5,9 @@ title: Slide Decks
     
  {% assign decks = site.slidedecks %}
  {% if decks.size > 0 %}
-		<ul>
+		<ul class="slidedecks">
 		  {% for deck in decks %}
-		    <li><a target="_blank" href="{{ deck.url }}"><i class="fa fa-newspaper-o"></i> {{ deck.title }}</a></li>
+		    <li><i class="fa fa-window-maximize"></i> <a target="_blank" href="{{ deck.url }}">{{ deck.title }}</a></li>
 		  {% endfor %}
 		</ul>
 	{% endif %}
