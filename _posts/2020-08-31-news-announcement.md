@@ -1,5 +1,5 @@
 ---
-date: 2020-07-31 00:00:00
+date: 2020-08-31 00:00:00
 title: News announcement
 tags:
   - news
