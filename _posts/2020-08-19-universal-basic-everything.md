@@ -1,7 +1,6 @@
 ---
 date: 2020-08-19 22:37:28
 title: Universal Basic Everything
-author: John
 tags:
   - news
 ---
