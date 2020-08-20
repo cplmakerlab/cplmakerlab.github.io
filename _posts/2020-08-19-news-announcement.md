@@ -1,5 +1,5 @@
 ---
-date: 2020-08-20 12:03:00
+date: 2020-08-19 12:03:00
 title: News announcement
 tags:
   - news
