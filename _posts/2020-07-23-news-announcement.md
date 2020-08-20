@@ -1,7 +1,7 @@
 ---
 date: 2020-07-23 00:00:00
 title: News announcement
-author:
+author: Sasha
 tags:
   - news
   - cardboard
