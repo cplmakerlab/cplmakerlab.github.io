@@ -1,5 +1,5 @@
 ---
-date: 2020-08-19 22:37:00
+date: 2020-08-05 22:37:00
 title: A cool article about seagulls
 tags:
   - news
