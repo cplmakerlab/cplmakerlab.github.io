@@ -18,6 +18,8 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 .helper-controls {
   line-height:60px;
   font-size:1.6rem;
+  display:inline-block;
+  vertical-align:top;
 }
 /*********************************************
  * GLOBAL STYLES
