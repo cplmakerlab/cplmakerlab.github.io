@@ -25,6 +25,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   font-size:1.6rem;
   display:inline-block;
   vertical-align:top;
+  padding-left:5px;
 }
 .helper-controls i {
   cursor:pointer;  
