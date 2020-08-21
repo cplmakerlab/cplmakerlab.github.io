@@ -109,13 +109,13 @@ type:
   - how-to
   - video
   
-# Topics are used to organize guides. 
+# Categories are topics used to organize guides. 
 # Each guide in the collection is assigned a single topic from a dropdown list.
 # Here we define the option for "topics:" (plural) but in the guide frontmatter we use "topic:" (singular form)
 # The reason is because Cloudcannon convention shows a multiselect dropdown for "topics:" but only a single select dropdown for "topic:".
 # See: https://docs.cloudcannon.com/editing/interfaces/inputs/#general-inputs/select
 # @@TODO find out if this is also a Jekyll/Ruby convention...
-topics:
+categories:
   - 2D design
   - 3D design
   - 3D printing  
