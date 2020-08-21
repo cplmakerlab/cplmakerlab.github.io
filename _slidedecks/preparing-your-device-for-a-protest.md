@@ -32,6 +32,7 @@ slides:
 
       A bit more text here.
     background_color: '#d67a7a'
+    background_image:
   - title: Social Media Monitoring
     content_markdown: |-
       ## Open Oversight Information on Social Media Monitoring
