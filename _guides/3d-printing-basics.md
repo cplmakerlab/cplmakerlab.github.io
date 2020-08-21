@@ -1,7 +1,7 @@
 ---
 title: 3D Printing Basics
-topic: 3D printing
-categories:
+categories: 
+tags:
   - makerbot
   - ultimaker
 example_image: /uploads/3d-printing-basics/3d-printers-at-chicago-public-library.jpg
