@@ -46,8 +46,20 @@ slides:
       &nbsp;
     background_color: '#ebd323'
     background_image:
-  - title:
-    content_markdown:
-    background_color:
-    background_image:
+  - title: Testing 123
+    content_markdown: >-
+      ## Another slide for another day
+
+
+      [Just an easy way to see things](http://google.com){: target="_blank"
+      rel="noopener"}
+
+
+      Lorem ipsum lots of text\!
+
+
+      ![](/uploads/parts-of-a-sewing-machine/sewing-machine-notes.svg){:
+      width="816" height="1056"}
+    background_color: '#953838'
+    background_image: /uploads/news-announcement/box-template.jpg
 ---
