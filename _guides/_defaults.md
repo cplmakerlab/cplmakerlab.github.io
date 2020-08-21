@@ -8,22 +8,17 @@ time_required:
 file_attachment_path:
 ---
 
-
-Write a brief overview or description of what this guide is about. 
-
-[optional] Embed a youtube video. 
+Brief description of what this guide is about. 
 
 ### Step 1
 
-Enter step details...photos and screenshots may help.
+Enter step details and any images that may help.
 
 ### Step 2
 
-Enter step details...photos and screenshots may help.
+Enter step details and any images that may help.
 
-### Step 3
-
-Enter step details...photos and screenshots may help.
+...continue adding more steps as needed.
 
 ### Congratulations!
 
