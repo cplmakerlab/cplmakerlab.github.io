@@ -9,8 +9,10 @@
 		<link rel="stylesheet" href="{{ site.baseurl }}/assets/js/revealjs/dist/reset.css" />
 		<link rel="stylesheet" href="{{ site.baseurl }}/assets/js/revealjs/dist/reveal.css" />
 		{% if page.slide_theme and page.slide_theme != 'makerlab' %}
+		  <!-- revealjs default stylesheets -->
 		  <link rel="stylesheet" href="{{ site.baseurl }}/assets/js/revealjs/dist/theme/{{ page.slide_theme }}.css" id="theme" />
     {% else %}
+      <!-- custom stylesheet -->
       <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/components/slidedeck.css" id="theme" />
     {% endif %}
 		<!-- Theme used for syntax highlighted code -->
