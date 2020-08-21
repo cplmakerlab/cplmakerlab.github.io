@@ -11,11 +11,13 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   padding:10px;
   bottom:0;
   left:0;
-  line-height:60px;
-  font-size:2rem;
 }
 .slidedeck-branding img {
   width:60px;
+}
+.helper-controls {
+  line-height:60px;
+  font-size:1.6rem;
 }
 /*********************************************
  * GLOBAL STYLES
