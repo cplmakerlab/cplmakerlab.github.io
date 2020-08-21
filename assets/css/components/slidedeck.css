@@ -19,18 +19,8 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 * Fix for large image content getting cut off
 * https://github.com/hakimel/reveal.js/issues/2342
 */
-.slides {
-  overflow-y: scroll !important;
-  pointer-events: auto !important;
-}
-.slides {
-  scrollbar-width: none; /* For Firefox */
-  -ms-overflow-style: none; /* For Internet Explorer and Edge */
-}
 
-.slides::-webkit-scrollbar {
-  width: 0px; /* For Chrome, Safari, and Opera */
-}
+
 
 /*
 .helper-controls {
