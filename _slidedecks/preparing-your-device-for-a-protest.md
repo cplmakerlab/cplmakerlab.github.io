@@ -21,13 +21,12 @@ slides:
       ## Threat modeling
 
 
-      ![](/uploads/screen-shot-2020-07-15-at-4-31-16-pm.png){: width="865"
-      height="612"}
-
-
       [Surveillance map and data from
       LPL](https://redshiftzero.github.io/policesurveillance/){: target="_blank"
       rel="noopener"}
+
+
+      ![](/uploads/background.jpg){: width="1920" height="1080"}
     background_color: '#d67a7a'
   - title: Social Media Monitoring
     content_markdown: |-
