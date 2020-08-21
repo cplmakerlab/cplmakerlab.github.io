@@ -1,5 +1,5 @@
 ---
-title: Preparing your device for a protest
+title: Test slidedeck
 slides:
   - title: Intro
     content_markdown: |-
