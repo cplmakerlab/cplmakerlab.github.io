@@ -3,7 +3,7 @@ title: Guides
 header_image: uploads/coding.jpg
 ---
 
-{% assign topics = site.topics | sort: "name" %}
+{% assign topics = site.categories | sort: "name" %}
  
 <section class="row topics">
   <div class="col-sm-4">
@@ -12,7 +12,7 @@ header_image: uploads/coding.jpg
       <h3>Topics</h3>
       <ul>
       {% for topic in topics %}
-       {% assign guides = site.guides | where:"topic",topic %}
+       {% assign guides = site.guides | where:"category",topic %}
        {% if guides.size > 0 %}
     			<li><a href="#{{ topic }}">{{ topic }}</a></li>
     		{% endif %}
@@ -28,7 +28,7 @@ header_image: uploads/coding.jpg
       </div>
       <div class="list">
         {% for topic in topics %}
-         {% assign guides = site.guides | where:"topic",topic %}
+         {% assign guides = site.guides | where:"category",topic %}
          {% if guides.size > 0 %}
       		<section class="category">
       			<h4 class="topic">{{ topic }}<a name="{{topic}}"></a></h4>
