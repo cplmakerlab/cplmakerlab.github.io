@@ -126,8 +126,8 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 .reveal img,
 .reveal video,
 .reveal iframe {
-  max-width: 50%;
-  height: auto; 
+  width: auto;
+  height: 75vh; 
 }
 
 .reveal strong,
