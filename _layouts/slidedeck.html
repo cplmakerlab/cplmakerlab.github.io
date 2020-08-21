@@ -51,7 +51,19 @@
           Reveal.toggleOverview();
          });
          document.querySelector('.fullscreen').addEventListener('click', function(){
-          Reveal.toggleFullscreen();
+           // Toggle fullscreen
+          	element = element || document.documentElement;
+          
+          	// Check which implementation is available
+          	let requestMethod = element.requestFullscreen ||
+          						element.webkitRequestFullscreen ||
+          						element.webkitRequestFullScreen ||
+          						element.mozRequestFullScreen ||
+          						element.msRequestFullscreen;
+          
+          	if( requestMethod ) {
+          		requestMethod.apply( element );
+          	}
          });
   			}
 			);
