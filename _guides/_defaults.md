@@ -1,6 +1,6 @@
 ---
 title:  
-topic:
+category:
 tags:
 example_image:
 difficulty:
