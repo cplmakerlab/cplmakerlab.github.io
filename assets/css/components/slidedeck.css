@@ -130,7 +130,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 .reveal video,
 .reveal iframe {
   max-width: 95%;
-  max-height: 95%;
+  max-height: 65vh;
   }
 
 .reveal strong,
@@ -303,10 +303,6 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   background: rgba(0, 0, 0, 0.2);
   color: #DD2C00; }
 
-img, video, iframe {
-  height: 65vh;
-  max-width: 80vw;
-}  
 /*********************************************
  * PRINT BACKGROUND
  *********************************************/
