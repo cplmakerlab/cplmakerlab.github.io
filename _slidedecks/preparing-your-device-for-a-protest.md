@@ -28,6 +28,9 @@ slides:
 
       ![](/uploads/screen-shot-2020-07-15-at-4-31-16-pm.png){: width="865"
       height="612"}
+
+
+      A bit more text here.
     background_color: '#d67a7a'
   - title: Social Media Monitoring
     content_markdown: |-
