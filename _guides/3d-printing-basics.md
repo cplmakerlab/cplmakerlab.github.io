@@ -1,10 +1,6 @@
 ---
 title: 3D Printing Basics
-categories:
-  - 3D printing
-  - Coding
-  - Crafts
-  - Electronic cutter
+category:
 tags:
   - makerbot
 example_image: /uploads/3d-printing-basics/3d-printers-at-chicago-public-library.jpg
