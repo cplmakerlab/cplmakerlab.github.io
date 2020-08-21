@@ -7,6 +7,7 @@ slides:
 
       CPL Makerlab workshop via Zoom
     background_color:
+    background_image:
   - title: First amendment
     content_markdown: >-
       ## 1st Amendment
@@ -16,6 +17,7 @@ slides:
       right of the people peaceably to assemble and to petition the government
       for a redress of grievances."
     background_color: '#cacaca'
+    background_image:
   - title: Threat modeling
     content_markdown: >-
       ## Threat modeling
@@ -43,7 +45,9 @@ slides:
 
       &nbsp;
     background_color: '#ebd323'
+    background_image:
   - title:
     content_markdown:
     background_color:
+    background_image:
 ---
