@@ -7,7 +7,10 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 
 
 .slidedeck-branding {
-  display:none;
+  position:absolute;
+  width:50px;
+  bottom:0;
+  left:0;
 }
 /*********************************************
  * GLOBAL STYLES
