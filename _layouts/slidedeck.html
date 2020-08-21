@@ -47,10 +47,10 @@
 			}).then(
   			function(){
          // Reveal.toggleOverview(true);			
-         document.querySelector('.overview').onClick(function(){
+         document.querySelector('.overview').addEventListener('click', function(){
           Reveal.toggleOverview();
          });
-         document.querySelector('.fullscreen').onClick(function(){
+         document.querySelector('.fullscreen').addEventListener('click', function(){
           Reveal.toggleFullscreen();
          });
   			}
