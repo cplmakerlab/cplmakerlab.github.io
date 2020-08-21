@@ -15,6 +15,14 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 .slidedeck-branding img {
   width:60px;
 }
+/**
+* Fix for large image content getting cut off
+* https://github.com/hakimel/reveal.js/issues/2342
+*/
+.slides {
+  overflow: scroll !important;
+  pointer-events: auto !important;
+}
 /*
 .helper-controls {
   line-height:60px;
