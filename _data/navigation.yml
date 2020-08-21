@@ -2,11 +2,11 @@
   link: /
   open_in_new_window: false
 - name: Learn
-  link: /learn
+  link: /guides
   open_in_new_window: false
   subnav:
     - name: How-To Guides
-      link: /learn
+      link: /guides
       open_in_new_window: false
     - name: Videos
       link: 'https://www.youtube.com/channel/UCgYrYjnoluGLUl-fdpSMSJQ/videos'
