@@ -36,6 +36,32 @@
 		<script src="{{ site.baseurl }}/assets/js/revealjs/plugin/highlight/highlight.js"></script>
 		<script src="{{ site.baseurl }}/assets/js/revealjs/plugin/zoom/zoom.js"></script>
 		<script>
+      function toggleFullscreen(elem) {
+        elem = elem || document.documentElement;
+      
+        if (!document.fullscreenElement && !document.mozFullScreenElement &&
+          !document.webkitFullscreenElement && !document.msFullscreenElement) {
+          if (elem.requestFullscreen) {
+            elem.requestFullscreen();
+          } else if (elem.msRequestFullscreen) {
+            elem.msRequestFullscreen();
+          } else if (elem.mozRequestFullScreen) {
+            elem.mozRequestFullScreen();
+          } else if (elem.webkitRequestFullscreen) {
+            elem.webkitRequestFullscreen(Element.ALLOW_KEYBOARD_INPUT);
+          }
+        } else {
+          if (document.exitFullscreen) {
+            document.exitFullscreen();
+          } else if (document.msExitFullscreen) {
+            document.msExitFullscreen();
+          } else if (document.mozCancelFullScreen) {
+            document.mozCancelFullScreen();
+          } else if (document.webkitExitFullscreen) {
+            document.webkitExitFullscreen();
+          }
+        }
+      }			
 			// More info about initialization & config:
 			// - https://revealjs.com/initialization/
 			// - https://revealjs.com/config/
@@ -52,18 +78,7 @@
          });
          document.querySelector('.fullscreen').addEventListener('click', function(){
            // Toggle fullscreen
-          	var element = document.documentElement;
-          
-          	// Check which implementation is available
-          	let requestMethod = element.requestFullscreen ||
-          						element.webkitRequestFullscreen ||
-          						element.webkitRequestFullScreen ||
-          						element.mozRequestFullScreen ||
-          						element.msRequestFullscreen;
-          
-          	if( requestMethod ) {
-          		requestMethod.apply( element );
-          	}
+          toggleFullscreen();
          });
   			}
 			);
