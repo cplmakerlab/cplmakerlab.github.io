@@ -271,14 +271,14 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
  * NAVIGATION CONTROLS
  *********************************************/
 .reveal .controls {
-  color: #2a76dd; }
+  color: #DD2C00; }
 
 /*********************************************
  * PROGRESS BAR
  *********************************************/
 .reveal .progress {
   background: rgba(0, 0, 0, 0.2);
-  color: #2a76dd; }
+  color: #DD2C00; }
 
 /*********************************************
  * PRINT BACKGROUND
