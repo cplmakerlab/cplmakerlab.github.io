@@ -1,9 +1,12 @@
 ---
 title: 3D Printing Basics
-categories: 
+categories:
+  - 3D printing
+  - Coding
+  - Crafts
+  - Electronic cutter
 tags:
   - makerbot
-  - ultimaker
 example_image: /uploads/3d-printing-basics/3d-printers-at-chicago-public-library.jpg
 difficulty: Hard
 time_required: 5 - 15 minutes
