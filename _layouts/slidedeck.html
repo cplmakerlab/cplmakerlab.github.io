@@ -34,6 +34,7 @@
 
 		<script src="{{ site.baseurl }}/assets/js/revealjs/dist/reveal.js"></script>
 		<script src="{{ site.baseurl }}/assets/js/revealjs/plugin/highlight/highlight.js"></script>
+		<script src="{{ site.baseurl }}/assets/js/revealjs/plugin/zoom/zoom.js"></script>
 		<script>
 			// More info about initialization & config:
 			// - https://revealjs.com/initialization/
@@ -42,7 +43,7 @@
 				hash: true,
 				slideNumber: 'c/t',
 				// Learn about plugins: https://revealjs.com/plugins/
-				plugins: [ Zoom ]
+				plugins: [ RevealHighlight, RevealZoom ]
 			}).then(
   			function(){
          // Reveal.toggleOverview(true);			 
