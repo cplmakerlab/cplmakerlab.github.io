@@ -50,9 +50,9 @@
          document.querySelector('.overview').addEventListener('click', function(){
           Reveal.toggleOverview();
          });
-         document.querySelector('.fullscreen').addEventListener('click', function(element){
+         document.querySelector('.fullscreen').addEventListener('click', function(){
            // Toggle fullscreen
-          	element = element || document.documentElement;
+          	var element = document.documentElement;
           
           	// Check which implementation is available
           	let requestMethod = element.requestFullscreen ||
