@@ -136,6 +136,7 @@ difficulties:
 
 # Slide deck (reveal.js themes)
 slide_themes:
+  - makerlab
   - black
   - white
   - league
