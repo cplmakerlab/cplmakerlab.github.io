@@ -22,9 +22,7 @@
 
 	</head>
 	<body>
-	  <div class="slidedeck-branding">
-	    <div class="logo"><a href="{{ site.baseurl }}/"><img alt="logo" title="Logo" src="{{site.data.images.logo_image}}" /></a></div>
-	  </div>
+
 		<div class="reveal">
 			<div class="slides">
       {% for slide in page.slides %}
@@ -51,5 +49,8 @@
 			);
 
 		</script>
+	  <div class="slidedeck-branding">
+	    <div class="logo"><a href="{{ site.baseurl }}/"><img alt="logo" title="Logo" src="{{site.data.images.logo_image}}" /></a></div>
+	  </div>		
 	</body>
 </html>
