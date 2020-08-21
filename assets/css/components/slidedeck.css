@@ -8,12 +8,13 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 
 .slidedeck-branding {
   position:absolute;
-  width:50px;
+  height:50px;
   bottom:0;
   left:0;
 }
 .slidedeck-branding .img {
   max-width:100%;
+  height:auto;
 }
 /*********************************************
  * GLOBAL STYLES
