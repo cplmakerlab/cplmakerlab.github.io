@@ -2,14 +2,13 @@
 title: Guides
 header_image: uploads/coding.jpg
 ---
-{% assign topics = site.categories | sort: "name" %}
+{% assign topics = [] %}
 
 {% assign groups = site.guides | group_by: "categories" | sort: "name" %}
 {% for group in groups %}
-    G:{{ group.name }}<br/>
-    {% for item in group.items %}
-        I:{{item.abbrev}}
-    {%endfor%}
+  {% if group.name.size > 0 %}
+    {{ group.name }}
+  {% endif %}
 {%endfor%}
 
 <section class="row topics">
