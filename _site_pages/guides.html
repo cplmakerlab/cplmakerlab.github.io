@@ -2,13 +2,12 @@
 title: Guides
 header_image: uploads/coding.jpg
 ---
-{% assign topics = [] %}
 
-{% assign groups = site.guides | group_by: "categories" | first %}
+{% assign groups = site.guides | group_by: "categories" | sort: "name" %}
 {% for group in groups %}
   
   {% if group.name.size > 0 %}
-    {{ group.name | json }}
+    {{ group | json }}
   {% endif %}
 {%endfor%}
 
