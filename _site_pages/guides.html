@@ -2,17 +2,16 @@
 title: Guides
 header_image: uploads/coding.jpg
 ---
-<ul>
-{% for category in site.categories %}
-  <li><a name="{{ category | first }}">{{ category | first }}</a>
-    <ul>
-    {% for post in category.last %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-    </ul>
-  </li>
+{% assign topics = "" %}
+
+{% assign groups = site.guides | group_by: "categories" | sort: "name" %}
+
+{% for group as groups %}
+  {% assign name = group.name | remove "[" | remove "]" | strip | append "," %}
+  {% assign topics = topics | append name %}
 {% endfor %}
-</ul>
+
+{% assign topics = topics | split "," %}
 
 <section class="row topics">
   <div class="col-sm-4">
@@ -20,8 +19,8 @@ header_image: uploads/coding.jpg
     <div class="jump-nav">
       <h3>Topics</h3>
       <ul>
-      {% for group in groups %}
-       {% assign guides = site.guides | where:"category",topic %}
+      {% for topic in topics %}
+       {% assign guides = site.guides | where:"categories",topic %}
        {% if guides.size > 0 %}
     			<li><a href="#{{ topic }}">{{ topic }}</a></li>
     		{% endif %}
@@ -37,7 +36,7 @@ header_image: uploads/coding.jpg
       </div>
       <div class="list">
         {% for topic in topics %}
-         {% assign guides = site.guides | where:"category",topic %}
+         {% assign guides = site.guides | where:"categories",topic %}
          {% if guides.size > 0 %}
       		<section class="category">
       			<h4 class="topic">{{ topic }}<a name="{{topic}}"></a></h4>
