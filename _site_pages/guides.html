@@ -3,7 +3,7 @@ title: Guides
 header_image: uploads/coding.jpg
 ---
 
-{% assign topics = site.categories | sort: "name" %}
+{% assign categories = site.categories %}
  
 <section class="row topics">
   <div class="col-sm-4">
@@ -11,8 +11,8 @@ header_image: uploads/coding.jpg
     <div class="jump-nav">
       <h3>Topics</h3>
       <ul>
-      {% for topic in topics %}
-      {{ topic | json }}
+      {% for category in categories %}
+       {% assign topic = category | first %}
        {% assign guides = site.guides | where:"category",topic %}
        {% if guides.size > 0 %}
     			<li><a href="#{{ topic }}">{{ topic }}</a></li>
