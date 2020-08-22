@@ -4,11 +4,11 @@ header_image: uploads/coding.jpg
 ---
 {% assign topics = [] %}
 
-{% assign groups = site.guides | group_by: "categories" %}
+{% assign groups = site.guides | group_by: "categories" | first %}
 {% for group in groups %}
   
   {% if group.name.size > 0 %}
-    {{ group | json }}
+    {{ group.name | json }}
   {% endif %}
 {%endfor%}
 
