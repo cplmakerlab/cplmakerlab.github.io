@@ -7,10 +7,7 @@ header_image: uploads/coding.jpg
 
 {% assign groups = site.guides | group_by: "categories" | sort: "name" %}
 
-{% for group in groups %}
-  {% assign name = group.name | remove "[" | remove "]" | strip | append "," %}
-  {% assign topics = topics | append name %}
-{% endfor %}
+
 
 {% assign topics = topics | split "," %}
 
