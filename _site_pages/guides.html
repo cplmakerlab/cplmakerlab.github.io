@@ -2,9 +2,10 @@
 title: Guides
 header_image: uploads/coding.jpg
 ---
-{{ site.categories | json }}
 {% assign topics = site.categories | sort: "name" %}
- 
+       {% for topic in topics %}
+         {{ topic | json }}
+       {% endfor %}
 <section class="row topics">
   <div class="col-sm-4">
 
