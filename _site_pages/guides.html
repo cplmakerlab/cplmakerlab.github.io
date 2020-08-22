@@ -3,13 +3,13 @@ title: Guides
 header_image: uploads/coding.jpg
 ---
 
-{% assign topics = "," %}
 
 {% assign groups = site.guides | group_by: "categories" | sort: "name" %}
 
+{% for group in groups %}
+ {{ group.title }}
+{% endfor %}
 
-
-{% assign topics = topics | split "," %}
 
 <section class="row topics">
   <div class="col-sm-4">
