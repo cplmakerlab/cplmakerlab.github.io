@@ -1,5 +1,5 @@
 ---
-title: How to create a slide deck
+title: 'CloudCannon: How to create a slide deck'
 categories:
   - Web
 tags:
