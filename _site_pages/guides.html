@@ -2,18 +2,8 @@
 title: Guides
 header_image: uploads/coding.jpg
 ---
-
-asdfasdfasdfasdf
-<ul class="tags">
-{% for tag in site.categories %}
-  {% assign t = tag | first %}
-  {% assign posts = tag | last %}
-  <li>{{t | downcase | replace:" ","-" }} has {{ posts | size }} posts</li>
-{% endfor %}
-</ul>
-
-
-{% assign categories = site.categories %}
+{{ site.categories | json }}
+{% assign topics = site.categories | sort: "name" %}
  
 <section class="row topics">
   <div class="col-sm-4">
@@ -21,9 +11,7 @@ asdfasdfasdfasdf
     <div class="jump-nav">
       <h3>Topics</h3>
       <ul>
-      {% for category in site.categories %}
-       {% assign topic = category | first %}
-       {{ category | json }}
+      {% for topic in topics %}
        {% assign guides = site.guides | where:"category",topic %}
        {% if guides.size > 0 %}
     			<li><a href="#{{ topic }}">{{ topic }}</a></li>
