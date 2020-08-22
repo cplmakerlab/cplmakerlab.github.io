@@ -2,6 +2,7 @@
 title: How to trace an Image in Inkscape
 categories:
 - 2D design
+- Sewing
 tags:
   - Inkscape
 difficulty: medium
