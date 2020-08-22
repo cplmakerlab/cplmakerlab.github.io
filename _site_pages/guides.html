@@ -7,7 +7,7 @@ header_image: uploads/coding.jpg
 {% assign groups = site.guides | group_by: "categories" | sort: "name" %}
 
 {% for group in groups %}
- {{ group.title }}
+ {{ group.name }}
 {% endfor %}
 
 
