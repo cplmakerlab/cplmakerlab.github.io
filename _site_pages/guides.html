@@ -8,7 +8,7 @@ header_image: uploads/coding.jpg
 {% for group in groups %}
   
   {% if group.name.size > 0 %}
-    {% site.topics | push group.name%}
+    {{ group.name }}
   {% endif %}
 {%endfor%}
 
