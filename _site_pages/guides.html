@@ -6,8 +6,9 @@ header_image: uploads/coding.jpg
 
 {% assign groups = site.guides | group_by: "categories" | sort: "name" %}
 {% for group in groups %}
+  
   {% if group.name.size > 0 %}
-    {{ group.name }}
+    {{ group | json }}
   {% endif %}
 {%endfor%}
 
