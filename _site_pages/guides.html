@@ -5,7 +5,11 @@ header_image: uploads/coding.jpg
 <ul>
 {% for category in site.categories %}
   <li><a name="{{ category | first }}">{{ category | first }}</a>
-
+    <ul>
+    {% for post in category.last %}
+     
+    {% endfor %}
+    </ul>
   </li>
 {% endfor %}
 </ul>
