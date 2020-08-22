@@ -3,9 +3,15 @@ title: Guides
 header_image: uploads/coding.jpg
 ---
 {% assign topics = site.categories | sort: "name" %}
-       {% for topic in topics %}
-         {{ topic | json }}
-       {% endfor %}
+
+{% assign groups = site.guides | group_by: "categories" | sort: "name" %}
+{% for group in groups %}
+    {{ group.name }}
+    {% for item in group.items %}
+        {{item.abbrev}}
+    {%endfor%}
+{%endfor%}
+
 <section class="row topics">
   <div class="col-sm-4">
 
