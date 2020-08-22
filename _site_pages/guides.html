@@ -2,7 +2,7 @@
 title: Guides
 header_image: uploads/coding.jpg
 ---
-{% assign topics = site.topics | sort: "name" %}
+{% assign topics = site.categories | sort: "name" %}
 
 {% assign groups = site.guides | group_by: "categories" | sort: "name" %}
 {% for group in groups %}
