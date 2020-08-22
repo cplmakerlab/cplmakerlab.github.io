@@ -1,6 +1,6 @@
 ---
 title: How to create a slide deck
-categories:
+category:
   - Web
 tags:
   - Cloudcannon
