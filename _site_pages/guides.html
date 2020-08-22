@@ -4,6 +4,7 @@ header_image: uploads/coding.jpg
 ---
 <ul>
 {% for category in site.categories %}
+  {{ category | json }}
   <li><a name="{{ category | first }}">{{ category | first }}</a>
     <ul>
     {% for post in category.last %}
