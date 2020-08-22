@@ -12,6 +12,7 @@ header_image: uploads/coding.jpg
       <h3>Topics</h3>
       <ul>
       {% for topic in topics %}
+      {{ topic | json }}
        {% assign guides = site.guides | where:"category",topic %}
        {% if guides.size > 0 %}
     			<li><a href="#{{ topic }}">{{ topic }}</a></li>
