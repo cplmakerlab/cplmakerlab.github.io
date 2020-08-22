@@ -3,6 +3,16 @@ title: Guides
 header_image: uploads/coding.jpg
 ---
 
+
+<ul class="tags">
+{% for tag in site.categories %}
+  {% assign t = tag | first %}
+  {% assign posts = tag | last %}
+  <li>{{t | downcase | replace:" ","-" }} has {{ posts | size }} posts</li>
+{% endfor %}
+</ul>
+
+
 {% assign categories = site.categories %}
  
 <section class="row topics">
