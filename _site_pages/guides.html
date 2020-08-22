@@ -2,16 +2,6 @@
 title: Guides
 header_image: uploads/coding.jpg
 ---
-{% assign topics = "" %}
-
-{% assign groups = site.guides | group_by: "categories" | sort: "name" %}
-
-{% for group in groups %}
-  {% assign name = group.title | remove "[" | remove "]" | strip | append "," %}
-  {% assign topics = topics | append name %}
-{% endfor %}
-
-{% assign topics = topics | split "," %}
 
 <section class="row topics">
   <div class="col-sm-4">
