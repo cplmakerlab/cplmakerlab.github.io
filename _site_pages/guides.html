@@ -2,13 +2,13 @@
 title: Guides
 header_image: uploads/coding.jpg
 ---
-{% assign topics = site.categories | sort: "name" %}
+{% assign topics = site.topics | sort: "name" %}
 
 {% assign groups = site.guides | group_by: "categories" | sort: "name" %}
 {% for group in groups %}
-    {{ group.name }}
+    G:{{ group.name }}<br/>
     {% for item in group.items %}
-        {{item.abbrev}}
+        I:{{item.abbrev}}
     {%endfor%}
 {%endfor%}
 
@@ -18,7 +18,7 @@ header_image: uploads/coding.jpg
     <div class="jump-nav">
       <h3>Topics</h3>
       <ul>
-      {% for topic in topics %}
+      {% for group in groups %}
        {% assign guides = site.guides | where:"category",topic %}
        {% if guides.size > 0 %}
     			<li><a href="#{{ topic }}">{{ topic }}</a></li>
