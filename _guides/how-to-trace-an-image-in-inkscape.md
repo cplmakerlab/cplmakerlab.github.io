@@ -1,11 +1,11 @@
 ---
 title: How to trace an Image in Inkscape
 categories:
-  - 2D design
   - Sewing
+  - 2D design
 tags:
   - Inkscape
-difficulty: medium
+difficulty: Medium
 time_required: 10-15 minutes
 ---
 
