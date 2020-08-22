@@ -6,7 +6,7 @@ tags:
   - Cloudcannon
   - Jekyll
   - RevealJS
-example_image:
+example_image: /uploads/how-to-create-a-slide-deck/screen-shot-2020-08-21-at-7-20-02-pm.png
 difficulty: Medium
 time_required: 20 - 30 minutes
 file_attachment_path:
@@ -22,9 +22,9 @@ Log in to [CloudCannon](cloudcannon.com/){: target="_blank" rel="noopener"}. Clo
 
 When you first login, it will show you a list of websites. For the free tier of CloudCannon, you can only create one website. Click to open the website dashboard.
 
-![](/uploads/screen-shot-2020-08-21-at-6-16-38-pm.png){: width="943" height="699"}
+![](/uploads/how-to-create-a-slide-deck/screen-shot-2020-08-21-at-6-16-38-pm.png){: width="943" height="699"}
 
-### Step 3
+## Step 3
 
 Click on Explore &gt; Slide Decks &gt; + Add Slide Deck
 
