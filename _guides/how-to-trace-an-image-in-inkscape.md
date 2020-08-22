@@ -1,6 +1,7 @@
 ---
 title: How to trace an Image in Inkscape
-topic: 2D design
+categories:
+- 2D design
 tags:
   - Inkscape
 difficulty: medium
