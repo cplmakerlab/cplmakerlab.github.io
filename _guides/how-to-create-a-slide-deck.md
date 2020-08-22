@@ -62,7 +62,7 @@ Add a new slide and give it a title , but this time don't add any text, just upl
 
 ## Step 9
 
-To view your slide deck, go to [cplmakerlab.github.io/slidedecks](cplmakerlab.github.io/slidedecks){: target="_blank" rel="noopener"} and click on your new slide deck, which will open in a new window. Be aware that it may take a minute or two to see your changes as the site needs time to rebuild after every change. When presenting, take advantage of the built-in keyboard shortcuts\!
+To view your slide deck, go to [cplmakerlab.github.io/slidedecks](http://cplmakerlab.github.io/slidedecks){: target="_blank" rel="noopener"} and click on your new slide deck, which will open in a new window. Be aware that it may take a minute or two to see your changes as the site needs time to rebuild after every change. When presenting, take advantage of the built-in keyboard shortcuts\!
 
 | → Right arrow key | Next slide |
 | ← Left arrow key | Previous slide |
