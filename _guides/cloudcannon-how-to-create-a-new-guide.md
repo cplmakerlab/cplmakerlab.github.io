@@ -7,8 +7,8 @@ tags:
   - Jekyll
   - RevealJS
 example_image:
-difficulty:
-time_required:
+difficulty: Medium
+time_required: 30 minutes +
 file_attachment_path:
 ---
 
@@ -26,21 +26,23 @@ When you first login, it will show you a list of websites. For the free tier of 
 
 ## Step 3
 
-Click on Explore &gt; Slide Decks &gt; + Guides
+Click on Explore &gt; Guides &gt; + Add Guide
 
-![](/uploads/screen-shot-2020-08-21-at-6-19-22-pm.png){: width="862" height="702"}
+![](/uploads/cloudcannon-how-to-create-a-new-guide/guides-add-guide.png){: width="885" height="667"}
 
 ### Step 4
 
-Enter a name for your slide deck, and then click + Add slide to create your first slide.
+In the sidebar, enter a title for your guide. In categories, enter only **ONE** topic category for the guide. The topic category is used to organize your guide on the guides landing page. You can enter as many tags as you'd like, however.
 
-![](/uploads/screen-shot-2020-08-21-at-6-27-34-pm.png){: width="943" height="419"}
+**Optional:** Add more details such as an example image, difficulty level, time required, and file attachment. These details will be shown at the top of the page.
+
+![](/uploads/cloudcannon-how-to-create-a-new-guide/guides-add-details.png){: width="936" height="674"}
 
 ### Step 5
 
-Enter a title for your slide to help you remember it later, and use the rich text editor to create your slide. Keep each slide short and sweet\! It's easy to add new slides if needed. Bullet points are useful when presenting. It's best to only feature one image or video per slide as they take up a lot of space. You can also add a background color or background image for your slide if you'd like.
+It's a good idea to save often as you work, so go ahead and click the SAVE button. CloudCannon will display a message that it is saving and rebuilding the site.
 
-![](/uploads/screen-shot-2020-08-21-at-6-34-58-pm.png){: width="636" height="651"}
+&nbsp;
 
 ### Step 6
 
