@@ -32,7 +32,7 @@ Click on Explore &gt; Slide Decks &gt; + Add Slide Deck
 
 ### Step 4
 
-Enter a name for your slide deck, and then click + Add slide to create your first slide.
+Enter a name for your slide deck, and hit the SAVE button at the top. Then click + Add slide to create your first slide.
 
 ![](/uploads/how-to-create-a-slide-deck/guides-new-slidedeck.png){: width="943" height="419"}
 
@@ -44,25 +44,25 @@ Enter a title for your slide to help you remember it later, and use the rich tex
 
 ### Step 6
 
-It's a good idea to save your work as you go. Click the Save button at the top. CloudCannon may display a status message as the site is rebuilt. Click the "Return to Slide deck" to view your list of slides.
+It's a good idea to save your work as you go. Click the Save button at the top. CloudCannon will display a status message as the site is rebuilt. Click the "Return to Slide deck" to view your list of slides.
 
 ![](/uploads/how-to-create-a-slide-deck/guides-return-to-slidedeck.png){: width="942" height="222"}
 
 ## Step 7
 
-Click "+ Add Slide" to create a new slide. You can reorder slides later if you need to.
+Click "+ Add Slide" to create a new slide. You can reorder slides later if you need to using the up and down arrow icons.
 
 ## ![](/uploads/how-to-create-a-slide-deck/guides-new-slidedeck-addslide.png){: width="809" height="489"}
 
 ## Step 8
 
-Add a new slide and give it a title , but this time don't add any text, just upload a background image. The background image will fill the entire screen and will be easy for people to see. Don't forget to hit save\!
+Add a new slide and give it a title , but this time don't add any text, just upload a background image. The background image will fill the entire screen and will be easy for people to see. Don't forget to hit SAVE\!
 
 ![](/uploads/how-to-create-a-slide-deck/guides-new-slidedeck-backgroundimage.png){: width="498" height="640"}
 
 ## Step 9
 
-To view your slide deck, go to [cplmakerlab.github.io/slidedecks](http://cplmakerlab.github.io/slidedecks){: target="_blank" rel="noopener"} and click on your new slide deck, which will open in a new window. Be aware that it may take a minute or two to see your changes as the site needs time to rebuild after every change. When presenting, take advantage of the built-in keyboard shortcuts\!
+To view your new slide deck, go to [cplmakerlab.github.io/slidedecks](http://cplmakerlab.github.io/slidedecks){: target="_blank" rel="noopener"} and click on your new slide deck, which will open in a new window. Be aware that it may take a minute or two to see your changes as the site needs time to rebuild after every change. When presenting, take advantage of the built-in keyboard shortcuts\!
 
 | → Right arrow key | Next slide |
 | ← Left arrow key | Previous slide |
