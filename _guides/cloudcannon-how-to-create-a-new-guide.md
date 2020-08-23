@@ -22,7 +22,7 @@ Log in to [CloudCannon](cloudcannon.com/){: target="_blank" rel="noopener"}. Clo
 
 When you first login, it will show you a list of websites. For the free tier of CloudCannon, you can only create one website. Click to open the website dashboard.
 
-![](/uploads/how-to-create-a-slide-deck/screen-shot-2020-08-21-at-6-16-38-pm.png){: width="943" height="699"}
+![](/uploads/cloudcannon-how-to-create-a-new-guide/guides-cloudcannon-landing.png){: width="943" height="699"}
 
 ## Step 3
 
@@ -48,19 +48,19 @@ It's a good idea to save often as you work, so go ahead and click the SAVE butto
 
 It's a good idea to save your work as you go. Click the Save button at the top. CloudCannon may display a status message as the site is rebuilt. Click the "Return to Slide deck" to view your list of slides.
 
-![](/uploads/screen-shot-2020-08-21-at-6-47-11-pm.png){: width="942" height="222"}
+&nbsp;
 
 ## Step 7
 
 Click "+ Add Slide" to create a new slide.
 
-## ![](/uploads/screen-shot-2020-08-21-at-7-14-54-pm.png){: width="809" height="489"}
+## &nbsp;
 
 ## Step 8
 
 Add a new slide and give it a title , but this time don't add any text, just upload a background image. The background image will fill the entire screen and will be easy for people to see. Don't forget to hit save\!
 
-![](/uploads/screen-shot-2020-08-21-at-7-10-33-pm.png){: width="498" height="640"}
+&nbsp;
 
 ## Step 9
 
