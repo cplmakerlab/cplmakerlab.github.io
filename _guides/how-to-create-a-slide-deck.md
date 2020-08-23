@@ -32,13 +32,13 @@ Click on Explore &gt; Slide Decks &gt; + Add Slide Deck
 
 ### Step 4
 
-Enter a name for your slide deck, and hit the SAVE button at the top. Then click + Add slide to create your first slide.
+Enter a name for your slide deck, and hit the SAVE button. Then click + Add slide to create your first slide.
 
 ![](/uploads/how-to-create-a-slide-deck/guides-new-slidedeck.png){: width="943" height="419"}
 
 ### Step 5
 
-Enter a title for your slide to help you remember it later, and use the rich text editor to create your slide. Keep each slide short and sweet\! It's easy to add new slides if needed. Bullet points are useful when presenting. It's best to only feature one image or video per slide as they take up a lot of space. You can also add a background color or background image for your slide if you'd like.
+Enter a title for your slide to help you remember it later, and use the rich text editor to create your slide. Keep each slide short and sweet\! It's easy to add new slides if needed. Bullet points are useful when presenting. It's best to feature one image or video per slide as they take up a lot of space. You can also add a background color or background image for your slide if you'd like.
 
 ![](/uploads/how-to-create-a-slide-deck/guides-new-slidedeck-info.png){: width="636" height="651"}
 
@@ -50,17 +50,25 @@ It's a good idea to save your work as you go. Click the Save button at the top. 
 
 ## Step 7
 
-Click "+ Add Slide" to create a new slide. You can reorder slides later if you need to using the up and down arrow icons.
+Click "+ Add Slide" to create a new slide.
 
 ## ![](/uploads/how-to-create-a-slide-deck/guides-new-slidedeck-addslide.png){: width="809" height="489"}
 
 ## Step 8
 
-Add a new slide and give it a title , but this time don't add any text, just upload a background image. The background image will fill the entire screen and will be easy for people to see. Don't forget to hit SAVE\!
+Add a new slide and give it a title , but this time don't add any text, just upload a background image. The background image will fill the entire screen and will be easy for people to see. Don't forget to hit SAVE, then return to the slides list view.
 
 ![](/uploads/how-to-create-a-slide-deck/guides-new-slidedeck-backgroundimage.png){: width="498" height="640"}
 
-## Step 9
+## Step9
+
+In the slide list view, you can reorder slides using the up and down arrow icons. To delete a slide, click the 3 vertical dots on the right and then click Delete Slide. You can also use this menu to add a slide above the current one.
+
+![](/uploads/how-to-create-a-slide-deck/guides-reorder-slides.png){: width="710" height="584"}
+
+&nbsp;
+
+## Step 10
 
 To view your new slide deck, go to [cplmakerlab.github.io/slidedecks](http://cplmakerlab.github.io/slidedecks){: target="_blank" rel="noopener"} and click on your new slide deck, which will open in a new window. Be aware that it may take a minute or two to see your changes as the site needs time to rebuild after every change. When presenting, take advantage of the built-in keyboard shortcuts\!
 
