@@ -1,9 +1,8 @@
 ---
 title: Parts of a sewing machine
-categories: 
+categories:
   - Sewing
 tags:
-  - Gloves
 example_image: /uploads/testing-123/sewing-parts.jpg
 difficulty: Easy
 time_required:
