@@ -22,10 +22,7 @@ header_image: uploads/coding.jpg
       <ul>
       {% for topic in topics %}
        {% assign guides = site.guides | where:"categories",topic %}
-       {{ guides | json }}
-       {% if guides.size > 0 %}
     			<li><a href="#{{ topic }}">{{ topic }}</a></li>
-    		{% endif %}
     	{% endfor %}
   	  </ul>
   	</div>
@@ -39,7 +36,6 @@ header_image: uploads/coding.jpg
       <div class="list">
         {% for topic in topics %}
          {% assign guides = site.guides | where:"categories",topic %}
-         {% if guides.size > 0 %}
       		<section class="category">
       			<h4 class="topic">{{ topic }}<a name="{{topic}}"></a></h4>
       			<ul>
@@ -48,7 +44,6 @@ header_image: uploads/coding.jpg
       			  {% endfor %}
       			</ul>
       		</section>
-      		{% endif %}
       	{% endfor %} 
     	</div>
     </div>
