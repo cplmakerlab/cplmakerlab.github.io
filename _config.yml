@@ -121,7 +121,7 @@ defaults:
 #  - Digital security
 #  - Electronic cutter
 #  - Electronics
-#  - Crafts
+#  - Craftsupl
 #  - Lasercutting
 #  - CNC Milling
 #  - Sewing
@@ -188,7 +188,7 @@ _explore:
 
 # CloudCannon Content Editor 
 _options:
-  content:
+  content: # Content Editor and block Editable Regions
     format: p h2 h3 h4
     bold: true
     italic: true
@@ -202,6 +202,7 @@ _options:
     code: true
     table: true
     embed: true
+    uploads_dir: "uploads/:title"
 
 # CloudCannon Source Editor
 _source_editor:   
