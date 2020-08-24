@@ -3,12 +3,17 @@ title: Tags
 header_image: 
 ---
 
-{% assign tags  = site.tags %}
+{% assign tags= "," | split: "," %}
 
 {% assign everything = site.guides | concat:site.posts %}
 
 {% for guide in site.guides %}
  {% assign tags = tags | concat: guide.tags | uniq | sort %}
+{% endfor %}
+
+{% for tag in site.tags %}
+  {% assign t = tag | first %}
+  {% assign tags = tags | concat: t | uniq | sort %}
 {% endfor %}
 
 <pre>
