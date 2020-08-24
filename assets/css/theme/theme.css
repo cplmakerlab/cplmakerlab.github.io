@@ -37,7 +37,7 @@ a {
 }
 
 #content a {
-  border-bottom:solid 1px #949494;
+  border-bottom:dotted 1px #949494;
 }
 
 
@@ -222,6 +222,11 @@ ul.guide-summary .detail {
   right:10px;
   top:9px;
   color:#666;
+}
+
+.read-more {
+  text-align:right;
+  text-transform:uppercase;
 }
 
 
