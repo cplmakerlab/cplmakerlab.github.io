@@ -22,60 +22,52 @@ Log in to [CloudCannon](cloudcannon.com/){: target="_blank" rel="noopener"}. Clo
 
 When you first login, it will show you a list of websites. For the free tier of CloudCannon, you can only create one website. Click the big square icon to open the website dashboard.
 
-&nbsp;
-
-&nbsp;
+![](/uploads/cloudcannon-how-to-create-a-new-blog-post/guides-cloudcannon-landing.png){: width="943" height="699"}
 
 ## Step 3
 
-Click on Explore &gt; Guides &gt; + Add Guide
+Click on Explore &gt; Guides &gt; + Add Post
 
-&nbsp;
+![](/uploads/cloudcannon-how-to-create-a-new-blog-post/guides-add-blog-post.png){: width="860" height="599"}
+
+You can also choose + Draft if you want to compose a draft of your blog post and publish it later.
 
 ### Step 4
 
-In the sidebar, enter a title for your guide. In categories, enter only **ONE** topic category for your guide. The topic category is used to organize your guide on the guides landing page. You can enter as many tags as you'd like, however.
+In the sidebar, enter a title for your blog post. You can manually enter in the date or simply leave the field blank. If left blank it will populate the time field when it is first published.
 
-**Optional:** Add more details such as an example image, difficulty level, time required, and file attachment (such as an .SVG template). These details will be shown at the top of your published guide.
-
-&nbsp;
+Feel free to add as many tags as you'd like. The tags will be displayed at the bottom of your post where visitors can look up related posts by tag.
 
 ### Step 5
 
-It's a good idea to save early & often, so go ahead and click the SAVE button. CloudCannon will display a message as it saves and rebuilds the site.
+It's a good idea to save early & often, so go ahead and click the SAVE button. CloudCannon will display status messages as it saves and rebuilds the site.
 
 ### Step 6
 
-On the right side is where you'll enter the text for your guide. Add a short description of your guide, and what you intend your audience to learn by the end of it.
+On the right side is where you'll enter the content for your blog post. Use the content editor toolbar to format your text. Hover your mouse over a toolbar icon to reveal what it does.
 
-If you have a Youtube video, you can embed that after the description using the Embed button in the text toolbar (hover your mouse over each icon to see what they are).
+You can embed images using the Image button in the content editor toolbar. Please try to keep images a reasonable size (~1024px wide) as they cannot be resized after you upload to CloudCannon. Files will be saved to the /uploads folder.
 
-&nbsp;
+![](/uploads/cloudcannon-how-to-create-a-new-blog-post/guides-images.png){: width="553" height="76"}
+
+You can create links by highlighting some text and then clicking the Link button. It's probably a good idea to have external links open in a new window/tab. You can also use links to upload and link files within your blog post.
+
+![](/uploads/cloudcannon-how-to-create-a-new-blog-post/guides-link-icon.png){: width="536" height="73"}
+
+![](/uploads/cloudcannon-how-to-create-a-new-blog-post/guides-link.png){: width="327" height="270"}
+
+You can embed Youtube videos using the Embed button in the content editor toolbar.
+
+![](/uploads/cloudcannon-how-to-create-a-new-blog-post/guides-embed.png){: width="547" height="82"}
 
 ## Step 7
 
-It's recommended that you start each step with a large numbered heading. Use the text editor toolbar to select your heading and give it the "Heading 2" style.
-
-Enter the instructions for your step after the heading. Use concise, plain language to describe each step. If possible, try and write your guide while actually walking through the steps yourself so you don't miss any details.
-
-You can insert a screenshot or image to help explain the step. To do this, put your cursor where you'd like to insert an image and then click the Image icon in the toolbar. Please try and resize images whenever possible before uploading – you can't edit or resize images through CloudCannon. An image size around 1024px wide is reasonable.
-
-&nbsp;
+When you are done writing your blog post, don't forget to hit SAVE\!
 
 ## Step 8
 
-Continue adding new steps as needed. You may need to revise the number of steps as you go so that each step is not too long or too short. Make sure to hit SAVE frequently as you work.
+Your new blog post will be published at [cplmakerlab.github.io/blog](http://cplmakerlab.github.io/blog){: target="_blank" rel="noopener"}. Note that it may take a few minutes for any changes to appear as your site must resync & rebuild after every save.
 
-## Step 9
+Note: If you chose to create a DRAFT first, the blog will not be published until you publish the draft. To do that, click the PUBLISH button at the top of the page.
 
-Your new guide will be published at [cplmakerlab.github.io/guides](http://cplmakerlab.github.io/guides){: target="_blank" rel="noopener"}. Note that it may take a few minutes for any changes to appear as your site must resync & rebuild after every save.
-
-## Congratulations\!
-
-Congratulate the reader for finishing the guide\! You can insert links to additional resources or guides by highlighting some text and then clicking the Link icon in the toolbar. The link functionality also lets you upload additional files if needed.
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+![](/uploads/cloudcannon-how-to-create-a-new-blog-post/guides-publish-draft.png){: width="954" height="66"}
