@@ -2,6 +2,8 @@
 title: Example guide
 categories:
   - Web
+  - Coding
+  - Sewing
 tags:
   - Cloudcannon
   - How-To
