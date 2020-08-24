@@ -11,6 +11,9 @@ header_image:
  {% assign topics = topics | concat: item.tags | uniq | sort %}
 {% endfor %}
 
+<pre>
+  {{ everything | inspect }}
+</pre>
 
 <section class="row topics">
   <div class="col-sm-4">
