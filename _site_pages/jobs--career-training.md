@@ -1,6 +1,6 @@
 ---
 title: Jobs & Career Training
 header_image:
-permalink: '/:title'
+permalink: /:title
 ---
 
