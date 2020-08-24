@@ -17,18 +17,18 @@
       open_in_new_window: true
     - name: Videos
       link: 'https://www.youtube.com/channel/UCgYrYjnoluGLUl-fdpSMSJQ/videos'
-      open_in_new_window: true      
+      open_in_new_window: true
     - name: Jobs & Career Training
       link: /continuing-education
       open_in_new_window: false
 - name: Make
-  link: /make
+  link: /software
   subnav:
-    - name: Equipment
-      link: /equipment
-      open_in_new_window: false
     - name: Software
       link: /software
+      open_in_new_window: false
+    - name: Equipment
+      link: /equipment
       open_in_new_window: false
     - name: Materials
       link: /materials
