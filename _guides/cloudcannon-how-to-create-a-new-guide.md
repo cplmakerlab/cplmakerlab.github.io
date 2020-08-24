@@ -41,7 +41,7 @@ In the sidebar, enter a title for your guide. In categories, enter only **ONE** 
 
 ### Step 5
 
-It's a good idea to save often as you work, so go ahead and click the SAVE button. CloudCannon will display a message as it saves and rebuilds the site.
+It's a good idea to save early & often, so go ahead and click the SAVE button. CloudCannon will display a message as it saves and rebuilds the site.
 
 ### Step 6
 
@@ -57,7 +57,7 @@ It's recommended that you start each step with a large numbered heading. Use the
 
 Enter the instructions for your step after the heading. Use concise, plain language to describe each step. If possible, try and write your guide while actually walking through the steps yourself so you don't miss any details.
 
-You can insert a screenshot or image to help explain the step. To do this, put your cursor where you'd like to insert an image and then click the Image icon in the toolbar. Please try and resize images whenever possible before uploading -- you can't edit or resize images through CloudCannon. An image size around 1024px wide is reasonable.
+You can insert a screenshot or image to help explain the step. To do this, put your cursor where you'd like to insert an image and then click the Image icon in the toolbar. Please try and resize images whenever possible before uploading – you can't edit or resize images through CloudCannon. An image size around 1024px wide is reasonable.
 
 ![](/uploads/cloudcannon-how-to-create-a-new-guide/guides-images.png){: width="553" height="76"}
 
