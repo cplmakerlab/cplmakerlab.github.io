@@ -1,7 +1,9 @@
 ---
 title: Software
-header_image: /uploads/2020/07/31/make/header-bg6.jpg
+header_image:
 ---
+
+At the Maker Lab, we use and love free and open-source design software. Open-source software is developed by a volunteer community, and shared wih everyone. Some favorites include Inkscape, GIMP, and Blender.
 
 ## 2D Design
 
