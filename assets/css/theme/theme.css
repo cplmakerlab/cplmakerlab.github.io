@@ -224,8 +224,10 @@ ul.guide-summary .detail {
   color:#666;
 }
 
+.read-more-wrapper {
+  text-align:right;  
+}
 .read-more {
-  text-align:right;
   text-transform:uppercase;
 }
 
