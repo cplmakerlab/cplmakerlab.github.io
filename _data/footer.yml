@@ -1,20 +1,20 @@
 - name:
-  link: https://facebook.com/cplmakerlab
-  social_icon: Facebook
+  link: 'https://github.com/cplmakerlab'
+  social_icon:
   new_window: true
 - name:
-  link: https://twitter.com/cplmakerlab
+  link: 'https://instagram.com/cplmakerlab'
+  social_icon: Instagram
+  new_window: true
+- name:
+  link: 'https://twitter.com/cplmakerlab'
   social_icon: Twitter
   new_window: true
 - name:
-  link: https://youtube.com/c/cplmakerlab
+  link: 'https://youtube.com/c/cplmakerlab'
   social_icon: YouTube
   new_window: true
-- name: 
-  link: https://instagram.com/cplmakerlab
-  social_icon: Instagram
-  new_window: true
-- name: 
-  link: https://github.com/cplmakerlab
-  social_icon: Github
+- name: Old site
+  link: 'https://sites.google.com/site/cplmakerlab'
+  social_icon:
   new_window: true
