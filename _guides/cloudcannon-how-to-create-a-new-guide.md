@@ -33,9 +33,9 @@ Click on Explore &gt; Guides &gt; + Add Guide
 
 ### Step 4
 
-In the sidebar, enter a title for your guide. In categories, enter only **ONE** topic category for your guide. The topic category is used to organize your guide on the guides landing page. You can enter as many tags as you'd like, however.
+In the sidebar, enter a title for your guide. In categories, enter only **ONE** topic category for your guide. Look for an existing category that might work before creating a new one. The topic category is used to organize guides on the guides landing page. You can enter as many tags as you'd like. Tags will be displayed at the bottom of the page and users can click on tags to find related content.
 
-**Optional:** Add more details such as an example image, difficulty level, time required, and file attachment (such as an .SVG template). These details will be shown at the top of your published guide.
+**Optional:** Add more details such as an example image, difficulty level, time required, and file attachment (such as an .SVG template). These details will be summarized at the top of your published guide.
 
 ![](/uploads/cloudcannon-how-to-create-a-new-guide/guides-add-details.png){: width="936" height="674"}
 
@@ -47,15 +47,15 @@ It's a good idea to save early & often, so go ahead and click the SAVE button. C
 
 On the right side is where you'll enter the text for your guide. Add a short description of your guide, and what you intend your audience to learn by the end of it.
 
-If you have a Youtube video, you can embed that after the description using the Embed button in the text toolbar (hover your mouse over each icon to see what they are).
+If you have a Youtube video, you can embed it after the description using the Embed button in the text toolbar (hover your mouse over each icon to see what they are).
 
 ![](/uploads/cloudcannon-how-to-create-a-new-guide/guides-embed.png){: width="547" height="82"}
 
 ## Step 7
 
-It's recommended that you start each step with a large numbered heading. Use the text editor toolbar to select your heading and give it the "Heading 2" style.
+It's a good idea to label each step with a large numbered heading. Use the text editor toolbar to select your heading and give it the "Heading 2" style.
 
-Enter the instructions for your step after the heading. Use concise, plain language to describe each step. If possible, try and write your guide while actually walking through the steps yourself so you don't miss any details.
+Enter the instructions for your step after the heading. Use concise, plain language to describe each step. If possible, try and write your guide while actually working through the steps yourself so you don't miss any details.
 
 You can insert a screenshot or image to help explain the step. To do this, put your cursor where you'd like to insert an image and then click the Image icon in the toolbar. Please try and resize images whenever possible before uploading – you can't edit or resize images through CloudCannon. An image size around 1024px wide is reasonable.
 
