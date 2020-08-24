@@ -53,7 +53,7 @@ If you have a Youtube video, you can embed that after the description using the 
 
 ## Step 7
 
-It's recommended that you start each step with a large numbered heading. Use the text editor toolbar to select your heading and give it the "Heading 2" style. Or simply follow the heading format in the template.
+It's recommended that you start each step with a large numbered heading. Use the text editor toolbar to select your heading and give it the "Heading 2" style.
 
 Enter the instructions for your step after the heading. Use concise, plain language to describe each step. If possible, try and write your guide while actually walking through the steps yourself so you don't miss any details.
 
