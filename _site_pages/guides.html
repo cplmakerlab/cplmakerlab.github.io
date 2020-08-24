@@ -6,10 +6,10 @@ header_image: uploads/coding.jpg
 {% assign topics = "," %}
 
 
-{% assign all_categories = site.guides | concat: "categories" %}
+{% assign guides = site.guides | concat: "categories" %}
 
-{% for item in all_categories %}
-- {{ item }}
+{% for guide in site.guides %}
+  {{ guide | inspect }}
 {% endfor %}
 
 
@@ -20,7 +20,7 @@ header_image: uploads/coding.jpg
   {% assign topics = topics | append: name %}
 {% endfor %}
 
-{% assign topics = topics | split: "," %}
+{% assign topics = topics | split: "," | uniq %}
 
 
 <section class="row topics">
