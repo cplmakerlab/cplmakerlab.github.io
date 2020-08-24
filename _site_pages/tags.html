@@ -7,16 +7,14 @@ header_image:
 
 {% assign everything = site.guides | concat:site.posts %}
 
+{% for guide in site.guides %}
+   {% assign tags = tags | concat: guide.tags %}
+{% endfor %}
+
 {% for tag in site.tags %}
   {% assign t = tag | first %}
-  {% assign tags | push: t | uniq | sort %}
+  {% tags | push: t%}
 {% endfor %}
-
-
-{% for guide in site.guides %}
-   {% assign tags = tags | concat: guide.tags | uniq | sort %}
-{% endfor %}
-
 
 <pre>
 </pre>
