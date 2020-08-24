@@ -3,16 +3,15 @@ title: Tags
 header_image: 
 ---
 
-{% assign topics = "," | split: ","%}
+{% assign tags  = site.tags %}
 
 {% assign everything = site.guides | concat:site.posts %}
 
-{% for item in everything %}
- {% assign topics = topics | concat: item.tags | uniq | sort %}
+{% for guide in site.guides %}
+ {% assign tags = tags | concat: guide.tags | uniq | sort %}
 {% endfor %}
 
 <pre>
-  {{ everything | inspect }}
 </pre>
 
 <section class="row topics">
@@ -21,10 +20,10 @@ header_image:
     <div class="jump-nav">
       <h3>Tags</h3>
       <ul>
-      {% for topic in topics %}
-       {% assign guides = site.guides | where:"categories",topic %}
-       {% if guides.size > 0 %}
-    			<li><a href="#{{ topic }}">{{ topic }}</a></li>
+      {% for tag in tags %}
+       {% assign items = everything | where:"tags",tag %}
+       {% if items.size > 0 %}
+    			<li><a href="#{{ tag }}">{{ tag }}</a></li>
     		{% endif %}
     	{% endfor %}
   	  </ul>
@@ -37,14 +36,14 @@ header_image:
         <input placeholder="Filter..." class="search" /> <i class="fa fa-search"></i>
       </div>
       <div class="list">
-        {% for topic in topics %}
-         {% assign guides = site.guides | where:"categories",topic %}
-         {% if guides.size > 0 %}
+        {% for tag in tags %}
+         {% assign items = everything | where:"tags",tag %}
+         {% if items.size > 0 %}
       		<section class="category">
-      			<h4 class="topic">{{ topic }}<a name="{{topic}}"></a></h4>
+      			<h4 class="topic">{{ tag }}<a name="{{tag}}"></a></h4>
       			<ul>
-      			  {% for guide in guides %}
-      			    <li class="title"><a href="{{ guide.url }}">{{ guide.title }}</a></li>
+      			  {% for item in items %}
+      			    <li class="title"><a href="{{ item.url }}">{{ item.title }}</a></li>
       			  {% endfor %}
       			</ul>
       		</section>
