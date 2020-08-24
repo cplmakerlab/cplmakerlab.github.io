@@ -6,8 +6,6 @@ header_image: uploads/coding.jpg
 {% assign topics = "," %}
 
 
-{% assign guides = site.guides | concat: "categories" %}
-
 {% for guide in site.guides %}
   {{ guide | inspect }}
 {% endfor %}
