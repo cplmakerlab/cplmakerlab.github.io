@@ -21,7 +21,7 @@ header_image: /uploads/2020/07/31/make/header-bg6.jpg
 * [ReconstructMe](reconstructme.net){: target="_blank" rel="noopener"} (3D scanning)
 * [Skanect](skanect.occipital.com){: target="_blank" rel="noopener"} (3D Scanning)
 
-## **Equipment Software **
+## Equipment Software
 
 * [MakerBot Desktop](makerbot.com){: target="_blank" rel="noopener"} (3D printing)
 * [RetinaEngrave](fslaser.com){: target="_blank" rel="noopener"} (Laser cutter)
