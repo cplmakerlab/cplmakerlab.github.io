@@ -8,7 +8,9 @@ permalink: /blog
 {% for post in site.posts limit:1 %}
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
   {{ post.excerpt }}
-  <a class="read-more" href="{{ post.url }}">Read more</a>
+  <div class="read-more-wrapper">
+    <a class="read-more" href="{{ post.url }}">Read more</a>
+  </div>
 {% endfor %}
 </div>
 
