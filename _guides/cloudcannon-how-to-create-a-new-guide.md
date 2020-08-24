@@ -13,7 +13,7 @@ time_required: 30 minutes +
 file_attachment_path:
 ---
 
-This guide demonstrates how to create a how to guide (similar to the one you are reading\!) for the CPL Maker Lab website using the CloudCannon admin interface.
+This guide demonstrates how to create a how-to guide (similar to the one you are reading\!) for the CPL Maker Lab website using the CloudCannon admin interface.
 
 ### Step 1
 
