@@ -5,8 +5,9 @@ header_image: uploads/coding.jpg
 
 {% assign topics = "," %}
 
+
 {% assign groups = site.guides | group_by: "categories" | sort: "name" %}
-{{ groups | inspect }}
+{{ site.categories | inspect }}
 
 {% for group in groups %}
   {% assign name = group.name  | remove: '["' | remove: '"]' | strip | append: "," %}
