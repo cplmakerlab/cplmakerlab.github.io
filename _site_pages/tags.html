@@ -13,7 +13,7 @@ header_image:
 
 {% for tag in site.tags %}
   {% assign t = tag | first %}
-  {% assign tags | push: t | uniq | sort %}
+  {% assign tags = tags | push: t | uniq | sort %}
 {% endfor %}
 
 <pre>
