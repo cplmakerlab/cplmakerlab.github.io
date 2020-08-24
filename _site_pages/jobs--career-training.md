@@ -1,5 +1,5 @@
 ---
-title: Jobs & Career Training
+title: Continuing Education
 header_image:
 ---
 
