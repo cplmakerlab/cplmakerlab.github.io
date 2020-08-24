@@ -1,5 +1,5 @@
 ---
-date: 2020-08-24 04:49:45
+date: 2020-08-24 04:49:00
 title: new blog post
 tags:
   - crafts
@@ -8,4 +8,4 @@ tags:
 
 testing 123
 
-![](/uploads/-103585467-1-adb-dryas---anne-d-bjorkman--mountain-avens.jpg){: width="976" height="549"}
+![](/uploads/new-blog-post/-103585467-1-adb-dryas---anne-d-bjorkman--mountain-avens.jpg){: width="976" height="549"}
