@@ -13,7 +13,6 @@ header_image: uploads/coding.jpg
 {% endfor %}
 
 {% assign topics = topics | split: "," %}
-{{ topics | json }}
 
 <section class="row topics">
   <div class="col-sm-4">
@@ -23,6 +22,7 @@ header_image: uploads/coding.jpg
       <ul>
       {% for topic in topics %}
        {% assign guides = site.guides | where:"categories",topic %}
+       {{ guides | json }}
        {% if guides.size > 0 %}
     			<li><a href="#{{ topic }}">{{ topic }}</a></li>
     		{% endif %}
