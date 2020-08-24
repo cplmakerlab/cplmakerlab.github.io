@@ -5,12 +5,9 @@ header_image: uploads/coding.jpg
 
 {% assign topics = "," | split: ","%}
 
-
 {% for guide in site.guides %}
  {% assign topics = topics | concat: guide.categories | uniq | sort %}
 {% endfor %}
-
-
 
 <section class="row topics">
   <div class="col-sm-4">
