@@ -5,10 +5,10 @@ header_image:
 
 {% assign topics = "," | split: ","%}
 
-{% assign everything = site.guides | concat: site.pages | concat: site.slidedecks | concat:site.posts %}
+{% assign everything = site.guides | concat:site.posts %}
 
-{% for guide in everything %}
- {% assign topics = topics | concat: guide.tags | uniq | sort %}
+{% for item in everything %}
+ {% assign topics = topics | concat: item.tags | uniq | sort %}
 {% endfor %}
 
 
