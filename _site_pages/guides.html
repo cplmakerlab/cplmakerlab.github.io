@@ -7,7 +7,6 @@ header_image: uploads/coding.jpg
 
 
 {% assign groups = site.guides | group_by: "categories" | sort: "name" %}
-{{ site.categories | inspect }}
 
 {% for group in groups %}
   {% assign name = group.name  | remove: '["' | remove: '"]' | strip | append: "," %}
