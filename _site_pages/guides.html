@@ -6,7 +6,7 @@ header_image: uploads/coding.jpg
 {% assign topics = "," %}
 
 
-{% assign all_categories = site.guides | map: "category" %}
+{% assign all_categories = site.guides | concat: "categories" %}
 
 {% for item in all_categories %}
 - {{ item }}
