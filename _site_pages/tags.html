@@ -8,9 +8,7 @@ header_image:
 {% assign everything = site.guides | concat:site.posts %}
 
 {% for guide in site.guides %}
- {% if guide.tags.size > 0 %}
    {% assign tags = tags | concat: guide.tags | uniq | sort %}
- {% endif %}
 {% endfor %}
 
 {% for tag in site.tags %}
