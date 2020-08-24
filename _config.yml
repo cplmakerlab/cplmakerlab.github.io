@@ -34,7 +34,7 @@ plugins:
 #  - jekyll-extract-element
 #  - jekyll-archives
 
-# This plugin is not availabl for Github Pages :-/
+# This plugin is not available for Github Pages :-/
 # jekyll-archives:
 #  enabled: ['categories']
 
@@ -64,7 +64,7 @@ collections:
     permalink: /slidedeck/:path 
     _singular_name: Slide Deck
     _hide_content: true
-    
+  
 
 
 defaults:
@@ -78,6 +78,7 @@ defaults:
       type: "posts"
     values:
       layout: "blog"
+      permalink: /blog/:path
       comments: false
   -
     scope:
@@ -104,13 +105,8 @@ defaults:
           table: true
           embed: true
 
-type:
-  - document
-  - how-to
-  - video
-  
 
-# @@DEPRECATED 
+# @@DEPRECATED in favor of Categories.
 # Topics used to organize guides. 
 # Each guide in the collection is assigned a single topic from a dropdown list.
 # Here we define the option for "topics:" (plural) but in the guide frontmatter we use "topic:" (singular form)
@@ -137,6 +133,8 @@ difficulties:
   Hard: 3 - Hard
 
 # Slide deck (reveal.js themes)
+# For makerlab theme: assets/css/components/slidedeck.css
+# The rest of the themes are in: assets/js/revealjs/dist/theme/
 slide_themes:
   - makerlab
   - black
@@ -154,6 +152,7 @@ slide_themes:
 # -----------
 # CloudCannon
 
+uploads_dir: "uploads/:title"
 
 # Complex array structures
 # See: https://docs.cloudcannon.com/editing/options/input-options/#array-structures
@@ -166,8 +165,6 @@ _array_structures:
         content_markdown:
         background_color:
         background_image:
-        
-uploads_dir: "uploads/:title"
 
 # CloudCannon Explore UI Settings
 _explore:
@@ -189,10 +186,6 @@ _explore:
       collections:
         - data
 
-# CloudCannon Source Editor
-_source_editor:   
-  tab_size: 2
-  
 # CloudCannon Content Editor 
 _options:
   content:
@@ -209,7 +202,12 @@ _options:
     code: true
     table: true
     embed: true
-    
+
+# CloudCannon Source Editor
+_source_editor:   
+  tab_size: 2
+  
+
 # Footer Icons
 social_icons:
   - Facebook
