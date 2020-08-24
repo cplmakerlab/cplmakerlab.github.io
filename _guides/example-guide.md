@@ -1,7 +1,6 @@
 ---
 title: Example guide
 categories:
-  - Web
   - Coding
   - Sewing
 tags:
