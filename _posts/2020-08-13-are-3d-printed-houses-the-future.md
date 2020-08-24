@@ -1,6 +1,6 @@
 ---
 date: 2020-08-13 18:00:00
-title: Is 3d printing houses the future?
+title: Are 3D printed houses the future?
 tags:
   - news
   - 3d printing
