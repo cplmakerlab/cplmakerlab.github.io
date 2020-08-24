@@ -8,9 +8,6 @@
     - name: How-To Guides
       link: /guides
       open_in_new_window: false
-    - name: Videos
-      link: 'https://www.youtube.com/channel/UCgYrYjnoluGLUl-fdpSMSJQ/videos'
-      open_in_new_window: true
     - name: Slide Decks
       link: /slidedecks
       open_in_new_window: false
@@ -18,6 +15,9 @@
       link: >-
         https://chipublib.bibliocommons.com/events/search/fq=program:(53f20a07e04c1e3b1c00d3e4)
       open_in_new_window: true
+    - name: Videos
+      link: 'https://www.youtube.com/channel/UCgYrYjnoluGLUl-fdpSMSJQ/videos'
+      open_in_new_window: true      
     - name: Jobs & Career Training
       link: /continuing-education
       open_in_new_window: false
