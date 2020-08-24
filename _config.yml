@@ -23,7 +23,7 @@ social:
 # -----
 # Build 
 
-timezone: America/Chicago
+timezone: Etc/UTC
 
 permalink: /:title
 
