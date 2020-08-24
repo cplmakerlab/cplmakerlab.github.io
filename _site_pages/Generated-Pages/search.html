@@ -10,7 +10,7 @@ permalink: /search
 
 <script>
 	window.data = {
-	  {% assign searchable = site.guides | concat: site.pages | concat: site.posts | concat: site.slidedecks %}
+	  {% assign searchable = site.guides | concat: site.site_pages | concat: site.posts | concat: site.slidedecks %}
 		{% for post in searchable %}
 			{% if post.title %}
 				{% unless post.excluded_in_search %}
