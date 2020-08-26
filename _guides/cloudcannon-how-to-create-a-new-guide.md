@@ -37,7 +37,7 @@ In the sidebar, enter a title for your guide. In categories, enter only **ONE** 
 
 ![](/uploads/cloudcannon-how-to-create-a-new-guide/guides-add-details.png){: width="936" height="674"}
 
-In the sidebar, you can upload an example image, and select a difficulty level from the drop down. Scroll down and you will see some additional fields. Enter in the time required (i.e. 15-20 minutes) and upload a file attachment if you have one (such as an .SVG template). These details will be automatically formatted and displayed at the top of your published guide.
+In the sidebar, scroll down to see more fields. You can upload an example image and select a difficulty level from the drop down. Enter in the time required (i.e. 15-20 minutes) and upload a file attachment if you have one (such as an .SVG template). These details will be automatically formatted and displayed at the top of your published guide.
 
 ![](/uploads/cloudcannon-how-to-create-a-new-guide/guides-sidebar.png){: width="378" height="613"}
 
