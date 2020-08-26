@@ -59,7 +59,7 @@ layout: default
   function generatePDF() {
     $('body').addClass('media-print'); 
     var opt = {
-      margin:       1,
+      margin:       .25,
       filename:     '{{- page.title | slugify -}}.pdf',
       image:        { type: 'jpeg', quality: 0.98 },
       html2canvas:  { scale: 2 },
