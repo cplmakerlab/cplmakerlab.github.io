@@ -20,7 +20,7 @@ Log in to [CloudCannon](cloudcannon.com/){: target="_blank" rel="noopener"}. Clo
 
 ### Step 2
 
-When you first login, it will show you a list of websites. For the free tier of CloudCannon, you can only create one website. Click the big square icon to open the website dashboard.
+Click the large CPL Logo to open the website dashboard.
 
 ![](/uploads/cloudcannon-how-to-create-a-new-blog-post/guides-cloudcannon-landing.png){: width="943" height="699"}
 
