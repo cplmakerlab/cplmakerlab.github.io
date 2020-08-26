@@ -45,7 +45,7 @@ It's a good idea to save early & often, so go ahead and click the SAVE button. C
 
 ### Step 6
 
-On the right side you will see the main content editor with a toolbar at the top. The toolbar lets you format text, insert images, and more.
+On the right side you will see the main content editor with a toolbar at the top. The toolbar lets you style your text, insert images, and more.
 
 Start by adding a brief description of your guide and what the reader will accomplish after completing it.
 
@@ -55,7 +55,7 @@ If you have a Youtube video, you can embed it after the description using the Em
 
 ## Step 7
 
-It's a good idea to label each step with a large numbered heading. This breaks up the text and makes it easier to read. Use the text editor toolbar to select the text of your heading and give it the "Heading 2" style.
+It's a good idea to label each step with a large numbered heading. This breaks up the text into smaller sections, making it easier to read and follow. Use the text editor toolbar to select the text of your heading and give it the "Heading 2" style.
 
 Enter the instructions for your step after the heading. Use concise, plain language to describe each step. If possible, try and write your guide while actually working through the steps yourself so you don't miss any details.
 
