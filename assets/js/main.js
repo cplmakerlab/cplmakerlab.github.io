@@ -38,14 +38,5 @@ jQuery(function() {
       valueNames: [ 'title', 'topic' ]
     };
     var guideList = new List('guide-list', options); 
-    
-    /* html2pdf */
-    function generatePDF() {
-      $('body').addClass('media-print'); 
-      html2pdf(document.body);
-      $('body').removeClass('media-print');
-    }
-    
-    
 });
 
