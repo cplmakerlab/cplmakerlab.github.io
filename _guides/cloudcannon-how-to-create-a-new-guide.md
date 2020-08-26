@@ -21,7 +21,7 @@ Log in to [CloudCannon](cloudcannon.com/){: target="_blank" rel="noopener"}. Clo
 
 ### Step 2
 
-When you first login, it will show you a list of websites. For the free tier of CloudCannon, you can only create one website. Click the big square icon to open the website dashboard.
+Click the large CPL Logo to open the website dashboard.
 
 ![](/uploads/cloudcannon-how-to-create-a-new-guide/guides-cloudcannon-landing.png){: width="943" height="699"}
 
@@ -35,7 +35,7 @@ Click on Explore &gt; Guides &gt; + Add Guide
 
 In the sidebar, enter a title for your guide. In categories, enter only **ONE** topic category for your guide. Look for an existing category that might work before creating a new one. The topic category is used to organize guides on the guides landing page. You can enter as many tags as you'd like. Tags will be displayed at the bottom of the page and users can click on tags to find related content.
 
-**Optional:** Add more details such as an example image, difficulty level, time required, and file attachment (such as an .SVG template). These details will be summarized at the top of your published guide.
+In the sidebar, upload an example image, and select a difficulty level from the drop down. Scroll down and you will see some additional fields. Enter in the time required (i.e. 15-20 minutes) and upload a file attachment if you have one (such as an .SVG template). These details will be automatically formatted and displayed at the top of your published guide.
 
 ![](/uploads/cloudcannon-how-to-create-a-new-guide/guides-add-details.png){: width="936" height="674"}
 
@@ -45,19 +45,21 @@ It's a good idea to save early & often, so go ahead and click the SAVE button. C
 
 ### Step 6
 
-On the right side is where you'll enter the text for your guide. Add a short description of your guide, and what you intend your audience to learn by the end of it.
+On the right side you will see the main content editor with a toolbar at the top. The toolbar lets you format text, insert images, and more.
 
-If you have a Youtube video, you can embed it after the description using the Embed button in the text toolbar (hover your mouse over each icon to see what they are).
+Start by adding a brief description of your guide and what the reader will accomplish after completing it.
+
+If you have a Youtube video, you can embed it after the description using the Embed button in the content editor toolbar (hover your mouse over each icon to reveal what they are).
 
 ![](/uploads/cloudcannon-how-to-create-a-new-guide/guides-embed.png){: width="547" height="82"}
 
 ## Step 7
 
-It's a good idea to label each step with a large numbered heading. Use the text editor toolbar to select your heading and give it the "Heading 2" style.
+It's a good idea to label each step with a large numbered heading. This breaks up the text and makes it easier to read. Use the text editor toolbar to select the text of your heading and give it the "Heading 2" style.
 
 Enter the instructions for your step after the heading. Use concise, plain language to describe each step. If possible, try and write your guide while actually working through the steps yourself so you don't miss any details.
 
-You can insert a screenshot or image to help explain the step. To do this, put your cursor where you'd like to insert an image and then click the Image icon in the toolbar. Please try and resize images whenever possible before uploading – you can't edit or resize images through CloudCannon. An image size around 1024px wide is reasonable.
+You can insert a screenshot or image to help explain the step. To do this, put your cursor where you'd like to insert an image and then click the Image icon in the toolbar. Try and resize images whenever possible before uploading – you can't edit or resize images through CloudCannon. An image size around 1024px wide should work well. In general, we want to avoid very large images because they take up a lot of bandwidth and slow down the page load for site visitors, especially those reading on a mobile phone.
 
 ![](/uploads/cloudcannon-how-to-create-a-new-guide/guides-images.png){: width="553" height="76"}
 
