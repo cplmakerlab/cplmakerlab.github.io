@@ -35,9 +35,11 @@ Click on Explore &gt; Guides &gt; + Add Guide
 
 In the sidebar, enter a title for your guide. In categories, enter only **ONE** topic category for your guide. Look for an existing category that might work before creating a new one. The topic category is used to organize guides on the guides landing page. You can enter as many tags as you'd like. Tags will be displayed at the bottom of the page and users can click on tags to find related content.
 
-In the sidebar, upload an example image, and select a difficulty level from the drop down. Scroll down and you will see some additional fields. Enter in the time required (i.e. 15-20 minutes) and upload a file attachment if you have one (such as an .SVG template). These details will be automatically formatted and displayed at the top of your published guide.
-
 ![](/uploads/cloudcannon-how-to-create-a-new-guide/guides-add-details.png){: width="936" height="674"}
+
+In the sidebar, you can upload an example image, and select a difficulty level from the drop down. Scroll down and you will see some additional fields. Enter in the time required (i.e. 15-20 minutes) and upload a file attachment if you have one (such as an .SVG template). These details will be automatically formatted and displayed at the top of your published guide.
+
+![](/uploads/cloudcannon-how-to-create-a-new-guide/guides-sidebar.png){: width="378" height="613"}
 
 ### Step 5
 
