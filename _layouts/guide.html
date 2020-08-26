@@ -58,8 +58,9 @@ layout: default
   /* html2pdf */
   function generatePDF() {
     $('body').addClass('media-print'); 
-    html2pdf(document.body);
-    //$('body').removeClass('.media-print');
+    var worker = html2pdf().from(document.body).save({{ page.title }}).then(function(){
+      $('body').removeClass('.media-print');  
+    });
   }
 </script>
 <a class="pdf-icon print-hidden" href="#" onclick="generatePDF();return false;"><i class="fa fa-file-pdf-o fa-fw"></i></a>
