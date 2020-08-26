@@ -40,7 +40,7 @@ jQuery(function() {
     var guideList = new List('guide-list', options); 
     
     /* html2pdf */
-    function generatePDF() = {
+    function generatePDF() {
       $('body').addClass('media-print'); 
       html2pdf(document.body);
       $('body').removeClass('media-print');
