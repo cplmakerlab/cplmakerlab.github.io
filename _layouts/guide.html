@@ -58,7 +58,14 @@ layout: default
   /* html2pdf */
   function generatePDF() {
     $('body').addClass('media-print'); 
-    var worker = html2pdf().from(document.body).save({{ page.title }}).then(function(){
+    var opt = {
+      margin:       1,
+      filename:     '{{- page.title -}}',
+      image:        { type: 'jpeg', quality: 0.98 },
+      html2canvas:  { scale: 2 },
+      jsPDF:        { unit: 'in', format: 'letter', orientation: 'portrait' }
+    };    
+    html2pdf().set(opt).from(document.body).save().then(function(){
       $('body').removeClass('.media-print');  
     });
   }
