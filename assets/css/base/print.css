@@ -97,3 +97,108 @@
     line-height:2.4 !important;
   }  
 }
+/* Duplicate media query as body.media-print for html2pdf workaround */
+/* See: https://github.com/eKoopmans/html2pdf.js/issues/79 */
+
+
+body.media-print * {
+  background-color: transparent !important;
+  color: #000 !important; /* Black prints faster: h5bp.com/s */
+  box-shadow: none !important;
+  text-shadow: none !important;
+}
+body.media-print {
+  margin:0;
+  padding-top: 0;
+  font-size:1.4em !important;
+}
+body.media-print a, 
+body.media-print a:visited {
+  text-decoration: underline;
+}
+body.media-print pre, 
+body.media-print blockquote {
+  /*border: 1px solid #999;*/
+  page-break-inside: avoid;
+}
+body.media-print thead {
+  display: table-header-group; /* h5bp.com/t */
+}
+body.media-print tr, 
+body.media-print img {
+  page-break-inside: avoid;
+}
+body.media-print img {
+  max-width: 100% !important;
+}
+body.media-print p, 
+body.media-print h2, 
+body.media-print h3 {
+  orphans: 3;
+  widows: 3;
+}
+body.media-print h2, 
+body.media-print h3 {
+  page-break-after: avoid;
+}
+body.media-print a, 
+body.media-print .link {
+  color: #000;
+  text-decoration: underline;
+}
+body.media-print .button, 
+body.media-print .button--primary {
+  background: none !important;
+}
+body.media-print .messages {
+  border-width: 1px;
+  border-left-color: #999;
+}
+body.media-print .print-only {
+  display: block !important;
+}
+body.media-print .print-hidden {
+  display:none !important;  
+}
+body.media-print p {
+ margin: 0 auto 1em auto !important;  
+}
+body.media-print h1 { font-size: 2.2rem !important; font-weight:bold !important; }
+body.media-print h2 { font-size: 1.8rem !important; font-weight:bold !important; }
+body.media-print h3 { font-size: 1.6rem !important; }
+body.media-print h4 { font-size: 1.4rem !important; }
+body.media-print h5 { font-size: 1.4rem !important; }
+body.media-print h6 { font-size: 1.4rem !important; }
+  
+body.media-print header {
+  background:none !important;
+  border-bottom:solid 3px #000;
+  min-height:auto !important;
+  overflow:auto;
+}
+body.media-print header #logo-site-name {
+  float:left;
+}
+body.media-print nav,
+body.media-print .mobile-menu-icons,
+body.media-print .guide-header,
+body.media-print .guide-summary,
+body.media-print footer {
+  display:none !important;
+}
+body.media-print .logo {
+  width:75px !important;
+  height:auto;
+}
+body.media-print .logo img {
+  padding:5px !important;
+}
+body.media-print header h1.page-title {
+  display:inline-block !important;
+  margin:0 !important;
+  font-size: 2.6rem !important;
+  font-weight:normal !important;
+  line-height:2.4 !important;
+}  
+
+
