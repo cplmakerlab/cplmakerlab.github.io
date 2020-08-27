@@ -187,9 +187,15 @@ ul.guide-summary .detail {
   float:right;
   border-bottom:none;
   color: #000;
-  margin-left:20px;
+  padding:5px;
   font-size:2rem;
 }
+#content a.pdf-icon:hover,
+#contetn a.print-icon:hover {
+  border:solid 1px #eee;
+  border-radius:5px;
+}
+
 
 #content .tags .tag-name,
 .tags .tag-name {
