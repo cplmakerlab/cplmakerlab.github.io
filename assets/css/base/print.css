@@ -111,7 +111,7 @@ body.media-print {
   font-size:1.4rem !important;
 }
 body.media-print #content {
-  max-width:auto;
+  max-width:none;
 }
 body.media-print a, 
 body.media-print a:visited {
