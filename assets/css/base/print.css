@@ -99,8 +99,6 @@
 }
 /* Duplicate media query as body.media-print for html2pdf workaround */
 /* See: https://github.com/eKoopmans/html2pdf.js/issues/79 */
-
-
 body.media-print * {
   background-color: transparent !important;
   color: #000 !important; /* Black prints faster: h5bp.com/s */
@@ -110,7 +108,10 @@ body.media-print * {
 body.media-print {
   margin:0;
   padding-top: 0;
-  font-size:1.4em !important;
+  font-size:1.4rem !important;
+}
+body.media-print #content {
+  max-width:auto;
 }
 body.media-print a, 
 body.media-print a:visited {
