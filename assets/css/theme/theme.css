@@ -187,6 +187,7 @@ ul.guide-summary .detail {
   float:right;
   border-bottom:none;
   color: #000;
+  width:50px;
 }
 
 #content .tags .tag-name,
