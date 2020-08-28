@@ -103,13 +103,15 @@
             var pdf = getUrlVars()["generatePDF"];
             if (pdf != null) {
               var opt = {
-                margin:       .25,
+                margin:       0,
                 filename:     '{{- page.title | slugify -}}.pdf',
                 image:        { type: 'jpeg', quality: 1 },
                 html2canvas:  { scale: 2 },
-                jsPDF:        { unit: 'in', format: 'letter', orientation: 'landscape' }
+                jsPDF:        { unit: 'mm', format: 'letter', orientation: 'landscape' }
               };    
-              html2pdf().set(opt).from(document.body).save();
+              setTimeout(function(){
+                html2pdf().set(opt).from(document.body).save();
+              }, 1000);
             }         
         
 
