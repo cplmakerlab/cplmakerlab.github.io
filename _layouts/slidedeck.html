@@ -47,20 +47,6 @@
       }
 		
       /*@@TODO move all this to main.js */
-      /* html2pdf */
-      function generatePDF() {
-        $('body').addClass('media-print'); 
-        var opt = {
-          margin:       .25,
-          filename:     '{{- page.title | slugify -}}.pdf',
-          image:        { type: 'jpeg', quality: 1 },
-          html2canvas:  { scale: 2 },
-          jsPDF:        { unit: 'in', format: 'letter', orientation: 'landscape' }
-        };    
-        html2pdf().set(opt).from(document.body).save().then(function(){
-          $('body').removeClass('media-print');  
-        });
-      }
 
       function toggleFullscreen(elem) {
         elem = elem || document.documentElement;
@@ -109,10 +95,19 @@
              // Toggle fullscreen
             toggleFullscreen();
             });
+            
+            
             // Handler for .ready() called.
             var pdf = getUrlVars()["generatePDF"];
-            if (pdf) {
-              generatePDF();  
+            if (pdf != null) {
+              var opt = {
+                margin:       .25,
+                filename:     '{{- page.title | slugify -}}.pdf',
+                image:        { type: 'jpeg', quality: 1 },
+                html2canvas:  { scale: 2 },
+                jsPDF:        { unit: 'in', format: 'letter', orientation: 'landscape' }
+              };    
+              html2pdf().set(opt).from(document.body).save();
             }           
     			}
   			);        
