@@ -20,6 +20,7 @@
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <link href="//fonts.googleapis.com/css?family=Open+Sans|Inconsolata|Source+Sans+Pro" rel="stylesheet" type="text/css" />
 		<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/components/slidedeck.css" />
+		<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 
 	</head>
 	<body>
@@ -60,12 +61,7 @@
           $('body').removeClass('media-print');  
         });
       }
-      var pdf = getUrlVars()["generatePDF"];
-      console.log(pdf);
-      if (pdf) {
-        generatePDF();  
-      }
-    	
+
       function toggleFullscreen(elem) {
         elem = elem || document.documentElement;
       
@@ -110,8 +106,18 @@
            // Toggle fullscreen
           toggleFullscreen();
          });
+         
+        var pdf = getUrlVars()["generatePDF"];
+        console.log(pdf);
+        if (pdf) {
+          generatePDF();  
+        }
+    	         
+         
   			}
 			);
+			
+			
 
 		</script>
 	  <div class="slidedeck-branding">
