@@ -88,33 +88,36 @@
           }
         }
       }			
-			// More info about initialization & config:
-			// - https://revealjs.com/initialization/
-			// - https://revealjs.com/config/
-			Reveal.initialize({
-				hash: true,
-				slideNumber: 'c/t',
-				// Learn about plugins: https://revealjs.com/plugins/
-				plugins: [ RevealHighlight, RevealZoom ]
-			}).then(
-  			function(){
-         // Reveal.toggleOverview(true);			
-         document.querySelector('.overview').addEventListener('click', function(){
-          Reveal.toggleOverview();
-         });
-         document.querySelector('.fullscreen').addEventListener('click', function(){
-           // Toggle fullscreen
-          toggleFullscreen();
-         });
-  			}
-			);
+
 			
       $(function() {
-        // Handler for .ready() called.
-  			var pdf = getUrlVars()["generatePDF"];
-        if (pdf) {
-          generatePDF();  
-        }
+  			// More info about initialization & config:
+  			// - https://revealjs.com/initialization/
+  			// - https://revealjs.com/config/
+  			Reveal.initialize({
+  				hash: true,
+  				slideNumber: 'c/t',
+  				// Learn about plugins: https://revealjs.com/plugins/
+  				plugins: [ RevealHighlight, RevealZoom ]
+  			}).then(
+    			function(){
+           // Reveal.toggleOverview(true);			
+           document.querySelector('.overview').addEventListener('click', function(){
+            Reveal.toggleOverview();
+           });
+           document.querySelector('.fullscreen').addEventListener('click', function(){
+             // Toggle fullscreen
+            toggleFullscreen();
+           });
+            // Handler for .ready() called.
+            var pdf = getUrlVars()["generatePDF"];
+            if (pdf) {
+              generatePDF();  
+            }           
+    			}
+  			);        
+        
+
       });
 			
 
