@@ -100,6 +100,7 @@
             var pdf = getUrlVars()["generatePDF"];
             if (pdf != null) {
               $('body').css('height', 'auto').css('width', 'auto');
+              $('.slide-background').css('background-color', 'none');
               var opt = {
                 margin:       0,
                 filename:     '{{- page.title | slugify -}}.pdf',
