@@ -101,11 +101,11 @@
             if (pdf != null) {
               $('body').css('height', 'auto');
               var opt = {
-                margin:       0,
+                margin:       .25,
                 filename:     '{{- page.title | slugify -}}.pdf',
                 image:        { type: 'jpeg', quality: 1 },
                 html2canvas:  { scale: 1 },
-                jsPDF:        { unit: 'mm', format: 'letter', orientation: 'landscape' }
+                jsPDF:        { unit: 'in', format: 'letter', orientation: 'landscape' }
               };    
               setTimeout(function(){
                 html2pdf().set(opt).from(document.body).save();
