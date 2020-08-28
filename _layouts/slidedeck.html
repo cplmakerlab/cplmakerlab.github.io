@@ -35,6 +35,7 @@
 		<script src="{{ site.baseurl }}/assets/js/revealjs/dist/reveal.js"></script>
 		<script src="{{ site.baseurl }}/assets/js/revealjs/plugin/highlight/highlight.js"></script>
 		<script src="{{ site.baseurl }}/assets/js/revealjs/plugin/zoom/zoom.js"></script>
+		
 		<script>
       function getUrlVars() {
         var vars = {};
@@ -59,7 +60,8 @@
           $('body').removeClass('media-print');  
         });
       }
-      var pdf = getUrlVars()['generatePDF'];
+      var pdf = getUrlVars()["generatePDF"];
+      console.log(pdf);
       if (pdf) {
         generatePDF();  
       }
