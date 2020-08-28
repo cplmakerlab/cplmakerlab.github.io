@@ -95,10 +95,7 @@
              // Toggle fullscreen
             toggleFullscreen();
             });
-          
-    			}
-  			);        
-        
+
             // Handler for .ready() called.
             var pdf = getUrlVars()["generatePDF"];
             if (pdf) {
@@ -113,7 +110,12 @@
               setTimeout(function(){
                 html2pdf().set(opt).from(document).save();
               }, 1000);
-            }         
+            }    
+          
+    			}
+  			);        
+        
+     
         
 
       });
