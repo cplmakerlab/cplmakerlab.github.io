@@ -101,14 +101,14 @@
   				plugins: [ RevealHighlight, RevealZoom ]
   			}).then(
     			function(){
-           // Reveal.toggleOverview(true);			
-           document.querySelector('.overview').addEventListener('click', function(){
+            // Reveal.toggleOverview(true);			
+            document.querySelector('.overview').addEventListener('click', function(){
             Reveal.toggleOverview();
-           });
-           document.querySelector('.fullscreen').addEventListener('click', function(){
+            });
+            document.querySelector('.fullscreen').addEventListener('click', function(){
              // Toggle fullscreen
             toggleFullscreen();
-           });
+            });
             // Handler for .ready() called.
             var pdf = getUrlVars()["generatePDF"];
             if (pdf) {
