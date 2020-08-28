@@ -108,7 +108,7 @@
                 jsPDF:        { unit: 'mm', format: 'letter', orientation: 'landscape' }
               };    
               setTimeout(function(){
-                html2pdf().set(opt).from(document).save();
+                html2pdf().set(opt).from(document.body).save();
               }, 1000);
             }    
           
