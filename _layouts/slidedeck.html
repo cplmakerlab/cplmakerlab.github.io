@@ -106,7 +106,7 @@
                 margin:       0,
                 filename:     '{{- page.title | slugify -}}.pdf',
                 image:        { type: 'jpeg', quality: 1 },
-                html2canvas:  { scale: 2 },
+                html2canvas:  { scale: 1 },
                 jsPDF:        { unit: 'mm', format: 'letter', orientation: 'landscape' }
               };    
               setTimeout(function(){
