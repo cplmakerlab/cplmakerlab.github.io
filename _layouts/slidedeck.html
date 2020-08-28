@@ -95,8 +95,10 @@
              // Toggle fullscreen
             toggleFullscreen();
             });
-            
-            
+          
+    			}
+  			);        
+        
             // Handler for .ready() called.
             var pdf = getUrlVars()["generatePDF"];
             if (pdf != null) {
@@ -108,9 +110,7 @@
                 jsPDF:        { unit: 'in', format: 'letter', orientation: 'landscape' }
               };    
               html2pdf().set(opt).from(document.body).save();
-            }           
-    			}
-  			);        
+            }         
         
 
       });
