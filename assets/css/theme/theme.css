@@ -185,13 +185,13 @@ ul.guide-summary .detail {
 #content a.print-icon {
   display:block;
   float:right;
-  border-bottom:none;
+  border:solid 1px transparent;
   color: #000;
-  padding:5px;
+  margin-left:5px;
   font-size:2rem;
 }
 #content a.pdf-icon:hover,
-#contetn a.print-icon:hover {
+#content a.print-icon:hover {
   border:solid 1px #eee;
   border-radius:5px;
 }
