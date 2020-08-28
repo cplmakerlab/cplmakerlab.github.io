@@ -106,18 +106,18 @@
            // Toggle fullscreen
           toggleFullscreen();
          });
-         
-        var pdf = getUrlVars()["generatePDF"];
-        console.log(pdf);
-        if (pdf.size > 0) {
-          generatePDF();  
-        }
-    	         
-         
   			}
 			);
 			
+      $(function() {
+        // Handler for .ready() called.
+  			var pdf = getUrlVars()["generatePDF"];
+        if (pdf) {
+          generatePDF();  
+        }
+      });
 			
+
 
 		</script>
 	  <div class="slidedeck-branding">
