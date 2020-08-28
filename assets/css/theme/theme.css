@@ -188,7 +188,7 @@ ul.guide-summary .detail {
   border:solid 1px transparent;
   color: #000;
   margin-left:5px;
-  font-size:2rem;
+  padding:5px;
 }
 #content a.pdf-icon:hover,
 #content a.print-icon:hover {
