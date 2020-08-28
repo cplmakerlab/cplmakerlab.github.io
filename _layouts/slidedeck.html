@@ -102,11 +102,11 @@
               $('body').css('height', 'auto').css('width', 'auto');
               $('.slide-background').css('background-color', 'none');
               var opt = {
-                margin:       .25,
+                margin:       0,
                 filename:     '{{- page.title | slugify -}}.pdf',
                 image:        { type: 'jpeg', quality: 1 },
                 html2canvas:  { scale: 1 },
-                jsPDF:        { unit: 'in', format: 'letter', orientation: 'landscape' }
+                jsPDF:        { unit: 'mm', format: 'letter', orientation: 'landscape' }
               };    
               setTimeout(function(){
                 html2pdf().set(opt).from(document.body).save();
