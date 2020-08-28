@@ -98,7 +98,7 @@
 
             // Handler for .ready() called.
             var pdf = getUrlVars()["generatePDF"];
-            if (pdf) {
+            if (pdf != null) {
               $('body').css('height', 'auto');
               var opt = {
                 margin:       0,
