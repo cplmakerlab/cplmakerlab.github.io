@@ -55,7 +55,7 @@
           filename:     '{{- page.title | slugify -}}.pdf',
           image:        { type: 'jpeg', quality: 1 },
           html2canvas:  { scale: 2 },
-          jsPDF:        { unit: 'in', format: 'letter', orientation: 'portrait' }
+          jsPDF:        { unit: 'in', format: 'letter', orientation: 'landscape' }
         };    
         html2pdf().set(opt).from(document.body).save().then(function(){
           $('body').removeClass('media-print');  
