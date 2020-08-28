@@ -36,6 +36,34 @@
 		<script src="{{ site.baseurl }}/assets/js/revealjs/plugin/highlight/highlight.js"></script>
 		<script src="{{ site.baseurl }}/assets/js/revealjs/plugin/zoom/zoom.js"></script>
 		<script>
+      function getUrlVars() {
+        var vars = {};
+        var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+            vars[key] = value;
+        });
+        return vars;
+      }
+		
+      /*@@TODO move all this to main.js */
+      /* html2pdf */
+      function generatePDF() {
+        $('body').addClass('media-print'); 
+        var opt = {
+          margin:       .25,
+          filename:     '{{- page.title | slugify -}}.pdf',
+          image:        { type: 'jpeg', quality: 1 },
+          html2canvas:  { scale: 2 },
+          jsPDF:        { unit: 'in', format: 'letter', orientation: 'portrait' }
+        };    
+        html2pdf().set(opt).from(document.body).save().then(function(){
+          $('body').removeClass('media-print');  
+        });
+      }
+      var pdf = getUrlVars()['generatePDF'];
+      if (pdf) {
+        generatePDF();  
+      }
+    	
       function toggleFullscreen(elem) {
         elem = elem || document.documentElement;
       
