@@ -26,4 +26,16 @@ slides:
       ![](/uploads/tinkercad-jewelry/ringdims.jpg){: width="300" height="300"}
     background_color: '#c9ffc7'
     background_image:
+  - title: Ring Thickness
+    content_markdown: >-
+      ## Ring Thickness
+
+
+      (Image Source: Titanium Style)
+
+
+      ![](/uploads/tinkercad-jewelry/captur3e-1.PNG){: width="1065"
+      height="893"}
+    background_color:
+    background_image:
 ---
