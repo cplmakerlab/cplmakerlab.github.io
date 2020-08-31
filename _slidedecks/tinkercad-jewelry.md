@@ -24,6 +24,6 @@ slides:
 
 
       ![](/uploads/tinkercad-jewelry/ringdims.jpg){: width="300" height="300"}
-    background_color:
+    background_color: '#c9ffc7'
     background_image:
 ---
