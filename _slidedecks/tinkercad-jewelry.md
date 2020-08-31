@@ -117,12 +117,7 @@ slides:
       **&nbsp; &nbsp;Have you designed something during quarantine that you want
       to have 3D printed or laser cut? Although you cannot yet use the machines
       at the Maker Lab, you can send your files online to different companies
-      that can make them for you\! This process is called outsourcing. Our
-      workshop will help you think about material, cost, time, shipping,&nbsp;
-      country or origin, and ethics in ways that will help you pick the best
-      company to do this. Participants will watch a slideshow about outsourcing,
-      watch a demonstration of how to use the All3DP cost comparison tool, and
-      ask questions to instructors.**
+      that can make them for you\!&nbsp;**
     background_color: '#c9ffc7'
     background_image:
 ---
