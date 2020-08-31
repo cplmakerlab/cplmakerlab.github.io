@@ -40,7 +40,7 @@ slides:
 
       ![](/uploads/tinkercad-jewelry/captur3e-1.PNG){: width="1065"
       height="893"}
-    background_color:
+    background_color: '#c9ffc7'
     background_image:
   - title: Bezel
     content_markdown: >-
