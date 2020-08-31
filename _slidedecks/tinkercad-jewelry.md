@@ -6,7 +6,7 @@ slides:
     background_color: '#c9ffc7'
     background_image:
   - title: Rings
-    content_markdown: Rings
+    content_markdown: '## Rings'
     background_color: '#c9ffc7'
     background_image:
   - title: Standard Fit & Comfort Fit
