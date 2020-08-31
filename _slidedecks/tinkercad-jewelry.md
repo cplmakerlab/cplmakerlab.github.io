@@ -110,8 +110,10 @@ slides:
     background_image:
   - title: Outsourcing
     content_markdown: >-
-      ## **Monday, September, 28th&nbsp; 12:00 PM &nbsp; Outsourcing your
-      Designs**
+      ## **Monday, September, 28th&nbsp; 12:00 PM &nbsp; **
+
+
+      ## **Outsourcing your Designs**
 
 
       **&nbsp;**
