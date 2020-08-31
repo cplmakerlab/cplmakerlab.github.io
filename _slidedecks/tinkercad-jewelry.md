@@ -5,6 +5,10 @@ slides:
     content_markdown: '## **Software Basics: Tinkercad (Jewelry)**'
     background_color: '#c9ffc7'
     background_image:
+  - title: Rings
+    content_markdown: Rings
+    background_color: '#c9ffc7'
+    background_image:
   - title: Standard Fit & Comfort Fit
     content_markdown: |-
       ## Standard Fit & Comfort Fit&nbsp;
@@ -56,8 +60,18 @@ slides:
       &nbsp;
     background_color: '#c9ffc7'
     background_image:
-  - title: Rings
-    content_markdown: Rings
+  - title: Ring Size
+    content_markdown: >-
+      ## Ring Size
+
+
+      (Image
+      Source:&nbsp;**[ringsize-chart.blogspot.com](http://ringsize-chart.blogspot.com/p/ring-size-conversion-chart.html){:
+      target="_blank" rel="nofollow noopener noreferrer"})**
+
+
+      ## ![](/uploads/tinkercad-jewelry/09dbc277ab25703687cec04c795046e4.jpg){:
+      width="612" height="676"}
     background_color: '#c9ffc7'
     background_image:
 ---
