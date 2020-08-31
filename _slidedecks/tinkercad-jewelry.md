@@ -5,7 +5,7 @@ slides:
     content_markdown: '## **Software Basics: Tinkercad (Jewelry)**'
     background_color: '#c9ffc7'
     background_image:
-  - title: Rings
+  - title: Standard Fit & Comfort Fit
     content_markdown: |-
       ## Standard Fit & Comfort Fit&nbsp;
 
@@ -54,6 +54,10 @@ slides:
 
 
       &nbsp;
+    background_color: '#c9ffc7'
+    background_image:
+  - title: Rings
+    content_markdown: Rings
     background_color: '#c9ffc7'
     background_image:
 ---
