@@ -123,6 +123,6 @@ slides:
       company to do this. Participants will watch a slideshow about outsourcing,
       watch a demonstration of how to use the All3DP cost comparison tool, and
       ask questions to instructors.**
-    background_color:
+    background_color: '#c9ffc7'
     background_image:
 ---
