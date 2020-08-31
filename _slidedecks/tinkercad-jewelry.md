@@ -25,8 +25,11 @@ slides:
     background_image:
   - title: Ring Meaurements
     content_markdown: >-
-      ## Ring Measurements: Inside Diameter (determines size), Ring Thickness,
-      and Outside Diameter
+      ## Ring Measurements
+
+
+      #### Inside Diameter (determines size), Ring Thickness, and Outside
+      Diameter
 
 
       (Image Source: The Ring Lord)
