@@ -96,7 +96,7 @@ slides:
     background_image:
   - title: Necklaces
     content_markdown: '## Necklaces'
-    background_color:
+    background_color: '#c9ffc7'
     background_image:
   - title: Necklaces
     content_markdown: |-
