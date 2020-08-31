@@ -47,6 +47,9 @@ slides:
       ## Bezel
 
 
+      &nbsp;
+
+
       ## ![](/uploads/tinkercad-jewelry/capture5.PNG){: width="879"
       height="693"}
     background_color: '#c9ffc7'
@@ -54,6 +57,8 @@ slides:
   - title: Bezel 2
     content_markdown: |-
       ## Bezel&nbsp;
+
+      &nbsp;
 
       ![](/uploads/tinkercad-jewelry/capture6.PNG){: width="745" height="576"}
 
