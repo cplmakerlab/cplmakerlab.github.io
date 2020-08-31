@@ -105,4 +105,24 @@ slides:
       ![](/uploads/tinkercad-jewelry/capture8.PNG){: width="849" height="415"}
     background_color: '#c9ffc7'
     background_image:
+  - title: Outsourcing
+    content_markdown: >-
+      ## **Monday, September, 28th&nbsp; 12:00 PM &nbsp; Outsourcing your
+      Designs**
+
+
+      **&nbsp;**
+
+
+      **&nbsp; &nbsp;Have you designed something during quarantine that you want
+      to have 3D printed or laser cut? Although you cannot yet use the machines
+      at the Maker Lab, you can send your files online to different companies
+      that can make them for you\! This process is called outsourcing. Our
+      workshop will help you think about material, cost, time, shipping,&nbsp;
+      country or origin, and ethics in ways that will help you pick the best
+      company to do this. Participants will watch a slideshow about outsourcing,
+      watch a demonstration of how to use the All3DP cost comparison tool, and
+      ask questions to instructors.**
+    background_color:
+    background_image:
 ---
