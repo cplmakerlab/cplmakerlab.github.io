@@ -81,4 +81,17 @@ slides:
       width="612" height="676"}
     background_color: '#c9ffc7'
     background_image:
+  - title: Gem Setting
+    content_markdown: >-
+      ## Gem Setting
+
+
+      (Image
+      Source:&nbsp;[https://caleesidesigns.com/](https://caleesidesigns.com/))
+
+
+      ![](/uploads/tinkercad-jewelry/0c302b14347f9754dc20ce006626e975.jpg){:
+      width="491" height="794"}
+    background_color: '#c9ffc7'
+    background_image:
 ---
