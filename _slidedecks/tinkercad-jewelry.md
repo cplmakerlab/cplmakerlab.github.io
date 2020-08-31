@@ -94,4 +94,15 @@ slides:
       &nbsp;
     background_color: '#c9ffc7'
     background_image:
+  - title: Necklaces
+    content_markdown: '## Necklaces'
+    background_color:
+    background_image:
+  - title: Necklaces
+    content_markdown: |-
+      ## Necklaces
+
+      ![](/uploads/tinkercad-jewelry/capture8.PNG){: width="849" height="415"}
+    background_color: '#c9ffc7'
+    background_image:
 ---
