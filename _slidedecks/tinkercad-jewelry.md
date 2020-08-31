@@ -6,7 +6,7 @@ slides:
     background_color: '#c9ffc7'
     background_image:
   - title: Rings
-    content_markdown:
-    background_color:
-    background_image:
+    content_markdown: '## Standard Fit & Comfort Fit&nbsp;'
+    background_color: '#c9ffc7'
+    background_image: /uploads/tinkercad-jewelry/capture.PNG
 ---
