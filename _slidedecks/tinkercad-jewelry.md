@@ -9,15 +9,6 @@ slides:
     content_markdown: '## Rings'
     background_color: '#c9ffc7'
     background_image:
-  - title: Standard Fit & Comfort Fit
-    content_markdown: |-
-      ## Standard Fit & Comfort Fit&nbsp;
-
-      &nbsp;
-
-      ![](/uploads/tinkercad-jewelry/capture-1.PNG){: width="1190" height="546"}
-    background_color: '#c9ffc7'
-    background_image:
   - title: Ring Size
     content_markdown: >-
       ## Ring Size
@@ -42,6 +33,15 @@ slides:
 
 
       ![](/uploads/tinkercad-jewelry/ringdims.jpg){: width="300" height="300"}
+    background_color: '#c9ffc7'
+    background_image:
+  - title: Standard Fit & Comfort Fit
+    content_markdown: |-
+      ## Standard Fit & Comfort Fit&nbsp;
+
+      &nbsp;
+
+      ![](/uploads/tinkercad-jewelry/capture-1.PNG){: width="1190" height="546"}
     background_color: '#c9ffc7'
     background_image:
   - title: Ring Thickness
