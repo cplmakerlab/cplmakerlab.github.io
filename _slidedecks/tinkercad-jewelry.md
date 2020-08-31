@@ -14,13 +14,16 @@ slides:
       ![](/uploads/tinkercad-jewelry/capture-1.PNG){: width="1190" height="546"}
     background_color: '#c9ffc7'
     background_image:
-  - title: Rings Thickness
+  - title: Ring Meaurements
     content_markdown: >-
-      ## Ring Thickness
+      ## Ring Measurements: Inside Diameter (determines size), Ring Thickness,
+      and Outside Diameter
 
 
-      (Titanium Style)![](/uploads/tinkercad-jewelry/captur3e.PNG){:
-      width="1065" height="893"}
+      (Image Source: The Ring Lord)
+
+
+      ![](/uploads/tinkercad-jewelry/ringdims.jpg){: width="300" height="300"}
     background_color:
     background_image:
 ---
