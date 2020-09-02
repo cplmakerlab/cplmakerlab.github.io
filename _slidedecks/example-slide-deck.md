@@ -14,8 +14,4 @@ slides:
     content_markdown:
     background_color:
     background_image: /uploads/background.jpg
-  - title:
-    content_markdown:
-    background_color:
-    background_image:
 ---
