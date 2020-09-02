@@ -11,7 +11,15 @@ slides:
     background_color: '#2cb3f5'
     background_image:
   - title: Full background image
-    content_markdown:
+    content_markdown: >-
+      ## Title
+
+
+      Here's some [text over the](http://google.com){: target="_blank"
+      rel="noopener"} slide
+
+
+      &nbsp;
     background_color:
     background_image: /uploads/background.jpg
 ---
