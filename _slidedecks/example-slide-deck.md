@@ -17,9 +17,6 @@ slides:
 
       Here's some [text over the](http://google.com){: target="_blank"
       rel="noopener"} slide
-
-
-      &nbsp;
     background_color:
     background_image: /uploads/background.jpg
 ---
