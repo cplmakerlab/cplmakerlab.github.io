@@ -27,7 +27,7 @@
 
 		<div class="reveal">
 			<div class="slides">
-        {% for slide in page.slides %}
+      {% for slide in page.slides %}
   			{% assign class = 'content editable ' %}
   			{% if slide.background_image %}
   			  {% assign class = class | append: 'full-background-slide' %}
