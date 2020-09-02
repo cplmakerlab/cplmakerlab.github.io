@@ -27,11 +27,11 @@
 
 		<div class="reveal">
 			<div class="slides">
-			{% assign class = 'content editable ' %}
-			{% if slide.background_image %}
-			  {% assign class = class | append: 'full-background-slide' %}
-			{% endif %}
-      {% for slide in page.slides %}
+        {% for slide in page.slides %}
+  			{% assign class = 'content editable ' %}
+  			{% if slide.background_image %}
+  			  {% assign class = class | append: 'full-background-slide' %}
+  			{% endif %}      
         <section data-background-color="{{ slide.background_color }}" data-background-image="{{ slide.background_image }}" class="{{ class }}">{{ slide.content_markdown | markdownify }}</section>
       {% endfor %}
 			</div>
