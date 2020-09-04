@@ -24,3 +24,7 @@ ul.inline li {
   padding: 0 0.5em;
 }
 
+.slidedecks li {
+  border-bottom:solid 1px #ddd;
+  padding-bottom:10px;
+}
