@@ -14,10 +14,9 @@ img.guide-example-image {
 
 #content iframe,
 #content img {
-  border:solid 1px #ddd;
   display:block;
   margin:10px auto;
 }
-#content a.fancy-box {
+#content a.fancybox {
   cursor: zoom-in;
 }
