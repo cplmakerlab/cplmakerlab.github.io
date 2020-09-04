@@ -38,5 +38,10 @@ jQuery(function() {
       valueNames: [ 'title', 'topic' ]
     };
     var guideList = new List('guide-list', options); 
+    
+    /* Fancybox */
+    $().fancybox({
+      selector : '#content img'
+    });
 });
 
