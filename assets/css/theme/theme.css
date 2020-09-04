@@ -183,7 +183,7 @@ ul.guide-summary .detail {
 #content a.fontawesome-icon,
 #content a.pdf-icon,
 #content a.print-icon {
-  display:block;
+  display:inline-block;
   border:solid 1px transparent;
   color: #000;
   padding:2px 5px;
