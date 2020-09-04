@@ -17,11 +17,9 @@ iframe {
 
 #content iframe,
 #content img {
-  border:solid 1px #ddd;
   border-radius:5px;
-  padding:5px;
   display:block;
-  margin:10px auto;
+  margin:20px auto;
 }
 #content a.fancybox {
   cursor: zoom-in;
