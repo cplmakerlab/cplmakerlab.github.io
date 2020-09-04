@@ -188,8 +188,7 @@ ul.guide-summary .detail {
   color: #000;
   padding:2px 5px;
 }
-#content a.pdf-icon,
-#content a.print-icon {
+#content .icon-group {
   float:right;
 }
 
