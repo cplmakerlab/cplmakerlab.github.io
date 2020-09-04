@@ -41,8 +41,8 @@ jQuery(function() {
     
     /* Fancybox Image Modal */
     /* http://fancyapps.com */
-    $().fancybox({
-      selector : '#content img'
+    $('#content img').fancybox({
+    	// Options will go here
     });
 });
 
