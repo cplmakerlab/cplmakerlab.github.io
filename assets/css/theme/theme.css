@@ -184,11 +184,15 @@ ul.guide-summary .detail {
 #content a.pdf-icon,
 #content a.print-icon {
   display:block;
-  float:right;
   border:solid 1px transparent;
   color: #000;
   padding:2px 5px;
 }
+#content a.pdf-icon,
+#content a.print-icon {
+  float:right;
+}
+
 #content a.fontawesome-icon:hover,
 #content a.pdf-icon:hover,
 #content a.print-icon:hover {
