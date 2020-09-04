@@ -10,6 +10,9 @@ iframe {
 img.guide-example-image {
   border-radius:5px;
   border:solid 1px #ddd;
+  padding:0;
+  margin:0;
+  display:inline;
 }
 
 #content iframe,
