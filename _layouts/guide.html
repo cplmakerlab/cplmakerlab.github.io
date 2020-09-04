@@ -38,8 +38,6 @@ layout: default
 </div>
 {% endif %}
 
-
-
 {{ content }}
 
 <hr class="print-hidden">
@@ -52,24 +50,6 @@ layout: default
   {% endfor %}
 </span>
 {% endif %}
-
-<script>
-  /*@@TODO move all this to main.js */
-  /* html2pdf */
-  function generatePDF() {
-    $('body').addClass('media-print'); 
-    var opt = {
-      margin:       .25,
-      filename:     '{{- page.title | slugify -}}.pdf',
-      image:        { type: 'jpeg', quality: 1 },
-      html2canvas:  { scale: 2 },
-      jsPDF:        { unit: 'in', format: 'letter', orientation: 'portrait' }
-    };    
-    html2pdf().set(opt).from(document.body).save().then(function(){
-      $('body').removeClass('media-print');  
-    });
-  }
-</script>
 
 <div class="icon-group">
   <a class="print-icon print-hidden" href="#" onclick="window.print();return false;"><i class="fa fa-print fa-fw"></i></a>
