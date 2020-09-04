@@ -11,3 +11,9 @@ img.guide-example-image {
   border-radius:5px;
   border:solid 1px #ddd;
 }
+
+#content iframe,
+#content img {
+  margin:10px auto;
+  border:solid 1px #ddd;
+}
