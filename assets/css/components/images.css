@@ -16,7 +16,8 @@ img.guide-example-image {
 #content img {
   border:solid 1px #ddd;
   display:block;
+  margin:10px auto;
 }
-#content img {
+#content a.fancy-box {
   cursor: zoom-in;
 }
