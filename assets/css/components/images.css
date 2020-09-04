@@ -24,4 +24,7 @@ iframe {
 }
 #content a.fancybox {
   cursor: zoom-in;
+  outline:none;
+  border:none;
+  text-decoration:none;
 }
