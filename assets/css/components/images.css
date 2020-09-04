@@ -15,7 +15,7 @@ img.guide-example-image {
 #content iframe,
 #content img {
   border:solid 1px #ddd;
-  padding:1px;
+  padding:2px;
   display:block;
   margin:10px auto;
 }
