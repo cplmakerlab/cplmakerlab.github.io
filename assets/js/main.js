@@ -41,8 +41,10 @@ jQuery(function() {
     
     /* Fancybox Image Modal */
     /* http://fancyapps.com */
-    $('#content img').fancybox({
-    	// Options will go here
+    $('#content img').each(function(){
+      var image = $(this);
+      image.wrap('<a href="'+ image[0].src +'" class="fancybox"></a>');
     });
+    $("a.fancybox").fancybox();
 });
 
