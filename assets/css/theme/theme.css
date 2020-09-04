@@ -180,7 +180,7 @@ ul.guide-summary .detail {
 .hard {
   color:#FF5722;
 }
-
+#content a.fontawesome-icon,
 #content a.pdf-icon,
 #content a.print-icon {
   display:block;
@@ -189,6 +189,7 @@ ul.guide-summary .detail {
   color: #000;
   padding:2px 5px;
 }
+#content a.fontawesome-icon:hover,
 #content a.pdf-icon:hover,
 #content a.print-icon:hover {
   border:solid 1px #ddd;
