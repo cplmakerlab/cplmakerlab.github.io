@@ -39,7 +39,8 @@ jQuery(function() {
     };
     var guideList = new List('guide-list', options); 
     
-    /* Fancybox */
+    /* Fancybox Image Modal */
+    /* http://fancyapps.com */
     $().fancybox({
       selector : '#content img'
     });
