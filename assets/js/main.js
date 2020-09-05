@@ -47,21 +47,21 @@ jQuery(function() {
     });
     $("a.fancybox").fancybox();
     
-    function generatePDF() {
+    function generatePDF(opt) {
       $('body').addClass('media-print'); 
+      html2pdf().set(opt).from(document.body).save().then(function(){
+        $('body').removeClass('media-print');  
+      });
+    }    
+    $('.generate-pdf').click(function(){
       var opt = {
         margin:       .25,
         filename:     '{{- page.title | slugify -}}.pdf',
         image:        { type: 'jpeg', quality: 1 },
         html2canvas:  { scale: 2 },
         jsPDF:        { unit: 'in', format: 'letter', orientation: 'portrait' }
-      };    
-      html2pdf().set(opt).from(document.body).save().then(function(){
-        $('body').removeClass('media-print');  
-      });
-    }    
-    $('.generate-pdf').click(function(){
-      generatePDF();
+      };       
+      generatePDF(opt);
     });
 });
 
