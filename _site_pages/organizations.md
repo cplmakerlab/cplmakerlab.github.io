@@ -10,12 +10,14 @@ We've loosely categorized some local spaces. Please check their websites for mor
 ## For Young Makers&nbsp;
 
 * [The Fab Lab at the Museum of Science & Industry](http://www.msichicago.org/whats-here/fab-lab/)\: 5700 S. Lake Shore Drive, Chicago, IL 60637Part of the MIT network of Fab Labs, which are all over the world\! The Fab Lab [evolved from the Center for Bits and Atoms](http://fab.cba.mit.edu/), and from a class called "How to Make (almost) Anything."
-* [Tinkering Lab](http://www.chicagochildrensmuseum.org/index.php/experience/tinkering-lab)\: 700 E. Grand Avenue, Chicago, IL 60611At the Tinkering Lab in the Chicago Children's Museum, kids can explore how things are made with real tools, like hammers, nails, and screws.[Bit Space](http://www.bitspacechicago.com/)\: 2451 W. Lawrence Ave., Chicago, IL 60625Youth maker lab with camps and after-school programs.
+* [Tinkering Lab](http://www.chicagochildrensmuseum.org/index.php/experience/tinkering-lab)\: 700 E. Grand Avenue, Chicago, IL 60611At the Tinkering Lab in the Chicago Children's Museum, kids can explore how things are made with real tools, like hammers, nails, and screws.
+* [Bit Space](http://www.bitspacechicago.com/)\: 2451 W. Lawrence Ave., Chicago, IL 60625Youth maker lab with camps and after-school programs.
 * [Kids Science Labs](http://www.kslchicago.com/)\: South Loop + Lincoln ParkWorkshops and learning for kids 2-12.
 
 ## Hacker/Makerspaces \| Incubators, Studios, & Labs
 
-* [Pumping Station One](http://pumpingstationone.org/)\: 3519 N. Elston, Chicago, IL 60618The original Chicago hackerspace, take your making to the next level. Two levels of membership. Some events open to the public, including orientations.[South Side Hackerspace](http://www.sshchicago.org/)\: 1048 W. 37th St., Chicago, IL 60609
+* [Pumping Station One](http://pumpingstationone.org/)\: 3519 N. Elston, Chicago, IL 60618The original Chicago hackerspace, take your making to the next level. Two levels of membership. Some events open to the public, including orientations.
+* [South Side Hackerspace](http://www.sshchicago.org/)\: 1048 W. 37th St., Chicago, IL 60609
 * [Make Chicago](http://www.meetup.com/MAKE-Chicago/)\: 1048 W. 37th St., Chicago, IL 60609. Woodworking space with classes.
 * [Chicago Tool Library](https://chicagotoollibrary.org/)\: 1048 W. 37th St., Chicago, IL 60609 \[2019\]. A membership library to borrow all kinds of tools.
 * [Polsky Center](http://polsky.uchicago.edu/)\: 1452 E. 53rd St., Chicago, IL 60615. University Fab Lab and incubator with membership open to the community.
