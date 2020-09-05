@@ -212,7 +212,6 @@ _source_editor:
 # Footer Icons
 social_icons:
   - Facebook
-  - Google Plus
   - Instagram
   - LinkedIn
   - Pinterest
@@ -221,3 +220,4 @@ social_icons:
   - YouTube
   - Email
   - RSS
+  - Github
