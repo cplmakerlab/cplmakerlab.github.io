@@ -1,6 +1,6 @@
 - name: Github
   link: 'https://github.com/cplmakerlab'
-  social_icon:
+  social_icon: Github
   new_window: true
 - name:
   link: 'https://instagram.com/cplmakerlab'
@@ -13,8 +13,4 @@
 - name:
   link: 'https://youtube.com/c/cplmakerlab'
   social_icon: YouTube
-  new_window: true
-- name: Old site
-  link: 'https://sites.google.com/site/cplmakerlab'
-  social_icon:
   new_window: true
