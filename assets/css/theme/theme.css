@@ -138,6 +138,12 @@ ul.footer-links {
 ul.footer-links li {
   display:inline;  
 }
+ul.footer-links a {
+  color:#000;
+  font-size:2.4rem;
+  border:none;
+  text-decoration:none;
+}
 
 .guide-header {
   margin-bottom:25px;
