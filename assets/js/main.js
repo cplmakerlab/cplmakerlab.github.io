@@ -54,6 +54,7 @@ jQuery(function() {
       });
     }    
     $('.generate-pdf').click(function(){
+      event.stopPropagation();      
       var opt = {
         margin:       .25,
         filename:     '{{- page.title | slugify -}}.pdf',
