@@ -46,5 +46,20 @@ jQuery(function() {
       image.wrap('<a href="'+ image[0].src +'" class="fancybox"></a>');
     });
     $("a.fancybox").fancybox();
+    
+    function generatePDF() {
+      $('body').addClass('media-print'); 
+      var opt = {
+        margin:       .25,
+        filename:     '{{- page.title | slugify -}}.pdf',
+        image:        { type: 'jpeg', quality: 1 },
+        html2canvas:  { scale: 2 },
+        jsPDF:        { unit: 'in', format: 'letter', orientation: 'portrait' }
+      };    
+      html2pdf().set(opt).from(document.body).save().then(function(){
+        $('body').removeClass('media-print');  
+      });
+    }    
+    
 });
 
