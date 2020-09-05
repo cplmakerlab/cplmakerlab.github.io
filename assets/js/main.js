@@ -53,7 +53,7 @@ jQuery(function() {
         $('body').removeClass('media-print');  
       });
     }    
-    $('.generate-pdf').click(function(){
+    $('.js-generate-pdf').click(function(){
       event.stopPropagation();      
       var opt = {
         margin:       .25,
