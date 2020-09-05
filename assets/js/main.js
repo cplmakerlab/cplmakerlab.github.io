@@ -60,6 +60,8 @@ jQuery(function() {
         $('body').removeClass('media-print');  
       });
     }    
-    
+    $('.generate-pdf').click(function(){
+      generatePDF();
+    });
 });
 
