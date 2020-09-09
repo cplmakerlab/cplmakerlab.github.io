@@ -12,7 +12,7 @@ Our lab equipment includes: 3D printers, lasercutters, sewing machines, electron
   * Controlling Software: [RetinaEngrave](http://laser101.fslaser.com/RetinaEngrave){: target="_blank" rel="noopener"}
   * Modes: [Vector Cut, Vector Engrave, Raster Fill](https://lasercuttingsheffield.wordpress.com/engraving-and-cutting/){: target="_blank" rel="noopener"}
   * Materials: Most wood/acrylic up to 1/4" thick. [See approved materials list](materials).
-  * [Download Inkscape (v.92) Design Template (SVG)](https://raw.githubusercontent.com/cplmakerlab/general/master/templates/cplmakerlab-lasercut-template-inkscape-v92.svg){: target="_blank" rel="noopener"}
+  * [Download Inkscape (v.92) Design Template (SVG)](https://raw.githubusercontent.com/cplmakerlab/general/master/templates/cplmakerlab-lasercut-template-inkscape-v92.svg){: download target="_blank" rel="noopener"}
   * **DESIGN FILE PREPARATION**
     * File Format: SVG (file must open in [Inkscape](http://inkscape.org/){: target="_blank" rel="noopener"})
     * VECTOR CUT: Stroke paint is 100% RED \[RGBA(255,0,0,255) or 000000ff\]. Stroke width is .003 inches.
