@@ -7,15 +7,20 @@ Our lab equipment includes: 3D printers, lasercutters, sewing machines, electron
 
 ## Lasercutting
 
-* Full Spectrum 45W Laser.
-  * 12" x 20" bed size.
-  * RetinaEngrave control software.
-  * File Format: SVG
-  * Preparing your file for cutting
-    * Cutting: red line .003" thick.
-    * Engraving: black line, .003" thick.
-    * Rastering: Black solid fill. For halftone rastering, greyscale images with high contrast works best.
-    * Ungroup and convert all objects to paths and avoid using alpha transparency / opacity.
+* Full Spectrum 45W CO2 H-Series Engraver/Cutter (5th gen)
+  * Bed Size: 20" x 12"
+  * Controlling Software: [RetinaEngrave](http://laser101.fslaser.com/RetinaEngrave){: target="_blank" rel="noopener"}
+  * Modes: [Vector Cut, Vector Engrave, Raster Fill](https://lasercuttingsheffield.wordpress.com/engraving-and-cutting/){: target="_blank" rel="noopener"}
+  * Materials: Most wood/acrylic up to 1/4" thickk. [See approved materials list](materials).
+  * **DESIGN FILE PREPARATION**
+    * File Format: SVG (file must open in [Inkscape](http://inkscape.org/){: target="_blank" rel="noopener"})
+    * VECTOR CUT: Stroke paint is 100% RED (RGBA = ff0000ff). Stroke width is .003 inches.
+    * VECTOR ENGRAVE: Stroke paint is 100% BLACK (RGBA = 000000ff). Stroke width is .003 inches.
+    * RASTER FILL: Fill color is BLACK (RGBA = 000000ff), Alpha transparency is 100%, opacity is 100%.&nbsp;
+    * For all strokes and fills, alpha transparency is 100% and opacity is 100%
+    * Everything is ungrouped (CTRL+A to select all, CTRL + SHIFT + G to ungroup)
+    * No special shapes or text. All texts and shapes must be paths (Path -&gt; Object to Path)
+    * File opens in RetinaEngrave without errors, no missing sections or parts
 
 ## 3D Printing
 
