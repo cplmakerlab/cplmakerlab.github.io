@@ -24,7 +24,7 @@ Want to make something out of plastic on the 3D printer? Or lasercut a piece of 
 | Fishhook Earrings | $0, limit 1 pair per person per day | &nbsp; |
 | Keyrings | $0, limit 1 per person per day | &nbsp; |
 
----
+
 
 ### Approved lasercutting materials (max size of 20"x12")
 
@@ -37,7 +37,6 @@ Want to make something out of plastic on the 3D printer? Or lasercut a piece of 
 | Metal | *Painted or anodized aluminum (engraving only, cannot cut)* |
 | **BANNED MATERIALS** | *Food, Chlorinated plastics (PVC), ABS, Rubber, Vinyl, Foam, Treated Wood, Galvanized Metal, Fiberglass, Mirrors* |
 
----
 
 ### Lasercut Power Settings (Full Spectrum 45 Watt H-Series C02)
 
