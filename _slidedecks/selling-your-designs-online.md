@@ -9,4 +9,11 @@ slides:
     content_markdown: '## Platforms&nbsp;'
     background_color: '#ffc1b4'
     background_image:
+  - title: Facebook Market Place
+    content_markdown: |-
+      ## Facebook Marketplace
+
+      &nbsp;
+    background_color: '#ffc1b4'
+    background_image: /uploads/selling-your-designs-online/facebook-logo.png
 ---
