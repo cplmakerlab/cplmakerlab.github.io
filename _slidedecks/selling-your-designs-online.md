@@ -18,7 +18,7 @@ slides:
     background_image: /uploads/selling-your-designs-online/facebook-logo.png
   - title: Facebook Marketplace Pros
     content_markdown: >-
-      Benefits&nbsp;
+      Pros
 
 
       \- Most people already have an account.&nbsp;
