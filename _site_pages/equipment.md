@@ -17,7 +17,7 @@ Our lab equipment includes: 3D printers, lasercutters, sewing machines, electron
     * File Format: SVG (file must open in [Inkscape](http://inkscape.org/){: target="_blank" rel="noopener"})
     * VECTOR CUT: Stroke paint is 100% RED \[RGBA(255,0,0,255) or 000000ff\]. Stroke width is .003 inches.
     * VECTOR ENGRAVE: Stroke paint is 100% BLACK \[RGBA(0,0,0,255) or 000000ff\]. Stroke width is .003 inches.
-    * RASTER FILL: Fill color is 100% BLACK \[RGBA(0,0,0,255) or 000000ff\].
+    * RASTER FILL: Fill color is 100% BLACK \[RGBA(0,0,0,255) or 000000ff\]. No stroke.
     * For all strokes and fills, alpha transparency is 100% and opacity is 100%
     * No special shapes or text. All texts and shapes must be paths (Path -&gt; Object to Path)
     * Everything is ungrouped (CTRL+A to select all, CTRL + SHIFT + G to ungroup)
