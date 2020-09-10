@@ -35,4 +35,34 @@ Want to make something out of plastic on the 3D printer? Or lasercut a piece of 
 | Metal | *Painted or anodized aluminum (engraving only, cannot cut)* |
 | **BANNED MATERIALS** | *Food, Chlorinated plastics (PVC), ABS, Rubber, Vinyl, Foam, Treated Wood, Galvanized Metal, Fiberglass, Mirrors* |
 
+### Lasercut Power Settings (Full Spectrum 45 Watt H-Series C02)
+
+We've found over the years that these default settings are a good place to start. However, it's always best to test first\! Quite often settings will need to be adjusted due to variations in the manufacturing of materials, as well as fluctuations in laser power. If you find something we can add or improve, please let us know\!
+
+| **Material** | **Vector Cutting ** | **Vector Engraving** | **Raster Fill** |
+| 1/16" Acrylic | Speed: 40<br>Power: 100<br>Passes: 1 | Speed: 100<br>Power: 20<br>Passes: 1 | Speed: 80<br>Power: 80<br>Passes: 1 |
+| 1/8" Acrylic | Speed: 20<br>Power: 100<br>Passes: 2 | Speed: 100<br>Power: 20<br>Passes: 1 | Speed: 80<br>Power: 80<br>Passes: 1 |
+| Mirror Acrylic | Speed: 20<br>Power: 80<br>Passes: 2 | Speed: 80<br>Power: 50<br>Passes: 1 | Speed: 70<br>Power: 95<br>Passes: 1 |
+| 1/8" Plywood | Speed: 40<br>Power: 100<br>Passes: 4 | Speed: 100<br>Power: 30<br>Passes: 1 | &nbsp; |
+| 1/4" Plywood | Speed: 20<br>Power: 100<br>Passes: 1 | &nbsp; | Speed: 100<br>Power: 50<br>Passes: 1-2 |
+| 1/8" Basswood | Speed: 40<br>Power: 100<br>Passes: 1 | &nbsp; | &nbsp; |
+| 1/8" Hardwood | Speed: 20<br>Power: 100<br>Passes: 1 | &nbsp; | Speed: 100<br>Power: 60<br>Passes: 1 |
+| 1/4" Cherry | Speed: 20<br>Power: 100<br>Passes: 4 | Speed: 100<br>Power: 20<br>Passes: 1 | &nbsp; |
+| Balsa | Speed: 30<br>Power: 65<br>Passes: 4 | &nbsp; | &nbsp; |
+| Cork | WARNING - DO NOT CUT\! Raster only. | WARNING - DO NOT CUT\! Raster only. | Speed: 100<br>Power: 32<br>Passes: 1 |
+| Chipboard | Speed: 80<br>Power: 80<br>Passes: 1 | Speed: 100<br>Power: 2<br>Passes: 1 | Speed: 40<br>Power: 88<br>Passes: 1 |
+| 1/16" Museum Board | Speed: 70<br>Power: 80<br>Passes: 2-3 | Speed: 100<br>Power: 30<br>Passes: 1 | Speed: 40<br>Power: 88<br>Passes: 1 |
+| Bristol Board | Speed: 100<br>Power: 15<br>Passes: 1 | &nbsp; | &nbsp; |
+| Cardstock | Speed: 100<br>Power: 20<br>Passes: 1 | Speed: 100<br>Power: &lt;1<br>Passes: 1 | Speed: 85<br>Power: 60<br>Passes: 1 |
+| Real Linoleum | &nbsp; | &nbsp; | Speed: 10<br>Power: 100<br>Passes: 2-3 |
+| 300 GSM Paper | Speed: 100<br>Power: 40<br>Passes: 1 | &nbsp; | &nbsp; |
+| Cardboard | Speed: 85<br>Power: 50<br>Passes: 2 | Speed: 100<br>Power: 2<br>Passes: 1 | &nbsp; |
+| 3/32" Crescent Board | Speed: 30<br>Power: 100<br>Passes: 1 | &nbsp; | &nbsp; |
+| Oil Board | Speed: 100<br>Power: 100<br>Passes: 1 | &nbsp; | &nbsp; |
+| Watercolor Paper | &nbsp; | Speed: 100<br>Power: 30<br>Passes: 1 | &nbsp; |
+| 1" Closed Cell PU Foam | Speed: 55<br>Power: 100<br>Passes: 1 | &nbsp; | &nbsp; |
+| Laser Engravable Rubber | &nbsp; | &nbsp; | Speed: 50<br>Power: 100<br>Passes: 1-5 |
+| Leather | NO CUTTING\!\! | Speed: 100<br>Power: 1.5<br>Passes: 1 | &nbsp; |
+| Cherry Veneer (1/40") | &nbsp; | Speed: 60<br>Power: 50<br>Passes: 1 | &nbsp; |
+
 &nbsp;
