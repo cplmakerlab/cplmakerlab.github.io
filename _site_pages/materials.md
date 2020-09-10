@@ -37,7 +37,7 @@ Want to make something out of plastic on the 3D printer? Or lasercut a piece of 
 
 ### &nbsp;
 
-### Lasercut Power Settings (Full Spectrum 45 Watt H-Series C02)
+### Lasercut Power Settings (Full Spectrum 45 Watt H-Series CO2)
 
 We've found over the years that these default settings are a good place to start. However, it's always best to test first\! Quite often settings will need to be adjusted due to variations in the manufacturing of materials, as well as fluctuations in laser power. If you find something we can add or improve, please let us know\!
 
