@@ -14,7 +14,7 @@ Want to make something out of plastic on the 3D printer? Or lasercut a piece of 
 | Vinyl (regular) | 9"x9" = $1 | Electronic cutter |
 | Vinyl (heat transfer) | 9"x12" = $5 | Electronic cutter |
 | Engravable rubber | 8\.5"x11" = $15 | Lasercutter |
-| PLA | $1 for 30 minutes, 4 hour max print time | 3D Printer |
+| PLA | $1 for 30 minutes, 2 hour max print time | 3D Printer |
 | &nbsp; | &nbsp; | &nbsp; |
 | Chipboard | $0, limit 1 sheet per person per day | Lasercutter |
 | Magnets | $0, limit 1 per person per day | &nbsp; |
@@ -34,3 +34,5 @@ Want to make something out of plastic on the 3D printer? Or lasercut a piece of 
 | Glass | *Etching only, cannot cut* |
 | Metal | *Painted or anodized aluminum (engraving only, cannot cut)* |
 | **BANNED MATERIALS** | *Food, Chlorinated plastics (PVC), ABS, Rubber, Vinyl, Foam, Treated Wood, Galvanized Metal, Fiberglass, Mirrors* |
+
+&nbsp;
