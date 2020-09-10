@@ -27,7 +27,7 @@ Our lab equipment includes: 3D printers, lasercutters, sewing machines, electron
 
 ## 3D Printing
 
-![](/uploads/equipment/makerbot-replicator2.png){: width="612" height="515"}
+![](/uploads/equipment/makerbot-replicator2b.jpg){: width="798" height="720"}
 
 * **Makerbot Replicator 2**
   * Build Volume: 6.0 in x 6.1 in x 11.2 in (410 cubic inches)
