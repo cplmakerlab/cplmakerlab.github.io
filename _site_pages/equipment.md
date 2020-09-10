@@ -12,6 +12,7 @@ Our lab equipment includes: 3D printers, lasercutters, sewing machines, electron
 * **Full Spectrum 45W CO2 H-Series Engraver/Cutter (5th gen)**
   * Bed Size: 20" x 12" (in practice, usable area is closer to 19.5" x 11.5")
   * Machine Software: [RetinaEngrave](http://laser101.fslaser.com/RetinaEngrave){: target="_blank" rel="noopener"}
+  * Design Software: [Inkscape](http://inkscape.org){: target="_blank" rel="noopener"}
   * Modes: [Vector Cut, Vector Engrave, Raster Fill](https://lasercuttingsheffield.wordpress.com/engraving-and-cutting/){: target="_blank" rel="noopener"}
   * Materials: Most wood/acrylic up to 1/4" thick. [See approved materials list](materials).
   * [Download Inkscape (v.92) Lasercut Design Template (SVG)](https://raw.githubusercontent.com/cplmakerlab/general/master/templates/cplmakerlab-lasercut-template-inkscape-v92.svg){: target="_blank" rel="noopener"}
