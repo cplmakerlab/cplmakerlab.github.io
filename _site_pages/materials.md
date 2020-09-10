@@ -5,9 +5,8 @@ header_image:
 
 Want to make something out of plastic on the 3D printer? Or lasercut a piece of wood or acrylic? Check out our list of approved materials and prices below. We stock a variety of wood types and different material colors, please contact us for more information. You can use your library card to purchase materials from us, or purchase your own approved materials (please bring a receipt) from a vendor such as [Inventables](http://inventables.com){: target="_blank" rel="noopener"}, [Peterson Brothers](http://petersenplastics.com/){: target="_blank" rel="noopener"}, or [Johnson Plastics](https://www.jpplus.com/){: target="_blank" rel="noopener"}.
 
-### Materials Price List
 
-&nbsp;
+### Materials Price List
 
 | **Material** | **Price** | **Machine** |
 | --- | --- | --- |
@@ -25,7 +24,7 @@ Want to make something out of plastic on the 3D printer? Or lasercut a piece of 
 | Fishhook Earrings | $0, limit 1 pair per person per day | &nbsp; |
 | Keyrings | $0, limit 1 per person per day | &nbsp; |
 
-#### &nbsp;
+---
 
 ### Approved lasercutting materials (max size of 20"x12")
 
@@ -38,11 +37,14 @@ Want to make something out of plastic on the 3D printer? Or lasercut a piece of 
 | Metal | *Painted or anodized aluminum (engraving only, cannot cut)* |
 | **BANNED MATERIALS** | *Food, Chlorinated plastics (PVC), ABS, Rubber, Vinyl, Foam, Treated Wood, Galvanized Metal, Fiberglass, Mirrors* |
 
+---
+
 ### Lasercut Power Settings (Full Spectrum 45 Watt H-Series C02)
 
 We've found over the years that these default settings are a good place to start. However, it's always best to test first\! Quite often settings will need to be adjusted due to variations in the manufacturing of materials, as well as fluctuations in laser power. If you find something we can add or improve, please let us know\!
 
 | **Material** | **Vector Cutting** | **Vector Engraving** | **Raster Fill** |
+| --- | --- | --- | --- |
 | 1/16" Acrylic | Speed: 40<br>Power: 100<br>Passes: 1 | Speed: 100<br>Power: 20<br>Passes: 1 | Speed: 80<br>Power: 80<br>Passes: 1 |
 | 1/8" Acrylic | Speed: 20<br>Power: 100<br>Passes: 2 | Speed: 100<br>Power: 20<br>Passes: 1 | Speed: 80<br>Power: 80<br>Passes: 1 |
 | Mirror Acrylic | Speed: 20<br>Power: 80<br>Passes: 2 | Speed: 80<br>Power: 50<br>Passes: 1 | Speed: 70<br>Power: 95<br>Passes: 1 |
@@ -67,7 +69,5 @@ We've found over the years that these default settings are a good place to start
 | Laser Engravable Rubber | &nbsp; | &nbsp; | Speed: 50<br>Power: 100<br>Passes: 1-5 |
 | Leather | NO CUTTING\!\! | Speed: 100<br>Power: 1.5<br>Passes: 1 | &nbsp; |
 | Cherry Veneer (1/40") | &nbsp; | Speed: 60<br>Power: 50<br>Passes: 1 | &nbsp; |
-| Material | Vector Cutting | Vector Engraving | Raster Fill |
-| --- | --- | --- | --- |
 
 &nbsp;
