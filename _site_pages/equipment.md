@@ -11,7 +11,7 @@ Our lab equipment includes: 3D printers, lasercutters, sewing machines, electron
 
 * **Full Spectrum 45W CO2 H-Series Engraver/Cutter (5th gen)**
   * Bed Size: 20" x 12" (in practice, usable area is closer to 19.5" x 11.5")
-  * Controlling Software: [RetinaEngrave](http://laser101.fslaser.com/RetinaEngrave){: target="_blank" rel="noopener"}
+  * Machine Software: [RetinaEngrave](http://laser101.fslaser.com/RetinaEngrave){: target="_blank" rel="noopener"}
   * Modes: [Vector Cut, Vector Engrave, Raster Fill](https://lasercuttingsheffield.wordpress.com/engraving-and-cutting/){: target="_blank" rel="noopener"}
   * Materials: Most wood/acrylic up to 1/4" thick. [See approved materials list](materials).
   * [Download Inkscape (v.92) Lasercut Design Template (SVG)](https://raw.githubusercontent.com/cplmakerlab/general/master/templates/cplmakerlab-lasercut-template-inkscape-v92.svg){: target="_blank" rel="noopener"}
@@ -31,7 +31,7 @@ Our lab equipment includes: 3D printers, lasercutters, sewing machines, electron
 
 * **Makerbot Replicator 2**
   * Build Volume: 6.0 in x 6.1 in x 11.2 in (410 cubic inches)
-  * Controlling Software: [Makerbot Desktop (slicer software)](https://support.makerbot.com/troubleshooting/makerbot-desktop-software/software-download/download_12190){: target="_blank" rel="noopener"}
+  * Machine Software: [Makerbot Desktop (slicer software)](https://support.makerbot.com/troubleshooting/makerbot-desktop-software/software-download/download_12190){: target="_blank" rel="noopener"}
   * Design software: [Tinkercad](http://tinkercad.com){: target="_blank" rel="noopener"}, [Fusion 360](https://www.autodesk.com/products/fusion-360/personal){: target="_blank" rel="noopener"} (any 3D cad software that can output OBJ or STL)
   * Material: [PLA filament](materials)
   * [Download example STL file](https://cdn.thingiverse.com/assets/94/00/bf/48/20/Harold-Washington-CPLMakerLab.stl){: target="_blank" rel="noopener"}
@@ -40,15 +40,30 @@ Our lab equipment includes: 3D printers, lasercutters, sewing machines, electron
     * File opens in machine software without errors.
     * Check object orientation in machine software to minimize the need for rafts & supports.
     * Check if size looks correct (not too big or small). Fine details may not print well at smaller sizes.
-    * In machine slicer software, check time estimate using desired print settings. Typical layer height is .3mm. Print time must not exceed Maker Lab time limit.&nbsp;
-
-## 3D Scanner
-
-* Kinect (via Skanect/ReconstructMe)
+    * In machine software, check time estimate using desired print settings. Typical layer height is .3mm. Print time must not exceed Maker Lab time limit.&nbsp;
 
 ## CNC Mill
 
-* Inventables Carvey
+![](/uploads/equipment/carvey.jpg){: width="1200" height="940"}
+
+* **[Inventables Carvey](https://www.inventables.com/technologies/carvey){: target="_blank" rel="noopener"} CNC Mill**
+  * Work Area
+    * Width (X-axis): 11.6 inches (29 cm)
+    * Depth (Y-axis): 8 inches (20 cm)
+    * Height (Z-axis): 2.75 inches (7 cm)
+  * Assortment of bits from 1/32" to 1/8"
+  * Smart corner clamp with auto z-zero
+  * Side clamp system with three lengths of clamps and two heights of clamp bases. Clamps work on material up to 3/4″ thick
+  * Machine Software: [Easel](https://easel.inventables.com){: target="_blank" rel="noopener"}
+  * Design Software: Easel, Inkscape
+  * Materials: Wood, Plastic. [See approved materials list](materials).
+  * **DESIGN FILE PREPARATION**
+    * File format: SVG or Easel
+    * File must be imported into Easel
+    * In Easel, set machine type to Carvey. Enter material type, dimensions, and thickness and select the appropriate bit size
+    * Design must fit within the Carvey work area
+    * Design must have enough clearance for smart clamps and side clamps
+    * Carve time estimate must not exceed Maker Lab limit.
 
 ## Electronic Cutter
 
@@ -58,6 +73,10 @@ Our lab equipment includes: 3D printers, lasercutters, sewing machines, electron
 
 * Brother sewing machine
 * Embroidery machine
+
+## 3D Scanner
+
+* Kinect (via Skanect/ReconstructMe)
 
 ## Electronics
 
