@@ -14,7 +14,7 @@ Our lab equipment includes: 3D printers, lasercutters, sewing machines, electron
   * Machine Software: [RetinaEngrave](http://laser101.fslaser.com/RetinaEngrave){: target="_blank" rel="noopener"}
   * Design Software: [Inkscape](http://inkscape.org){: target="_blank" rel="noopener"}
   * Modes: [Vector Cut, Vector Engrave, Raster Fill](https://lasercuttingsheffield.wordpress.com/engraving-and-cutting/){: target="_blank" rel="noopener"}
-  * Materials: Most wood/acrylic up to 1/4" thick. [See approved materials list](materials).
+  * Materials: Most wood/acrylic up to 1/4" thick. [See the approved materials list](materials#approved-lasercutter-materials) and [suggested lasercutter settings](materials#suggested-lasercutter-settings).
   * [Download Inkscape (v.92) Lasercut Design Template (SVG)](https://raw.githubusercontent.com/cplmakerlab/general/master/templates/cplmakerlab-lasercut-template-inkscape-v92.svg){: target="_blank" rel="noopener"}
   * **DESIGN FILE PREPARATION**
     * File Format: SVG (file must open in [Inkscape](http://inkscape.org/){: target="_blank" rel="noopener"})
