@@ -60,7 +60,8 @@ Our lab equipment includes: 3D printers, lasercutters, sewing machines, electron
   * **DESIGN FILE PREPARATION**
     * File format: SVG or Easel
     * File must be imported into Easel
-    * In Easel, set machine type to Carvey. Enter material type, dimensions, and thickness and select the appropriate bit size
+    * In Easel, set machine type to Carvey. Enter material type, dimensions, and thickness and select the bit size (smaller bit sizes carve slower but are more precise)
+    * In Easel, adjust cut depth of lines and fills
     * Design must fit within the Carvey work area
     * Design must have enough clearance for smart clamps and side clamps
     * Carve time estimate must not exceed Maker Lab limit.
