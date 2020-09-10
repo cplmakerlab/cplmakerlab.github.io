@@ -39,7 +39,7 @@ Want to make something out of plastic on the 3D printer? Or lasercut a piece of 
 
 We've found over the years that these default settings are a good place to start. However, it's always best to test first\! Quite often settings will need to be adjusted due to variations in the manufacturing of materials, as well as fluctuations in laser power. If you find something we can add or improve, please let us know\!
 
-| **Material** | **Vector Cutting ** | **Vector Engraving** | **Raster Fill** |
+| **Material** | **Vector Cutting** | **Vector Engraving** | **Raster Fill** |
 | 1/16" Acrylic | Speed: 40<br>Power: 100<br>Passes: 1 | Speed: 100<br>Power: 20<br>Passes: 1 | Speed: 80<br>Power: 80<br>Passes: 1 |
 | 1/8" Acrylic | Speed: 20<br>Power: 100<br>Passes: 2 | Speed: 100<br>Power: 20<br>Passes: 1 | Speed: 80<br>Power: 80<br>Passes: 1 |
 | Mirror Acrylic | Speed: 20<br>Power: 80<br>Passes: 2 | Speed: 80<br>Power: 50<br>Passes: 1 | Speed: 70<br>Power: 95<br>Passes: 1 |
