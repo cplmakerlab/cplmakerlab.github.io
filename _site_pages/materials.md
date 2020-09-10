@@ -10,6 +10,7 @@ Want to make something out of plastic on the 3D printer? Or lasercut a piece of 
 &nbsp;
 
 | **Material** | **Price** | **Machine** |
+| --- | --- | --- |
 | Wood | $6 for 24" length ($.25 per linear inch) | Lasercutter, CNC mill |
 | Acrylic (regular) | $1 per 25 sq in. | Lasercutter |
 | Acrylic (premium) | $2 per 25 sq in. | Lasercutter |
@@ -23,8 +24,7 @@ Want to make something out of plastic on the 3D printer? Or lasercut a piece of 
 | Mylar | $0, limit 1 sheet per person per day | Electronic cutter, laser cutter |
 | Fishhook Earrings | $0, limit 1 pair per person per day | &nbsp; |
 | Keyrings | $0, limit 1 per person per day | &nbsp; |
-| **Material** | **Price** | **Machine** |
-| --- | --- | --- |
+
 
 #### &nbsp;
 
