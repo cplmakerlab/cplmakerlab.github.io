@@ -5,6 +5,7 @@ header_image:
 
 Want to make something out of plastic on the 3D printer? Or lasercut a piece of wood or acrylic? Check out our list of approved materials and prices below. We stock a variety of wood types and different material colors, please contact us for more information. You can use your library card to purchase materials from us, or purchase your own approved materials (please bring a receipt) from a vendor such as [Inventables](http://inventables.com){: target="_blank" rel="noopener"}, [Peterson Brothers](http://petersenplastics.com/){: target="_blank" rel="noopener"}, or [Johnson Plastics](https://www.jpplus.com/){: target="_blank" rel="noopener"}.
 
+### &nbsp;
 
 ### Materials Price List
 
@@ -23,7 +24,7 @@ Want to make something out of plastic on the 3D printer? Or lasercut a piece of 
 | Fishhook Earrings | $0, limit 1 pair per person per day | &nbsp; |
 | Keyrings | $0, limit 1 per person per day | &nbsp; |
 
-
+### &nbsp;
 
 ### Approved lasercutting materials (max size of 20"x12")
 
@@ -36,6 +37,7 @@ Want to make something out of plastic on the 3D printer? Or lasercut a piece of 
 | Metal | *Painted or anodized aluminum (engraving only, cannot cut)* |
 | **BANNED MATERIALS** | *Food, Chlorinated plastics (PVC), ABS, Rubber, Vinyl, Foam, Treated Wood, Galvanized Metal, Fiberglass, Mirrors* |
 
+### &nbsp;
 
 ### Lasercut Power Settings (Full Spectrum 45 Watt H-Series C02)
 
