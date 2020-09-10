@@ -25,7 +25,6 @@ Want to make something out of plastic on the 3D printer? Or lasercut a piece of 
 | Fishhook Earrings | $0, limit 1 pair per person per day | &nbsp; |
 | Keyrings | $0, limit 1 per person per day | &nbsp; |
 
-
 #### &nbsp;
 
 ### Approved lasercutting materials (max size of 20"x12")
@@ -68,5 +67,7 @@ We've found over the years that these default settings are a good place to start
 | Laser Engravable Rubber | &nbsp; | &nbsp; | Speed: 50<br>Power: 100<br>Passes: 1-5 |
 | Leather | NO CUTTING\!\! | Speed: 100<br>Power: 1.5<br>Passes: 1 | &nbsp; |
 | Cherry Veneer (1/40") | &nbsp; | Speed: 60<br>Power: 50<br>Passes: 1 | &nbsp; |
+| Material | Vector Cutting | Vector Engraving | Raster Fill |
+| --- | --- | --- | --- |
 
 &nbsp;
