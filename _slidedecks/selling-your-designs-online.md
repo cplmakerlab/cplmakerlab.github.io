@@ -16,4 +16,19 @@ slides:
       &nbsp;
     background_color: '#ffc1b4'
     background_image: /uploads/selling-your-designs-online/facebook-logo.png
+  - title: Facebook Marketplace Pros
+    content_markdown: >-
+      Benefits&nbsp;
+
+
+      \- Most people already have an account.&nbsp;
+
+
+      \- No seller fees.&nbsp;
+
+
+      ![](/uploads/selling-your-designs-online/unnamed-file.png){: width="730"
+      height="464"}
+    background_color: '#ffc1b4'
+    background_image:
 ---
