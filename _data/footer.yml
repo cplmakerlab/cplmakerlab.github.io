@@ -1,10 +1,3 @@
-content_markdown: >-
-  makerspace@chipublib.org \| (312) 747-4300 \| 400 S State St 3rd Floor,
-  Chicago, IL, 60605<br>[CPL Digital Toolbox
-  Archive](https://sites.google.com/site/cplmakerlab){: target="_blank"
-  rel="noopener"} \|
-  [Admin](https://app.cloudcannon.com/30680/editor#/site/82447/explore){:
-  target="_blank" rel="noopener"}
 links:
   - name:
     link: 'https://github.com/cplmakerlab'
@@ -26,3 +19,10 @@ links:
     link: 'mailto:makerspace@chipublib.org'
     social_icon: Email
     new_window: true
+content_markdown: >-
+  makerspace@chipublib.org \| (312) 747-4300 \| 400 S State St 3rd Floor,
+  Chicago, IL, 60605<br>[CPL Digital Toolbox
+  Archive](https://sites.google.com/site/cplmakerlab){: target="_blank"
+  rel="noopener"} \|
+  [Admin](https://app.cloudcannon.com/30680/editor#/site/82447/explore){:
+  target="_blank" rel="noopener"}
