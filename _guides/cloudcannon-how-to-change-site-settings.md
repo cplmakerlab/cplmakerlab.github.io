@@ -11,7 +11,7 @@ time_required: 5 minutes
 file_attachment_path:
 ---
 
-This guide demonstrates how to edit an existing site page (such as the home page) for the CPL Maker Lab website using the CloudCannon admin interface.
+This guide demonstrates how to edit site settings (Navigation, Footer, Logo and Header Images) for the CPL Maker Lab website using the CloudCannon admin interface.
 
 ### Step 1
 
