@@ -16,7 +16,8 @@ layout: default
 </span>
 {% endif %}
 
-<div class="icon-group">
-  <a class="print-icon print-hidden" href="#" onclick="window.print();return false;"><i class="fa fa-print"></i></a>
-</div>
 
+<div class="icon-group">
+  <a title="{{- page.title | slugify -}}.pdf" class="js-generate-pdf pdf-icon print-hidden" href="#" ><i class="fa fa-file-pdf-o fa-fw"></i></a>
+  <a title="Print page" class="print-icon print-hidden" href="#" onclick="window.print();return false;"><i class="fa fa-print fa-fw"></i></a>
+</div>
