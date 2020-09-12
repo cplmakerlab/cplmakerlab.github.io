@@ -16,10 +16,6 @@
     padding-top: 0;
     font-size:1.4em !important;
   }
-  a, a:visited {
-    border:none;
-    text-decoration: underline;
-  }
   pre, blockquote {
     /*border: 1px solid #999;*/
     page-break-inside: avoid;
@@ -40,9 +36,11 @@
   h2, h3 {
     page-break-after: avoid;
   }
-  a, .link {
+  a, a:visited, .link, #content a {
     color: #000;
-    text-decoration: underline;
+    border:none;
+    text-decoration:underline;
+    /*text-decoration: underline;*/
   }
   .button, .button--primary {
     background: none !important;
