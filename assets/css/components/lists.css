@@ -28,8 +28,8 @@ ul.inline li {
 }
 .slidedecks li {
   padding:5px 10px;
-  border-left:solid 5px #444;
+  border-left:solid 5px #212121;
 }
 .slidedecks li:hover {
-  border-color:#FF5722;
+  border-color:#BF360C;
 }
