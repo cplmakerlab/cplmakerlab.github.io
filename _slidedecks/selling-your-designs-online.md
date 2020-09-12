@@ -42,4 +42,8 @@ slides:
       \- Shipping isn't as easy.
     background_color: '#ffc1b4'
     background_image:
+  - title:
+    content_markdown:
+    background_color:
+    background_image:
 ---
