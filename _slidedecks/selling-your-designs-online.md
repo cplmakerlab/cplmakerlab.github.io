@@ -45,5 +45,5 @@ slides:
   - title: Pinterest
     content_markdown: '## **Pinterest**'
     background_color: '#ffc1b4'
-    background_image: /uploads/selling-your-designs-online/pinterest.png
+    background_image: /uploads/selling-your-designs-online/pinterest-3-logo-png-transparent.png
 ---
