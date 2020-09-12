@@ -82,6 +82,11 @@ defaults:
       comments: false
   -
     scope:
+      type: "site_pages"
+    values:
+      layout: "page"      
+  -
+    scope:
       type: "guides"
     values:
       layout: "guide"
