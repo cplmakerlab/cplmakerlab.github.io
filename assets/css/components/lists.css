@@ -28,5 +28,6 @@ ul.inline li {
 }
 .slidedecks li {
   padding-bottom:10px;
-  border-left:solid 5px #ddd;
+  padding-left:10px;
+  border-left:solid 5px #222;
 }
