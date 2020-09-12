@@ -42,10 +42,10 @@ slides:
       \- Shipping isn't as easy.
     background_color: '#ffc1b4'
     background_image:
-  - title: Pinterest
-    content_markdown: '## **Pinterest**'
+  - title: Etsy
+    content_markdown: '## **Etsy&nbsp;**'
     background_color: '#ffc1b4'
-    background_image: /uploads/selling-your-designs-online/pinterest-3-logo-png-transparent.png
+    background_image: /uploads/selling-your-designs-online/etsy-emblem.jpg
   - title: Etsy Pros
     content_markdown: |-
       Pros
