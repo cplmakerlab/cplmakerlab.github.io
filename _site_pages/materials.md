@@ -16,7 +16,6 @@ Want to make something out of plastic on the 3D printer? Or lasercut a piece of 
 | Engravable rubber | 8\.5"x11" = $15 | Lasercutter |
 | PLA | $1 for 30 minutes, 2 hour max print time | 3D Printer |
 | &nbsp; | &nbsp; | &nbsp; |
-| &nbsp; | &nbsp; | &nbsp; |
 | Chipboard | $0, limit 1 sheet per person per day | Lasercutter |
 | Magnets | $0, limit 1 per person per day | &nbsp; |
 | Mylar | $0, limit 1 sheet per person per day | Electronic cutter, laser cutter |
@@ -27,7 +26,7 @@ Want to make something out of plastic on the 3D printer? Or lasercut a piece of 
 
 ### Approved Lasercutting Materials
 
-The following table shows which materials are safe to cut with a laser. Some materials are dangerous to cut and can release toxic fumes or can catch fire\!
+The following table shows which materials are safe to cut with a laser. Some materials are dangerous to cut and can release toxic fumes or can catch fire\!<br>*Note: Material dimensions must be less than 20"x12".*
 
 | Wood | *Most untreated hardwoods, softwoods up to 1/4" thick (1/8" is recommended). Thin plywood is ok but does not cut as well due to glue layers.* |
 | Plastics | *Acrylic ([cast or extruded](https://www.acmeplastics.com/cast-vs-extruded){: target="_blank" rel="noopener"}) up to 1/4" thick (1/8" recommended), Mylar sheets* |
@@ -38,11 +37,13 @@ The following table shows which materials are safe to cut with a laser. Some mat
 | Metal | *Painted or anodized aluminum (engraving only, cannot cut)* |
 | **BANNED MATERIALS** | *Food, Chlorinated plastics (PVC), ABS, Rubber, Vinyl, Foam, Treated Wood, Galvanized Metal, Fiberglass, Mirrors* |
 
-Note: Material dimensions must be less than 20"x12".
+&nbsp;
 
 ### <br>Suggested Lasercutter Settings
 
 The following table shows suggested lasercutter settings for various materials. If the laser power is too low or the laser moves too fast, it won't cut. If the laser power is too high or the laser moves too slowly, it can scorch and even set fire to the material. Quite often settings will need to be adjusted due to variations in material manufacturing, as well as fluctuations in laser power. We always recommend testing laser settings on a piece of scrap if possible. If you have suggestions, please contact us at makerspace@chipublib.org\!
+
+*Note: These settings are for the Full Spectrum 45 Watt H-Series CO2 lasercutter.*
 
 | **Material** | **Vector Cutting** | **Vector Engraving** | **Raster Fill** |
 | 1/16" Acrylic | Speed: 40<br>Power: 100<br>Passes: 1 | Speed: 100<br>Power: 20<br>Passes: 1 | Speed: 80<br>Power: 80<br>Passes: 1 |
@@ -70,4 +71,4 @@ The following table shows suggested lasercutter settings for various materials. 
 | Leather | NO CUTTING\!\! | Speed: 100<br>Power: 1.5<br>Passes: 1 | &nbsp; |
 | Cherry Veneer (1/40") | &nbsp; | Speed: 60<br>Power: 50<br>Passes: 1 | &nbsp; |
 
-Note: These settings are for the Full Spectrum 45 Watt H-Series CO2 lasercutter.
+&nbsp;
