@@ -29,14 +29,8 @@ ul.inline li {
   padding:0;
 }
 .slidedecks li {
-  padding:20px;
+  padding:5px 10px;
   margin:0;
-  display:block;
-  height:200px;
-  width:200px;
-  border:solid #ddd 1px;
-  border-radius:5px;
-  float:left;
 }
 .slidedecks li:hover {
 }
