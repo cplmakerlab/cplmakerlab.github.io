@@ -7,17 +7,7 @@ layout: default
 
 <hr class="print-hidden">
 
-{% if page.tags.size > 0 %}
-<span class="tags print-hidden">
-  {% for tag in page.tags %}
-    {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a class="tag-name" href="/tags#{{ tag_name }}">{{ tag_name }}</a> 
-  {% endfor %}
-</span>
-{% endif %}
-
-
-<div class="icon-group">
+<div class="print-hidden icon-group">
   <a title="{{- page.title | slugify -}}.pdf" class="js-generate-pdf pdf-icon print-hidden" href="#" ><i class="fa fa-file-pdf-o fa-fw"></i></a>
   <a title="Print page" class="print-icon print-hidden" href="#" onclick="window.print();return false;"><i class="fa fa-print fa-fw"></i></a>
 </div>
