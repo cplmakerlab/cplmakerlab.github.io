@@ -32,5 +32,6 @@ ul.inline li {
   border-left:solid 5px #212121;
 }
 .slidedecks li:hover {
-  border-color:#FF6F00;
+  border-color:#888888;
+  background-color:#eeeeee;
 }
