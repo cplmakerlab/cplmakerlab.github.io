@@ -10,6 +10,6 @@
 					{{ link.name }}</a></li>
 			{% endfor %}
 		</ul>
-    {{ site.data.footer.content }}
+    {{ site.data.footer.content_markdown | markdownify }}
 	</div>
 </footer>
