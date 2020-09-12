@@ -42,12 +42,8 @@ slides:
       \- Shipping isn't as easy.
     background_color: '#ffc1b4'
     background_image:
-  - title: Instagram
-    content_markdown: '## Instagram&nbsp;'
+  - title: Pinterest
+    content_markdown: '## **Pinterest**'
     background_color: '#ffc1b4'
-    background_image: /uploads/selling-your-designs-online/instagram.jpg
-  - title:
-    content_markdown:
-    background_color: '#ffc1b4'
-    background_image:
+    background_image: /uploads/selling-your-designs-online/pinterest.png
 ---
