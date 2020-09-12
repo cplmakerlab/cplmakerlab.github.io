@@ -46,4 +46,13 @@ slides:
     content_markdown: '## **Pinterest**'
     background_color: '#ffc1b4'
     background_image: /uploads/selling-your-designs-online/pinterest-3-logo-png-transparent.png
+  - title: Etsy Pros
+    content_markdown: |-
+      Pros
+
+      \- Many customers looking for handmade goods.&nbsp;
+
+      \-&nbsp;
+    background_color:
+    background_image:
 ---
