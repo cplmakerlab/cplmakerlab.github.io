@@ -38,8 +38,6 @@
   }
   a, a:visited, .link, #content a {
     color: #000;
-    border:none;
-    text-decoration:underline;
     /*text-decoration: underline;*/
   }
   .button, .button--primary {
