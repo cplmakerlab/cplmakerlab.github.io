@@ -17,6 +17,7 @@
     font-size:1.4em !important;
   }
   a, a:visited {
+    border:none;
     text-decoration: underline;
   }
   pre, blockquote {
