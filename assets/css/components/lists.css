@@ -25,6 +25,7 @@ ul.inline li {
 }
 .slidedecks {
   list-style-type:none;
+  margin:0;
 }
 .slidedecks li {
   padding:5px 10px;
