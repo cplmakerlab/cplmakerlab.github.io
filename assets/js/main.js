@@ -54,10 +54,11 @@ jQuery(function() {
       });
     }    
     $('.js-generate-pdf').click(function(){
-      event.stopPropagation();      
+      event.stopPropagation();    
+      var title = $(this).attr('title');
       var opt = {
         margin:       .25,
-        filename:     '{{- page.title | slugify -}}.pdf',
+        filename:     title,
         image:        { type: 'jpeg', quality: 1 },
         html2canvas:  { scale: 2 },
         jsPDF:        { unit: 'in', format: 'letter', orientation: 'portrait' }
