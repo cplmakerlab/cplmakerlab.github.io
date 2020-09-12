@@ -1,0 +1,44 @@
+---
+title: 'Cloudcannon: How to change site settings'
+categories:
+  - Web
+tags:
+  - Cloudcannon
+  - Jekyll
+example_image:
+difficulty: Easy
+time_required: 5 minutes
+file_attachment_path:
+---
+
+This guide demonstrates how to edit an existing site page (such as the home page) for the CPL Maker Lab website using the CloudCannon admin interface.
+
+### Step 1
+
+Log in to [CloudCannon](cloudcannon.com/){: target="_blank" rel="noopener"}. CloudCannon is a website management platform.&nbsp; CloudCannon will sync changes to Github Pages, where the site is hosted.
+
+### Step 2
+
+Click the large CPL Logo to open the website dashboard.
+
+&nbsp;
+
+## Step 3
+
+Click on Explore &gt; Site Pages to see a list of your site pages. The home page will usually have the url listed as /index. Click on the homepage to open it in the content editor.
+
+&nbsp;
+
+### Step 4
+
+You can edit the title and header image for the page in the left sidebar. Use the content editor on the right to update the text for the page. If you leave the header image empty, the default header image will be used.
+
+> **NOTE:** some site pages *cannot be edited* because they contain special code for displaying content. Those pages will typically end in .html: examples include blog.html, guides.html, search.html, and tags.html.
+
+&nbsp;
+
+### Step 5
+
+When you are done editing, make sure to click the SAVE button at the top. CloudCannon will display status messages as it saves and rebuilds the site. Your updates will then show up on [cplmakerlab.github.io](http://cplmakerlab.github.io){: target="_blank" rel="noopener"}. Note that it may take a few minutes for any changes to appear as your site must resync & rebuild after every save.
+
+&nbsp;
