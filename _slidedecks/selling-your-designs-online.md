@@ -45,7 +45,7 @@ slides:
   - title: Instagram
     content_markdown: '## Instagram&nbsp;'
     background_color: '#ffc1b4'
-    background_image: /uploads/selling-your-designs-online/198px-instagram-logo-2016-svg.png
+    background_image: /uploads/selling-your-designs-online/instagram.jpg
   - title:
     content_markdown:
     background_color: '#ffc1b4'
