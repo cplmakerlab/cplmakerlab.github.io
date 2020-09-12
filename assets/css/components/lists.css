@@ -24,14 +24,11 @@ ul.inline li {
   padding: 0 0.5em;
 }
 .slidedecks {
-  list-style-type:none;
+  list-style-type:square;
   margin:0;
 }
 .slidedecks li {
   padding:5px 10px;
-  border-left:solid 5px #212121;
 }
 .slidedecks li:hover {
-  border-color:#888888;
-  background-color:#eeeeee;
 }
