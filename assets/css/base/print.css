@@ -38,7 +38,8 @@
   }
   a, a:visited, .link, #content a {
     color: #000;
-    /*text-decoration: underline;*/
+    border:none !important;
+    text-decoration: underline;
   }
   .button, .button--primary {
     background: none !important;
