@@ -24,11 +24,12 @@ ul.inline li {
   padding: 0 0.5em;
 }
 .slidedecks {
-  list-style-type:square;
+  list-style-type:none;
   margin:0;
 }
 .slidedecks li {
   padding:5px 10px;
+  margin:0;
 }
 .slidedecks li:hover {
 }
