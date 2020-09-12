@@ -37,13 +37,13 @@ Click on Footer to edit the Footer region. You can add, reorder, and remove foot
 
 ### Step 5
 
-Click on Images to edit the default site images. Here you can upload a new logo or upload a new default header image. Keep in mind an individual page may override the default header image, but if no image is found, this default header image is shown. When you are done editing, click SAVE and then click the left arrow to return to the previous screen.
+Click on Images to edit the default site images. Here you can upload a new logo or upload a new default header image. Keep in mind an individual page may override the default header image, but if no image is found, this default header image will be shown. When you are done editing, click SAVE and then click the left arrow to return to the previous screen.
 
 ![](/uploads/cloudcannon-how-to-change-site-settings/guides-edit-images.png){: width="770" height="662"}
 
 ### Step 6
 
-Click Navigation to edit the site navigation (menu links). Here you can reorder the links using the arrows on the left of each link. You can add or remove new links by clicking on the three vertical dots on the right side of each link. Clicking on a link will open it and allow you to edit it. Local site links should be prefixed with a forward slash such as `/learn`, and external links should always start with `http://` and should be set to open in a new window.
+Click Navigation to edit the site navigation (menu links). Here you can reorder the links using the up/down arrows on the left of each link. You can add or remove new links by clicking on the three vertical dots on the right side of each link. Clicking on a link will open it and allow you to edit it. Local site links should be prefixed with a forward slash such as `/learn`, and external links should always start with `http://` and should be set to open in a new window.
 
 ![](/uploads/cloudcannon-how-to-change-site-settings/guides-nav1.png){: width="800" height="655"}
 
