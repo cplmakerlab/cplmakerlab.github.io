@@ -109,4 +109,21 @@ slides:
       &nbsp;
     background_color: '#ffc1b4'
     background_image:
+  - title: Cons of Shopify
+    content_markdown: >-
+      ## Cons&nbsp;
+
+
+      \- Shopify plans range from $29.00 - $299.00 per moth, with fees ranging
+      from .5% - 2.9% depending on the plan.&nbsp;
+
+
+      \- You need to establish a legal entity for your company and provide an
+      EIN to create a shop (Employer Identification Number).&nbsp;
+
+
+      ![](/uploads/selling-your-designs-online/shop-1.PNG){: width="1826"
+      height="791"}
+    background_color: '#ffc1b4'
+    background_image:
 ---
