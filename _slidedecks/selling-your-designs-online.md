@@ -241,4 +241,8 @@ slides:
     content_markdown: '## Print All Over Me (Zebra Katz)'
     background_color: '#ffc1b4'
     background_image: /uploads/selling-your-designs-online/desktop.PNG
+  - title: Questions
+    content_markdown: '## Questions'
+    background_color: '#ffc1b4'
+    background_image:
 ---
