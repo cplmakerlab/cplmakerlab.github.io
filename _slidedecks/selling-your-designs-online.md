@@ -233,4 +233,8 @@ slides:
     content_markdown: '## Teespring&nbsp;'
     background_color: '#ffc1b4'
     background_image: /uploads/selling-your-designs-online/teespring.PNG
+  - title: Print All Over Me
+    content_markdown: '## Print All Over Me'
+    background_color: '#ffc1b4'
+    background_image: /uploads/selling-your-designs-online/printalloverme.PNG
 ---
