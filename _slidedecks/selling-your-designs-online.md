@@ -215,6 +215,6 @@ slides:
 
 
       &nbsp;
-    background_color:
+    background_color: '#ffc1b4'
     background_image:
 ---
