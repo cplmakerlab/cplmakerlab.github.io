@@ -47,12 +47,34 @@ slides:
     background_color: '#ffc1b4'
     background_image: /uploads/selling-your-designs-online/etsy-emblem.jpg
   - title: Etsy Pros
-    content_markdown: |-
+    content_markdown: >-
       Pros
 
-      \- Many customers looking for handmade goods.&nbsp;
 
-      \-&nbsp;
+      \- Many customers looking for handmade goods, Etsy only allows for
+      handmade or vintage goods to be listed on its marketplace.&nbsp;
+
+
+      \- Have your own web address.&nbsp;
+
+
+      \-Offsite Ads feature built in.&nbsp;
+
+
+      ![](/uploads/selling-your-designs-online/capture.PNG){: width="1810"
+      height="845"}
+    background_color: '#ffc1b4'
+    background_image:
+  - title: Cons of Etsy
+    content_markdown: >-
+      ## **Cons**
+
+
+      **\-&nbsp;**$0.20 Listing fee, 5 % Transaction fee, 3% + $0.25 payment
+      processing fee.
+
+
+      \-
     background_color:
     background_image:
 ---
