@@ -217,4 +217,8 @@ slides:
       &nbsp;
     background_color: '#ffc1b4'
     background_image:
+  - title: Uploading your Designs to Made to Order Marketplaces
+    content_markdown: '## Uploading your Designs to Made to Order Marketplaces'
+    background_color: '#ffc1b4'
+    background_image:
 ---
