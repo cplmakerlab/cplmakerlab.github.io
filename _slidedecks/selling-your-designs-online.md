@@ -154,4 +154,8 @@ slides:
       &nbsp;
     background_color: '#ffc1b4'
     background_image:
+  - title: Limited Liability Company (LLC)
+    content_markdown: '## Limited Liability Company (LLC)'
+    background_color: '#ffc1b4'
+    background_image:
 ---
