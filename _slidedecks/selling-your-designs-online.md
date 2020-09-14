@@ -179,16 +179,21 @@ slides:
     background_color: '#ffc1b4'
     background_image:
   - title: Buying a Web Domain
-    content_markdown: |-
+    content_markdown: >-
       ## Buying a Web Domain
+
 
       \- Necessary for Shopify, Etsy and others.&nbsp;
 
-      \- Not necessary for&nbsp;
-    background_color:
-    background_image:
-  - title:
-    content_markdown:
+
+      \- Not necessary for Facebook Marketplace, sellter apps (Letgo, Offerup,
+      etc.)
+
+
+      \- GoDaddy, Domain.com, Bluehost can be used to buy web domains.&nbsp;
+
+
+      &nbsp;
     background_color:
     background_image:
 ---
