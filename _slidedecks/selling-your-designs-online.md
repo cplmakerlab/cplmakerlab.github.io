@@ -146,6 +146,21 @@ slides:
       &nbsp;
     background_color: '#ffc1b4'
     background_image:
+  - title: Rebirth Garments
+    content_markdown: >-
+      https://www.etsy.com/shop/RebirthGarments?section\_id=30030491&nbsp;
+
+
+      ![](/uploads/selling-your-designs-online/rebirth.PNG){: width="1875"
+      height="887"}https://www.etsy.com/shop/RebirthGarments?page=1\#items
+
+
+      <div class="cms-embed" data-cms-embed=""></div>
+
+
+      &nbsp;
+    background_color: '#ffc1b4'
+    background_image:
   - title: Should I Create a Legal Entity?
     content_markdown: '## Should I Create a Legal Entity?'
     background_color: '#ffc1b4'
@@ -207,17 +222,5 @@ slides:
 
       &nbsp;
     background_color:
-    background_image:
-  - title: Rebirth Garments
-    content_markdown: >-
-      ![](/uploads/selling-your-designs-online/rebirth.PNG){: width="1875"
-      height="887"}https://www.etsy.com/shop/RebirthGarments?page=1\#items
-
-
-      <div class="cms-embed" data-cms-embed=""></div>
-
-
-      &nbsp;
-    background_color: '#ffc1b4'
     background_image:
 ---
