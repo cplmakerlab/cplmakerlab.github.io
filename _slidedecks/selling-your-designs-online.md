@@ -92,11 +92,8 @@ slides:
 
 
       \- For part of the pandemic, sales were equivalent to Black Friday for
-      several weeks in a row.
-
-
-      \- Considered essential tool for small businesses that had to switch to
-      online sales in 2020.&nbsp;
+      several weeks in a row. Considered essential tool for small businesses
+      that had to switch to online sales in 2020.&nbsp;
 
 
       ![](/uploads/selling-your-designs-online/stock.PNG){: width="956"
