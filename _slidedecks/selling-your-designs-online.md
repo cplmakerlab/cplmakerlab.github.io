@@ -152,7 +152,7 @@ slides:
 
 
       ![](/uploads/selling-your-designs-online/rebirth.PNG){: width="1875"
-      height="887"}https://www.etsy.com/shop/RebirthGarments?page=1\#items
+      height="887"}
 
 
       <div class="cms-embed" data-cms-embed=""></div>
