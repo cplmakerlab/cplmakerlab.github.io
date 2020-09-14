@@ -74,7 +74,8 @@ slides:
       processing fee.
 
 
-      \-
-    background_color:
+      \- Etsy fully dictates the terms of what you do, often implements changes
+      suddenly.&nbsp;
+    background_color: '#ffc1b4'
     background_image:
 ---
