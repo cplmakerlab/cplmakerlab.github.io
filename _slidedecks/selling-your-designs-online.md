@@ -186,9 +186,6 @@ slides:
       ## Limited Liability Company (LLC)
 
 
-      (https://www.chatterbuzzmedia.com/blog/pros-and-cons-of-using-an-etsy-platform-for-your-online-business/)
-
-
       ![](/uploads/selling-your-designs-online/llc.PNG){: width="1056"
       height="779"}
     background_color: '#ffc1b4'
@@ -196,9 +193,6 @@ slides:
   - title: Incorporation
     content_markdown: >-
       ## Incorporation&nbsp;
-
-
-      (https://www.moneyunder30.com/inc-llc-or-sole-proprietorship-a-quick-guide-to-business-structures-for-young-entrepreneurs)
 
 
       ![](/uploads/selling-your-designs-online/inc.PNG){: width="1067"
