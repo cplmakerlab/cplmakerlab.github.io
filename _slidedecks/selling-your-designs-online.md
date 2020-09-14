@@ -221,4 +221,8 @@ slides:
     content_markdown: '## Uploading your Designs to Made to Order Marketplaces'
     background_color: '#ffc1b4'
     background_image:
+  - title: Shapeways Marketplace
+    content_markdown: '## Shapeways Marketplace'
+    background_color:
+    background_image: /uploads/selling-your-designs-online/shapew.PNG
 ---
