@@ -134,4 +134,24 @@ slides:
       \-Ebay&nbsp;
     background_color: '#ffc1b4'
     background_image:
+  - title: Should I Create a Legal Entity?
+    content_markdown: '## Should I Create a Legal Entity?'
+    background_color: '#ffc1b4'
+    background_image:
+  - title: Sole Proprietorship
+    content_markdown: >-
+      ## Sole Proprietorship&nbsp;
+
+
+      (Source:
+      https://www.moneyunder30.com/inc-llc-or-sole-proprietorship-a-quick-guide-to-business-structures-for-young-entrepreneurs)
+
+
+      ![](/uploads/selling-your-designs-online/sole.PNG){: width="1045"
+      height="543"}
+
+
+      &nbsp;
+    background_color: '#ffc1b4'
+    background_image:
 ---
