@@ -123,14 +123,20 @@ slides:
     background_color: '#ffc1b4'
     background_image:
   - title: Other Ways to Sell
-    content_markdown: |-
+    content_markdown: >-
       ## Other Ways to Sell
 
-      \- Letgo, Offerup, Nextdoor
 
-      \-Craislist
+      \- Letgo, Offerup, Nextdoor: Apps that allow you to sell to people in your
+      area.&nbsp;
 
-      \-Ebay&nbsp;
+
+      \-Craislist: Allows for a variety of sales and postings, not frequently
+      used for handmade items.&nbsp;
+
+
+      \-Ebay: Good for rare items. May be ideal for designs in particular trades
+      (woodworking, glass making).&nbsp;
     background_color: '#ffc1b4'
     background_image:
   - title: La Kaiser
@@ -228,10 +234,6 @@ slides:
     content_markdown: '## Shapeways Marketplace'
     background_color: '#ffc1b4'
     background_image: /uploads/selling-your-designs-online/shapeways.PNG
-  - title: Teespring
-    content_markdown: '## Teespring&nbsp;'
-    background_color: '#ffc1b4'
-    background_image: /uploads/selling-your-designs-online/teespring.PNG
   - title: Print All Over Me
     content_markdown: '## Print All Over Me'
     background_color: '#ffc1b4'
@@ -240,6 +242,10 @@ slides:
     content_markdown: '## Print All Over Me (Zebra Katz)'
     background_color: '#ffc1b4'
     background_image: /uploads/selling-your-designs-online/desktop.PNG
+  - title: Teespring
+    content_markdown: '## Teespring&nbsp;'
+    background_color: '#ffc1b4'
+    background_image: /uploads/selling-your-designs-online/teespring.PNG
   - title: Questions
     content_markdown: '## Questions'
     background_color: '#ffc1b4'
