@@ -148,7 +148,7 @@ slides:
     background_image:
   - title: Rebirth Garments
     content_markdown: >-
-      https://www.etsy.com/shop/RebirthGarments?section\_id=30030491&nbsp;
+      https://www.etsy.com/shop/RebirthGarments?page=1\#items&nbsp;
 
 
       ![](/uploads/selling-your-designs-online/rebirth.PNG){: width="1875"
