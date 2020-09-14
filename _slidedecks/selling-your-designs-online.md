@@ -198,7 +198,7 @@ slides:
     background_image:
   - title: La Kaiser
     content_markdown: >-
-      ## [...](https://www.lakaiser.com/)
+      ## https://www.lakaiser.com/
 
 
       ![](/uploads/selling-your-designs-online/lakaiser.PNG){: width="1892"
@@ -206,6 +206,6 @@ slides:
 
 
       &nbsp;
-    background_color:
+    background_color: '#ffc1b4'
     background_image:
 ---
