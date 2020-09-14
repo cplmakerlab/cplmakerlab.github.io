@@ -126,4 +126,15 @@ slides:
       height="791"}
     background_color: '#ffc1b4'
     background_image:
+  - title: Other Ways to Sell
+    content_markdown: |-
+      ## Other Ways to Sell
+
+      \- Letgo, Offerup, Nextdoor
+
+      \-Craislist
+
+      \-Ebay&nbsp;
+    background_color: '#ffc1b4'
+    background_image:
 ---
