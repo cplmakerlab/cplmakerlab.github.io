@@ -229,4 +229,8 @@ slides:
     content_markdown: '## Shapeways Marketplace'
     background_color: '#ffc1b4'
     background_image: /uploads/selling-your-designs-online/shapeways.PNG
+  - title: Teespring
+    content_markdown: '## Teespring&nbsp;'
+    background_color: '#ffc1b4'
+    background_image: /uploads/selling-your-designs-online/teespring.PNG
 ---
