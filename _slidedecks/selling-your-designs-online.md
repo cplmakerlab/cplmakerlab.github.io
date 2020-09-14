@@ -134,6 +134,18 @@ slides:
       \-Ebay&nbsp;
     background_color: '#ffc1b4'
     background_image:
+  - title: La Kaiser
+    content_markdown: >-
+      ## https://www.lakaiser.com/
+
+
+      ![](/uploads/selling-your-designs-online/lakaiser.PNG){: width="1892"
+      height="900"}
+
+
+      &nbsp;
+    background_color: '#ffc1b4'
+    background_image:
   - title: Should I Create a Legal Entity?
     content_markdown: '## Should I Create a Legal Entity?'
     background_color: '#ffc1b4'
@@ -196,13 +208,13 @@ slides:
       &nbsp;
     background_color:
     background_image:
-  - title: La Kaiser
+  - title: Rebirth Garments
     content_markdown: >-
-      ## https://www.lakaiser.com/
+      ![](/uploads/selling-your-designs-online/rebirth.PNG){: width="1875"
+      height="887"}https://www.etsy.com/shop/RebirthGarments?page=1\#items
 
 
-      ![](/uploads/selling-your-designs-online/lakaiser.PNG){: width="1892"
-      height="900"}
+      <div class="cms-embed" data-cms-embed=""></div>
 
 
       &nbsp;
