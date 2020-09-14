@@ -155,7 +155,15 @@ slides:
     background_color: '#ffc1b4'
     background_image:
   - title: Limited Liability Company (LLC)
-    content_markdown: '## Limited Liability Company (LLC)'
+    content_markdown: >-
+      ## Limited Liability Company (LLC)
+
+
+      (https://www.chatterbuzzmedia.com/blog/pros-and-cons-of-using-an-etsy-platform-for-your-online-business/)
+
+
+      ![](/uploads/selling-your-designs-online/llc.PNG){: width="1056"
+      height="779"}
     background_color: '#ffc1b4'
     background_image:
 ---
