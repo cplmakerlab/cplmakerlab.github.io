@@ -166,4 +166,16 @@ slides:
       height="779"}
     background_color: '#ffc1b4'
     background_image:
+  - title: Incorporation
+    content_markdown: >-
+      ## Incorporation&nbsp;
+
+
+      (https://www.moneyunder30.com/inc-llc-or-sole-proprietorship-a-quick-guide-to-business-structures-for-young-entrepreneurs)
+
+
+      ![](/uploads/selling-your-designs-online/inc.PNG){: width="1067"
+      height="608"}
+    background_color: '#ffc1b4'
+    background_image:
 ---
