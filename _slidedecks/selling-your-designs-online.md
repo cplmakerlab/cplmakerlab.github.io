@@ -111,8 +111,8 @@ slides:
       ## Cons&nbsp;
 
 
-      \- Shopify plans range from $29.00 - $299.00 per moth, with fees ranging
-      from .5% - 2.9% depending on the plan.&nbsp;
+      \- Shopify plans range from $29.00 - $299.00 per moth, fees range from .5%
+      - 2.9% depending on the plan.&nbsp;
 
 
       \- You need to establish a legal entity for your company and provide an
