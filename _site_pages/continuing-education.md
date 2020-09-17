@@ -1,6 +1,6 @@
 ---
 title: Jobs & Career Training
-header_image: /uploads/continuing-education/welding2.jpg
+header_image: /uploads/continuing-education/welding.jpg
 ---
 
 A short list of training in and around Chicago.
