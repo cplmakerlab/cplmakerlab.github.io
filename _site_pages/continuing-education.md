@@ -1,6 +1,6 @@
 ---
 title: Jobs & Career Training
-header_image:
+header_image: /uploads/continuing-education/welding.jpg
 ---
 
 A short list of training in and around Chicago.
@@ -14,16 +14,22 @@ A short list of training in and around Chicago.
 * Lab Tech/Quality Control
 * Healthcare Information Technology
 
-### Jane Addams Resource Center
+### Chicago Women in Trades
 
-[JANE-ADDAMS.ORG](http://jane-addams.org){: target="_blank" rel="noopener"} \| 773-728-9769 \| 4432 N. Ravenswood Avenue
+[CWIT.ORG](http://cwit.org){: target="_blank" rel="noopener"}
 
-10-20 weeks, industry credentials, and job placement. Free for unemployed adults and low-income job seekers.
+* Technical Opportunities Program - learn options for construction careers
+* Women in Welding, 12 week program
 
-* CNC Machinist Fast Track
-* Welding Fast Track
-* Press Brake Fast Track
-* Manufacturing Bridge Program
+### City Colleges of Chicago
+
+[CCC.EDU](http://ccc.edu){: target="_blank" rel="noopener"} \| 773-865-5949 \| Seven locations
+
+* Certificates at 3 classes, may also be used towards an associate’s degree. Tuition for city residents $146 per credit hour as of 12/18/2019.
+* CNC at Daley and Wilbur Wright
+* Welding at Daley
+* Healthcare at Malcolm X
+* Computer Networking & Security at Wilbur Wright…and more\!
 
 ### Greater West Town Project
 
@@ -33,13 +39,19 @@ A short list of training in and around Chicago.
 * Woodworkers Training Program
 * Shipping and Receiving Training Program
 
-### City Colleges of Chicago
+### Illinois Department of Employment Security: Apprenticeship
 
-[CCC.EDU](http://ccc.edu){: target="_blank" rel="noopener"} \| 773-865-5949 \| Seven locations
+[www2.illinois.gov/ides/pages/apprenticeship.aspx](http://www2.illinois.gov/ides/pages/apprenticeship.aspx){: target="_blank" rel="noopener"}
 
-Certificates at 3 classes, may also be used towards an associate’s degree. Tuition for city residents $146 per credit hour as of 8/6/2019.
+* Seven Chicago trades unions
+* Multiple pathways into the trades
 
-* CNC at Daley and Wilbur Wright
-* Welding at Daley
-* Healthcare at Malcolm X
-* Computer Networking & Security at Wilbur Wright
+### Jane Addams Resource Center
+
+[JANE-ADDAMS.ORG](http://jane-addams.org){: target="_blank" rel="noopener"} \| 773-728-9769 \| 4432 N. Ravenswood Avenue
+
+* 10-20 weeks, industry credentials, and job placement. Free for unemployed adults and low-income job seekers.
+* CNC Machinist Fast Track
+* Welding Fast Track
+* Press Brake Fast Track
+* Manufacturing Bridge Program
