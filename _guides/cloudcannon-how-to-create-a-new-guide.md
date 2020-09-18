@@ -5,7 +5,6 @@ categories:
 tags:
   - Cloudcannon
   - Jekyll
-  - RevealJS
 example_image: >-
   /uploads/cloudcannon-how-to-create-a-new-guide/guides-example-guide-screenshot.png
 difficulty: Medium
