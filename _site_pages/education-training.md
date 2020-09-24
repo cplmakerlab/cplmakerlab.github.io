@@ -1,5 +1,5 @@
 ---
-title: Education - Jobs and Career Training
+title: Education / Jobs and Career Training
 header_image: /uploads/continuing-education/welding2.jpg
 ---
 
