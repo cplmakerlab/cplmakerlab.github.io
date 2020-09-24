@@ -22,7 +22,7 @@ Click the "Create new design" button to open up a new project.
 
 ### Step 3: Add a shape
 
-When your project first opens, you'll see a large window on the left with a 3D workplane, and on the right a sidebar with several shapes to choose from. You can add a shape to the workplane by holding down the left mouse button to drag a shape out from the sidebar and then let go of it to drop it onto the workplane. If you want to move the shape, hold down the left mouse button to drag it to a different area of the workplane.
+When your project first opens, you'll see a large window on the left with a flat 3D workplane, and on the right a sidebar with several shapes to choose from. You can add a shape to the workplane by clicking and dragging a shape from the sidebar and dropping it on to the workplane. If you want to move the shape, hold down the left mouse button to drag it to a different area of the workplane.
 
 ### Step 4: Camera Angles
 
@@ -33,3 +33,5 @@ In Tinkercad there are several ways to adjust the camera view.&nbsp; To orbit, c
 To zoom in, click the \[+\] icon, and to zoom out, click the \[–\] icon. To focus on a particular shape, click on the shape in the workplane and then press F on your keyboard to zoom fit.
 
 The last icon in the left vertical toolbar allows you to switch between Perspective view (default) or Flat View (orthographic). This is similar to changing the lens in a camera. When the camera is looking straight down from one side (i.e. top view) in Perspective view some of the shapes may look distorted. Switching to Flat View will flatten the shapes so they look less distorted.
+
+Tinkercad Quickstart -
