@@ -1,5 +1,5 @@
 ---
-title: 'Tinkercad Quickstart - Part 1: Navigating'
+title: 'Tinkercad Quickstart - Part 1: Navigation'
 categories:
   - 3D Design
 tags:
