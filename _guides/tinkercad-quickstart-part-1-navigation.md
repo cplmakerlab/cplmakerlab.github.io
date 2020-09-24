@@ -3,6 +3,7 @@ title: 'Tinkercad Quickstart - Part 1: Navigation'
 categories:
   - 3D Design
 tags:
+  - Tinkercad
 example_image:
 difficulty: Easy
 time_required: 5 minutes
