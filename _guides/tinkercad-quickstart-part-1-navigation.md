@@ -26,7 +26,7 @@ When your project first opens, you'll see a large window on the left with a flat
 
 ### Step 4: Camera Angles
 
-When creating 3D designs, you will often need to view your design from many different angles. To do that, you will need to adjust the camera view. By moving the camera, you can move closer, or orbit around the design to look at it from a different angle.
+When creating 3D designs, you will often need to view your design from many different angles. To do that, you will need to adjust the camera view. By moving the camera, you can zoom in closer or orbit around the design to look at it from a different angle.
 
 In Tinkercad there are several ways to adjust the camera view.&nbsp; To orbit, click and drag the cube shaped icon (viewcube) near the left vertical toolbar. As you drag the viewcube, the camera perspective will change alongside it. You can also click on one of the sides of the viewcube. If you get lost or turned upside down, click the home icon to reset the camera to the default camera view.
 
