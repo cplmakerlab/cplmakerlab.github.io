@@ -28,7 +28,7 @@ When your project first opens, you'll see a large window on the left with a flat
 
 When creating 3D designs, need to look at your design from many different angles. To do that, you can adjust the camera view. Just like a real camera, you can zoom in and out, and move it around, above, and below your design.
 
-In Tinkercad there are a couple different ways to adjust the camera view.&nbsp; Let's take a look at the vertical toolbar on the left side of your screen. To orbit, click and drag the cube shaped icon (viewcube). As you drag the viewcube, the camera perspective will change along with it. You can also click on one of the sides to snap to side view. If you get lost or turned upside down, you can always click the home icon to reset the camera to the default camera perspective.
+In Tinkercad there are a couple different ways to adjust the camera view.&nbsp; Let's take a look at the vertical toolbar on the left side of your screen. To orbit, click and drag the cube shaped icon (viewcube). As you drag the viewcube, the camera perspective will change along with it. You can also click on one of the sides to snap to side view. If you get lost or turned upside down, you can click the home icon to reset the camera to the default camera perspective.
 
 To zoom in, click the + button, and to zoom out, click the – button. To zoom in on a shape, click on the shape in the workplane and then press the \[ &nbsp; \] button to zoom fit.
 
