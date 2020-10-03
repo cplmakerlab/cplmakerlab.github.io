@@ -28,7 +28,7 @@ When your project first opens, you'll see a large window on the left with a flat
 
 Imagine that you are looking through a camera at the shape you just created. To look at the shape from a different perspective, you can pan, zoom, and orbit around the workplane.
 
-The controls for zoom and orbit are located on the left side of your screen, or you can use mouse shortcuts (see below) to control the camera.
+The controls for zoom and orbit are located on the left side of your screen. You can also use mouse shortcuts (see below) to control the camera.
 
 ![](/uploads/tinkercad-quickstart-guide/camera-controls.png){: width="602" height="501"}
 
@@ -56,6 +56,8 @@ The controls for zoom and orbit are located on the left side of your screen, or 
 Drag another shape to the workplane from the right hand menu. Move it so that it overlaps with your first shape. Now select both solid shapes and click the group button in the top menu. You now have a new combined shape\! Click the ungroup button to break apart a combined shape.
 
 Now select one of your shapes and in the shape dialog box convert it to a hole. A hole does not have any color and will look translucent. Now select both the shape and your hole and group them. The hole will be subtracted from the shape. Ungroup the resulting shape to reverse this action.
+
+Step 7: Align shapes
 
 ### Congratulations\!
 
