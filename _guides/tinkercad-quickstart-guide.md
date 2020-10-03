@@ -41,13 +41,10 @@ The controls for zoom and orbit are located on the left side of your screen, or 
 
 ### Step 5: Move, resize, and rotate shapes
 
-MOVE: Click on the shape in your workplane to select it. When selected, you can use the arrow keys to move it around on the workplane. You can also click and drag the shape to quickly move it.
-
-&nbsp;
-
-To move a shape that you have added, simply hold down the left mouse button to drag it to a different area of the workplane.
-
-To resize a shape, click on it and
+* **MOVE:** Click on the shape in your workplane to select it. When selected, use the arrow keys on your keyboard to move it around on the workplane. You can also simply click + drag a shape on your workplane.
+* **RESIZE:** With a shape selected, look for four tiny squares near each corner of the shape. You can click and drag these squares to adjust the length and width of your shape. There is an additional fifth square located towards the middle-top of your shape which will adjust the height.
+* **ROTATE:** When a shape is selected, you'll see three curved arrow icons around your shape. Click and drag on a curved arrow to rotate your shape in that direction. There are three directions you can rotate your shape, one for each axis of rotation (x, y, and z).
+* **LIFT:** In addition to moving your shape around on the workplane, you can also lift the shape up so that it floats above the workplane. With the shape selected, look for a black cone near the top of your shape. Click and drag this black cone to raise or lower the shape.
 
 &nbsp;
 
