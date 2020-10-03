@@ -53,7 +53,11 @@ The controls for zoom and orbit are located on the left side of your screen, or 
 
 Step 6: Combine shapes and holes
 
-Drag another shape to the workplane from the right hand menu. Move it so that it overlaps with your first shape. Now select both shapes and click the group button in the top menu. You will now have a new combined shape. Click the ungroup button to break apart a combined shape. Now select one of your shapes and in the shape dialog change it to a hole. The shape will lose its color and look slightly translucent. Now select both the shape and the hole and group them. The hole will be subtracted from the shape. Ungroup the shape and hole to reverse this action.
+Drag another shape to the workplane from the right hand menu. Move it so that it overlaps with your first shape. Now select both shapes and click the group button in the top menu. You will now have a new combined shape\! Click the ungroup button to break apart a combined shape.
+
+Now select one of your shapes and in the shape dialog change it to a hole. A hole does not have any color and will look translucent. Now select both the shape and the hole and group them. The hole will be subtracted from the shape. Ungroup the shape and hole to reverse this action.
+
+Once you get the hang of it, this method of adding shapes together and subtracting holes allows you to quickly create complex designs\!
 
 &nbsp;
 
