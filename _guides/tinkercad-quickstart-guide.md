@@ -37,12 +37,9 @@ The controls for zoom and orbit are located on the left side of your screen. You
 * ZOOM: Click on the zoom fit button \[F\] to focus on a specific shape. Click on the + button to zoom in, and and the - button to zoom out.
 * FLAT VIEW: When the camera is looking straight down from one side (i.e. top) sometimes shapes will look distorted. Switching to Flat View will flatten the shapes so they look less distorted. This is similar to changing the camera lens.
 
-#### Mouse shortcuts
+#### ![](/uploads/tinkercad-quickstart-guide/mouse-shortcuts-1.png){: width="736" height="394"}
 
-| **Zoom** | Roll middle mouse button |
-| **Orbit** | Hold right mouse button |
-| **Pan** | Hold middle mouse button |
-| **Move object** | Hold left mouse button |
+&nbsp;
 
 ### Step 5: Move, resize, and rotate shapes
 
