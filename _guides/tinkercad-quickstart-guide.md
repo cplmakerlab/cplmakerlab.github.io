@@ -55,9 +55,7 @@ The controls for zoom and orbit are located on the left side of your screen. You
 
 Drag another shape to the workplane from the right hand menu. Move it so that it overlaps with your first shape. Now select both solid shapes and click the group button in the top menu. You now have a new combined shape\! Click the ungroup button to break apart a combined shape.
 
-Now select one of your shapes and in the shape dialog box convert it to a hole. A hole does not have any color and will look translucent. Now select both the shape and your hole and group them. The hole will be subtracted from the shape. Ungroup the resulting shape to reverse this action.
-
-Step 7: Align shapes
+Now select one of your shapes and in the shape dialog box convert it to a hole. A hole does not have a color and will look translucent. Now select both the shape and your hole and group them. The hole will be subtracted from the shape. Ungroup the resulting shape to reverse this action.
 
 ### Congratulations\!
 
