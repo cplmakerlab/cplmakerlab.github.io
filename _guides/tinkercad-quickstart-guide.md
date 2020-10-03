@@ -51,7 +51,9 @@ The controls for zoom and orbit are located on the left side of your screen, or 
 * **ROTATE:** When a shape is selected, you'll see three curved arrow icons around your shape. Click and drag on a curved arrow to rotate your shape in that direction. There are three directions you can rotate your shape, one for each axis of rotation (x, y, and z).
 * **LIFT:** In addition to moving your shape around on the workplane, you can also lift the shape up so that it floats above the workplane. With the shape selected, look for a black cone near the top of your shape. Click and drag this black cone to raise or lower the shape.
 
-&nbsp;
+Step 6: Combine shapes and holes
+
+Drag another shape to the workplane from the right hand menu. Move it so that it overlaps with your first shape. Now select both shapes and click the group button in the top menu. You will now have a new combined shape. Click the ungroup button to break apart a combined shape. Now select one of your shapes and in the shape dialog change it to a hole. The shape will lose its color and look slightly translucent. Now select both the shape and the hole and group them. The hole will be subtracted from the shape. Ungroup the shape and hole to reverse this action.
 
 &nbsp;
 
