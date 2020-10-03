@@ -28,15 +28,24 @@ When your project first opens, you'll see a large window on the left with a flat
 
 Imagine that you are looking through a camera at the shape you just created. To look at the shape from a different perspective, you can pan, zoom, and orbit around the workplane.
 
-The controls for pan, zoom, and orbit are located on the left side of your screen. Click and drag the large cube shaped icon (viewcube) to orbit, or click on the + and - icons to zoom in and out. Click the home icon to reset the view to the default perspective.
+The controls for zoom and orbit are located on the left side of your screen, or you can use mouse shortcuts to control the camera.
 
-You can alternatively use keyboard and mouse shortcuts to control the camera.
+![](/uploads/tinkercad-quickstart-guide/camera-controls.png){: width="602" height="501"}
+
+* ORBIT: Click and drag the large cube shape (viewcube) to orbit. Or you can click on one side of the cube to quickly rotate to that side.
+* HOME VIEW: Click the home button to reset the camera to the default view.
+* ZOOM: Click on the zoom fit button \[F\] to focus on a specific shape. Click on the + button to zoom in, and and the - button to zoom out.
+* FLAT VIEW: When the camera is looking straight down from one side (i.e. top) sometimes shapes will look distorted. Switching to Flat View will flatten the shapes so they look less distorted. This is similar to changing the camera lens.
+
+![](/uploads/tinkercad-quickstart-guide/mouse-shortcuts.png){: width="736" height="394"}
+
+### Step 5: Move, resize, and rotate shapes
+
+MOVE: Click on the shape in your workplane to select it. When selected, you can use the arrow keys to move it around on the workplane. You can also click and drag the shape to quickly move it.
 
 &nbsp;
 
-Step 5: Move, resize, and rotate shapes
-
-To move a shape that you have added, hold down the left mouse button to drag it to a different area of the workplane.
+To move a shape that you have added, simply hold down the left mouse button to drag it to a different area of the workplane.
 
 To resize a shape, click on it and
 
