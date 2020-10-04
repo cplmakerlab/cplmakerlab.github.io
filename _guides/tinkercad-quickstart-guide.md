@@ -10,7 +10,7 @@ time_required: 5 - 10 minutes
 file_attachment_path: /uploads/tinkercad-quickstart-guide/tinkercad-quickstart.pdf
 ---
 
-Tinkercad is an easy to use yet powerful 3D design program that runs right in your web browser. By adding and combining simple 3D shapes you can create almost anything you can imagine\! In this guide you'll learn how to create a new project, how to add shapes, and how to navigate in the Tinkercad workspace.
+Tinkercad is an easy to use yet powerful 3D design program that runs right in your web browser. By adding and combining simple 3D shapes you can create almost anything you can imagine\! In this guide you'll learn how to create a new project, how to add and manipulate shapes, and how to navigate in Tinkercad.
 
 ### Step 1: Login to Tinkercad
 
