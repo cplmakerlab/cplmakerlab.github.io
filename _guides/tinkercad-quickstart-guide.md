@@ -4,10 +4,10 @@ categories:
   - 3D Design
 tags:
   - Tinkercad
-example_image:
+example_image: /uploads/tinkercad-quickstart-guide/tinkercad-quickstart.png
 difficulty: Easy
 time_required: 5 - 10 minutes
-file_attachment_path:
+file_attachment_path: /uploads/tinkercad-quickstart-guide/tinkercad-quickstart.pdf
 ---
 
 Tinkercad is an easy to use yet powerful 3D design program that runs right in your web browser. By adding and combining simple 3D shapes you can create almost anything you can imagine\! In this guide you'll learn how to create a new project, how to add shapes, and how to navigate in the Tinkercad workspace.
@@ -59,6 +59,10 @@ Now select one of your shapes and in the shape dialog box convert it to a hole. 
 
 ### Congratulations\!
 
-Now you know the basics of how to navigate and combine shapes in Tinkercad\!
+Now you know the basics of how to navigate and combine shapes in Tinkercad\! You can download and print out the attached handy PDF guide to help you remember what you've learned.
 
-&nbsp;
+Next things to try:
+
+* Import and modify a design (STL file) from Thingiverse.com
+* Export your design as an STL file for 3D printing
+* Try creating a realistic rendering of your 3D model in Blender
