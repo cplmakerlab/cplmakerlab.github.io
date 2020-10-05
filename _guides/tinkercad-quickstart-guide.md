@@ -4,7 +4,7 @@ categories:
   - 3D Design
 tags:
   - Tinkercad
-example_image: /uploads/tinkercad-quickstart-guide/tinkercad-quickstart.png
+example_image: /uploads/tinkercad-quickstart-guide/tinkercad-workspace.png
 difficulty: Easy
 time_required: 5 - 10 minutes
 file_attachment_path: /uploads/tinkercad-quickstart-guide/tinkercad-quickstart.pdf
@@ -59,7 +59,7 @@ Now select one of your shapes and in the shape dialog box convert it to a hole. 
 
 ### Congratulations\!
 
-Now you know the basics of how to navigate and combine shapes in Tinkercad\! You can download and print out the attached handy PDF guide to help you remember what you've learned.
+Now you know the basics of how to navigate and combine shapes in Tinkercad\! Download and print out the [Tinkercad Quickstart PDF](/uploads/tinkercad-quickstart-guide/tinkercad-quickstart.pdf) to help you remember what you've learned.
 
 Next things to try:
 
