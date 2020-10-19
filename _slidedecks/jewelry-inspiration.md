@@ -29,6 +29,30 @@ slides:
     content_markdown:
     background_color: '#c0ddfb'
     background_image: /uploads/jewelry-inspiration/screen-shot-2020-10-19-at-1-26-21-pm.png
+  - title: Rebirth Garments
+    content_markdown: '## Rebirth Garments&nbsp;'
+    background_color: '#c0ddfb'
+    background_image: /uploads/jewelry-inspiration/screen-shot-2020-10-19-at-1-37-04-pm.png
+  - title:
+    content_markdown:
+    background_color: '#c0ddfb'
+    background_image:
+  - title:
+    content_markdown:
+    background_color: '#c0ddfb'
+    background_image:
+  - title:
+    content_markdown:
+    background_color: '#c0ddfb'
+    background_image:
+  - title:
+    content_markdown:
+    background_color: '#c0ddfb'
+    background_image:
+  - title:
+    content_markdown:
+    background_color: '#c0ddfb'
+    background_image:
   - title:
     content_markdown:
     background_color: '#c0ddfb'
