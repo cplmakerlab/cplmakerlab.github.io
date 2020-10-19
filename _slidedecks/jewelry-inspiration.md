@@ -3,7 +3,7 @@ title: Jewelry Inspiration
 slides:
   - title: Jewelry Inspiration
     content_markdown: '## Jewelry Inspiration'
-    background_color: '#c0ddfb'
+    background_color: '#ffffff'
     background_image:
   - title: L. JARDIM
     content_markdown: '## L. JARDIM&nbsp;'
