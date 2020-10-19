@@ -45,14 +45,14 @@ slides:
     content_markdown:
     background_color: '#c0ddfb'
     background_image: /uploads/jewelry-inspiration/screen-shot-2020-10-19-at-1-42-55-pm.png
+  - title: La Kaiser
+    content_markdown: '## La Kaiser'
+    background_color: '#c0ddfb'
+    background_image: /uploads/jewelry-inspiration/screen-shot-2020-10-19-at-1-46-56-pm.png
   - title:
     content_markdown:
     background_color: '#c0ddfb'
-    background_image:
-  - title:
-    content_markdown:
-    background_color: '#c0ddfb'
-    background_image:
+    background_image: /uploads/jewelry-inspiration/screen-shot-2020-10-19-at-1-48-46-pm.png
   - title:
     content_markdown:
     background_color: '#c0ddfb'
