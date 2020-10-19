@@ -9,6 +9,14 @@ slides:
     content_markdown: '## L. JARDIM&nbsp;'
     background_color: '#c0ddfb'
     background_image: /uploads/jewelry-inspiration/screen-shot-2020-10-19-at-1-15-36-pm.png
+  - title:
+    content_markdown:
+    background_color: '#c0ddfb'
+    background_image: /uploads/jewelry-inspiration/screen-shot-2020-10-19-at-1-24-11-pm.png
+  - title:
+    content_markdown:
+    background_color: '#c0ddfb'
+    background_image:
   - title: Austin James Smith
     content_markdown: '## Austin James Smith (Phase 1)'
     background_color: '#c0ddfb'
@@ -17,6 +25,14 @@ slides:
     content_markdown: '## Austin James Smith (Phase 3)&nbsp;'
     background_color: '#c0ddfb'
     background_image: /uploads/jewelry-inspiration/screen-shot-2020-10-19-at-1-18-28-pm.png
+  - title:
+    content_markdown:
+    background_color: '#c0ddfb'
+    background_image:
+  - title:
+    content_markdown:
+    background_color: '#c0ddfb'
+    background_image:
   - title:
     content_markdown:
     background_color: '#c0ddfb'
