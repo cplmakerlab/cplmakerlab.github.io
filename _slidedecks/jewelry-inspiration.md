@@ -16,7 +16,7 @@ slides:
   - title:
     content_markdown:
     background_color: '#c0ddfb'
-    background_image:
+    background_image: /uploads/jewelry-inspiration/screen-shot-2020-10-19-at-1-32-58-pm.png
   - title: Austin James Smith
     content_markdown: '## Austin James Smith&nbsp;'
     background_color: '#c0ddfb'
