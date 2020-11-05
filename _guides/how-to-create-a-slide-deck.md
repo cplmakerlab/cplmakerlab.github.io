@@ -6,6 +6,7 @@ tags:
   - Cloudcannon
   - Jekyll
   - RevealJS
+  - Staff
 example_image: /uploads/how-to-create-a-slide-deck/slidedeck-example-image.png
 difficulty: Medium
 time_required: 20 - 30 minutes
@@ -16,7 +17,7 @@ A slide deck is an HTML slideshow that can be used for presentations. This guide
 
 ### Step 1
 
-Log in to [CloudCannon](cloudcannon.com/){: target="_blank" rel="noopener"}. CloudCannon is a website management platform.&nbsp; CloudCannon will sync changes to Github Pages, where the site is hosted.
+Log in to [CloudCannon](cloudcannon.com/){: target="_blank"}. CloudCannon is a website management platform.&nbsp; CloudCannon will sync changes to Github Pages, where the site is hosted.
 
 ### Step 2
 
@@ -70,7 +71,7 @@ In the slide list view, you can reorder slides using the up and down arrow icons
 
 ## Step 10
 
-To view your new slide deck, go to [cplmakerlab.github.io/slidedecks](http://cplmakerlab.github.io/slidedecks){: target="_blank" rel="noopener"} and click on your new slide deck, which will open in a new window. Be aware that it may take a minute or two to see your changes as the site needs time to rebuild after every change. When presenting, take advantage of the built-in keyboard shortcuts\!
+To view your new slide deck, go to [cplmakerlab.github.io/slidedecks](http://cplmakerlab.github.io/slidedecks){: target="_blank"} and click on your new slide deck, which will open in a new window. Be aware that it may take a minute or two to see your changes as the site needs time to rebuild after every change. When presenting, take advantage of the built-in keyboard shortcuts\!
 
 | → Right arrow key | Next slide |
 | ← Left arrow key | Previous slide |
