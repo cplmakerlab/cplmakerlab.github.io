@@ -1,6 +1,7 @@
 ---
 title: 'CloudCannon: How to create a new guide'
 categories:
+  - Web
 tags:
   - Cloudcannon
   - Jekyll
