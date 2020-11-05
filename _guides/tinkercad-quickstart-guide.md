@@ -6,7 +6,7 @@ tags:
   - Tinkercad
 example_image: /uploads/tinkercad-quickstart-guide/tinkercad-workspace.png
 difficulty: Easy
-time_required: 5 - 10 minutes
+time_required: 10 minutes
 file_attachment_path: /uploads/tinkercad-quickstart-guide/tinkercad-quickstart.pdf
 ---
 
@@ -14,7 +14,7 @@ Tinkercad is an easy to use yet powerful 3D design program that runs right in yo
 
 ### Step 1: Login to Tinkercad
 
-In a web browser, navigate to [Tinkercad.com](http://www.tinkercad.com){: target="_blank" rel="noopener"} and create a new account if you don't have one yet. If you already use Fusion 360, you can use the same Autodesk login.
+In a web browser, navigate to [Tinkercad.com](http://www.tinkercad.com){: target="_blank"} and create a new account if you don't have one yet. If you already use Fusion 360, you can use the same Autodesk login.
 
 ### Step 2: Create a new design
 
