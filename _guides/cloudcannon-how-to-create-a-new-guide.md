@@ -1,10 +1,10 @@
 ---
 title: 'CloudCannon: How to create a new guide'
 categories:
-  - Web
 tags:
   - Cloudcannon
   - Jekyll
+  - Staff
 example_image: >-
   /uploads/cloudcannon-how-to-create-a-new-guide/guides-example-guide-screenshot.png
 difficulty: Medium
@@ -16,7 +16,7 @@ This guide demonstrates how to create a how-to guide (similar to the one you are
 
 ### Step 1
 
-Log in to [CloudCannon](cloudcannon.com/){: target="_blank" rel="noopener"}. CloudCannon is a website management platform.&nbsp; CloudCannon will sync changes to Github Pages, where the site is hosted.
+Log in to [CloudCannon](cloudcannon.com/){: target="_blank"}. CloudCannon is a website management platform.&nbsp; CloudCannon will sync changes to Github Pages, where the site is hosted.
 
 ### Step 2
 
@@ -74,7 +74,7 @@ Continue adding new steps as needed. You may need to revise the number of steps 
 
 ## Step 9
 
-Your new guide will be published at [cplmakerlab.github.io/guides](http://cplmakerlab.github.io/guides){: target="_blank" rel="noopener"}. Note that it may take a few minutes for any changes to appear as your site must resync & rebuild after every save.
+Your new guide will be published at [cplmakerlab.github.io/guides](http://cplmakerlab.github.io/guides){: target="_blank"}. Note that it may take a few minutes for any changes to appear as your site must resync & rebuild after every save.
 
 ## Congratulations\!
 
