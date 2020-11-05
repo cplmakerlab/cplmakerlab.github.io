@@ -1,6 +1,7 @@
 ---
 title: 'Cloudcannon: How to change site settings'
 categories:
+  - Web
 tags:
   - Cloudcannon
   - Jekyll
