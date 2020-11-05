@@ -1,6 +1,7 @@
 ---
 title: 'CloudCannon: How to create a new blog post'
 categories:
+  - Web
 tags:
   - Cloudcannon
   - Jekyll
