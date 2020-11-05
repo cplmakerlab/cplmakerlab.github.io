@@ -1,10 +1,10 @@
 ---
 title: 'Cloudcannon: How to change site settings'
 categories:
-  - Web
 tags:
   - Cloudcannon
   - Jekyll
+  - Staff
 example_image:
 difficulty: Easy
 time_required: 5 minutes
@@ -15,7 +15,7 @@ This guide demonstrates how to edit site settings for the CPL Maker Lab website&
 
 ### Step 1
 
-Log in to [CloudCannon](cloudcannon.com/){: target="_blank" rel="noopener"}. CloudCannon is a website management platform.&nbsp; CloudCannon will sync changes to Github Pages, where the site is hosted.
+Log in to [CloudCannon](cloudcannon.com/){: target="_blank"}. CloudCannon is a website management platform.&nbsp; CloudCannon will sync changes to Github Pages, where the site is hosted.
 
 ### Step 2
 
@@ -53,4 +53,4 @@ When you edit a top level navigation link you can also configure subnavigation l
 
 ### Step 7
 
-When you are done editing, make sure to click the SAVE button at the top. CloudCannon will display status messages as it saves and rebuilds the site. Your updates will then show up on [cplmakerlab.github.io](http://cplmakerlab.github.io){: target="_blank" rel="noopener"}. Note that it may take a few minutes for any changes to appear as your site must resync & rebuild after every save.
+When you are done editing, make sure to click the SAVE button at the top. CloudCannon will display status messages as it saves and rebuilds the site. Your updates will then show up on [cplmakerlab.github.io](http://cplmakerlab.github.io){: target="_blank"}. Note that it may take a few minutes for any changes to appear as your site must resync & rebuild after every save.
