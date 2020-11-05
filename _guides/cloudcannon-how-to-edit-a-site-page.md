@@ -1,6 +1,7 @@
 ---
 title: 'CloudCannon: How to edit a site page'
 categories:
+  - Web
 tags:
   - Cloudcannon
   - Jekyll
