@@ -1,11 +1,11 @@
 ---
 title: 'CloudCannon: How to create a new blog post'
 categories:
-  - Web
 tags:
   - Cloudcannon
   - Jekyll
   - Blogging
+  - Staff
 example_image:
 difficulty: Easy
 time_required: 5 - 10 minutes
@@ -16,7 +16,7 @@ This guide demonstrates how to write a blog post for the CPL Maker Lab website u
 
 ### Step 1
 
-Log in to [CloudCannon](cloudcannon.com/){: target="_blank" rel="noopener"}. CloudCannon is a website management platform.&nbsp; CloudCannon will sync changes to Github Pages, where the site is hosted.
+Log in to [CloudCannon](cloudcannon.com/){: target="_blank"}. CloudCannon is a website management platform.&nbsp; CloudCannon will sync changes to Github Pages, where the site is hosted.
 
 ### Step 2
 
@@ -66,7 +66,7 @@ When you are done writing your blog post, don't forget to hit SAVE\!
 
 ## Step 8
 
-Your new blog post will be published at [cplmakerlab.github.io/blog](http://cplmakerlab.github.io/blog){: target="_blank" rel="noopener"}. Note that it may take a few minutes for any changes to appear as your site must resync & rebuild after every save.
+Your new blog post will be published at [cplmakerlab.github.io/blog](http://cplmakerlab.github.io/blog){: target="_blank"}. Note that it may take a few minutes for any changes to appear as your site must resync & rebuild after every save.
 
 Note: If you chose to create a DRAFT first, the blog will not be published until you publish the draft. To do that, click the PUBLISH button at the top of the page.
 
