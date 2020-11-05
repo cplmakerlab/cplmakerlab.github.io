@@ -1,10 +1,10 @@
 ---
 title: 'CloudCannon: How to edit a site page'
 categories:
-  - Web
 tags:
   - Cloudcannon
   - Jekyll
+  - Staff
 example_image:
 difficulty: Easy
 time_required: 5 - 10 minutes
@@ -15,7 +15,7 @@ This guide demonstrates how to edit an existing site page (such as the home page
 
 ### Step 1
 
-Log in to [CloudCannon](cloudcannon.com/){: target="_blank" rel="noopener"}. CloudCannon is a website management platform.&nbsp; CloudCannon will sync changes to Github Pages, where the site is hosted.
+Log in to [CloudCannon](cloudcannon.com/){: target="_blank"}. CloudCannon is a website management platform.&nbsp; CloudCannon will sync changes to Github Pages, where the site is hosted.
 
 ### Step 2
 
@@ -39,6 +39,6 @@ You can edit the title and header image for the page in the left sidebar. Use th
 
 ### Step 5
 
-When you are done editing, make sure to click the SAVE button at the top. CloudCannon will display status messages as it saves and rebuilds the site. Your updates will then show up on [cplmakerlab.github.io](http://cplmakerlab.github.io){: target="_blank" rel="noopener"}. Note that it may take a few minutes for any changes to appear as your site must resync & rebuild after every save.
+When you are done editing, make sure to click the SAVE button at the top. CloudCannon will display status messages as it saves and rebuilds the site. Your updates will then show up on [cplmakerlab.github.io](http://cplmakerlab.github.io){: target="_blank"}. Note that it may take a few minutes for any changes to appear as your site must resync & rebuild after every save.
 
 &nbsp;
