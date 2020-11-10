@@ -108,16 +108,31 @@ slides:
       &nbsp;
     background_color: '#7b7b7b'
     background_image:
-  - title:
-    content_markdown:
+  - title: Code Academy Pros & Cons
+    content_markdown: |-
+      | ## Pros | ## Cons&nbsp; |
+
+      &nbsp;
     background_color: '#7b7b7b'
     background_image:
   - title: Free Code Camp
-    content_markdown: '## Free Code Camp&nbsp;'
+    content_markdown: |-
+      ## Free Code Camp&nbsp;
+
+      ([https://www.freecodecamp.org/learn](https://www.freecodecamp.org/learn))
     background_color: '#7b7b7b'
     background_image: /uploads/learning-to-code-in-chicago/camp.PNG
-  - title:
-    content_markdown:
+  - title: Free Code Camp Pros & Cons
+    content_markdown: >-
+      | ## Pros\- Completely free.&nbsp;<br><br>\-Grants legitimate
+      certifications.&nbsp;<br><br>\- Project based, completed projects required
+      in order to earn certifications.&nbsp; | ## Cons\- Stylistically less
+      pleasing to look at.&nbsp;<br><br>\- The "help" button opens on a
+      chatroom. You will need to rely on past forum posts for answers
+      instead.<br><br>\-No progress indicators.&nbsp;<br><br>&nbsp; |
+
+
+      &nbsp;
     background_color: '#7b7b7b'
     background_image:
   - title:
