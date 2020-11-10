@@ -34,6 +34,10 @@ slides:
     background_color: '#7b7b7b'
     background_image:
   - title: Code Academy
+    content_markdown:
+    background_color: '#7b7b7b'
+    background_image: /uploads/learning-to-code-in-chicago/code.PNG
+  - title: 'Code Academy: Languages/ Subjects'
     content_markdown: >-
       ## Code Academy&nbsp;
 
@@ -102,10 +106,6 @@ slides:
 
 
       &nbsp;
-    background_color: '#7b7b7b'
-    background_image:
-  - title:
-    content_markdown:
     background_color: '#7b7b7b'
     background_image:
   - title:
