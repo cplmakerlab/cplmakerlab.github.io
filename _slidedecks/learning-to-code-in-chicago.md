@@ -34,7 +34,10 @@ slides:
     background_color: '#7b7b7b'
     background_image:
   - title: Code Academy
-    content_markdown:
+    content_markdown: |-
+      ## Code Academy&nbsp;
+
+      [https://www.codecademy.com/](https://www.codecademy.com/)
     background_color: '#7b7b7b'
     background_image: /uploads/learning-to-code-in-chicago/code.PNG
   - title: 'Code Academy: Languages/ Subjects'
@@ -119,7 +122,7 @@ slides:
     content_markdown: |-
       ## Free Code Camp&nbsp;
 
-      ([https://www.freecodecamp.org/learn](https://www.freecodecamp.org/learn))
+      [https://www.freecodecamp.org/learn](https://www.freecodecamp.org/learn)
     background_color: '#7b7b7b'
     background_image: /uploads/learning-to-code-in-chicago/camp.PNG
   - title: Free Code Camp Pros & Cons
