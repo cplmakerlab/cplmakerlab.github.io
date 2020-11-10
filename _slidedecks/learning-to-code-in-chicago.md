@@ -45,67 +45,12 @@ slides:
       ## Code Academy&nbsp;
 
 
-      &nbsp;
-
-
-      | ## Languages[HTML &
-      CSS](https://www.codecademy.com/catalog/language/html-css)<br><br>[Python](https://www.codecademy.com/catalog/language/python)<br><br>[JavaScript](https://www.codecademy.com/catalog/language/javascript)<br><br>[Java](https://www.codecademy.com/catalog/language/java)<br><br>[SQL](https://www.codecademy.com/catalog/language/sql)<br><br>[Bash/Shell](https://www.codecademy.com/catalog/language/bash)<br><br>[Ruby](https://www.codecademy.com/catalog/language/ruby)<br><br>[C++](https://www.codecademy.com/catalog/language/c-plus-plus)<br><br>[R](https://www.codecademy.com/catalog/language/r)<br><br>[C\#](https://www.codecademy.com/catalog/language/c-sharp)<br><br>[PHP](https://www.codecademy.com/catalog/language/php)<br><br>[Go](https://www.codecademy.com/catalog/language/go)<br><br>[Swift](https://www.codecademy.com/catalog/language/swift)<br><br>[Kotlin](https://www.codecademy.com/catalog/language/kotlin)
-      | ### Subjects&nbsp;[Web
-      Development](https://www.codecademy.com/catalog/subject/web-development)<br><br>[Data
-      Science](https://www.codecademy.com/catalog/subject/data-science)<br><br>[Computer
-      Science](https://www.codecademy.com/catalog/subject/computer-science)<br><br>[Developer
-      Tools](https://www.codecademy.com/catalog/subject/developer-tools)<br><br>[Machine
-      Learning](https://www.codecademy.com/catalog/subject/machine-learning)<br><br>[Code
-      Foundations](https://www.codecademy.com/catalog/subject/code-foundations)<br><br>[Web
-      Design](https://www.codecademy.com/catalog/subject/web-design)<br><br>[Game
-      Development](https://www.codecademy.com/catalog/subject/game-development)<br><br>[Mobile
-      Development](https://www.codecademy.com/catalog/subject/mobile-development)<br><br>[Data
-      Visualization](https://www.codecademy.com/catalog/subject/data-visualization)<br><br>[Full
-      Catalog](https://www.codecademy.com/catalog/all) |
-
-
-      ### Subjects
-
-
-      [Web
-      Development](https://www.codecademy.com/catalog/subject/web-development)
-
-
-      [Data Science](https://www.codecademy.com/catalog/subject/data-science)
-
-
-      [Computer
-      Science](https://www.codecademy.com/catalog/subject/computer-science)
-
-
-      [Developer
-      Tools](https://www.codecademy.com/catalog/subject/developer-tools)
-
-
-      [Machine
-      Learning](https://www.codecademy.com/catalog/subject/machine-learning)
-
-
-      [Code
-      Foundations](https://www.codecademy.com/catalog/subject/code-foundations)
-
-
-      [Web Design](https://www.codecademy.com/catalog/subject/web-design)
-
-
-      [Game
-      Development](https://www.codecademy.com/catalog/subject/game-development)
-
-
-      [Mobile
-      Development](https://www.codecademy.com/catalog/subject/mobile-development)
-
-
-      [Data
-      Visualization](https://www.codecademy.com/catalog/subject/data-visualization)
-
-
-      [Full Catalog](https://www.codecademy.com/catalog/all)
+      | ### LanguagesHTML &
+      CSS<br><br>Python<br><br>JavaScript<br><br>Java<br><br>SQL<br><br>Bash/Shell<br><br>Ruby<br><br>C++<br><br>R<br><br>C\#<br><br>PHP<br><br>Go<br><br>Swift<br><br>Kotlin
+      | ### Subjects&nbsp;Web Development<br><br>Data Science<br><br>Computer
+      Science<br><br>Developer Tools<br><br>Machine Learning<br><br>Code
+      Foundations<br><br>Web Design<br><br>Game Development<br><br>Mobile
+      Development<br><br>Data Visualization<br><br>Full Catalog |
 
 
       &nbsp;
