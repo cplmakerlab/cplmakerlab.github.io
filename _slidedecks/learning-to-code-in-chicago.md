@@ -112,8 +112,14 @@ slides:
     background_color: '#7b7b7b'
     background_image:
   - title: Code Academy Pros & Cons
-    content_markdown: |-
-      | ## Pros | ## Cons&nbsp; |
+    content_markdown: >-
+      | ## Pros\- Aesthetically pleasing courses.&nbsp;<br><br>\- For paid
+      service, only $20 per month.<br><br>\- Good guides that help you find
+      information (unlike some others, like Free Code Camp).&nbsp;<br><br>\-
+      Will explain incorrect errors occasionally.&nbsp; | ## Cons&nbsp;\-
+      Reported bugs in some courses. Also reported it runs slowly
+      occasionally.&nbsp;<br><br>\- No certifications<br><br>&nbsp; |
+
 
       &nbsp;
     background_color: '#7b7b7b'
