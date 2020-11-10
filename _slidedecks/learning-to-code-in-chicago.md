@@ -45,12 +45,22 @@ slides:
       ## Code Academy&nbsp;
 
 
-      | ### LanguagesHTML &
-      CSS<br><br>Python<br><br>JavaScript<br><br>Java<br><br>SQL<br><br>Bash/Shell<br><br>Ruby<br><br>C++<br><br>R<br><br>C\#<br><br>PHP<br><br>Go<br><br>Swift<br><br>Kotlin
-      | ### Subjects&nbsp;Web Development<br><br>Data Science<br><br>Computer
-      Science<br><br>Developer Tools<br><br>Machine Learning<br><br>Code
-      Foundations<br><br>Web Design<br><br>Game Development<br><br>Mobile
-      Development<br><br>Data Visualization<br><br>Full Catalog |
+      &nbsp;
+
+
+      ### Languages
+
+
+      HTML & CSS, Python, JavaScript, Java, SQL, Bash/Shell, Ruby, C++, R, C\#,
+      PHP, Go, Swift, Kotlin
+
+
+      ### Subjects&nbsp;
+
+
+      Web Development, Data Science, Computer Science, Developer Tools, Machine
+      Learning, Code Foundations, Web Design, Game Development, Mobile
+      Development, Data Visualization, Full Catalog
 
 
       &nbsp;
