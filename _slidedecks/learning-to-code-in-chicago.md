@@ -45,7 +45,7 @@ slides:
       ## Code Academy&nbsp;
 
 
-      Languages & Subject&nbsp;
+      Languages & Subjects
 
 
       | HTML & CSS, Python, JavaScript, Java, SQL, Bash/Shell, Ruby, C++, R,
@@ -88,12 +88,15 @@ slides:
     background_image: /uploads/learning-to-code-in-chicago/camp.PNG
   - title: Free Code Camp Pros & Cons
     content_markdown: >-
-      | ## Pros\- Completely free.&nbsp;<br><br>\-Grants legitimate
+      Pros & Cons&nbsp;
+
+
+      | \- Completely free.&nbsp;<br><br>\-Grants legitimate
       certifications.&nbsp;<br><br>\- Project based, completed projects required
-      in order to earn certifications.&nbsp; | ## Cons\- Stylistically less
-      pleasing to look at.&nbsp;<br><br>\- The "help" button opens on a
-      chatroom. You will need to rely on past forum posts for answers
-      instead.<br><br>\-No progress indicators.&nbsp;<br><br>&nbsp; |
+      in order to earn certifications.&nbsp; | \- Stylistically less pleasing to
+      look at.&nbsp;<br><br>\- The "help" button opens on a chatroom. You will
+      need to rely on past forum posts for answers instead.<br><br>\-No progress
+      indicators.&nbsp;<br><br>&nbsp; |
 
 
       &nbsp;
