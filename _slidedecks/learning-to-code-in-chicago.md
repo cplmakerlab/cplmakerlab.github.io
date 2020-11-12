@@ -130,10 +130,13 @@ slides:
       &nbsp;
     background_color: '#7b7b7b'
     background_image:
-  - title:
-    content_markdown:
+  - title: Udacity
+    content_markdown: |-
+      ## Udacity
+
+      https://www.udacity.com/
     background_color: '#7b7b7b'
-    background_image:
+    background_image: /uploads/learning-to-code-in-chicago/udacity.PNG
   - title:
     content_markdown:
     background_color: '#7b7b7b'
