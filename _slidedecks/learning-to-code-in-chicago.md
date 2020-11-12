@@ -102,14 +102,10 @@ slides:
 
       * Data Visualization (D3.js)
 
-      * APIs and Microservices (Node.js, Express.js, databases)
+      * APIs and Microservices (Node.js, Express.js)
 
       * Information Security and Quality Assurance (Chai, Helmet.js, BCrypt,
       Passport.js)
-
-
-      Each certificate curriculum takes 300 hours to complete by submitting 5
-      required projects.
     background_color: '#7b7b7b'
     background_image:
   - title: Free Code Camp Pros & Cons
