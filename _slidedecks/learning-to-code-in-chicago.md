@@ -65,6 +65,9 @@ slides:
     background_image:
   - title: Code Academy Pros & Cons
     content_markdown: >-
+      ## Code Academy
+
+
       Pros and Cons&nbsp;
 
 
@@ -86,6 +89,32 @@ slides:
       [https://www.freecodecamp.org/learn](https://www.freecodecamp.org/learn)
     background_color: '#7b7b7b'
     background_image: /uploads/learning-to-code-in-chicago/camp.PNG
+  - title: Free Code Camp Certifications
+    content_markdown: >-
+      ## Free Code Camp
+
+
+      Certifications&nbsp;
+
+
+      * Responsive Web Design (HTML, CSS, Flexbox, CSS Grid)
+
+      * Algorithms and Data Structures (JavaScript.)
+
+      * Front End Libraries (React, Redux, Sass, Bootstrap, jQuery)
+
+      * Data Visualization (D3.js)
+
+      * APIs and Microservices (Node.js, Express.js, databases)
+
+      * Information Security and Quality Assurance (Chai, Helmet.js, BCrypt,
+      Passport.js)
+
+
+      Each certificate curriculum takes 300 hours to complete by submitting 5
+      required projects.
+    background_color: '#7b7b7b'
+    background_image:
   - title: Free Code Camp Pros & Cons
     content_markdown: >-
       Pros & Cons&nbsp;
@@ -100,10 +129,6 @@ slides:
 
 
       &nbsp;
-    background_color: '#7b7b7b'
-    background_image:
-  - title:
-    content_markdown:
     background_color: '#7b7b7b'
     background_image:
   - title:
