@@ -91,10 +91,7 @@ slides:
     background_image: /uploads/learning-to-code-in-chicago/camp.PNG
   - title: Free Code Camp Certifications
     content_markdown: >-
-      ## Free Code Camp
-
-
-      Certifications&nbsp;
+      ## Free Code Camp Certifications
 
 
       * Responsive Web Design (HTML, CSS, Flexbox, CSS Grid)
