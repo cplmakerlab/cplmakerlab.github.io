@@ -108,6 +108,12 @@ slides:
       Passport.js)
     background_color: '#7b7b7b'
     background_image:
+  - title: Free Code Camp Certification Info
+    content_markdown: >-
+      ## Each certificate curriculum takes 300 hours to complete by submitting 5
+      required projects.
+    background_color: '#7b7b7b'
+    background_image:
   - title: Free Code Camp Pros & Cons
     content_markdown: >-
       Pros & Cons&nbsp;
@@ -122,6 +128,22 @@ slides:
 
 
       &nbsp;
+    background_color: '#7b7b7b'
+    background_image:
+  - title:
+    content_markdown:
+    background_color: '#7b7b7b'
+    background_image:
+  - title:
+    content_markdown:
+    background_color: '#7b7b7b'
+    background_image:
+  - title:
+    content_markdown:
+    background_color: '#7b7b7b'
+    background_image:
+  - title:
+    content_markdown:
     background_color: '#7b7b7b'
     background_image:
   - title:
