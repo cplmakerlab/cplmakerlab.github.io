@@ -146,8 +146,10 @@ slides:
 
 
       | 187 Free Courses<br><br>Python, AI, Machine Learning, Statistics, app
-      development, and more&nbsp; | 59 Programs&nbsp;<br><br>Hybrid Cloud
-      Engineer, Development for Microsoft Asure |
+      development, Rapid Protoyping, Linear Algebra Refresher Course, and
+      more&nbsp; | 59 Programs&nbsp;<br><br>Hybrid Cloud Engineer, Development
+      for Microsoft Azure, Data Science for Business Leaders, Introduction to
+      Cyber Security, and more |
 
 
       ### &nbsp;
