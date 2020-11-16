@@ -172,9 +172,9 @@ slides:
       | \-Stylistically pleasing to look at.&nbsp;<br><br>\-Code error
       notifications.&nbsp;<br><br>\-Great selection of free courses. App
       development for both Android and iOS not available on other
-      websites.&nbsp;<br><br>\-Video lectures & Quizzes.&nbsp; | \- $200 a
-      month.&nbsp;<br><br>\- Paying a monthly subscription instead of paying by
-      course is not suitable for everyone.&nbsp; |
+      websites.&nbsp; | \- $200 a month.&nbsp;<br><br>\- Paying a monthly
+      subscription instead of paying by course is not suitable for
+      everyone.&nbsp; |
 
 
       &nbsp;
