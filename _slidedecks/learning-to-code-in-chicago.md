@@ -179,8 +179,10 @@ slides:
       &nbsp;
     background_color: '#7b7b7b'
     background_image:
-  - title:
-    content_markdown:
+  - title: Udacity Nano Degrees
+    content_markdown: >-
+      $200 a month to get as many certifications as desired. Personal
+      instruction available.&nbsp;
     background_color: '#7b7b7b'
     background_image:
   - title:
