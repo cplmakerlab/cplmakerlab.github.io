@@ -137,6 +137,12 @@ slides:
       https://www.udacity.com/
     background_color: '#7b7b7b'
     background_image: /uploads/learning-to-code-in-chicago/udacity.PNG
+  - title: Udacity Nano Degrees
+    content_markdown: >-
+      ## $200 a month to get as many certifications as desired. Personal
+      instruction available.&nbsp;
+    background_color: '#7b7b7b'
+    background_image:
   - title: 'Udacity: Languages/ Subjects'
     content_markdown: >-
       ## Udacity&nbsp;
@@ -177,12 +183,6 @@ slides:
 
 
       &nbsp;
-    background_color: '#7b7b7b'
-    background_image:
-  - title: Udacity Nano Degrees
-    content_markdown: >-
-      $200 a month to get as many certifications as desired. Personal
-      instruction available.&nbsp;
     background_color: '#7b7b7b'
     background_image:
   - title:
