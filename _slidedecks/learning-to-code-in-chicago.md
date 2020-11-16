@@ -137,6 +137,47 @@ slides:
       https://www.udacity.com/
     background_color: '#7b7b7b'
     background_image: /uploads/learning-to-code-in-chicago/udacity.PNG
+  - title: 'Udacity: Languages/ Subjects'
+    content_markdown: >-
+      ## Udacity&nbsp;
+
+
+      Languages & Subjects
+
+
+      | 187 Free Courses<br><br>Python, AI, Machine Learning, Statistics, app
+      development, and more&nbsp; | 59 Programs&nbsp;<br><br>Hybrid Cloud
+      Engineer, Development for Microsoft Asure |
+
+
+      ### &nbsp;
+
+
+      &nbsp;
+
+
+      &nbsp;
+    background_color: '#7b7b7b'
+    background_image:
+  - title: Free Code Camp Pros & Cons
+    content_markdown: >-
+      ## Udacity&nbsp;
+
+
+      Pros & Cons&nbsp;
+
+
+      | \-Stylistically pleasing to look at.&nbsp;<br><br>\-Code error
+      notifications.&nbsp;<br><br>\-Great selection of free courses | &nbsp; |
+
+
+      &nbsp;
+    background_color: '#7b7b7b'
+    background_image:
+  - title:
+    content_markdown:
+    background_color: '#7b7b7b'
+    background_image:
   - title:
     content_markdown:
     background_color: '#7b7b7b'
