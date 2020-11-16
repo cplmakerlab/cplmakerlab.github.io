@@ -146,7 +146,7 @@ slides:
 
 
       | 187 Free Courses<br><br>Python, AI, Machine Learning, Statistics, app
-      development, Rapid Protoyping, Linear Algebra Refresher Course, and
+      development, Rapid Prototyping, Linear Algebra Refresher Course, and
       more&nbsp; | 59 Programs&nbsp;<br><br>Hybrid Cloud Engineer, Development
       for Microsoft Azure, Data Science for Business Leaders, Introduction to
       Cyber Security, and more |
@@ -170,7 +170,11 @@ slides:
 
 
       | \-Stylistically pleasing to look at.&nbsp;<br><br>\-Code error
-      notifications.&nbsp;<br><br>\-Great selection of free courses | &nbsp; |
+      notifications.&nbsp;<br><br>\-Great selection of free courses. App
+      development for both Android and iOS not available on other
+      websites.&nbsp;<br><br>\-Video lectures & Quizzes.&nbsp; | \- $200 a
+      month.&nbsp;<br><br>\- Paying a monthly subscription instead of paying by
+      course is not suitable for everyone.&nbsp; |
 
 
       &nbsp;
