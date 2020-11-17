@@ -70,10 +70,10 @@ slides:
       [https://bootcamp.ccc.edu/](https://bootcamp.ccc.edu/)
     background_color: '#7b7b7b'
     background_image: /uploads/learning-to-code-in-chicago/capture.PNG
-  - title:
+  - title: CCC Bootcamps
     content_markdown:
     background_color: '#7b7b7b'
-    background_image:
+    background_image: /uploads/learning-to-code-in-chicago/bootcamps.PNG
   - title:
     content_markdown:
     background_color: '#7b7b7b'
