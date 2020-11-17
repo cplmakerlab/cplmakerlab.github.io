@@ -6,6 +6,32 @@ slides:
     background_color: '#7b7b7b'
     background_image:
   - title: Education
+    content_markdown: '## Education: Degrees and Certifications'
+    background_color: '#7b7b7b'
+    background_image:
+  - title:
+    content_markdown: >-
+      #### Certification Program: A certificate demonstrates you have a single
+      skill, often not granted by a university. Often take a few weeks to
+      several months to complete.&nbsp;
+
+
+      &nbsp;
+
+
+      #### University Program: A degree demonstrates you been educated in a
+      variety subjects. Degrees take longer, there are different requirements
+      for an Associates Degree (generally 2 years) and a Bachelors degree
+      (generally 4 years).
+
+
+      &nbsp;
+
+
+      &nbsp;
+    background_color: '#7b7b7b'
+    background_image:
+  - title:
     content_markdown:
     background_color: '#7b7b7b'
     background_image:
@@ -87,6 +113,12 @@ slides:
       [https://www.freecodecamp.org/learn](https://www.freecodecamp.org/learn)
     background_color: '#7b7b7b'
     background_image: /uploads/learning-to-code-in-chicago/camp.PNG
+  - title: Free Code Camp Certification Info
+    content_markdown: >-
+      ## Each certificate curriculum takes 300 hours to complete by submitting 5
+      required projects.
+    background_color: '#7b7b7b'
+    background_image:
   - title: Free Code Camp Certifications
     content_markdown: >-
       ## Free Code Camp Certifications
@@ -104,12 +136,6 @@ slides:
 
       * Information Security and Quality Assurance (Chai, Helmet.js, BCrypt,
       Passport.js)
-    background_color: '#7b7b7b'
-    background_image:
-  - title: Free Code Camp Certification Info
-    content_markdown: >-
-      ## Each certificate curriculum takes 300 hours to complete by submitting 5
-      required projects.
     background_color: '#7b7b7b'
     background_image:
   - title: Free Code Camp Pros & Cons
