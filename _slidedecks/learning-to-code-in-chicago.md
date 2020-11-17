@@ -37,10 +37,6 @@ slides:
       Source:&nbsp;[https://www.northeastern.edu/graduate/blog/most-popular-programming-languages/](https://www.northeastern.edu/graduate/blog/most-popular-programming-languages/)
     background_color: '#7b7b7b'
     background_image:
-  - title:
-    content_markdown:
-    background_color: '#7b7b7b'
-    background_image:
   - title: Education
     content_markdown: '## Education: Degrees and Certifications'
     background_color: '#7b7b7b'
@@ -67,10 +63,13 @@ slides:
       &nbsp;
     background_color: '#7b7b7b'
     background_image:
-  - title:
-    content_markdown:
+  - title: City Colleges of Chicago
+    content_markdown: |-
+      ## City Colleges of Chicago&nbsp;
+
+      [https://bootcamp.ccc.edu/](https://bootcamp.ccc.edu/)
     background_color: '#7b7b7b'
-    background_image:
+    background_image: /uploads/learning-to-code-in-chicago/capture.PNG
   - title:
     content_markdown:
     background_color: '#7b7b7b'
