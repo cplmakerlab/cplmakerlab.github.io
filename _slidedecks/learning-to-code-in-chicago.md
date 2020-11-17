@@ -78,11 +78,34 @@ slides:
     content_markdown:
     background_color: '#7b7b7b'
     background_image: /uploads/learning-to-code-in-chicago/google.PNG
+  - title: Google IT Support Professional Certificate Launch your career in IT
+    content_markdown: >-
+      ## Google IT Support Professional Certificate
+
+
+      * Program Cost: Free
+
+      * Need an average of 6-8 hours of study each week for up to 6 months to
+      complete coursework&nbsp;
+
+      * Are expected to take the certification exam upon course completion
+
+      * Will assist in shaping the program’s future design and will be required
+      to participate in feedback surveys during the span of the program&nbsp;
+
+      * Should desire to work or already work in an IT-related field, or will
+      continue an educational path in IT.&nbsp;
+    background_color: '#7b7b7b'
+    background_image:
   - title:
     content_markdown:
     background_color: '#7b7b7b'
     background_image:
-  - title:
+  - title: Free Online Resources
+    content_markdown:
+    background_color: '#7b7b7b'
+    background_image:
+  - title: Free Online Resources
     content_markdown:
     background_color: '#7b7b7b'
     background_image:
