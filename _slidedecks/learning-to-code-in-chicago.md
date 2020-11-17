@@ -107,7 +107,7 @@ slides:
     background_color: '#7b7b7b'
     background_image:
   - title: Free Online Resources
-    content_markdown:
+    content_markdown: Free Online Resources
     background_color: '#7b7b7b'
     background_image:
   - title: Code Academy
