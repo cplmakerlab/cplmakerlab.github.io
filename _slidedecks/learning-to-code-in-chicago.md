@@ -94,21 +94,13 @@ slides:
       to participate in feedback surveys during the span of the program&nbsp;
     background_color: '#7b7b7b'
     background_image:
-  - title: Free Geek
+  - title: Code Platoon
     content_markdown: |-
-      ## Free Geek
+      ## Code Platoon
 
-      [https://www.freegeek.org/](https://www.freegeek.org/)
+      [https://www.codeplatoon.org/](https://www.codeplatoon.org/)
     background_color: '#7b7b7b'
-    background_image: /uploads/learning-to-code-in-chicago/free-1.PNG
-  - title: Community Programs
-    content_markdown:
-    background_color: '#7b7b7b'
-    background_image: /uploads/learning-to-code-in-chicago/geej.PNG
-  - title:
-    content_markdown:
-    background_color: '#7b7b7b'
-    background_image:
+    background_image: /uploads/learning-to-code-in-chicago/platoon.PNG
   - title:
     content_markdown:
     background_color: '#7b7b7b'
@@ -117,6 +109,13 @@ slides:
     content_markdown: '## Free Online Resources'
     background_color: '#7b7b7b'
     background_image:
+  - title: Free Geek
+    content_markdown: |-
+      ## Free Geek
+
+      [https://www.freegeek.org/](https://www.freegeek.org/)
+    background_color: '#7b7b7b'
+    background_image: /uploads/learning-to-code-in-chicago/free-1.PNG
   - title: Code Academy
     content_markdown: |-
       ## Code Academy&nbsp;
