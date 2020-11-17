@@ -73,9 +73,8 @@ slides:
 
       | \- Aesthetically pleasing courses.&nbsp;<br><br>\- For paid service,
       only $20 per month.<br><br>\- Good guides for finding information.
-      Explains incorrect errors. | \- Reported bugs in some courses. Also
-      reported it runs slowly occasionally.&nbsp;<br><br>\- No
-      certifications<br><br>&nbsp; |
+      Explains errors. | \- Reported bugs in some courses. Also reported it runs
+      slowly occasionally.&nbsp;<br><br>\- No certifications<br><br>&nbsp; |
 
 
       &nbsp;
