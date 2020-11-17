@@ -101,10 +101,10 @@ slides:
       [https://www.codeplatoon.org/](https://www.codeplatoon.org/)
     background_color: '#7b7b7b'
     background_image: /uploads/learning-to-code-in-chicago/platoon.PNG
-  - title:
+  - title: Code Platoon Intro
     content_markdown:
     background_color: '#7b7b7b'
-    background_image:
+    background_image: /uploads/learning-to-code-in-chicago/pla2.PNG
   - title: Free Online Resources
     content_markdown: '## Free Online Resources'
     background_color: '#7b7b7b'
