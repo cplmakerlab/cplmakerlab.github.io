@@ -105,10 +105,6 @@ slides:
     content_markdown:
     background_color: '#7b7b7b'
     background_image: /uploads/learning-to-code-in-chicago/pla2.PNG
-  - title: Free Online Resources
-    content_markdown: '## Free Online Resources'
-    background_color: '#7b7b7b'
-    background_image:
   - title: Free Geek
     content_markdown: |-
       ## Free Geek
@@ -116,6 +112,10 @@ slides:
       [https://www.freegeek.org/](https://www.freegeek.org/)
     background_color: '#7b7b7b'
     background_image: /uploads/learning-to-code-in-chicago/free-1.PNG
+  - title: Free Online Resources
+    content_markdown: '## Free Online Resources'
+    background_color: '#7b7b7b'
+    background_image:
   - title: Code Academy
     content_markdown: |-
       ## Code Academy&nbsp;
