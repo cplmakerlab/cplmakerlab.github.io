@@ -99,10 +99,8 @@ slides:
       ## Free Geek
 
       [https://www.freegeek.org/](https://www.freegeek.org/)
-
-      &nbsp;
     background_color: '#7b7b7b'
-    background_image: /uploads/learning-to-code-in-chicago/free.PNG
+    background_image: /uploads/learning-to-code-in-chicago/free-1.PNG
   - title: Community Programs
     content_markdown:
     background_color: '#7b7b7b'
