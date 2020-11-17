@@ -23,13 +23,12 @@ slides:
 
       * Data analytics typically use&nbsp;**R** and **MATLAB**.
 
-      * Embedded devices, used in automotive and healthcare industries, use
-      **C**, **C++**, or **Rust**.
+      * Embedded devices use **C**, **C++**, or **Rust**.
 
       * Applications that run on the cloud use&nbsp;**Go** or
       **Scala**.&nbsp;&nbsp;
 
-      * Mobile applications increasingly use Swift or **Kotlin**.
+      * Mobile applications increasingly use **Swift** or **Kotlin**.
     background_color: '#7b7b7b'
     background_image:
   - title:
