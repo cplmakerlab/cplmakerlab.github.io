@@ -11,6 +11,28 @@ slides:
       language.&nbsp;
     background_color: '#7b7b7b'
     background_image:
+  - title: Programming Languages
+    content_markdown: >-
+      Which programming language should you learn?
+
+
+      * Web-based startups are more likely to be programming in Python and
+      JavaScript.
+
+      * Larger companies tend to develop their internal software applications
+      using C\# or Java and their Web applications using PHP.
+
+      * Programs for data analytics typically use R and MATLAB.
+
+      * Embedded devices, such as those in the automotive and healthcare
+      industries, run software written in C, C++, or Rust.
+
+      * Applications that run on the cloud are increasingly written in Go or
+      Scala.&nbsp;&nbsp;
+
+      * Mobile applications are increasingly written in Swift or Kotlin.
+    background_color: '#7b7b7b'
+    background_image:
   - title:
     content_markdown:
     background_color: '#7b7b7b'
