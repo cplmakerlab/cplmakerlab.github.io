@@ -11,18 +11,18 @@ slides:
     background_image:
   - title:
     content_markdown: >-
-      #### Certification Program: A certificate demonstrates you have a single
-      skill, often not granted by a university. Often take a few weeks to
-      several months to complete.&nbsp;
+      Certification Program: A certificate demonstrates you have a single skill,
+      often not granted by a university. Often take a few weeks to several
+      months to complete.&nbsp;
 
 
       &nbsp;
 
 
-      #### University Program: A degree demonstrates you been educated in a
-      variety subjects. Degrees take longer, there are different requirements
-      for an Associates Degree (generally 2 years) and a Bachelors degree
-      (generally 4 years).
+      University Program: A degree demonstrates you been educated in a variety
+      subjects. Degrees take longer, there are different requirements for an
+      Associates Degree (generally 2 years) and a Bachelors degree (generally 4
+      years).
 
 
       &nbsp;
