@@ -94,20 +94,29 @@ slides:
       to participate in feedback surveys during the span of the program&nbsp;
     background_color: '#7b7b7b'
     background_image:
+  - title: Free Geek
+    content_markdown: |-
+      ## Free Geek
+
+      [https://www.freegeek.org/](https://www.freegeek.org/)
+
+      &nbsp;
+    background_color: '#7b7b7b'
+    background_image: /uploads/learning-to-code-in-chicago/free.PNG
+  - title:
+    content_markdown:
+    background_color: '#7b7b7b'
+    background_image:
+  - title:
+    content_markdown:
+    background_color: '#7b7b7b'
+    background_image:
   - title:
     content_markdown:
     background_color: '#7b7b7b'
     background_image:
   - title: Free Online Resources
-    content_markdown:
-    background_color: '#7b7b7b'
-    background_image:
-  - title: Free Online Resources
-    content_markdown:
-    background_color: '#7b7b7b'
-    background_image:
-  - title: Free Online Resources
-    content_markdown: Free Online Resources
+    content_markdown: '## Free Online Resources'
     background_color: '#7b7b7b'
     background_image:
   - title: Code Academy
