@@ -13,8 +13,7 @@ slides:
     background_image:
   - title: Programming Languages
     content_markdown: >-
-      Which programming language should you learn?
-      ([https://www.northeastern.edu/graduate/blog/most-popular-programming-languages/](https://www.northeastern.edu/graduate/blog/most-popular-programming-languages/))
+      Which programming language should you learn?&nbsp;
 
 
       * Web-based startups often use **Python** and **JavaScript**.
