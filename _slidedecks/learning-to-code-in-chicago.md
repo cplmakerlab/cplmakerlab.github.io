@@ -72,10 +72,9 @@ slides:
 
 
       | \- Aesthetically pleasing courses.&nbsp;<br><br>\- For paid service,
-      only $20 per month.<br><br>\- Good guides that help you find information
-      (unlike some others, like Free Code Camp).&nbsp;<br><br>\- Will explain
-      incorrect errors occasionally.&nbsp; | \- Reported bugs in some courses.
-      Also reported it runs slowly occasionally.&nbsp;<br><br>\- No
+      only $20 per month.<br><br>\- Good guides that help you find information.
+      Explains incorrect errors occasionally.&nbsp; | \- Reported bugs in some
+      courses. Also reported it runs slowly occasionally.&nbsp;<br><br>\- No
       certifications<br><br>&nbsp; |
 
 
