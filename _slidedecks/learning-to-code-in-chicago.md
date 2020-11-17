@@ -5,11 +5,21 @@ slides:
     content_markdown: '## Learning to Code in Chicago'
     background_color: '#7b7b7b'
     background_image:
+  - title: What is Coding
+    content_markdown: >-
+      ## Coding: The activity of writing computer programs using a programming
+      language.&nbsp;
+    background_color: '#7b7b7b'
+    background_image:
+  - title:
+    content_markdown:
+    background_color: '#7b7b7b'
+    background_image:
   - title: Education
     content_markdown: '## Education: Degrees and Certifications'
     background_color: '#7b7b7b'
     background_image:
-  - title:
+  - title: Certifications vs University Programs
     content_markdown: >-
       Certification Program: A certificate demonstrates you have a single skill,
       often not granted by a university. Often take a few weeks to several
@@ -29,10 +39,6 @@ slides:
 
 
       &nbsp;
-    background_color: '#7b7b7b'
-    background_image:
-  - title:
-    content_markdown:
     background_color: '#7b7b7b'
     background_image:
   - title:
