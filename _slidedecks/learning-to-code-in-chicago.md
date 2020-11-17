@@ -74,10 +74,10 @@ slides:
     content_markdown:
     background_color: '#7b7b7b'
     background_image: /uploads/learning-to-code-in-chicago/bootcamps.PNG
-  - title:
+  - title: Google Partnership
     content_markdown:
     background_color: '#7b7b7b'
-    background_image:
+    background_image: /uploads/learning-to-code-in-chicago/google.PNG
   - title:
     content_markdown:
     background_color: '#7b7b7b'
