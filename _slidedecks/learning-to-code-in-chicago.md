@@ -16,19 +16,20 @@ slides:
       Which programming language should you learn?
 
 
-      * Web-based startups often use Python and JavaScript.
+      * Web-based startups often use **Python** and **JavaScript**.
 
       * Larger companies tend to develop their internal software applications
-      using C\# or Java and their Web applications using PHP.
+      using **C\#** or **Java** and their Web applications using **PHP**.
 
-      * Data analytics typically use R and MATLAB.
+      * Data analytics typically use&nbsp;**R** and **MATLAB**.
 
-      * Embedded devices, used in automotive and healthcare industries, use C,
-      C++, or Rust.
+      * Embedded devices, used in automotive and healthcare industries, use
+      **C**, **C++**, or **Rust**.
 
-      * Applications that run on the cloud use Go or Scala.&nbsp;&nbsp;
+      * Applications that run on the cloud use&nbsp;**Go** or
+      **Scala**.&nbsp;&nbsp;
 
-      * Mobile applications increasingly use Swift or Kotlin.
+      * Mobile applications increasingly use Swift or **Kotlin**.
     background_color: '#7b7b7b'
     background_image:
   - title:
