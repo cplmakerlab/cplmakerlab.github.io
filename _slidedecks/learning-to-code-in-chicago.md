@@ -270,7 +270,7 @@ slides:
     background_color: '#7b7b7b'
     background_image:
   - title: Questions
-    content_markdown: '## Questions'
+    content_markdown: '## Questions?'
     background_color: '#7b7b7b'
     background_image:
   - title:
