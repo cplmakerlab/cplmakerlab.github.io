@@ -92,9 +92,6 @@ slides:
 
       * Will assist in shaping the program’s future design and will be required
       to participate in feedback surveys during the span of the program&nbsp;
-
-      * Should desire to work or already work in an IT-related field, or will
-      continue an educational path in IT.&nbsp;
     background_color: '#7b7b7b'
     background_image:
   - title:
