@@ -103,10 +103,10 @@ slides:
       &nbsp;
     background_color: '#7b7b7b'
     background_image: /uploads/learning-to-code-in-chicago/free.PNG
-  - title:
+  - title: Community Programs
     content_markdown:
     background_color: '#7b7b7b'
-    background_image:
+    background_image: /uploads/learning-to-code-in-chicago/geej.PNG
   - title:
     content_markdown:
     background_color: '#7b7b7b'
