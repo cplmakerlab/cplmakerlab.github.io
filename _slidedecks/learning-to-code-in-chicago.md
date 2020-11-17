@@ -21,10 +21,10 @@ slides:
       * Larger companies tend to develop their internal software applications
       using C\# or Java and their Web applications using PHP.
 
-      * Programs for data analytics typically use R and MATLAB.
+      * Data analytics typically use R and MATLAB.
 
-      * Embedded devices, such as those in the automotive and healthcare
-      industries, run software written in C, C++, or Rust.
+      * Embedded devices, used in automotive and healthcare industries, use C,
+      C++, or Rust.
 
       * Applications that run on the cloud use Go or Scala.&nbsp;&nbsp;
 
