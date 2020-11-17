@@ -11,7 +11,7 @@ slides:
       language.&nbsp;
     background_color: '#7b7b7b'
     background_image:
-  - title: Programming Languages
+  - title: Which programming language should you learn?
     content_markdown: >-
       Which programming language should you learn?&nbsp;
 
@@ -29,6 +29,11 @@ slides:
       **Scala**.&nbsp;&nbsp;
 
       * Mobile applications increasingly use **Swift** or **Kotlin**.
+    background_color: '#7b7b7b'
+    background_image:
+  - title: Source
+    content_markdown: >-
+      [https://www.northeastern.edu/graduate/blog/most-popular-programming-languages/](https://www.northeastern.edu/graduate/blog/most-popular-programming-languages/)
     background_color: '#7b7b7b'
     background_image:
   - title:
