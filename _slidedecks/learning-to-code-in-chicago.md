@@ -19,10 +19,10 @@ slides:
       &nbsp;
 
 
-      University Program: A degree demonstrates you been educated in a variety
-      subjects. Degrees take longer, there are different requirements for an
-      Associates Degree (generally 2 years) and a Bachelors degree (generally 4
-      years).
+      University Program: A degree demonstrates you have been educated in a
+      variety subjects. Degrees take longer, there are different requirements
+      for an Associates Degree (generally 2 years) and a Bachelors degree
+      (generally 4 years).
 
 
       &nbsp;
