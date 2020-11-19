@@ -7,7 +7,7 @@ The Maker Lab, Chicago’s first free and publicly accessible maker space, is on
 
 ## Ask a maker
 
-Having trouble with your project file or need help with software?&nbsp; Fill out the [Ask a Maker form](NEW!){: target="_blank" rel="noopener"} and someone from the Maker Lab will get back to you.
+Having trouble with your project file or need help with software?&nbsp; Fill out the [Ask a Maker form](https://www.chipublib.org/maker-lab/ask-a-maker-request-help-from-the-maker-lab/){: target="_blank" rel="noopener"} and someone from the Maker Lab will get back to you.
 
 ## Upcoming events
 
