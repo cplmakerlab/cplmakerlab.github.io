@@ -43,6 +43,21 @@ Our lab equipment includes: 3D printers, lasercutters, sewing machines, electron
     * Check if size looks correct (not too big or small). Fine details may not print well at smaller sizes.
     * In machine software, check time estimate using desired print settings. Typical layer height is .3mm. Print time must not exceed Maker Lab time limit.&nbsp;
 
+![](/uploads/equipment/ultimaker-s3-front.jpg){: width="2831" height="2385"}
+
+* **Ultimaker S3**
+  * Build Volume: (7.4 x 7.9 x 9 inches)&nbsp;
+  * Machine Software: [Ultimaker Cura (slicer software)](https://ultimaker.com/software/ultimaker-cura){: target="_blank" rel="noopener"}
+  * Design software: [Tinkercad](http://tinkercad.com){: target="_blank" rel="noopener"}, [Fusion 360](https://www.autodesk.com/products/fusion-360/personal){: target="_blank" rel="noopener"} (any 3D cad software that can output OBJ or STL)
+  * Material: [PLA filament](materials)
+  * [Download example STL file](https://cdn.thingiverse.com/assets/94/00/bf/48/20/Harold-Washington-CPLMakerLab.stl){: target="_blank" rel="noopener"}
+  * **DESIGN FILE PREPARATION**
+    * File Format: STL or OBJ
+    * File opens in machine software without errors.
+    * Check object orientation in machine software to minimize the need for rafts & supports.
+    * Check if size looks correct (not too big or small). Fine details may not print well at smaller sizes.
+    * In machine software, check time estimate using desired print settings. Typical layer height is .3mm. Print time must not exceed Maker Lab time limit.&nbsp;
+
 ## CNC Mill
 
 ![](/uploads/equipment/carvey.jpg){: width="1200" height="940"}
