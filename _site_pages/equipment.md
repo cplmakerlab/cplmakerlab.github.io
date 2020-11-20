@@ -28,7 +28,7 @@ Our lab equipment includes: 3D printers, lasercutters, sewing machines, electron
 
 ## 3D Printing
 
-![](/uploads/equipment/makerbot-replicator2b.jpg){: width="798" height="720"}
+![](/uploads/equipment/makerbot-replicator-2-2-0.jpg){: width="354" height="319"}
 
 * **Makerbot Replicator 2**
   * Build Volume: 6.0 in x 6.1 in x 11.2 in (410 cubic inches)
@@ -46,7 +46,7 @@ Our lab equipment includes: 3D printers, lasercutters, sewing machines, electron
 ![](/uploads/equipment/ultimaker-s3-front.jpg){: width="2831" height="2385"}
 
 * **Ultimaker S3**
-  * Build Volume: (7.4 x 7.9 x 9 inches)&nbsp;
+  * Build Volume: 7.4 in x 7.9 in x 9 in (526 cubic inches)
   * Machine Software: [Ultimaker Cura (slicer software)](https://ultimaker.com/software/ultimaker-cura){: target="_blank" rel="noopener"}
   * Design software: [Tinkercad](http://tinkercad.com){: target="_blank" rel="noopener"}, [Fusion 360](https://www.autodesk.com/products/fusion-360/personal){: target="_blank" rel="noopener"} (any 3D cad software that can output OBJ or STL)
   * Material: [PLA filament](materials)
@@ -84,11 +84,27 @@ Our lab equipment includes: 3D printers, lasercutters, sewing machines, electron
 
 ## Electronic Cutter
 
-* Cricut
+![](/uploads/equipment/cricut-maker.jpg){: width="556" height="308"}
+
+* **Cricut Maker**
+  * Work Area: 12” wide x 24"
+  * Design software: [Inkscape](http://inkscape.org){: target="_blank" rel="noopener"}, [Cricut Design Space](http://design.cricut.com){: target="_blank" rel="noopener"}
+  * Machine software: [Cricut Design Space](http://design.cricut.com){: target="_blank" rel="noopener"}
+  * Tools: knife blade, rotary blade, pens & markers
+  * Materials: Paper, thin fabrics, vinyl, heat transfer. [See approved materials list.](materials)
+  * **DESIGN FILE PREPARATION**
+    * File format: Inkscape SVG or Cricut (design.cricut.com)
+    * File can open in Cricut without errors, no missing sections or parts. If things appear out of order when previewing the cut, the paths may need to be combined in Inkscape (Path -&gt; Combine) or Cricut (Weld)
+    * Check for problematic regions. Sharp corners and highly detailed areas may not cut well.
+    * Design uses solid fill colors to indicate areas intended to be cut or not cut
+    * Design must fit within the work area
+    * Cut time must not exceed Maker Lab time limit
+    * Inkscape SVG: Everything is ungrouped (CTRL+A to select all, CTRL + SHIFT + G to ungroup)
+    * Inkscape SVG: No special shapes or text. All texts and shapes must be paths (Path -&gt; Object to Path)
 
 ## Sewing
 
-* Brother sewing machine
+* Brother sewing machine (BROTHER XR9550PRW)
 * Embroidery machine
 
 ## 3D Scanner
