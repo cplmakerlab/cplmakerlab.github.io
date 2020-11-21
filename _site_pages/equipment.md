@@ -104,8 +104,27 @@ Our lab equipment includes: 3D printers, lasercutters, sewing machines, electron
 
 ## Sewing
 
-* Brother sewing machine (BROTHER XR9550PRW)
-* Embroidery machine
+![](/uploads/equipment/brother-sewing-machine-xr9550prw.jpg){: width="1000" height="1000"}
+
+* **Brother Sewing Machine (BROTHER XR9550PRW)**
+  * Computerized stitch selection (165 built-in stitches)
+  * Adjustable speed control
+  * Quick-change presser feet
+
+&nbsp;
+
+* **Husqvarna Viking embroidery machine**
+  * Design software: [Inkstitch](https://inkstitch.org/){: target="_blank" rel="noopener"} (plug-in for Inkscape)
+  * Machine software: Built-in touch panel
+  * File Formats: SVG, VP3
+  * **DESIGN FILE PREPARATION**
+    * Inkscape SVG: Everything is ungrouped (CTRL+A to select all, CTRL + SHIFT + G to ungroup)
+    * Inkscape SVG: No special shapes or text. All texts and shapes must be paths (Path -&gt; Object to Path)
+    * Different colors should be used to represent different spools of thread or separate sections (the machine will stop and wait for a new spool to be loaded)
+    * Design is not too big or small, and fits within an available machine hoop size
+    * &nbsp;Inkscape SVG converts cleanly to a VP3 file without errors using Inkscape: Extensions &gt; Ink/Stitch &gt; Embroider. Inkscape: Extensions &gt; Ink/Stitch &gt; Troubleshoot Objects can help resolve errors. Removing extra nodes, avoiding overlapping areas, simplifying paths, and joining multiple nodes together can help.
+    * When the VP3 file is copied to a USB thumb drive, the file can be successfully loaded into the machine.
+    * Sewing time must not exceed Maker Lab time limit
 
 ## 3D Scanner
 
