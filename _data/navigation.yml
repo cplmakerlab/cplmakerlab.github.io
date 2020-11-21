@@ -39,7 +39,7 @@
     - name: Blog
       link: /blog
       open_in_new_window: false
-    - name: Local organizations
+    - name: Orgs we love
       link: /organizations
       open_in_new_window: false
     - name: Nation of Makers
