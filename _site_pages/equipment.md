@@ -102,7 +102,7 @@ Our lab equipment includes: 3D printers, lasercutters, sewing machines, electron
     * Inkscape SVG: Everything is ungrouped (CTRL+A to select all, CTRL + SHIFT + G to ungroup)
     * Inkscape SVG: No special shapes or text. All texts and shapes must be paths (Path -&gt; Object to Path)
 
-## Sewing
+## Sewing & Embroidery
 
 ![](/uploads/equipment/brother-sewing-machine-xr9550prw.jpg){: width="1000" height="1000"}
 
@@ -113,7 +113,7 @@ Our lab equipment includes: 3D printers, lasercutters, sewing machines, electron
 
 &nbsp;
 
-* **Husqvarna Viking embroidery machine**
+* **Husqvarna Viking Designer Diamond Embroidery Machine**
   * Design software: [Inkstitch](https://inkstitch.org/){: target="_blank" rel="noopener"} (plug-in for Inkscape)
   * Machine software: Built-in touch panel
   * File Formats: SVG, VP3
