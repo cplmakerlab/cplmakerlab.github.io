@@ -1,5 +1,5 @@
 ---
-date:
+date: 2020-11-26 00:00:00
 title: Welcome to the new Maker Lab website!
 tags:
   - news
