@@ -19,8 +19,11 @@ slides:
       \- Runs fast.&nbsp;
 
 
-      \-Embeded and cross platform application. Particularly interactive
+      \-Embedded and cross platform application. Particularly interactive
       features in websites.&nbsp;
+
+
+      \-Over 3 billion devices use Java.&nbsp;
     background_color: '#7b7b7b'
     background_image:
   - title: C
