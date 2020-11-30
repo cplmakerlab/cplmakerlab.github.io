@@ -11,6 +11,14 @@ slides:
       language.&nbsp;
     background_color: '#7b7b7b'
     background_image:
+  - title:
+    content_markdown:
+    background_color: '#7b7b7b'
+    background_image:
+  - title:
+    content_markdown:
+    background_color: '#7b7b7b'
+    background_image:
   - title: Which programming language should you learn?
     content_markdown: >-
       Which programming language should you learn?&nbsp;
@@ -31,10 +39,16 @@ slides:
       * Mobile applications increasingly use **Swift** or **Kotlin**.
     background_color: '#7b7b7b'
     background_image:
-  - title: Source
+  - title: Most Popular Languages
+    content_markdown:
+    background_color: '#7b7b7b'
+    background_image: /uploads/learning-to-code-in-chicago/history-1024x668.png
+  - title: Sources
     content_markdown: >-
-      ##
-      Source:&nbsp;[https://www.northeastern.edu/graduate/blog/most-popular-programming-languages/](https://www.northeastern.edu/graduate/blog/most-popular-programming-languages/)
+      Sources:&nbsp;[https://www.northeastern.edu/graduate/blog/most-popular-programming-languages/](https://www.northeastern.edu/graduate/blog/most-popular-programming-languages/)
+
+
+      https://stackify.com/popular-programming-languages-2018/
     background_color: '#7b7b7b'
     background_image:
   - title: Education
@@ -271,10 +285,6 @@ slides:
     background_image:
   - title: Questions
     content_markdown: '## Questions?'
-    background_color: '#7b7b7b'
-    background_image:
-  - title:
-    content_markdown:
     background_color: '#7b7b7b'
     background_image:
   - title:
