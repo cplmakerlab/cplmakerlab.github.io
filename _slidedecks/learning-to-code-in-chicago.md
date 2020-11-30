@@ -330,16 +330,4 @@ slides:
     content_markdown: '## Questions?'
     background_color: '#7b7b7b'
     background_image:
-  - title:
-    content_markdown:
-    background_color: '#7b7b7b'
-    background_image:
-  - title:
-    content_markdown:
-    background_color: '#7b7b7b'
-    background_image:
-  - title:
-    content_markdown:
-    background_color: '#7b7b7b'
-    background_image:
 ---
