@@ -11,14 +11,37 @@ slides:
       language.&nbsp;
     background_color: '#7b7b7b'
     background_image:
-  - title:
+  - title: Java
+    content_markdown: |-
+      ## Java&nbsp;
+
+      \- Runs fast.&nbsp;
+    background_color: '#7b7b7b'
+    background_image:
+  - title: C
     content_markdown:
     background_color: '#7b7b7b'
     background_image:
-  - title:
-    content_markdown:
+  - title: Python
+    content_markdown: >-
+      ## Python
+
+
+      \- Concise syntax. Shorter code needed to perform functions than other
+      programs.
+
+
+      \-Easier to learn than C and Java.&nbsp;
+
+
+      \-Best for data science, AI, machine learning.&nbsp;
     background_color: '#7b7b7b'
     background_image:
+  - title: Python Syntax Example
+    content_markdown:
+    background_color: '#7b7b7b'
+    background_image: >-
+      /uploads/learning-to-code-in-chicago/main-qimg-b4d8dfe1de991041fdaf15df8549de93-c.jpg
   - title: Which programming language should you learn?
     content_markdown: >-
       Which programming language should you learn?&nbsp;
