@@ -52,7 +52,7 @@ Our lab equipment includes: 3D printers, lasercutters, sewing machines, electron
   * Material: [PLA filament](materials)
   * [Download example STL file](https://cdn.thingiverse.com/assets/94/00/bf/48/20/Harold-Washington-CPLMakerLab.stl){: target="_blank" rel="noopener"}
   * **DESIGN FILE PREPARATION**
-    * File Format: STL or OBJ
+    * File Format: STL or OBJ (with units set to mm). If you use inches, please note expected size when sending your file.
     * File opens in machine software without errors.
     * Check object orientation in machine software to minimize the need for rafts & supports.
     * Check if size looks correct (not too big or small). Fine details may not print well at smaller sizes.
