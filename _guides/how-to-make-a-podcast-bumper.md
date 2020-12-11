@@ -33,12 +33,12 @@ Decide on a name for your imaginary podcast. Write a short script introducing th
 
 Use the selection tool, move tool, and envelope tools to arrange and clean up your recording. If you'd like, you can also add audio effects such as reverb and echo.
 
-**Keyboard shortcuts:**
+**Keyboard shortcuts**
 
-* \*\*Zoom in: CTRL+1&nbsp; \*\*
-* **Zoom Out: CTRL+3&nbsp;**
-* **Zoom Fit: CTRL+F&nbsp;**
-* **Split delete: CTRL+ALT+K**
+| **Zoom in** | CTRL + 1 |
+| **Zoom Out** | CTRL + 3 |
+| **Zoom Fit** | CTRL + F |
+| **Split Delete** | CTRL + ALT + K |
 
 ## Step 6
 
