@@ -37,8 +37,8 @@ Use the selection tool, move tool, and envelope tools to arrange and clean up yo
 
 | **Zoom In** | CTRL + 1 |
 | **Zoom Out** | CTRL + 3 |
-| **Zoom Fit** | CTRL + F |
-| **Split Delete** | CTRL + ALT + K |
+| **Zoom Fit** | Highlight selection then CTRL + F |
+| **Split Delete (delete without altering clip timing)** | Highlight selection then CTRL + ALT + K |
 
 ## Step 6
 
