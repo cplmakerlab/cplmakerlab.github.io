@@ -5,7 +5,7 @@ categories:
 tags:
 example_image:
 difficulty: Easy
-time_required:
+time_required: 5 minutes
 file_attachment_path: /uploads/parts-of-a-sewing-machine/sewing-machine-notes.svg
 ---
 
