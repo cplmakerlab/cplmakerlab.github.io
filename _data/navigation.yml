@@ -1,3 +1,4 @@
+---
 - name: Home
   link: /
   open_in_new_window: false
@@ -33,15 +34,16 @@
       link: /materials
       open_in_new_window: false
 - name: Community
-  link: /blog
+  link: /organizations
   open_in_new_window: false
   subnav:
-    - name: Blog
-      link: /blog
-      open_in_new_window: false
     - name: Orgs we love
       link: /organizations
       open_in_new_window: false
     - name: Nation of Makers
       link: 'https://www.nationofmakers.us/'
       open_in_new_window: true
+    - name: Blog
+      link: /blog
+      open_in_new_window: false
+---
