@@ -23,7 +23,7 @@ Create or find a music loop to use for your bumper. Always double check the copy
 
 ## Step 3
 
-Decide on a name for your imaginary podcast. Write a short script introducing the podcast and the hosts (feel free to use nicknames, i.e. Franky Feline aka Fluffy Face). Decide who will read each word or line -- it can be one voice or multiple voices reading lines. Keep in mind a bumper should be very short -- around 15 seconds or less.
+Decide on a name for your imaginary podcast. Write a short script introducing the podcast and the hosts (feel free to use nicknames, i.e. Franky Feline aka Fluffy Face). Decide who will read each word or line – it can be one voice or multiple voices reading lines. Keep in mind a bumper should be very short – around 15 seconds or less.
 
 ## Step 4
 
@@ -35,7 +35,7 @@ Use the selection tool, move tool, and envelope tools to arrange and clean up yo
 
 **Keyboard shortcuts:**
 
-* **Zoom in: CTRL+1&nbsp; **
+* \*\*Zoom in: CTRL+1&nbsp; \*\*
 * **Zoom Out: CTRL+3&nbsp;**
 * **Zoom Fit: CTRL+F&nbsp;**
 * **Split delete: CTRL+ALT+K**
@@ -50,6 +50,7 @@ Now you can share the WAV file with your friends or upload your mixdown to a pop
 
 Further reading:
 
+* [YouMedia Studio Basics](https://docs.google.com/presentation/d/1UZIXr52EJaOGi1tqTqLOwp334qzR5dGZujGOPm71B5U/edit?usp=sharing){: target="_blank" rel="noopener"}
 * Microphone types: [Dynamic vs. Condensor](https://service.shure.com/s/article/difference-between-a-dynamic-and-condenser-microphone){: target="_blank" rel="noopener"}
 * Cable Types: unbalanced (TS), [balanced (TRS, XLR)](https://www.ians-net.co.uk/articles/balanced_lines.php){: target="_blank" rel="nofollow"}
 * Audio Interface: [Standalone](https://www.amazon.com/Focusrite-Scarlett-Audio-Interface-Tools/dp/B07QR6Z1JB/ref=sr_1_4?keywords=audio+recording+interface&amp;qid=1581615835&amp;sr=8-4){: target="_blank" rel="nofollow"} vs. [USB microphones](https://www.amazon.com/Rode-NT-USB-Versatile-Studio-Quality-Microphone/dp/B00KQPGRRE/ref=sr_1_6?keywords=rode+podcast&amp;qid=1581615395&amp;sr=8-6){: target="_blank" rel="nofollow"}
