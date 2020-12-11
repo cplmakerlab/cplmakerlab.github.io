@@ -35,7 +35,7 @@ Use the selection tool, move tool, and envelope tools to arrange and clean up yo
 
 **Keyboard shortcuts**
 
-| **Zoom in** | CTRL + 1 |
+| **Zoom In** | CTRL + 1 |
 | **Zoom Out** | CTRL + 3 |
 | **Zoom Fit** | CTRL + F |
 | **Split Delete** | CTRL + ALT + K |
