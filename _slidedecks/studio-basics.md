@@ -1,5 +1,0 @@
----
-title: Studio Basics
-slides:
----
-
