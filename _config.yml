@@ -171,8 +171,8 @@ _array_structures:
         background_color:
         background_image:
         background_size:
-          - cover: Fill screen 
-          - contain: Fit to screen
+          - cover
+          - contain
 
 # CloudCannon Explore UI Settings
 _explore:
