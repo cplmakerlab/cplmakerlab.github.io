@@ -214,7 +214,9 @@ slides:
       <table><thead><tr><th>PROS</th><th>CONS</th></tr></thead><tbody><tr><td><ul><li>Aesthetically
       pleasing courses.&nbsp;</li><li>For paid service, only $20 per
       month.</li><li>Good guides for finding information. Explains
-      errors.</li></ul></td><td><p>asd</p><br />&nbsp;</td></tr></tbody></table>
+      errors.</li></ul></td><td><ul><li>Reported bugs in some courses. Also
+      reported it runs slowly occasionally.&nbsp;</li><li>No
+      certifications</li></ul></td></tr></tbody></table>
 
 
       &nbsp;
