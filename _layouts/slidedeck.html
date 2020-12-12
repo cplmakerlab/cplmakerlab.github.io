@@ -92,13 +92,13 @@
   				plugins: [ RevealHighlight, RevealZoom ]
   			}).then(
     			function(){
-            // Reveal.toggleOverview(true);			
+            // Add some extra control buttons at the bottom		
             document.querySelector('.overview').addEventListener('click', function(){
-            Reveal.toggleOverview();
+              Reveal.toggleOverview();
             });
             document.querySelector('.fullscreen').addEventListener('click', function(){
-             // Toggle fullscreen
-            toggleFullscreen();
+               // Toggle fullscreen
+              toggleFullscreen();
             });
 
             var pdf = getUrlVars()["generatePDF"];
