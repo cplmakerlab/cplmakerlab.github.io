@@ -211,14 +211,12 @@ slides:
       ## Code Academy
 
 
-      | PROS | CONS |
-
-      | --- | --- |
-
-      | \- Aesthetically pleasing courses.&nbsp;<br><br>\- For paid service,
-      only $20 per month.<br><br>\- Good guides for finding information.
-      Explains errors. | \- Reported bugs in some courses. Also reported it runs
-      slowly occasionally.&nbsp;<br><br>\- No certifications<br><br>&nbsp; |
+      <table><thead><tr><th>PROS</th><th>CONS</th></tr></thead><tbody><tr><td><ul><li>Aesthetically
+      pleasing courses.&nbsp;</li><li>For paid service, only $20 per
+      month.</li><li>Good guides for finding information. Explains
+      errors.</li></ul></td><td><ul><li>Reported bugs in some courses. Also
+      reported it runs slowly occasionally.&nbsp;</li><li>No
+      certifications</li></ul><br />&nbsp;</td></tr></tbody></table>
 
 
       &nbsp;
@@ -337,4 +335,3 @@ slides:
     background_color: '#7b7b7b'
     background_image:
 ---
-
