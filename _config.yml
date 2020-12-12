@@ -176,7 +176,7 @@ _array_structures:
         content_markdown:
         background_color:
         background_image:
-        background_size:
+        background_size: cover
 
 # CloudCannon Explore UI Settings
 _explore:
