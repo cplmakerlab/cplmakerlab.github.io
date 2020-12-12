@@ -62,6 +62,7 @@ slides:
     background_color: '#7b7b7b'
     background_image: >-
       /uploads/learning-to-code-in-chicago/main-qimg-b4d8dfe1de991041fdaf15df8549de93-c.jpg
+    background_size: contain
   - title: Which programming language should you learn?
     content_markdown: >-
       Which programming language should you learn?&nbsp;
