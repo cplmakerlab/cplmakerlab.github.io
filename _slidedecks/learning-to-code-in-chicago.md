@@ -39,7 +39,7 @@ slides:
 
 
       \-Used for system programing and databases. Embedded systems such as car
-      interfaces often fun off C.&nbsp;
+      interfaces are often programmed in C.&nbsp;
     background_color: '#7b7b7b'
     background_image:
   - title: Python
