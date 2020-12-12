@@ -32,7 +32,7 @@
   			{% if slide.background_image %}
   			  {% assign class = class | append: 'full-background-slide' %}
   			{% endif %}      
-        <section data-background-color="{{ slide.background_color }}" data-background-image="{{ slide.background_image }}" class="{{ class }}">{{ slide.content_markdown | markdownify }}</section>
+        <section data-background-size="{{ slide.background_size }}" data-background-color="{{ slide.background_color }}" data-background-image="{{ slide.background_image }}" class="{{ class }}">{{ slide.content_markdown | markdownify }}</section>
       {% endfor %}
 			</div>
 		</div>
