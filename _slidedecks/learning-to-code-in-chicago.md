@@ -87,6 +87,7 @@ slides:
     content_markdown:
     background_color: '#7b7b7b'
     background_image: /uploads/learning-to-code-in-chicago/history-1024x668.png
+    background_size: contain
   - title: Sources
     content_markdown: >-
       Sources:&nbsp;[https://www.northeastern.edu/graduate/blog/most-popular-programming-languages/](https://www.northeastern.edu/graduate/blog/most-popular-programming-languages/)
@@ -128,14 +129,17 @@ slides:
       [https://bootcamp.ccc.edu/](https://bootcamp.ccc.edu/)
     background_color: '#7b7b7b'
     background_image: /uploads/learning-to-code-in-chicago/capture.PNG
+    background_size: contain
   - title: CCC Bootcamps
     content_markdown:
     background_color: '#7b7b7b'
     background_image: /uploads/learning-to-code-in-chicago/bootcamps.PNG
+    background_size: contain
   - title: Google Partnership
     content_markdown:
     background_color: '#7b7b7b'
     background_image: /uploads/learning-to-code-in-chicago/google.PNG
+    background_size: contain
   - title: Google IT Support Professional Certificate Launch your career in IT
     content_markdown: >-
       ## Google IT Support Professional Certificate
@@ -163,6 +167,7 @@ slides:
     content_markdown:
     background_color: '#7b7b7b'
     background_image: /uploads/learning-to-code-in-chicago/pla2.PNG
+    background_size: contain
   - title: Free Geek
     content_markdown: |-
       ## Free Geek
