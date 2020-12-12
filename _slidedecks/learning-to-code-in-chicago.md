@@ -175,7 +175,7 @@ slides:
       [https://www.freegeek.org/](https://www.freegeek.org/)
     background_color: '#7b7b7b'
     background_image: /uploads/learning-to-code-in-chicago/free-1.PNG
-    background_size:contain
+    background_size: contain 
   - title: Free Online Resources
     content_markdown: '## Free Online Resources'
     background_color: '#7b7b7b'
@@ -187,7 +187,7 @@ slides:
       [https://www.codecademy.com/](https://www.codecademy.com/)
     background_color: '#7b7b7b'
     background_image: /uploads/learning-to-code-in-chicago/code.PNG
-    background_size:contain
+    background_size: contain
   - title: 'Code Academy: Languages/ Subjects'
     content_markdown: >-
       ## Code Academy&nbsp;
