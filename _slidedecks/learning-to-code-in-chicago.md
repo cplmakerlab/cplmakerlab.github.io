@@ -214,14 +214,10 @@ slides:
       PROS & CONS
 
 
-      <table><tbody><tr><td><ul><li>Aesthetically pleasing courses.</li><li>For
-      paid service, only $20 per month.</li><li>Good guides for finding
-      information. Explains errors.</li></ul></td><td><ul><li>Reported bugs in
-      some courses. Also reported it runs slowly occasionally.</li><li>No
-      certifications</li></ul></td></tr></tbody></table>
-
-
-      &nbsp;
+      | \+ Aesthetically pleasing courses. For paid service, only $20 per month.
+      &nbsp;&nbsp;<br>\+ Good guides for finding information. +Explains errors.
+      | \- Reported bugs in some courses. Also reported it runs slowly
+      occasionally. &nbsp;&nbsp;<br>\- No certifications |
     background_color: '#7b7b7b'
     background_image:
   - title: Free Code Camp
