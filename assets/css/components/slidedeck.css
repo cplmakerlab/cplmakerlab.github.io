@@ -12,8 +12,8 @@ section.full-background-slide h4,
 section.full-background-slide h5,
 section.full-background-slide h6,
 section.full-background-slide p {
-  background-color: rgba(0,0,0,.8);
-  color:#FFFFFF;
+  background-color: rgba(0,0,0,1);
+  color:#FDFDFD;
 }
 section.full-background-slide a {
   color:#FF0000;
@@ -284,7 +284,9 @@ section.full-background-slide a {
 .reveal a {
   color: #2a76dd;
   text-decoration: none;
-  transition: color .15s ease; }
+  transition: color .15s ease; 
+  background-color:rgba(255,255,255,.5);
+}
 
 .reveal a:hover {
   color: #6ca0e8;
