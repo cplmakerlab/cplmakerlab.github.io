@@ -170,6 +170,9 @@ _array_structures:
         content_markdown:
         background_color:
         background_image:
+        background_size:
+          cover: Fill screen 
+          contain: Fit to screen
 
 # CloudCannon Explore UI Settings
 _explore:
