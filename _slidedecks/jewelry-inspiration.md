@@ -10,22 +10,22 @@ slides:
     content_markdown: '## L. JARDIM&nbsp;'
     background_color: '#c0ddfb'
     background_image: /uploads/jewelry-inspiration/screen-shot-2020-10-19-at-1-15-36-pm.png
-    background_size: cover
+    background_size: contain
   - title:
     content_markdown:
     background_color: '#c0ddfb'
     background_image: /uploads/jewelry-inspiration/screen-shot-2020-10-19-at-1-31-26-pm.png
-    background_size: cover
+    background_size: contain
   - title:
     content_markdown:
     background_color: '#c0ddfb'
     background_image: /uploads/jewelry-inspiration/screen-shot-2020-10-19-at-1-32-58-pm.png
-    background_size: cover
+    background_size: contain
   - title: Austin James Smith
     content_markdown: '## Austin James Smith&nbsp;'
     background_color: '#c0ddfb'
     background_image: /uploads/jewelry-inspiration/screen-shot-2020-10-19-at-1-18-28-pm.png
-    background_size: cover
+    background_size: contain
   - title:
     content_markdown:
     background_color: '#c0ddfb'
@@ -60,7 +60,7 @@ slides:
     content_markdown: '## La Kaiser'
     background_color: '#c0ddfb'
     background_image: /uploads/jewelry-inspiration/screen-shot-2020-10-19-at-1-46-56-pm.png
-    background_size: cover
+    background_size: contain
   - title:
     content_markdown:
     background_color: '#c0ddfb'
