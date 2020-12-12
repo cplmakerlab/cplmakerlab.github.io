@@ -159,10 +159,15 @@ slide_themes:
 
 uploads_dir: "uploads/:title"
 
+background_size:
+  - cover
+  - contain
+  
 # Complex array structures
 # See: https://docs.cloudcannon.com/editing/options/input-options/#array-structures
 _array_structures:
   slides:
+    style: modal      
     - label: Slide
       icon: collections
       value:
@@ -170,9 +175,7 @@ _array_structures:
         content_markdown:
         background_color:
         background_image:
-        background_size:
-          - cover
-          - contain
+        background_size: cover
 
 # CloudCannon Explore UI Settings
 _explore:
