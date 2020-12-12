@@ -12,6 +12,8 @@ file_attachment_path: /uploads/tinkercad-quickstart-guide/tinkercad-quickstart.p
 
 Tinkercad is an easy to use yet powerful 3D design program that runs right in your web browser. By adding and combining simple 3D shapes you can create almost anything you can imagine\! In this guide you'll learn how to create a new project, how to add and manipulate shapes, and how to navigate in Tinkercad.
 
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC92aWRlb3Nlcmllcz9saXN0PVBMWmo2YU02ZG5mYWpycGJPOU96Tk5XNnVNUzdZY0hseGEiIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYWNjZWxlcm9tZXRlcjsgYXV0b3BsYXk7IGNsaXBib2FyZC13cml0ZTsgZW5jcnlwdGVkLW1lZGlhOyBneXJvc2NvcGU7IHBpY3R1cmUtaW4tcGljdHVyZSIgYWxsb3dmdWxsc2NyZWVuPjwvaWZyYW1lPg=="><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLZj6aM6dnfajrpbO9OzNNW6uMS7YcHlxa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+
 ### Step 1: Login to Tinkercad
 
 In a web browser, navigate to [Tinkercad.com](http://www.tinkercad.com){: target="_blank"} and create a new account if you don't have one yet. If you already use Fusion 360, you can use the same Autodesk login.
