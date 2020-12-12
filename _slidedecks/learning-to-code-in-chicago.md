@@ -98,10 +98,7 @@ slides:
     content_markdown: >-
       **Certification Program:** A certificate demonstrates you have a single
       skill, often not granted by a university. Often take a few weeks to
-      several months to complete.&nbsp;
-
-
-      &nbsp;
+      several months to complete.
 
 
       **University Program:** A degree demonstrates you have been educated in a
@@ -211,13 +208,14 @@ slides:
       ## Code Academy
 
 
-      PROS & CONS
+      | PROS | CONS |
 
+      | --- | --- |
 
       | \+ Aesthetically pleasing courses. For paid service, only $20 per month.
-      &nbsp;&nbsp;<br>\+ Good guides for finding information. +Explains errors.
-      | \- Reported bugs in some courses. Also reported it runs slowly
-      occasionally. &nbsp;&nbsp;<br>\- No certifications |
+      &nbsp;&nbsp;<br>\+ Good guides for finding information.<br>\+ Explains
+      errors. | \- Reported bugs in some courses. Also reported it runs slowly
+      occasionally.<br>\- No certifications |
     background_color: '#7b7b7b'
     background_image:
   - title: Free Code Camp
@@ -258,8 +256,9 @@ slides:
       ## Free Code Camp
 
 
-      Pros & Cons&nbsp;
+      | PROS | CONS |
 
+      | --- | --- |
 
       | \+ Completely free.<br>\+ Grants legitimate certifications.<br>\+
       Project based, completed projects required in order to earn
@@ -318,11 +317,11 @@ slides:
 
       | --- | --- |
 
-      | \-Stylistically pleasing to look at.&nbsp;<br><br>\-Code error
-      notifications.&nbsp;<br><br>\-Great selection of free courses. App
-      development for both Android and iOS not common.&nbsp; | \- $200 a
-      month.&nbsp;<br><br>\- Paying a monthly subscription instead of paying by
-      course is not suitable for everyone.&nbsp; |
+      | \+ Stylistically pleasing to look at.<br>\+ Code error
+      notifications.<br>\+ Great selection of free courses. App development for
+      both Android and iOS not common.&nbsp; | \- $200 a month.<br>\- Paying a
+      monthly subscription instead of paying by course is not suitable for
+      everyone.&nbsp; |
 
 
       &nbsp;
