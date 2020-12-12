@@ -155,11 +155,12 @@ slides:
       ## Code Platoon
 
       [https://www.codeplatoon.org/](https://www.codeplatoon.org/)
-    background_color: '#7b7b7b'
+    background_color: '#000000'
     background_image: /uploads/learning-to-code-in-chicago/platoon.PNG
+    background_size: contain
   - title: Code Platoon Intro
     content_markdown:
-    background_color: '#7b7b7b'
+    background_color: '#000000'
     background_image: /uploads/learning-to-code-in-chicago/pla2.PNG
     background_size: contain
   - title: Free Geek
@@ -167,7 +168,7 @@ slides:
       ## Free Geek
 
       [https://www.freegeek.org/](https://www.freegeek.org/)
-    background_color: '#7b7b7b'
+    background_color: '#000000'
     background_image: /uploads/learning-to-code-in-chicago/free-1.PNG
     background_size: contain
   - title: Free Online Resources
