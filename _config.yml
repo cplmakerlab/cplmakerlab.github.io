@@ -167,9 +167,9 @@ background_size:
 # See: https://docs.cloudcannon.com/editing/options/input-options/#array-structures
 _array_structures:
   slides:
-    style: modal      
     - label: Slide
       icon: collections
+      style: modal      
       value:
         title:
         content_markdown:
