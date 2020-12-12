@@ -52,9 +52,11 @@
         return vars;
       }
 		
-      /*@@TODO move all this to main.js */
+      /*@@TODO move to main.js or separate into own JS file */
 
       function toggleFullscreen(elem) {
+        // This toggles the HTML5 fullscreen behavior for an element.
+        // This is used to create a fullscreen toggle button
         elem = elem || document.documentElement;
         if (!document.fullscreenElement && !document.mozFullScreenElement &&
           !document.webkitFullscreenElement && !document.msFullscreenElement) {
@@ -79,7 +81,7 @@
           }
         }
       }			
-
+      
 			
       $(function() {
   			// More info about initialization & config:
@@ -92,15 +94,17 @@
   				plugins: [ RevealHighlight, RevealZoom ]
   			}).then(
     			function(){
-            // Add some extra control buttons at the bottom		
+            // After RevealJS is done loading, add some extra helper control buttons	
+            // Slide overview button
             document.querySelector('.overview').addEventListener('click', function(){
               Reveal.toggleOverview();
             });
+            // Fullcreen button
             document.querySelector('.fullscreen').addEventListener('click', function(){
                // Toggle fullscreen
               toggleFullscreen();
             });
-
+            // If URL has ?generatePDF in it, use the html2pdf plugin to output a downloadable PDF
             var pdf = getUrlVars()["generatePDF"];
             if (pdf != null) {
               $('body').css('height', 'auto');
@@ -121,9 +125,11 @@
       });
 		</script>
 		
+		<!-- Add CPL logo and some control buttons at the bottom of the screen -->
 	  <div class="slidedeck-branding">
 	    <a href="{{ site.baseurl }}/"><img alt="logo" title="Logo" src="{{site.data.images.logo_image}}" /></a> 
 	    <span class="helper-controls"><i title="Overview [O] [ESC]" class="fa fa-th fa-fw overview"></i>  <i class="fa fa-expand fa-fw fullscreen" title="Fullscreen [F]"></i></span>
-	  </div>		
+	  </div>	
+	  
 	</body>
 </html>
