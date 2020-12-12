@@ -159,6 +159,7 @@ slide_themes:
 
 uploads_dir: "uploads/:title"
 
+# In front matter, use background_size: (singular form).
 background_sizes:
   cover: Fill screen
   contain: Fit to screen
