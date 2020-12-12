@@ -17,6 +17,7 @@ section.full-background-slide p {
 }
 section.full-background-slide a {
   color:#FF0000;
+  background-color:transparent;
 }
 
 .slidedeck-branding {
