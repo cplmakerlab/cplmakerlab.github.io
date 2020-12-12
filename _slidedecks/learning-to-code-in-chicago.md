@@ -90,9 +90,13 @@ slides:
     background_size: contain
   - title: Sources
     content_markdown: >-
-      Sources:&nbsp;[https://www.northeastern.edu/graduate/blog/most-popular-programming-languages/](https://www.northeastern.edu/graduate/blog/most-popular-programming-languages/)
+      Sources:
 
 
+      *
+      &nbsp;[https://www.northeastern.edu/graduate/blog/most-popular-programming-languages/](https://www.northeastern.edu/graduate/blog/most-popular-programming-languages/)
+
+      *
       [https://stackify.com/popular-programming-languages-2018/](https://stackify.com/popular-programming-languages-2018/)
     background_color: '#7b7b7b'
     background_image:
@@ -175,7 +179,7 @@ slides:
       [https://www.freegeek.org/](https://www.freegeek.org/)
     background_color: '#7b7b7b'
     background_image: /uploads/learning-to-code-in-chicago/free-1.PNG
-    background_size: contain 
+    background_size: contain
   - title: Free Online Resources
     content_markdown: '## Free Online Resources'
     background_color: '#7b7b7b'
