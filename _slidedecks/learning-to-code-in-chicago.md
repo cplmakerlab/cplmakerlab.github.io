@@ -16,14 +16,12 @@ slides:
       ## Java&nbsp;
 
 
-      \- Runs fast.&nbsp;
+      * Runs fast.&nbsp;
 
-
-      \-Embedded and cross platform application. Particularly interactive
+      * Embedded and cross platform application. Particularly interactive
       features in websites.&nbsp;
 
-
-      \-Over 3 billion devices use Java.&nbsp;
+      * Over 3 billion devices use Java.&nbsp;
     background_color: '#7b7b7b'
     background_image:
   - title: C
@@ -31,14 +29,12 @@ slides:
       ## C (C++, C\#)
 
 
-      \- One of the oldest programing languages (1972).&nbsp;
+      * One of the oldest programing languages (1972).&nbsp;
 
-
-      \- Influenced C++ (1985) and C\# (2000) which are extensions of the
+      * Influenced C++ (1985) and C\# (2000) which are extensions of the
       original program.&nbsp;
 
-
-      \-Used for system programing and databases. Embedded systems such as car
+      * Used for system programing and databases. Embedded systems such as car
       interfaces are often programmed in C.&nbsp;
     background_color: '#7b7b7b'
     background_image:
