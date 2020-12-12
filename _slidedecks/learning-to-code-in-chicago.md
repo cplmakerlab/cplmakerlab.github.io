@@ -235,7 +235,7 @@ slides:
       [https://www.freecodecamp.org/learn](https://www.freecodecamp.org/learn)
     background_color: '#7b7b7b'
     background_image: /uploads/learning-to-code-in-chicago/camp.PNG
-    background_size:contain
+    background_size: contain
   - title: Free Code Camp Certification Info
     content_markdown: >-
       ## Each certificate curriculum takes 300 hours to complete by submitting 5
