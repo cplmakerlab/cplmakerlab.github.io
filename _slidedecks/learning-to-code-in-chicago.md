@@ -59,7 +59,7 @@ slides:
     background_size: contain
   - title: Which programming language should you learn?
     content_markdown: >-
-      Which programming language should you learn?&nbsp;
+      ### Which programming language should you learn?&nbsp;
 
 
       * Web-based startups often use **Python** and **JavaScript**.
@@ -211,8 +211,9 @@ slides:
       ## Code Academy
 
 
-      Pros and Cons&nbsp;
+      | PROS | CONS |
 
+      | --- | --- |
 
       | \- Aesthetically pleasing courses.&nbsp;<br><br>\- For paid service,
       only $20 per month.<br><br>\- Good guides for finding information.
@@ -336,3 +337,4 @@ slides:
     background_color: '#7b7b7b'
     background_image:
 ---
+
