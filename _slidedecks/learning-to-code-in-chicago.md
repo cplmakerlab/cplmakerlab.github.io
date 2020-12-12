@@ -43,14 +43,12 @@ slides:
       ## Python
 
 
-      \- Concise syntax. Shorter code needed to perform functions than other
+      * Concise syntax. Shorter code needed to perform functions than other
       programs.
 
+      * Easier to learn than C and Java.&nbsp;
 
-      \-Easier to learn than C and Java.&nbsp;
-
-
-      \-Best for data science, AI, machine learning.&nbsp;
+      * Best for data science, AI, machine learning.&nbsp;
     background_color: '#7b7b7b'
     background_image:
   - title: Python Syntax Example
@@ -315,11 +313,12 @@ slides:
     background_image:
   - title: Free Code Camp Pros & Cons
     content_markdown: >-
-      ## Udacity&nbsp;
+      ## Udacity
 
 
-      Pros & Cons&nbsp;
+      | PROS | CONS |
 
+      | --- | --- |
 
       | \-Stylistically pleasing to look at.&nbsp;<br><br>\-Code error
       notifications.&nbsp;<br><br>\-Great selection of free courses. App
