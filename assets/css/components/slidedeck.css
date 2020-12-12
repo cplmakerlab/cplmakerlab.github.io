@@ -12,8 +12,8 @@ section.full-background-slide h4,
 section.full-background-slide h5,
 section.full-background-slide h6,
 section.full-background-slide p {
-  background-color: rgba(0,0,0,1);
-  color:#FDFDFD;
+  background-color: rgba(0,0,0,.75);
+  color:#FFFFFF;
 }
 section.full-background-slide a {
   color:#FF0000;
