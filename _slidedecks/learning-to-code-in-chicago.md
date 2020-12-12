@@ -101,6 +101,9 @@ slides:
       several months to complete.
 
 
+      &nbsp;
+
+
       **University Program:** A degree demonstrates you have been educated in a
       variety subjects. Degrees take longer, there are different requirements
       for an Associates Degree (generally 2 years) and a Bachelors degree
