@@ -261,11 +261,11 @@ slides:
       Pros & Cons&nbsp;
 
 
-      | \- Completely free.&nbsp;<br><br>\-Grants legitimate
-      certifications.&nbsp;<br><br>\- Project based, completed projects required
-      in order to earn certifications.&nbsp; | \- Stylistically less pleasing to
-      look at.&nbsp;<br><br>\- The "help" button opens on a chatroom. You will
-      need to rely on past forum posts for answers instead.<br><br>\-No progress
+      | \+ Completely free.<br>\+ Grants legitimate certifications.<br>\+
+      Project based, completed projects required in order to earn
+      certifications.&nbsp; | \- Stylistically less pleasing to look
+      at.&nbsp;<br>\- The "help" button opens on a chatroom. You will need to
+      rely on past forum posts for answers instead.<br>\-No progress
       indicators.&nbsp;<br><br>&nbsp; |
 
 
