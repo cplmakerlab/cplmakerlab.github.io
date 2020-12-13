@@ -25,11 +25,11 @@ _config.yml | DATA | The core configuration file used by Jekyll as well as Cloud
 README.md | | The file you are currently reading
 
 
-### Content is stored in files (.md or .html)
+### Content is stored as Markdown or HTML files (.md or .html)
 
-Things like pages and blog posts are stored in Markdown files that end in .md or .html. At the top of each file is a section for storing page metadata (Jekyll Frontmatter) such as date and categories. Standalone pages are stored in the root directory, while posts are stored in the ```_posts``` directory. Content other than a page or a post must be stored in a collections directory. For instance the collection ```_guides``` contains how-to guides.
+Things like pages and blog posts are stored in [Markdown](https://cplmakerlab.github.io/markdown) files that end in .md or .html. At the top of each file is a section for storing special page metadata such as title, date and categories called Jekyll Frontmatter. Standalone pages are stored in the root directory or ```/_site_pages```, while blog posts are stored in the ```_posts``` directory. Content other than a page or a blog post must be stored in a collections directory. For instance the collection ```_guides``` contains how-to guides.
 
-### Data is stored in files (.yml)
+### Data is stored as YAML files (.yml)
 
 The YAML data files are used for storing site settings. For instance, ```_config.yml``` contains the general site settings, and ```_data/navigation.yml``` contains navigation elements. 
 
