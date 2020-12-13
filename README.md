@@ -42,7 +42,7 @@ Cloudcannon allows you to customize their admin interface using special syntax s
 Read more: https://docs.cloudcannon.com
 
 
-### This is great and all but...as a CPL staff member, how can I simply update or create a page on the website???
+### Uh, this is great and all but...as a CPL staff member, how can I simply update or create a page on the website???
 
 Check out the [Cloudcannon Staff Training Guides.](https://cplmakerlab.github.io/tags#Staff).
 
