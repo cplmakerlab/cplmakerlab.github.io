@@ -16,8 +16,8 @@ This is a [Jekyll-powered website that is hosted using Github Pages](https://doc
 /_includes | CODE | Specialized helper files. They cannot be edited through the Cloudcannon interface.
 /_layouts | CODE | Jekyll layouts for rendering HTML pages.
 /_posts | CONTENT | Chronologically ordered blog posts. 
-/_site_pages | CONTENT | Static site pages.
-/_slidedecks | CONTENT | Custom Jekyll collection. Used to create RevealJS slidedecks. See /_layouts/slidedeck.html and assets/js/revealjs
+/_site_pages | CONTENT | Static site pages. 
+/_slidedecks | CONTENT | Custom Jekyll collection used to create [RevealJS](https://revealjs.com) slidedecks. (See /_layouts/slidedeck.html and assets/js/revealjs)
 /assets | CODE | CSS, JS, Image assets can be found here. 
 /uploads | FILES | Files uploaded via the Cloudcannon interface go here
 404.html | CONTENT | This gets displayed when a page cannot be found
