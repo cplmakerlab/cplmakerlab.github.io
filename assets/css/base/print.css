@@ -51,7 +51,8 @@
   .print-only {
     display: block !important;
   }
-  .print-hidden {
+  .print-hidden,
+  .print-hidden.visible-xs {
     display:none !important;  
   }
   p {
