@@ -27,7 +27,7 @@ README.md | | The file you are currently reading
 
 ### Content is stored as Markdown or HTML files (.md or .html)
 
-Things like pages and blog posts are stored in [Markdown](https://cplmakerlab.github.io/markdown) files that end in .md or .html. At the top of each file is a section for storing special page metadata such as title, date and categories called Jekyll Frontmatter. Standalone pages are stored in the root directory or ```/_site_pages```, while blog posts are stored in the ```_posts``` directory. Content other than a page or a blog post must be stored in a collections directory. For instance the collection ```_guides``` contains how-to guides.
+Things like pages and blog posts are stored as HTML files or [Markdown](https://cplmakerlab.github.io/markdown) files that end in .md. At the top of each file is a section for storing special page metadata such as title, date and categories called Jekyll Frontmatter. Standalone pages are stored in the root directory or ```/_site_pages```, while blog posts are stored in the ```_posts``` directory. Content other than a page or a blog post must be stored in a collections directory. For instance the collection ```_guides``` contains how-to guides.
 
 ### Data is stored as YAML files (.yml)
 
