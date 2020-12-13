@@ -27,7 +27,7 @@ README.md | | The file you are currently reading
 
 ### Content is stored in files (.md or .html)
 
-Things like pages and blog posts are stored in Markdown files that end in .md or .html. At the top of each file is a section for storing page metadata such as date and categories. Standalone pages are stored in the root directory, while posts are stored in the ```_posts``` directory. Content other than a page or a post must be stored in a collections directory. For instance the collection ```_guides``` contains how-to guides.
+Things like pages and blog posts are stored in Markdown files that end in .md or .html. At the top of each file is a section for storing page metadata (Jekyll Frontmatter) such as date and categories. Standalone pages are stored in the root directory, while posts are stored in the ```_posts``` directory. Content other than a page or a post must be stored in a collections directory. For instance the collection ```_guides``` contains how-to guides.
 
 ### Data is stored in files (.yml)
 
