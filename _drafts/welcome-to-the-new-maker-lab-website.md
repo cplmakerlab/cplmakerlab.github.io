@@ -1,5 +1,5 @@
 ---
-date: 2020-12-13 03:10:04
+date: 2020-12-13 03:11:10
 title: Welcome to the new Maker Lab website!
 tags:
   - news
@@ -7,7 +7,7 @@ tags:
   - Announcement
 ---
 
-For over 7 years the Maker Lab has offered introductory workshops and open shop to encourage community learning, creativity, and collaboration. Our newly designed website tries to reflect and further those goals through the Learn, Make, and Community sections.
+For over 7 years the Maker Lab has offered introductory workshops and open shop to encourage community learning, creativity, and collaboration. Our newly designed website tries to reflect and further these goals through the Learn, Make, and Community sections.
 
 * [Learn](/learn) contains how-to guides, slidedecks, videos, upcoming workshop & events, and career training resources.
 * [Make](/make) contains detailed info about all the software and equipment we use at the Maker Lab.
