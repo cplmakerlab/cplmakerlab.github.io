@@ -1,10 +1,11 @@
 ---
-title: How to make a podcast bumper
+title: How to record a podcast bumper using Audacity
 categories:
   - Audio
 tags:
   - audio recording
   - production
+  - Audacity
 example_image:
 difficulty: Medium
 time_required: 30 minutes+
