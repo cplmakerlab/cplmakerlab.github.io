@@ -1,5 +1,5 @@
 ---
-title: How to record a podcast bumper using Audacity
+title: How to record a podcast bumper in Audacity
 categories:
   - Audio
 tags:
