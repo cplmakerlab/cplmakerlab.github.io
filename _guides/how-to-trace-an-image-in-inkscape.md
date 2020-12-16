@@ -20,15 +20,15 @@ If you haven't yet installed [Inkscape](http://inkscape.org){: target="_blank" r
 
 ### 2\. Find an image you’d like to trace
 
-High contrast images work best such as black and white line drawings, outlines, and silhouettes. You can search for images online or take a digital photo of a line drawing you made. The image should be saved as a .bmp, .jpg, or .png.
+High contrast images work best such as black and white line drawings, outlines, and silhouettes. You can [search for images online](http://images.google.com){: target="_blank" rel="noopener"} or take a digital photo of a line drawing you made. The image should be saved as a .bmp, .jpg, or .png.
 
 ### 3\. Import image into Inkscape
 
-In Inkscape, click File &gt; Import and locate the image you just saved. An import dialog will pop-up, click OK to accept the defaults.
+In Inkscape, click *File &gt; Import* and locate the image you just saved. An import dialog will pop-up, click OK to accept the defaults.
 
 ### 4\. Trace the image
 
-With the newly imported image selected, click Path &gt; Trace Bitmap.
+With the newly imported image selected, click *Path &gt; Trace Bitmap*.
 
 A dialog window will appear. Select the Grays option, set the number of scans to 2, and check the box for Remove Background.
 
@@ -42,6 +42,4 @@ Now use the mouse to drag the scanned image off of the original.&nbsp; If you ha
 
 ### 6\. Save the vector image
 
-File &gt; Save and select Inkscape SVG to save the image as a vector. There are some other formats you can export to as well, such as PDF and EPS.
-
-&nbsp;
+*File &gt; Save* and select Inkscape SVG to save the image as a vector. There are some other formats you can export to as well, such as PDF and EPS.
