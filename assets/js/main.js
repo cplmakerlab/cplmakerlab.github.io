@@ -13,7 +13,7 @@ jQuery(function() {
       }
     });
     
-    // Close menu if menu is open and user clicks elsewhere
+    // Helper function to close mobile menu if menu is open and user clicks elsewhere
     function closeMenu(e){
       if(e.target.id != 'nav'){
          document.body.removeEventListener('click', closeMenu, false);
@@ -21,7 +21,7 @@ jQuery(function() {
       }
     }
     
-    // Mobile Search Toggle
+    // Mobile Search Box Toggle
     $('body').on('click', '.mobile-search-toggle', function(){
       var search = $('.search-form');
       if($(search[0]).hasClass('hide')) {
@@ -33,26 +33,29 @@ jQuery(function() {
       }
     });
     
-    /* ListJS search*/
+    // ListJS search
+    // https://listjs.com/
     var options = {
       valueNames: [ 'topic', 'title' ]
     };
     var guideList = new List('guide-list', options); 
     
-    /* Fancybox Image Modal */
-    /* http://fancyapps.com */
-    $('#content img.fancybox').each(function(){
+    // Fancybox Image Modal 
+    // http://fancyapps.com 
+    $('#content img.fancybox, #content p img').each(function(){
       var image = $(this);
       image.wrap('<a href="'+ image[0].src +'" class="fancybox"></a>');
     });
     $("a.fancybox").fancybox();
     
+    // Generate PDF using print styles for better formatting
     function generatePDF(opt) {
       $('body').addClass('media-print'); 
       html2pdf().set(opt).from(document.body).save().then(function(){
         $('body').removeClass('media-print');  
       });
     }    
+    // When an element with this class is clicked, setup and then generate PDF
     $('.js-generate-pdf').click(function(){
       event.stopPropagation();    
       var title = $(this).attr('title');
