@@ -40,10 +40,16 @@
     - name: Orgs we love
       link: /organizations
       open_in_new_window: false
-    - name: Nation of Makers
-      link: 'https://www.nationofmakers.us/'
-      open_in_new_window: true
     - name: Blog
       link: /blog
       open_in_new_window: false
+    - name: Photos
+      link: 'http://bit.ly/cplmakerphotos'
+      open_in_new_window: true
+    - name: Nation of Makers
+      link: 'https://www.nationofmakers.us/'
+      open_in_new_window: true
+    - name: Makers In Chicago
+      link: 'http://makersinchicago.org'
+      open_in_new_window: true
 ---
