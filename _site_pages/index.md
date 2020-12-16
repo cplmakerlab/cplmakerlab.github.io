@@ -5,6 +5,8 @@ header_image:
 
 The Maker Lab, Chicago’s first free and publicly accessible maker space, is on the 3rd floor of Harold Washington Library Center. The Maker Lab features introductory [workshops](https://bit.ly/cplmakerschedule){: target="_blank"} and [open shop](https://chipublib.bibliocommons.com/events/search/q=%22Open%20Shop%22&amp;fq=program:&#40;53f20a07e04c1e3b1c00d3e4&#41;){: target="_blank"} for personal projects and collaboration. We encourage you to explore the full range of making, both high-tech and hands-on.
 
+<div class="cms-embed" data-cms-embed="PGEgZGF0YS1mbGlja3ItZW1iZWQ9InRydWUiIGhyZWY9Imh0dHBzOi8vd3d3LmZsaWNrci5jb20vcGhvdG9zLzEwMTg5MDU4NkBOMDgiIHRpdGxlPjxpbWcgc3JjPSJodHRwczovL2xpdmUuc3RhdGljZmxpY2tyLmNvbS82NTUzNS80OTI4NDEwMTg1N185MDZhYTE3OWIzLmpwZyIgd2lkdGg9IjY0MCIgaGVpZ2h0PSI0ODAiIGFsdD48L2E+PHNjcmlwdCBhc3luYyBzcmM9Ii8vZW1iZWRyLmZsaWNrci5jb20vYXNzZXRzL2NsaWVudC1jb2RlLmpzIiBjaGFyc2V0PSJ1dGYtOCI+PC9zY3JpcHQ+"><a data-flickr-embed="true" href="https://www.flickr.com/photos/101890586@N08" title=""><img src="https://live.staticflickr.com/65535/49284101857_906aa179b3.jpg" width="640" height="480" alt="" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
+
 ## Ask a maker
 
 Having trouble with your project file or need help with software?&nbsp; Fill out the [Ask a Maker form](https://www.chipublib.org/maker-lab/ask-a-maker-request-help-from-the-maker-lab/){: target="_blank" rel="noopener"} and someone from the Maker Lab will get back to you.
