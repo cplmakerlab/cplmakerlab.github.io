@@ -12,7 +12,7 @@ file_attachment_path:
 
 [Inkscape](http://inkscape.org){: target="_blank" rel="noopener"} is a free vector drawing program that can be used for creating design files for CNC (Computer Numerically Controlled) machines such as a lasercutter, electronic (vinyl) cutter, milling machine and more.
 
-In this how-to we will show you how to trace a bitmap image in Inkscape to create a vector image. This will convert the pixels of the bitmap into line paths that a machine can follow.
+In this how-to we will show you how to trace a bitmap image in Inkscape to create a vector image. This will convert the pixels of the bitmap into line paths that a machine (like a lasercutter) can follow.
 
 ### 1\. Open Inkscape
 
