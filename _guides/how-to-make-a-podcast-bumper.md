@@ -16,7 +16,7 @@ What is a podcast bumper? A podcast bumper is a short piece of music and audio t
 
 ## Step 1
 
-Download and open [Audacity](http://audacity.org/){: target="_blank" rel="noopener"} on your computer. Audacity is a free audio program that allows you to record and edit single audio files as well as mix and arrange multiple audio tracks together (multitracking).<br>Similar programs: Garageband, Pro Tools, Logic, Ardour, Mixbus, Reaper.
+Download and open [Audacity](http://audacity.org/){: target="_blank" rel="noopener"} on your computer. Audacity is a free audio program that allows you to record and edit single audio files as well as mix and arrange multiple audio tracks together (multitracking).<br>*Similar programs: Garageband, Pro Tools, Logic, Ardour, Mixbus, Reaper.*
 
 ## Step 2
 
@@ -39,7 +39,7 @@ Use the selection tool, move tool, and envelope tools to arrange and clean up yo
 | **Zoom In** | CTRL + 1 |
 | **Zoom Out** | CTRL + 3 |
 | **Zoom Fit** | Highlight selection then CTRL + F |
-| **Split Delete (delete without altering clip timing)** | Highlight selection then CTRL + ALT + K |
+| **Split Delete (delete without moving clips)** | Highlight selection then CTRL + ALT + K |
 
 ## Step 6
 
