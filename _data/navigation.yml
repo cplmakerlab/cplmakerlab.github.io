@@ -21,7 +21,7 @@
     - name: Videos
       link: 'https://www.youtube.com/channel/UCgYrYjnoluGLUl-fdpSMSJQ/videos'
       open_in_new_window: true
-    - name: Ask-a-Maker
+    - name: Request help
       link: >-
         https://www.chipublib.org/maker-lab/ask-a-maker-request-help-from-the-maker-lab/
       open_in_new_window: true
@@ -37,12 +37,9 @@
     - name: Materials
       link: /materials
       open_in_new_window: false
-    - name: Ask-a-Maker
+    - name: Request fabrication
       link: >-
         https://www.chipublib.org/maker-lab/ask-a-maker-request-help-from-the-maker-lab/
-      open_in_new_window: true
-    - name:
-      link:
       open_in_new_window: true
 - name: Community
   link: /community
