@@ -143,4 +143,4 @@ Our lab equipment includes: 3D printers, lasercutters, sewing machines, electron
 
 ## Crafts
 
-* Basic crafting tools (scissors, tape, glue, etc)
+* Basic crafting tools (scissors, paper, fabric, tape, glue, etc)
