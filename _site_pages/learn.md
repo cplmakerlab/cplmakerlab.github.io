@@ -13,10 +13,6 @@ Step-by-step instructions for learning software skills and equipment basics
 
 Sign up for one of our free introductory classes to learn about 3D printing, lasercutting, and more.
 
-### [Ask-a-Maker](https://www.chipublib.org/maker-lab/ask-a-maker-request-help-from-the-maker-lab/){: target="_blank" rel="noopener"}
-
-Don't know where to start? Or need help with design & fabrication? Contact us and someone from the lab will get back to you.
-
 ### [Videos](https://www.youtube.com/channel/UCgYrYjnoluGLUl-fdpSMSJQ/videos){: target="_blank" rel="noopener"}
 
 Guided video instruction with audio narration
@@ -29,7 +25,9 @@ Informational presentation slides that we use for our classes.
 
 If you are interested in pursuing a new career path, check out these helpful links & resources.
 
-&nbsp;
+### [Ask-a-Maker](https://www.chipublib.org/maker-lab/ask-a-maker-request-help-from-the-maker-lab/){: target="_blank" rel="noopener"}
+
+Don't know where to start? Or need help with design & fabrication? Contact us and someone from the lab will get back to you.
 
 &nbsp;
 
