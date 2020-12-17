@@ -33,6 +33,10 @@
     - name: Materials
       link: /materials
       open_in_new_window: false
+    - name: Ask a maker
+      link: >-
+        https://www.chipublib.org/maker-lab/ask-a-maker-request-help-from-the-maker-lab/
+      open_in_new_window: true
 - name: Community
   link: /organizations
   open_in_new_window: false
