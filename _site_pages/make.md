@@ -3,7 +3,7 @@ title: Make
 header_image:
 ---
 
-Use open source software to create your project, then use our equipment & materials to make it a reality\!
+Use open source software to design your project, then use our equipment & materials to make it\!
 
 ### [Software](/software)
 
