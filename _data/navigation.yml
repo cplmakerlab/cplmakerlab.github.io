@@ -26,7 +26,7 @@
         https://www.chipublib.org/maker-lab/ask-a-maker-request-help-from-the-maker-lab/
       open_in_new_window: true
 - name: Make
-  link: /software
+  link: /make
   subnav:
     - name: Software
       link: /software
@@ -41,8 +41,11 @@
       link: >-
         https://www.chipublib.org/maker-lab/ask-a-maker-request-help-from-the-maker-lab/
       open_in_new_window: true
+    - name:
+      link:
+      open_in_new_window: true
 - name: Community
-  link: /organizations
+  link: /community
   open_in_new_window: false
   subnav:
     - name: Orgs we love
@@ -59,5 +62,8 @@
       open_in_new_window: true
     - name: Nation of Makers
       link: 'https://www.nationofmakers.us/'
+      open_in_new_window: true
+    - name: Thingiverse
+      link: 'http://thingiverse.com'
       open_in_new_window: true
 ---
