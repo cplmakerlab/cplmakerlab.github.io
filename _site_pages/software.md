@@ -9,9 +9,9 @@ At the Maker Lab, we use and love free and open-source design software. Open-sou
 
 * [Inkscape (similar to Illustrator)](inkscape.org){: target="_blank" rel="noopener"}
 * [GIMP (similar to Photoshop)](gimp.org){: target="_blank" rel="noopener"}
-* [Krita](krita.org){: target="_blank" rel="noopener"}
-* [Paint.NET (windows only)](getpaint.net){: target="_blank" rel="noopener"}
+* [Krita](krita.org){: target="_blank" rel="noopener"} (painting)
 * [Pixlr](https://pixlr.com/){: target="_blank" rel="noopener"} (web-based photo editor)
+* [Paint.NET](getpaint.net){: target="_blank" rel="noopener"}&nbsp; (windows only photo editing)
 
 ## 3D Design
 
