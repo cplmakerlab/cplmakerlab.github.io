@@ -21,7 +21,7 @@ At the Maker Lab, we use and love free and open-source design software. Open-sou
 * [Blender](http://blender.org){: target="_blank" rel="noopener"}(rendering, animation)
 * [Meshmixer](http://meshmixer.com){: target="_blank" rel="noopener"} (3D mesh editor)
 * [Meshroom](https://alicevision.org/#meshroom){: target="_blank" rel="noopener"} (3D scanning)
-* [ReconstructMe](://reconstructme.net){: target="_blank" rel="noopener"} (3D scanning)
+* [ReconstructMe](http://reconstructme.net){: target="_blank" rel="noopener"} (3D scanning)
 * [Skanect](http://skanect.occipital.com){: target="_blank" rel="noopener"} (3D Scanning)
 
 ## Coding
@@ -37,11 +37,11 @@ At the Maker Lab, we use and love free and open-source design software. Open-sou
 
 ## Equipment Software
 
-* [MakerBot Desktop](makerbot.com){: target="_blank" rel="noopener"} (3D printing)
-* [RetinaEngrave](fslaser.com){: target="_blank" rel="noopener"} (Laser cutter)
-* [Cricut Design Space](design.cricut.com){: target="_blank" rel="noopener"} (Electronic cutter)
-* [Easel](easel.inventables.com){: target="_blank" rel="noopener"} (CNC Milling)
-* [Inkstitch](inkstitch.org){: target="_blank" rel="noopener"} (Embroidery)
+* [MakerBot Desktop](http://makerbot.com){: target="_blank" rel="noopener"} (3D printing)
+* [RetinaEngrave](http://fslaser.com){: target="_blank" rel="noopener"} (Laser cutter)
+* [Cricut Design Space](http://design.cricut.com){: target="_blank" rel="noopener"} (Electronic cutter)
+* [Easel](http://easel.inventables.com){: target="_blank" rel="noopener"} (CNC Milling)
+* [Inkstitch](http://inkstitch.org){: target="_blank" rel="noopener"} (Embroidery)
 
 ## File Formats
 
