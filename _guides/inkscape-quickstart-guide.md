@@ -33,7 +33,7 @@ If you haven’t yet installed [Inkscape](http://inkscape.org){: target="_blank"
 
 &nbsp;
 
-### Step 6: Convert objects to paths
+### Step 6: Convert object to path
 
 &nbsp;
 
