@@ -3,6 +3,10 @@ title: How to make a website with Github Pages
 categories:
 tags:
   - github
+  - HTML
+  - CSS
+  - JS
+  - GIT
 example_image:
 difficulty: Hard
 time_required: 2 - 4 hours
