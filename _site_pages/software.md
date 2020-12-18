@@ -23,6 +23,17 @@ At the Maker Lab, we use and love free and open-source design software. Open-sou
 * [ReconstructMe](reconstructme.net){: target="_blank" rel="noopener"} (3D scanning)
 * [Skanect](skanect.occipital.com){: target="_blank" rel="noopener"} (3D Scanning)
 
+## Coding
+
+* [Atom](https://atom.io/){: target="_blank" rel="noopener"} (free text editor for coders)
+* [Github](http://github.com){: target="_blank" rel="noopener"} (share code, [host simple websites](https://github.com/cplmakerlab/simple-website-template){: target="_blank" rel="noopener"})
+* [Glitch](https://glitch.com){: target="_blank" rel="noopener"} (friendly coding community)
+* [Processing](https://processing.org/){: target="_blank" rel="noopener"} (creative coding software, geared towards visual arts)
+* [P5JS](https://p5js.org/){: target="_blank" rel="noopener"} (creative coding in javascript, similar to Processing)
+* [ToneJS](https://tonejs.github.io/){: target="_blank" rel="noopener"} (web audio framework for creating interactive music in the browser)
+* [BBC Micro:bit](https://www.microbit.org/){: target="_blank" rel="noopener"} (easy to use open source hardware platform that [supports Python, Javascript, Scratch, MakeCode blocks, and more](https://www.microbit.org/code/){: target="_blank" rel="noopener"})
+* [Arduino](https://www.arduino.cc/){: target="_blank" rel="noopener"} (open source hardware platform)
+
 ## Equipment Software
 
 * [MakerBot Desktop](makerbot.com){: target="_blank" rel="noopener"} (3D printing)
