@@ -15,6 +15,14 @@ Local makerspaces and maker friendly organizations. See also [Makers in Chicago]
 
 Connect with a nationwide network of makers and makerspaces.
 
+### [Blog](/blog)
+
+Keep up with the latest news at the Maker Lab.
+
+### [Photos](http://bit.ly/cplmakerphotos){: target="_blank" rel="noopener"}
+
+Keep up with the latest news at the Maker Lab.
+
 &nbsp;
 
 &nbsp;
