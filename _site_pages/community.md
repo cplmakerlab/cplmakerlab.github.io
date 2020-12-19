@@ -27,6 +27,10 @@ Photos we've taken over the years at the Maker Lab.
 
 A list of makerspaces and maker-related resources in Chicago.
 
+### [Illinois PPE Network](https://www.illinoisppe.org/){: target="_blank" rel="noopener"}
+
+A network of makers organizing and responding to the COVID-19 pandemic.
+
 ### [Thingiverse](http://thingiverse.com/){: target="_blank" rel="noopener"}
 
 A design community for those interested in sharing and building 3D printed things.
