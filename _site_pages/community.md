@@ -11,10 +11,6 @@ What is the Maker Movement?&nbsp; A maker is a broad term for anyone who is inte
 
 Local makerspaces and maker friendly organizations. See also [Makers in Chicago](http://makersinchicago.org/){: target="_blank" rel="noopener"}.
 
-### [Nation of Makers](https://www.nationofmakers.us){: target="_blank" rel="noopener"}
-
-Connect with a nationwide network of makers and makerspaces.
-
 ### [Blog](/blog)
 
 Keep up with the latest news at the Maker Lab.
@@ -23,13 +19,17 @@ Keep up with the latest news at the Maker Lab.
 
 Photos we've taken over the years at the Maker Lab.
 
-### [Makers in Chicago](http://makersinchicago.org/){: target="_blank" rel="noopener"}
-
-A list of makerspaces and maker-related resources in Chicago.
-
 ### [Illinois PPE Network](https://www.illinoisppe.org/){: target="_blank" rel="noopener"}
 
 A network of makers organizing and responding to the COVID-19 pandemic.
+
+### [Nation of Makers](https://www.nationofmakers.us){: target="_blank" rel="noopener"}
+
+Connect with a nationwide network of makers and makerspaces.
+
+### [Makers in Chicago](http://makersinchicago.org/){: target="_blank" rel="noopener"}
+
+A list of makerspaces and maker-related resources in Chicago.
 
 ### [Thingiverse](http://thingiverse.com/){: target="_blank" rel="noopener"}
 
