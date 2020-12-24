@@ -89,6 +89,8 @@ Always begin and end a seam with a backstitch. A backstitch "locks" the ends of 
 
 Never sew with presser foot up\! Presser foot MUST be DOWN to keep fabric from moving around as you sew and to allow the feed dogs to move the fabric through. The presser foot lever is just under and to the right of the needle.
 
+![](/uploads/sewing-machine-basics/presser-foot.png){: width="493" height="375"}
+
 ### 8\. Do not push or pull fabric through machine while sewing
 
 Never push or pull fabric through the machine, let the metal feed dog gears do the work. Simply guide the fabric as it moves through. You can use the speed control slider and foot pedal to speed up or slow down the machine.
