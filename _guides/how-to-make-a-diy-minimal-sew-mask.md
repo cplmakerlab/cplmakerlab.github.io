@@ -97,7 +97,7 @@ Once your edges are sewn, you can add your support into the pocket
 
 Make sure you remove your support if you need to wash you mask (do this as often as possible)
 
-## **Marvel at your creation because you are finished\! **
+## Marvel at your creation because you are finished\!
 
 Notes:
 
