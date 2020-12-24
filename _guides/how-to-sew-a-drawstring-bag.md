@@ -1,5 +1,5 @@
 ---
-title: How to sew a drawstring bag
+title: How to Make a Drawstring Bag
 categories:
   - Sewing
 tags:
