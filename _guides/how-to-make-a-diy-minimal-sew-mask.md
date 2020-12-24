@@ -59,23 +59,33 @@ Align the short edges of the fabric and sew along the entire length making sure 
 
 ## Step 4
 
-Turn the fabric right side out so that the pattern is visible. Move the elastics to each side and center the sewn edge
+Turn the fabric right side out so that the pattern is visible. Move the elastics to each side and center the sewn edge.
+
+![](/uploads/how-to-make-a-diy-minimal-sew-mask/step4.png){: width="701" height="512"}
 
 ## Step 5
 
-Align the top edges and pin taking care to make sure the scored live edges are folded inwards and the sewn short edge is centered- use a ruler if needed to measure
+Align the top edges and pin taking care to make sure the scored live edges are folded inwards and the sewn short edge is centered- use a ruler if needed to measure.
+
+![](/uploads/how-to-make-a-diy-minimal-sew-mask/step5.png){: width="599" height="206"}
 
 ## Step 6
 
 Starting about 1/4" from the elastic pocket edge, sew the pinned edges together ending about 1/4" from the other elastic pocket edge.
 
+![](/uploads/how-to-make-a-diy-minimal-sew-mask/step6a.png){: width="478" height="259"}
+
+![](/uploads/how-to-make-a-diy-minimal-sew-mask/step6b.png){: width="639" height="479"}
+
 Repeat steps 5 & 6 for the bottom.
 
 ## Step 7
 
-With the top and bottom edges sewn, you are done if you are not adding the optional nose support pocket (YAY\!)
+With the top and bottom edges sewn, you are done if you are not adding the optional nose support pocket. (YAY\!)
 
 The side with the sewn short edge is the inside of the mask that rests against your face.
+
+![](/uploads/how-to-make-a-diy-minimal-sew-mask/step7.png){: width="544" height="407"}
 
 Make sure to trim any strings and adjust your pleats as needed.
 
