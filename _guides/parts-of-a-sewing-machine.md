@@ -3,6 +3,8 @@ title: Sewing Machine Basics
 categories:
   - Sewing
 tags:
+  - sewing basics
+  - sewing machine
 example_image:
 difficulty: Easy
 time_required: 30-60 minutes
@@ -29,7 +31,7 @@ If you are new to sewing, learning the parts of a sewing machine is an essential
 
 A sewing machine works by taking upper spool needle thread and weaving it with lower bobbin thread. Here is a neat animation that demonstrates how it works. The upper thread is shown in green, and the lower bobbin thread is shown in blue.
 
-&nbsp;
+![](/uploads/parts-of-a-sewing-machine/bobbindiagram.gif){: width="371" height="387"}
 
 *Source: [sewingschool.org](http://sewingschool.org/2010/11/04/how-a-bobbin-works/){: target="_blank" rel="noopener"}*
 
@@ -39,7 +41,7 @@ A sewing machine works by taking upper spool needle thread and weaving it with l
 
 Put desired thread spoon on spool holder and follow diagram on machine to run thread towards bobbin winder. Bobbin is initially threaded up through hole on top. Pop bobbin on winder holder and push right. Hold on to the thread initially and start winding by pressing foot pedal, cut thread, then continue winding until about 3/4 full. Push bobbin left to pop it out and cut.
 
-&nbsp;
+![](/uploads/parts-of-a-sewing-machine/windingbobbin.png){: width="636" height="314"}
 
 *Source: [Brother XR9550PRW Manual](https://support.brother.com/g/b/manualtop.aspx?c=us&amp;lang=en&amp;prod=hf_xr9550eus){: target="_blank" rel="noopener"}*
 
@@ -47,7 +49,7 @@ Put desired thread spoon on spool holder and follow diagram on machine to run th
 
 Turn balance wheel to reveal thread take-up lever. Following diagram on machine, run thread around metal guide, down, back up and over take-up lever, back down, through the metal slit, through front eye of needle, down under presser foot and towards back left of machine.&nbsp;
 
-&nbsp;
+![](/uploads/parts-of-a-sewing-machine/upperthreading.png){: width="571" height="396"}
 
 *Source: [Brother XR9550PRW Manual](https://support.brother.com/g/b/manualtop.aspx?c=us&amp;lang=en&amp;prod=hf_xr9550eus){: target="_blank" rel="noopener"}*
 
@@ -55,7 +57,7 @@ Turn balance wheel to reveal thread take-up lever. Following diagram on machine,
 
 Bobbin is loaded into the machine with thread oriented counterclockwise. Follow diagram on machine to run thread down, up and around to the left of bobbin. Replace bobbin cover.
 
-&nbsp;
+![](/uploads/parts-of-a-sewing-machine/lowerthreading.png){: width="513" height="390"}
 
 *Source: [Brother XR9550PRW Manual](https://support.brother.com/g/b/manualtop.aspx?c=us&amp;lang=en&amp;prod=hf_xr9550eus){: target="_blank" rel="noopener"}*
 
@@ -63,7 +65,7 @@ Bobbin is loaded into the machine with thread oriented counterclockwise. Follow 
 
 Hold the upper thread with your fingers. Turn wheel towards you once so that needle goes down and pulls the bobbin thread up (it may help to gently pull the upper thread). You should see a little loop appear. Use scissors, tweezers, or something pointy to pull the bobbin thread up and out from below the presser foot. Pull both threads towards the back of the machine.
 
-&nbsp;
+![](/uploads/parts-of-a-sewing-machine/pullupthread.png){: width="564" height="318"}
 
 *Source: [Brother XR9550PRW Manual](https://support.brother.com/g/b/manualtop.aspx?c=us&amp;lang=en&amp;prod=hf_xr9550eus){: target="_blank" rel="noopener"}*
 
@@ -71,7 +73,7 @@ Hold the upper thread with your fingers. Turn wheel towards you once so that nee
 
 Set stitch type to 01 (straight stitch with needle in center position), and set stitch length (top number) to 3.5. The bottom number is for stitch width and only applies to certain stitch types.For simple projects stick to a simple straight stitch type of 00 or 01 with stitch length of 3.5. A 00 stitch is a straight stitch with needle in the left position.&nbsp;
 
-&nbsp;
+![](/uploads/parts-of-a-sewing-machine/stitchsettings.png){: width="494" height="197"}
 
 *Source: [Brother XR9550PRW Manual](https://support.brother.com/g/b/manualtop.aspx?c=us&amp;lang=en&amp;prod=hf_xr9550eus){: target="_blank" rel="noopener"}*
 
@@ -79,7 +81,7 @@ Set stitch type to 01 (straight stitch with needle in center position), and set 
 
 Always begin and end a seam with a backstitch. A backstitch "locks" the ends of a thread to keep the stitch strong and secure. To backstitch, start sewing and quickly press and release the backstitch button (reverse icon) on the machine. You will see the fabric move forward and then reverse direction, essentially stitching over itself. As you near the end of your stitch, make sure to backstitch to lock the end of the stitch. Then pull the fabric out and cut the thread using scissors or cutter on left side of machine. Leave enough thread to begin the next stitch.
 
-&nbsp;
+![](/uploads/parts-of-a-sewing-machine/backstitch.png){: width="230" height="219"}
 
 *Source: [Brother XR9550PRW Manual](https://support.brother.com/g/b/manualtop.aspx?c=us&amp;lang=en&amp;prod=hf_xr9550eus){: target="_blank" rel="noopener"}*
 
