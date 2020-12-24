@@ -1,4 +1,4 @@
-/**
+de/**
  * This is a general theme CSS file used to style all mobile & global
  * styles following the "mobile first" pattern. To stay organized and
  * prevent this file becoming long and unmanageable, it's recommended you
@@ -173,6 +173,7 @@ ul.guide-summary .detail {
   text-align:right;
   display:block;
   float:right;
+  max-width: 50%;  
 }
 /**
  * https://www.materialui.co/colors
