@@ -93,31 +93,43 @@ Make sure to trim any strings and adjust your pleats as needed.
 
 If you are using up-cycled fabric you can use some of the folded edging for your nose support pocket.
 
+![](/uploads/how-to-make-a-diy-minimal-sew-mask/nose-upcycled.png){: width="573" height="336"}
+
 If you do not have this option, sew a long tube to fit your support material securing any live edges.
 
 #### Step 1
 
-Cut your pocket one inch longer than your nose support of choice
+Cut your pocket one inch longer than your nose support of choice.
 
-Fold the live edges inward 1/4" at the opening of the pocket (left side of image) and fold the back edge under (right side of image) which will lay against the fabric of the mask- pin both as needed
+Fold the live edges inward 1/4" at the opening of the pocket (left side of image) and fold the back edge under (right side of image) which will lay against the fabric of the mask - pin both as needed.
+
+![](/uploads/how-to-make-a-diy-minimal-sew-mask/nose1.png){: width="625" height="469"}
 
 #### Step 2
 
-Pin pocket at top edge of mask making sure it is centered and that the folded back edge of the pocket is facing down
+Pin pocket at top edge of mask making sure it is centered and that the folded back edge of the pocket is facing down.
+
+![](/uploads/how-to-make-a-diy-minimal-sew-mask/nose2.png){: width="801" height="565"}
 
 #### Step 3
 
-Starting from the open side of the pocket, sew all three edges to the mask as close to the pocket's edge as possible without affecting the integrity
+Starting from the open side of the pocket, sew all three edges to the mask as close to the pocket's edge as possible without affecting the integrity.
 
-When you get to the corners, lift your presser foot and pivot to continue sewing on the other edge
+When you get to the corners, lift your presser foot and pivot to continue sewing on the other edge.
+
+![](/uploads/how-to-make-a-diy-minimal-sew-mask/nose3.png){: width="649" height="569"}
 
 #### Step 4
 
-Once your edges are sewn, you can add your support into the pocket
+Once your edges are sewn, you can add your support into the pocket.
 
-Make sure you remove your support if you need to wash you mask (do this as often as possible)
+Make sure you remove your support if you need to wash you mask (do this as often as possible).
 
-## Marvel at your creation because you are finished\!
+![](/uploads/how-to-make-a-diy-minimal-sew-mask/nose4.png){: width="821" height="600"}
+
+## Marvel at your creation because you are finished\!\!
+
+![](/uploads/how-to-make-a-diy-minimal-sew-mask/finished.png){: width="779" height="507"}
 
 Notes:
 
