@@ -19,6 +19,8 @@ In this guide, you'll learn how to sew a simple drawstring bag out of reusable m
 2. **String/Rope.** You'll need twine, jute, thin rope, long shoelaces or similar to use for your drawstring.
 3. **Sewing machine (or needle and thread).** You can sew this bag by hand but a sewing machine will be much faster. Either way you'll need the usual sewing supplies: thread, scissors, ruler, and sewing pins. A [bone folder](https://www.joann.com/fiskars-bone-folder/10224780.html){: target="_blank" rel="noopener"}, [tailors chalk](https://www.joann.com/dritz-tailor-chalk-refill-white/1049832.html){: target="_blank" rel="noopener"}, and fabric iron are also recommended.
 
+---
+
 #### **Materials preparation**
 
 ![](/uploads/how-to-sew-a-drawstring-bag/materials.png){: width="580" height="107"}
@@ -26,6 +28,8 @@ In this guide, you'll learn how to sew a simple drawstring bag out of reusable m
 * A \| Measure and cut one small piece of fabric: 18" x 5"
 * B \| Measure and cut one large piece of fabric: 18" x 15"
 * Measure and cut rope to be around 48" long.
+
+---
 
 ### STEP 1
 
@@ -90,7 +94,3 @@ Now flip your bag inside out to reveal your finished bag\!
 ### Congrats\!
 
 Now that you know how to sew a drawstring bag, feel free to experiment with these instructions. Try different sizes, colors, and types of materials\!
-
-&nbsp;
-
-&nbsp;
