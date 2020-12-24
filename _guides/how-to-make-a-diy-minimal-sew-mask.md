@@ -43,13 +43,19 @@ This is customizable, basically you need the mask height to be the short edge an
 
 Place the fabric face down on work surface. Using a hard edge or iron, fold inward and score the bottom and top long edge 1/4" of the fabric.
 
+![](/uploads/how-to-make-a-diy-minimal-sew-mask/step1.png){: width="549" height="411"}
+
 ## Step 2
 
 Add elastics around the fabric long ways.
 
+![](/uploads/how-to-make-a-diy-minimal-sew-mask/step2.png){: width="602" height="442"}
+
 ## Step 3
 
-Align the short edges of the fabric and sew along the entire length making sure to sew over the scored folded edges to secure them
+Align the short edges of the fabric and sew along the entire length making sure to sew over the scored folded edges to secure them.
+
+![](/uploads/how-to-make-a-diy-minimal-sew-mask/step3.png){: width="417" height="556"}
 
 ## Step 4
 
@@ -79,23 +85,23 @@ If you are using up-cycled fabric you can use some of the folded edging for your
 
 If you do not have this option, sew a long tube to fit your support material securing any live edges.
 
-### Step 1
+#### Step 1
 
 Cut your pocket one inch longer than your nose support of choice
 
 Fold the live edges inward 1/4" at the opening of the pocket (left side of image) and fold the back edge under (right side of image) which will lay against the fabric of the mask- pin both as needed
 
-### Step 2
+#### Step 2
 
 Pin pocket at top edge of mask making sure it is centered and that the folded back edge of the pocket is facing down
 
-### Step 3
+#### Step 3
 
 Starting from the open side of the pocket, sew all three edges to the mask as close to the pocket's edge as possible without affecting the integrity
 
 When you get to the corners, lift your presser foot and pivot to continue sewing on the other edge
 
-### Step 4
+#### Step 4
 
 Once your edges are sewn, you can add your support into the pocket
 
