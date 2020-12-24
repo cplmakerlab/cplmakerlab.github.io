@@ -37,11 +37,15 @@ Take the smaller piece of fabric (A) and measure and mark 1" bands on each side 
 
 ![](/uploads/how-to-sew-a-drawstring-bag/step1.png){: width="497" height="266"}
 
+---
+
 ### STEP 2
 
 Fold over and press flat using a bone folder and a hot iron. If you don't have a bone folder you can use a wooden stick, dull knife or letter opener.
 
 ![](/uploads/how-to-sew-a-drawstring-bag/step2.png){: width="436" height="249"}
+
+---
 
 ### STEP 3
 
@@ -49,11 +53,15 @@ Sew down both ends. Don't forget to [backstitch (aka reverse stitch)](https://do
 
 ![](/uploads/how-to-sew-a-drawstring-bag/step3.png){: width="417" height="234"}
 
+---
+
 ### STEP 4
 
 Fold A lengthwise so that the rough edges are on the inside. Fold over and press flat using a hot iron.
 
 ![](/uploads/how-to-sew-a-drawstring-bag/step4.png){: width="872" height="159"}
+
+---
 
 ### STEP 5
 
@@ -61,11 +69,15 @@ Pin A to the top of B, and sew along the top.
 
 ![](/uploads/how-to-sew-a-drawstring-bag/step5.png){: width="607" height="386"}
 
+---
+
 ### STEP 6
 
 Flip A up, iron flat, and add the string.
 
 ![](/uploads/how-to-sew-a-drawstring-bag/step6.png){: width="589" height="420"}
+
+---
 
 ### STEP 7
 
@@ -73,11 +85,15 @@ Fold B vertically so that the rough edge of A is facing out.&nbsp; At this point
 
 ![](/uploads/how-to-sew-a-drawstring-bag/step7.png){: width="408" height="475"}
 
+---
+
 ### STEP 8
 
 Line up the edges of A and pin B. It's ok if the edges of B don't line up exactly or have some overhang.
 
 ![](/uploads/how-to-sew-a-drawstring-bag/step8-1.png){: width="366" height="405"}
+
+---
 
 ### STEP 9
 
@@ -85,11 +101,15 @@ Sew along the edges of B. You don't have to sew right along the edge, you can le
 
 ![](/uploads/how-to-sew-a-drawstring-bag/step9.png){: width="335" height="409"}
 
+---
+
 ### STEP 10
 
 Now flip your bag inside out to reveal your finished bag\!
 
 ![](/uploads/how-to-sew-a-drawstring-bag/step10.png){: width="342" height="395"}
+
+---
 
 ### Congrats\!
 
