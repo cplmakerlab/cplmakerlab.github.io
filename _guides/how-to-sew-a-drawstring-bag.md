@@ -75,7 +75,7 @@ Fold B vertically so that the rough edge of A is facing out.&nbsp; At this point
 
 ### STEP 8
 
-![](/uploads/how-to-sew-a-drawstring-bag/step8.png){: width="410" height="425"}
+![](/uploads/how-to-sew-a-drawstring-bag/step8-1.png){: width="366" height="405"}
 
 Line up the edges of A and pin B. It's ok if the edges of B don't line up exactly or have some overhang.
 
