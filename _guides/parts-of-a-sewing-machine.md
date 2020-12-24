@@ -1,12 +1,12 @@
 ---
-title: Parts of a sewing machine
+title: Sewing Machine Basics
 categories:
   - Sewing
 tags:
 example_image:
 difficulty: Easy
-time_required: < 5 minutes
-file_attachment_path: /uploads/parts-of-a-sewing-machine/sewing-machine-notes.svg
+time_required: 30-60 minutes
+file_attachment_path: /uploads/parts-of-a-sewing-machine/sewing-machine-notes.pdf
 ---
 
 In this guide you'll learn:
@@ -19,7 +19,7 @@ In this guide you'll learn:
 
 If you are new to sewing, learning the parts of a sewing machine is an essential first step. Every sewing machine looks slightly different, but they all have the same basic parts. For a detailed explanation, see Alexandra Churchill's article: [The Anatomy of a Sewing Machine: A Guide to All Parts and Their Uses](https://www.marthastewart.com/7846161/sewing-machine-parts-explained){: target="_blank" rel="noopener"}.
 
-&nbsp;
+![](/uploads/parts-of-a-sewing-machine/sewing-machine-parts-1.jpg){: width="520" height="451"}
 
 *Source: [textileaid.blogspot.com](http://textileaid.blogspot.com/2019/02/parts-of-garments-sewing-machines.html){: target="_blank" rel="noopener"}*
 
