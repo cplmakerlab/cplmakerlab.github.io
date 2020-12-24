@@ -1,7 +1,7 @@
 ---
 title: Example guide
 categories:
-  - Coding
+  - Web
 tags:
   - Cloudcannon
   - How-To
