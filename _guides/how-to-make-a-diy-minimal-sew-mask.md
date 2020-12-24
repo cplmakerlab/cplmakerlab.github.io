@@ -1,14 +1,3 @@
----
-title: How to make a DIY Minimal Sew Mask
-categories:
-  - Sewing
-tags:
-example_image:
-difficulty: Medium
-time_required: 2 hours
-file_attachment_path: /uploads/diy-minimal-sew-mask-instructions.pdf
----
-
 These basic instructions will teach you how to make a simple fabric mask with elastics and preferably up-cycled fabric. The design process also allows for an optional nose support and can also accomodate a filter insert.
 
 ### What you'll need
