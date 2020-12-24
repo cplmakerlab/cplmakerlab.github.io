@@ -1,8 +1,10 @@
 ---
-title: How to make a DIY Minimal Sew Mask
+title: How to Make a DIY Minimal Sew Mask
 categories:
   - Sewing
 tags:
+  - sewing machine
+  - sewing basics
 example_image: /uploads/how-to-make-a-diy-minimal-sew-mask/example-mask-image.png
 difficulty: Medium
 time_required: 2-3 hours
