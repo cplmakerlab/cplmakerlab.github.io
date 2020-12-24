@@ -27,8 +27,6 @@ In this guide, you'll learn how to sew a simple drawstring bag out of reusable m
 * B \| Measure and cut one large piece of fabric: 18" x 15"
 * Measure and cut rope to be around 48" long.
 
-&nbsp;
-
 ### Step 1
 
 ![](/uploads/how-to-sew-a-drawstring-bag/step1.png){: width="497" height="266"}
