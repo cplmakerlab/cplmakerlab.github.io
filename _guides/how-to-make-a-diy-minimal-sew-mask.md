@@ -12,6 +12,8 @@ file_attachment_path: >-
 
 These basic instructions will teach you how to make a simple fabric mask with elastics and preferably up-cycled fabric. The design process also allows for an optional nose support and can also accomodate a filter insert.
 
+---
+
 ### What you'll need
 
 * Sewing machine or a needle and thread
