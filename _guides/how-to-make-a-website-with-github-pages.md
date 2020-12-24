@@ -1,5 +1,5 @@
 ---
-title: How to make a website with Github Pages
+title: How to Make a Website with Github Pages
 categories:
 tags:
   - github
