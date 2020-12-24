@@ -5,7 +5,7 @@ categories:
 tags:
 example_image: /uploads/how-to-make-a-diy-minimal-sew-mask/example-mask-image.png
 difficulty: Medium
-time_required: 2 hours
+time_required: 2-3 hours
 file_attachment_path: >-
   /uploads/how-to-make-a-diy-minimal-sew-mask/diy-minimal-sew-mask-instructions.pdf
 ---
