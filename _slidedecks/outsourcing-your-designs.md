@@ -6,4 +6,137 @@ slides:
     background_color: '#90dbff'
     background_image:
     background_size: cover
+  - title: What is outsourcing?
+    content_markdown: |-
+      ## **What is outsourcing?**
+
+      &nbsp;
+    background_color: '#90dbff'
+    background_image:
+    background_size: cover
+  - title: Popular Companies
+    content_markdown:
+    background_color: '#90dbff'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#90dbff'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#90dbff'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#90dbff'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#90dbff'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#90dbff'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#90dbff'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#90dbff'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#90dbff'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#90dbff'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#90dbff'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#90dbff'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#90dbff'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#90dbff'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#90dbff'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#90dbff'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#90dbff'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#90dbff'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#90dbff'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#90dbff'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#90dbff'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#90dbff'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#90dbff'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#90dbff'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#90dbff'
+    background_image:
+    background_size: cover
 ---
