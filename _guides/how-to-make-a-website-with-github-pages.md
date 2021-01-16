@@ -9,7 +9,7 @@ tags:
   - JS
   - GIT
   - Coding
-example_image:
+example_image: /uploads/how-to-make-a-website-with-github-pages/website-example.png
 difficulty: Hard
 time_required: 2 - 4 hours
 file_attachment_path: /uploads/website-handout.pdf
