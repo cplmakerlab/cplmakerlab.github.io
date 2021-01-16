@@ -1,7 +1,7 @@
 ---
 title: How to Make a Website with Github Pages
 categories:
-  - Web
+  - Coding
 tags:
   - github
   - HTML
