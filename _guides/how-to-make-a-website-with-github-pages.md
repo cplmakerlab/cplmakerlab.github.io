@@ -15,7 +15,7 @@ time_required: 2 - 4 hours
 file_attachment_path: /uploads/website-handout.pdf
 ---
 
-In this guide, you'll learn how to make a simple website for Github Pages using HTML, CSS, and Javascript.
+In this guide, you'll learn how to make a simple website for Github Pages using HTML, CSS, and Javascript. By the end you'll have made your own website that you can share with your friends.
 
 * View example: [https://cplmakerlab.github.io/simple-website-template/](https://cplmakerlab.github.io/simple-website-template/){: target="_blank" rel="noopener"}
 * Starter Template: [https://github.com/cplmakerlab/simple-website-template](https://github.com/cplmakerlab/simple-website-template){: target="_blank" rel="noopener"}
@@ -64,6 +64,8 @@ In the HTML editor look for the title tag: `<title>Your title here</title>` Chan
 
 ![](/uploads/how-to-make-a-website-with-github-pages/website-guide5.png){: width="325" height="199"}
 
+For more examples of tags, see the "Common HTML Tags" table at the end of this guide.
+
 ### Step 8: Commit your changes
 
 Scroll down and click **Commit changes**. This will save and push the changes you made to the gh-pages branch. Git uses branches and commits to manage different versions of your files.
@@ -93,7 +95,9 @@ Yeah\! You did it\! Now you can share your website link with your friends so the
 * Update the text inside the footer region in index.html
 * Update the text inside the Home, About, and Contact regions in index.html
 
-## Common HTML tags
+---
+
+#### Common HTML tags
 
 | Element | Tag | Example usage |
 | --- | --- | --- |
@@ -102,6 +106,8 @@ Yeah\! You did it\! Now you can share your website link with your friends so the
 | Image | img | `<img src="http://www.example.com/image.jpg">` |
 | Paragraph | p | `<p>This is a new paragraph.</p>` |
 | Line break | br | `This is the first line of a poem. <br> This second line will appear below the first.` |
+
+---
 
 ## Further reading
 
@@ -119,7 +125,7 @@ Yes\! You can embed Google Analytics to see who is visiting your site.
 
 ### Can I add a blog, etc?
 
-Not really. This template works best for simple sites. For a simple blog check out [Jekyll, which is a static site generator that also works on Github pages](https://help.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll). For more functionality, you will probably need a content management system (CMS) such as [Wordpress](https://wordpress.com), [Drupal](http://drupal.org), or [Django](https://www.djangoproject.com). A CMS will require additional setup and a website host, such as [Dreamhost](https://www.dreamhost.com/).
+Not really. This template works best for simple sites. For a simple blog check out [Jekyll, which is a static site generator that also works on Github pages](https://help.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll) and [Cloudcannon](http://cloudcannon.com){: target="_blank" rel="noopener"} which provides a backend UI for Jekyll sites. For more functionality, you will probably need a content management system (CMS) such as [Wordpress](https://wordpress.com), [Drupal](http://drupal.org), or [Django](https://www.djangoproject.com). A CMS will require additional setup and a website host, such as [Dreamhost](https://www.dreamhost.com/).
 
 ### Can I sell products or add a store?
 
