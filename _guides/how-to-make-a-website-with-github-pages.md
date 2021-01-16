@@ -10,7 +10,7 @@ tags:
   - GIT
   - Coding
 example_image: /uploads/how-to-make-a-website-with-github-pages/website-example.png
-difficulty: Hard
+difficulty: Medium
 time_required: 2 - 4 hours
 file_attachment_path: /uploads/website-handout.pdf
 ---
