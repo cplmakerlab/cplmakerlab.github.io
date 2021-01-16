@@ -44,7 +44,7 @@ Once you have forked the project, click the **Edit** button to the write of "Web
 
 *Example URL (replace yourusername with your github username):*
 
-`https://**yourusername**.github.io/simple-website-template`
+`https://yourusername.github.io/simple-website-template`
 
 ### Step 5: Try to load your website URL
 
