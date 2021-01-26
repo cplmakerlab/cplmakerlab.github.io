@@ -214,8 +214,21 @@ slides:
     background_color: '#90dbff'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Manufacturing on a Large Scale
+    content_markdown: >-
+      ## **Manufacturing on a Large Scale **
+
+
+      * If you need to make 100+ of an item, you might want to contact a company
+      to make your product.&nbsp;
+
+      * Previously mentioned outsourcing companies can still be used for cheap
+      prototypes, but you shouldn’t use them to make 100 of an item in most
+      circumstances.&nbsp;
+
+      * Craftcloud from All3DP lets you compare with quantity as a
+      setting![](/uploads/outsourcing-your-designs/b.png){: width="264"
+      height="75"}
     background_color: '#90dbff'
     background_image:
     background_size: cover
