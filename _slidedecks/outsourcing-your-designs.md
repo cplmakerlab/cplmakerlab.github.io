@@ -187,7 +187,7 @@ slides:
     background_color: '#90dbff'
     background_image:
     background_size: cover
-  - title: 'Sticker Mule (Sticker Giant, Stickeryou)'
+  - title: 'Sticker Mule (Also Sticker Giant, Stickeryou)'
     content_markdown: |-
       ## Sticker Mule (Sticker Giant, Stickeryou)
 
