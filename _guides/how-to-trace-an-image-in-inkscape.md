@@ -1,7 +1,7 @@
 ---
 title: How to Trace an Image in Inkscape
 categories:
-  - 2D design
+  - 2D Design
 tags:
   - Inkscape
 example_image:
