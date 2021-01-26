@@ -51,13 +51,21 @@ slides:
     background_color: '#90dbff'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Plastics
+    content_markdown: >-
+      ## **Plastics**
+
+
+      **![](/uploads/outsourcing-your-designs/2.png){: width="1239"
+      height="572"}**
     background_color: '#90dbff'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Resin
+    content_markdown: |-
+      ## Resin
+
+      ![](/uploads/outsourcing-your-designs/3.png){: width="1239" height="627"}
     background_color: '#90dbff'
     background_image:
     background_size: cover
