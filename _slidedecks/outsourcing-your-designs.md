@@ -38,15 +38,11 @@ slides:
     content_markdown: |-
       ## **Things to Consider While Outsourcing**
 
-      * **Material**
-
-      * **Cost**
-
-      * **Time**
-
-      * **Shipping / Country of origin**
-
-      * **Ethics**
+      * Material
+      * Cost
+      * Time
+      * Shipping / Country of origin
+      * Ethics
     background_color: '#90dbff'
     background_image:
     background_size: cover
