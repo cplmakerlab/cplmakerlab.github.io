@@ -22,7 +22,15 @@ slides:
     background_image:
     background_size: cover
   - title: Popular Companies
-    content_markdown:
+    content_markdown: >-
+      ## Popular Companies&nbsp;
+
+
+      ![](/uploads/outsourcing-your-designs/1-1.png){: width="1871"
+      height="916"}
+
+
+      Shapeways, Sculpteo, 3D Hubs, i.Materialise
     background_color: '#90dbff'
     background_image:
     background_size: cover
