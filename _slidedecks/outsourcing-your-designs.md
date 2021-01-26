@@ -7,10 +7,9 @@ slides:
     background_image:
     background_size: cover
   - title: Outsourcing your Designs
-    content_markdown: |-
-      ## Outsourcing your Designs&nbsp;
-
-      ![](/uploads/outsourcing-your-designs/1.png){: width="798" height="198"}
+    content_markdown: >-
+      ## ![](/uploads/outsourcing-your-designs/1.png){: width="798"
+      height="198"}
     background_color: '#90dbff'
     background_image:
     background_size: cover
