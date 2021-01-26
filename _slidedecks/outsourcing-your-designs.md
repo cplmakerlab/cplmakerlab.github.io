@@ -176,7 +176,6 @@ slides:
       * ABS
       * Acetal \[Delrin\]
       * Acrylic
-      * G-10 Garolite
       * Nylon 6/6
       * Steel
       * \+ More&nbsp;
