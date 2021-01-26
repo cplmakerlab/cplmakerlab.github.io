@@ -178,7 +178,8 @@ slides:
       * Acrylic
       * G-10 Garolite
       * Nylon 6/6
-      * PEEK<br>&nbsp;
+      * Steel
+      * \+ More&nbsp;
     background_color: '#90dbff'
     background_image:
     background_size: cover
