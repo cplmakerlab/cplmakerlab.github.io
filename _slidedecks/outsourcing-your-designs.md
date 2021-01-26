@@ -131,13 +131,22 @@ slides:
     background_color: '#90dbff'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Ethics
+    content_markdown: '## **Ethics**'
     background_color: '#90dbff'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Labor/ Waste
+    content_markdown: >-
+      ## **Labor/ Waste**
+
+
+      * Is the company green/ environmentally sustainable?&nbsp;
+
+      * Can the material I use be recycled later on?&nbsp;
+
+      * How are the employees treated? Have there been any reports about
+      mistreatment?
     background_color: '#90dbff'
     background_image:
     background_size: cover
