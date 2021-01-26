@@ -1,6 +1,11 @@
 ---
 title: Outsourcing Your Designs
 slides:
+  - title: Outsourcing Your Designs
+    content_markdown: '## Outsourcing Your Designs'
+    background_color: '#90dbff'
+    background_image:
+    background_size: cover
   - title: Outsourcing your Designs
     content_markdown: |-
       ## Outsourcing your Designs&nbsp;
