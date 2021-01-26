@@ -114,8 +114,20 @@ slides:
     background_color: '#90dbff'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Time Considerations
+    content_markdown: >-
+      ## **Time Considerations**
+
+
+      &nbsp;
+
+
+      * Do I need my object fabricated to meet a certain deadline?&nbsp;
+        * You will usually need to give companies at least 3 weeks.
+
+      * Do I need to make multiple prototypes? How can I check scale, or if
+      parts fit together?
+        * Check material properties lists from the company to see how much particular materials shrink.
     background_color: '#90dbff'
     background_image:
     background_size: cover
