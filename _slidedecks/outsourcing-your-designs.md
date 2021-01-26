@@ -34,13 +34,20 @@ slides:
     background_color: '#90dbff'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Things to Consider While Outsourcing
+    content_markdown: |-
+      ## **Things to Consider While Outsourcing**
+
+      * **Material**
+      * **Cost**
+      * **Time**
+      * **Shipping / Country of origin**
+      * **Ethics**
     background_color: '#90dbff'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Material
+    content_markdown: '## Material'
     background_color: '#90dbff'
     background_image:
     background_size: cover
