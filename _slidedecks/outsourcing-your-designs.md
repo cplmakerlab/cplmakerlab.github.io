@@ -23,7 +23,7 @@ slides:
     background_size: cover
   - title: Popular Companies
     content_markdown: >-
-      ## Popular Companies&nbsp;
+      ## Popular 3D Printing Companies&nbsp;
 
 
       ![](/uploads/outsourcing-your-designs/1-1.png){: width="1871"
