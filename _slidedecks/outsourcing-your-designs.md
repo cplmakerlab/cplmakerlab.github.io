@@ -166,22 +166,19 @@ slides:
     background_image:
     background_size: cover
   - title: Materials
-    content_markdown: >-
+    content_markdown: |-
       ## Materials
 
-
-      <table><tbody><tr><td><ul><li>Aluminum (2024-T3 -
-      7075</li></ul><ul><li>Brass (C360, 260)</li><li>C932 M07 Bearing
-      Bronze</li><li>Copper (101, C110)</li><li>ABS</li><li>Acetal
-      [Delrin]</li><li>Acrylic</li><li>G-10 Garolite</li><li>Nylon
-      6/6</li><li>PEEK</li></ul></td><td><ul><li>Polycarbonate</li><li>PTFE
-      [Teflon]</li><li>Polypropylene</li><li>Ultra-High Molecular Weight
-      Polyethylene</li><li>Alloy Steel (4130, 4140)</li><li>Stainless Steel (15
-      - 420)</li><li>Steel (1018, A36)</li><li>Titanium (6Al-4V, Grade
-      2)</li><li>Zinc Sheet Alloy 500</li></ul></td></tr></tbody></table>
-
-
-      &nbsp;
+      * Aluminum (2024-T3 - 7075-T6)
+      * Brass (C360, 260)
+      * C932 M07 Bearing Bronze
+      * Copper (101, C110)
+      * ABS
+      * Acetal \[Delrin\]
+      * Acrylic
+      * G-10 Garolite
+      * Nylon 6/6
+      * PEEK<br>&nbsp;
     background_color: '#90dbff'
     background_image:
     background_size: cover
