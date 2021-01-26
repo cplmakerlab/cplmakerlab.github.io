@@ -197,7 +197,7 @@ slides:
     background_size: cover
   - title: Sticker Mule
     content_markdown: |-
-      ## **Sticker Mule **
+      ## **Sticker Mule**
 
       ![](/uploads/outsourcing-your-designs/9.png){: width="1181" height="884"}
     background_color: '#90dbff'
@@ -215,7 +215,7 @@ slides:
     background_size: cover
   - title: Manufacturing on a Large Scale
     content_markdown: >-
-      ## **Manufacturing on a Large Scale **
+      ## **Manufacturing on a Large Scale**
 
 
       * If you need to make 100+ of an item, you might want to contact a company
