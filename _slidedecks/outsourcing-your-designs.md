@@ -232,23 +232,11 @@ slides:
     background_color: '#90dbff'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
-    background_color: '#90dbff'
-    background_image:
-    background_size: cover
-  - title:
-    content_markdown:
-    background_color: '#90dbff'
-    background_image:
-    background_size: cover
-  - title:
-    content_markdown:
-    background_color: '#90dbff'
-    background_image:
-    background_size: cover
-  - title:
-    content_markdown:
+  - title: Contact us with questions!
+    content_markdown: |-
+      ## **Contact us with questions\!&nbsp;**
+
+      ## **makerspace@chipublib.org**
     background_color: '#90dbff'
     background_image:
     background_size: cover
