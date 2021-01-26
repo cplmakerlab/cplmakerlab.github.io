@@ -183,8 +183,8 @@ slides:
     background_color: '#90dbff'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Electronic Cutting
+    content_markdown: '## **Electronic Cutting**'
     background_color: '#90dbff'
     background_image:
     background_size: cover
