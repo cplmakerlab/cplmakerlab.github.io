@@ -196,13 +196,21 @@ slides:
     background_color: '#90dbff'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Sticker Mule
+    content_markdown: |-
+      ## **Sticker Mule **
+
+      ![](/uploads/outsourcing-your-designs/9.png){: width="1181" height="884"}
     background_color: '#90dbff'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Miami Fruit
+    content_markdown: >-
+      ## **Miami Fruit**
+
+
+      **![](/uploads/outsourcing-your-designs/a.png){: width="1200"
+      height="802"}**
     background_color: '#90dbff'
     background_image:
     background_size: cover
