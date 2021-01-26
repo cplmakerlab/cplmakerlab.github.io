@@ -189,7 +189,7 @@ slides:
     background_size: cover
   - title: 'Sticker Mule (Sticker Giant, Stickeryou)'
     content_markdown: |-
-      Sticker Mule (Sticker Giant, Stickeryou)
+      ## Sticker Mule (Sticker Giant, Stickeryou)
 
       ![](/uploads/outsourcing-your-designs/8.png){: width="1466" height="910"}
     background_color: '#90dbff'
