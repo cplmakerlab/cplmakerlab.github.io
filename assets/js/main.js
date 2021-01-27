@@ -36,7 +36,7 @@ jQuery(function() {
     // ListJS search
     // https://listjs.com/
     var options = {
-      valueNames: ['title' ]
+      valueNames: ['title', 'topic']
     };
     var guideList = new List('guide-list', options); 
     
