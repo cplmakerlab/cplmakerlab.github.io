@@ -4,16 +4,19 @@ header_image: uploads/coding.jpg
 permalink: /guides
 ---
 
+
+<table>
+      			  {% for guide in site.guides %}
+      			    <tr class="title"><td><a href="{{ guide.url }}">{{ guide.title }}</a></td></tr>
+      			  {% endfor %}
+</table>
+
 {% assign topics = "," | split: ","%}
 
 {% for guide in site.guides %}
  {% assign topics = topics | concat: guide.categories | uniq | sort %}
 {% endfor %}
-<table>
-      			  {% for guide in site.guides %}
-      			    <tr class="title"><td></td><a href="{{ guide.url }}">{{ guide.title }}</a></td></tr>
-      			  {% endfor %}
-</table>
+
 
 <section class="row topics">
   <div class="col-sm-4">
