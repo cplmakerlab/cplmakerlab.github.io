@@ -10,7 +10,7 @@ permalink: /guides
  {% assign topics = topics | concat: guide.categories | uniq | sort %}
 {% endfor %}
 <table>
-      			  {% for guide in guides %}
+      			  {% for guide in site.guides %}
       			    <tr class="title"><td></td><a href="{{ guide.url }}">{{ guide.title }}</a></td></tr>
       			  {% endfor %}
 </table>
