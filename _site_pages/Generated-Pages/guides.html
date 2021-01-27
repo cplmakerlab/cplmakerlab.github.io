@@ -7,7 +7,20 @@ permalink: /guides
 
 <table>
       			  {% for guide in site.guides %}
-      			    <tr class="title"><td><a href="{{ guide.url }}">{{ guide.title }}</a></td></tr>
+      			    <tr class="title">
+      			      <td>
+                    {% for category in guide.categories %}
+                      {{ category }}
+                    {% endfor %}
+                  </td>
+      			      <td><a href="{{ guide.url }}">{{ guide.title }}</a></td>
+      			      <td>
+                    {% for tag in guide.tags %}
+                     #{{ tag }} <br/>
+                    {% endfor %}
+                  </td>      			       
+      			       
+      			   </tr>
       			  {% endfor %}
 </table>
 
