@@ -40,7 +40,13 @@ permalink: /guides
       			<h4 class="topic">{{ topic }}<a name="{{topic}}"></a></h4>
       			<ul>
       			  {% for guide in guides %}
-      			    <li class="title"><a href="{{ guide.url }}">{{ guide.title }}</a></li>
+      			    <li class="title"><a href="{{ guide.url }}">{{ guide.title }}</a>
+        			    <span class="tags">
+        			    {% for tag in guide.tags %}
+                    <a class="tag-name">>{{ tag }}</a>
+                  {% endfor %}
+                  </span>
+      			    </li>
       			  {% endfor %}
       			</ul>
       		</section>
