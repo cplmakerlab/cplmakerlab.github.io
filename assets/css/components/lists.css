@@ -73,7 +73,10 @@ ul.inline li {
 .list ul {
   margin:0;
   padding:0;
-  list-style:square;
+  list-style:none;
+}
+.list ul li:before {
+  content:"▨";
 }
 
 .list .category {
@@ -87,7 +90,7 @@ ul.inline li {
   font-style:italic;
 }
 .list .tags a:after {
-  content:" - ";
+  content:" · ";
 }
 .list .tags a:last-child:after {
   content:"";
