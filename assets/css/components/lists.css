@@ -36,7 +36,9 @@ ul.inline li {
 }
 
 .list h4 {
-  transform: rotate(-90deg);
-	transform-origin: left top 0;
-	float:left;
+  color: #888;
+  font-size: 1.2rem;
+  display: block;
+  border: none;
+  text-transform: uppercase;  
 }
