@@ -35,6 +35,28 @@ ul.inline li {
 .slidedecks li:hover {
 }
 
+/* Guide/Tags list search*/
+.list-search {
+  margin-bottom:25px;
+  position:relative;
+  max-width:300px;
+}
+.list-search input {
+  width:100%;
+  padding:5px;
+  border-radius:5px;
+  border:solid 1px #ddd;
+}
+.list-search input:outline {
+  border-color:#666;
+}
+.list-search .fa-search {
+  position:absolute;
+  right:10px;
+  top:9px;
+  color:#666;
+}
+
 .list h4 {
   color: #888;
   font-size: 1.2rem;
@@ -45,4 +67,10 @@ ul.inline li {
 .list ul {
   margin:0;
   padding:0;
+  list-style:none;
+}
+
+.list .category {
+  border-bottom:solid 2px;
+  margin:1px 0;
 }
