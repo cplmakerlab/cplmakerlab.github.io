@@ -1,4 +1,4 @@
-de/**
+/**
  * This is a general theme CSS file used to style all mobile & global
  * styles following the "mobile first" pattern. To stay organized and
  * prevent this file becoming long and unmanageable, it's recommended you
@@ -220,21 +220,21 @@ ul.guide-summary .detail {
 .tags .tag-name:hover {
   background-color:#f6f6f6;
 }
-.listjs-search {
+.list-search {
   margin-bottom:25px;
   position:relative;
   max-width:300px;
 }
-.listjs-search input {
+.list-search input {
   width:100%;
   padding:5px;
   border-radius:5px;
   border:solid 1px #ddd;
 }
-.listjs-search input:outline {
+.list-search input:outline {
   border-color:#666;
 }
-.listjs-search .fa-search {
+.list-search .fa-search {
   position:absolute;
   right:10px;
   top:9px;
