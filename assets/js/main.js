@@ -42,7 +42,8 @@ jQuery(function() {
     var guideList = new List('guide-list', options); 
     */
     
-    $('.js-filter-list').on('keyup', function(){
+    // Hide/show list items to quickly filter results
+    $('input.js-filter-search').on('keyup', function(){
       var searchTerm = $(this).val().toLowerCase();
       $('.list li').each(function(){
           if ($(this).filter('[data-search-term *= ' + searchTerm + ']').length > 0 || searchTerm.length < 1) {
