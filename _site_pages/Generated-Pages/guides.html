@@ -13,11 +13,11 @@ permalink: /guides
 
 <section class="topics">
     <div id="guide-list">
-      <div class="list">
+      <ul class="list">
         {% for topic in topics %}
          {% assign guides = site.guides | where:"categories",topic %}
          {% if guides.size > 0 %}
-      			<ul>
+      	
       			  {% for guide in guides %}
       			    <li class="row">
       			      <div class="col-sm-3"><h4 class="topic">{{ topic }}<a name="{{topic}}"></a></h4></div>
@@ -31,7 +31,7 @@ permalink: /guides
                   </div>
       			    </li>
       			  {% endfor %}
-      			</ul>
+      
       		{% endif %}
       	{% endfor %} 
     	</div>
