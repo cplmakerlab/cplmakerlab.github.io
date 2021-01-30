@@ -35,10 +35,24 @@ jQuery(function() {
     
     // ListJS search
     // https://listjs.com/
+    /*
     var options = {
       valueNames: ['title', 'topic']
     };
     var guideList = new List('guide-list', options); 
+    */
+    
+    $('.js-filter-list').on('keyup', function(){
+      var searchTerm = $(this).val().toLowerCase();
+      $('.list li').each(function(){
+          if ($(this).filter('[data-search-term *= ' + searchTerm + ']').length > 0 || searchTerm.length < 1) {
+              $(this).show();
+          } else {
+              $(this).hide();
+          }
+      }); 
+    });    
+    
     
     // Fancybox Image Modal 
     // http://fancyapps.com 
