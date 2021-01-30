@@ -12,26 +12,30 @@ permalink: /guides
 
 
 <section class="topics">
+
     <div id="guide-list">
-      <ul class="list">
+      <div class="list">
         {% for topic in topics %}
          {% assign guides = site.guides | where:"categories",topic %}
          {% if guides.size > 0 %}
-      	
+      		<section class="category row">
+      			<div class="col-sm-3">
+      			  <h4 class="topic">{{ topic }}<a name="{{topic}}"></a></h4>
+      			</div>  
+      			<div class="col-sm-8">
+      			<ul>
       			  {% for guide in guides %}
-      			    <li class="row">
-      			      <div class="col-sm-3"><h4 class="topic">{{ topic }}<a name="{{topic}}"></a></h4></div>
-      			      <div class="col-sm-6"><a href="{{ guide.url }}">{{ guide.title }}</a></div>
-        			    <div class="col-sm-3">
-          			    <span class="tags">
-          			    {% for tag in guide.tags %}
-                      <a class="tag-name" href="/tags#{{ tag }}">{{ tag }}</a>
-                    {% endfor %}
-                    </span>
-                  </div>
+      			    <li class="title"><a href="{{ guide.url }}">{{ guide.title }}</a>
+        			    <span class="tags">
+        			    {% for tag in guide.tags %}
+                    <a class="tag-name" href="/tags#{{ tag }}">{{ tag }}</a>
+                  {% endfor %}
+                  </span>
       			    </li>
       			  {% endfor %}
-      
+      			</ul>
+      			</div>
+      		</section>
       		{% endif %}
       	{% endfor %} 
     	</div>
