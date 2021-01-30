@@ -42,8 +42,8 @@ jQuery(function() {
      $('input.js-filter-search').on('keyup', function () {
         var filter = $(this).val().toUpperCase();
         if (filter) {
-          $('.list').find("*:not(:cicontains(" + filter + "))").parent().hide();
-          $('.list').find("*:cicontains(" + filter + ")").parent().show();
+          $('.list li').find("*:not(:cicontains(" + filter + "))").parent().hide();
+          $('.list li').find("*:cicontains(" + filter + ")").parent().show();
         } else {
           $('.list *').show();
         }
