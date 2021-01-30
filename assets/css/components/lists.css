@@ -37,7 +37,6 @@ ul.inline li {
 
 .list h4 {
   transform: rotate(-90deg);
-  float:left;
-  margin:0;
-  padding:0;
+	transform-origin: left top 0;
+	float:left;
 }
