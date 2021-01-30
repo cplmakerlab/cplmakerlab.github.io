@@ -33,15 +33,6 @@ jQuery(function() {
       }
     });
     
-    // ListJS search
-    // https://listjs.com/
-    /*
-    var options = {
-      valueNames: ['title', 'topic']
-    };
-    var guideList = new List('guide-list', options); 
-    */
-    
     // Hide/show list items to quickly filter results. 
     // Used on guide landing and tags landing page
     // https://kilianvalkhof.com/2010/javascript/how-to-build-a-fast-simple-list-filter-with-jquery/
