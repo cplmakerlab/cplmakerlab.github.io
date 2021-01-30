@@ -62,18 +62,19 @@ ul.inline li {
   /*color: #888;*/
   background-color:#ddd;
   border-radius:0 2px 2px 0;
-  color:#222;
+  color:#888;
   padding:5px;
   font-size: 1.2rem;
   display: block;
   border: none;
   text-transform: uppercase;  
-  text-align:center;
+  text-align:left;
+  margin-left:-15px;
 }
 .list ul {
   margin:0;
   padding:0;
-  list-style:none;
+  list-style:square;
 }
 
 .list .category {
