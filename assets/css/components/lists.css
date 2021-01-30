@@ -58,8 +58,6 @@ ul.inline li {
 }
 
 .list h4 {
-  
-  /*color: #888;*/
   background-color:#ddd;
   border-radius:0px 0px 0 0;
   border-bottom:solid 1px #ccc;
@@ -79,7 +77,7 @@ ul.inline li {
 }
 
 .list .category {
-  /*border-top:solid 1px #ddd;*/
+  border-top:solid 1px #ddd;
   margin:1px 0;
 }
 
