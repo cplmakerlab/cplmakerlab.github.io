@@ -77,11 +77,11 @@ ul.inline li {
 }
 .list ul li:before {
   content:"▨";
-  color:#ccc;
+  color:#ECEFF1;
 }
 
 .list .category {
-  border-top:solid 1px #ddd;
+  border-top:solid 1px #ECEFF1;
   margin:1px 0;
 }
 
