@@ -86,9 +86,14 @@ ul.inline li {
   padding:0;
   font-style:italic;
 }
+.list .tags a:after {
+  content:" - ";
+}
+.list .tags a:last-child:after {
+  content:"";
+}
 
-#content .list .tags .tag-name, 
-.list .tags .tag-name {
+#content .list .tags .tag-name {
   border:none;
   padding:0;
   margin:0;
