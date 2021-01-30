@@ -36,6 +36,7 @@ permalink: /guides
         {% for topic in topics %}
          {% assign guides = site.guides | where:"categories",topic %}
          {% if guides.size > 0 %}
+      		<section class="category">
       			<h4 class="topic">{{ topic }}<a name="{{topic}}"></a></h4>
       			<ul>
       			  {% for guide in guides %}
@@ -48,6 +49,7 @@ permalink: /guides
       			    </li>
       			  {% endfor %}
       			</ul>
+      		</section>
       		{% endif %}
       	{% endfor %} 
     	</div>
