@@ -42,3 +42,7 @@ ul.inline li {
   border: none;
   text-transform: uppercase;  
 }
+.list ul {
+  margin:0;
+  padding:0;
+}
