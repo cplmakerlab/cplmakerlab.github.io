@@ -68,6 +68,7 @@ ul.inline li {
   display: block;
   border: none;
   text-transform: uppercase;  
+  text-align:center;
 }
 .list ul {
   margin:0;
