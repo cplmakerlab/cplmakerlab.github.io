@@ -76,6 +76,7 @@ ul.inline li {
   list-style:none;
 }
 .list ul li:before {
+  /* https://en.wikipedia.org/wiki/Geometric_Shapes */
   content:"▨";
   color:#ECEFF1;
 }
