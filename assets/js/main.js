@@ -51,10 +51,10 @@ jQuery(function() {
      $('input.js-filter-search').change( function () {
         var filter = $(this).val().toUpperCase();
         if (filter) {
-          $('.list').find("a:not(:cicontains(" + filter + "))").parent().slideUp();
-          $('.list').find("a:cicontains(" + filter + ")").parent().slideDown();
+          $('.list').find("a:not(:cicontains(" + filter + "))").parent().hide();
+          $('.list').find("a:cicontains(" + filter + ")").parent().show();
         } else {
-          $('.list').find("li").slideDown();
+          $('.list').find("li").show();
         }
       });    
         
