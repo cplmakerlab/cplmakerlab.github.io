@@ -19,10 +19,10 @@ permalink: /guides
          {% assign guides = site.guides | where:"categories",topic %}
          {% if guides.size > 0 %}
       		<section class="category row">
-      			<div class="col-sm-1">
+      			<div class="col-sm-3">
       			  <h4 class="topic">{{ topic }}<a name="{{topic}}"></a></h4>
       			</div>  
-      			<div class="col-sm-11">
+      			<div class="col-sm-8">
       			<ul>
       			  {% for guide in guides %}
       			    <li class="title"><a href="{{ guide.url }}">{{ guide.title }}</a>
