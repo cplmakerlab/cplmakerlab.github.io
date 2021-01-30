@@ -25,12 +25,15 @@ permalink: /guides
       			<div class="col-sm-8">
       			<ul>
       			  {% for guide in guides %}
-      			    <li class="title"><a href="{{ guide.url }}">{{ guide.title }}</a>
-        			    <span class="tags">
-        			    {% for tag in guide.tags %}
-                    <a class="tag-name" href="/tags#{{ tag }}">{{ tag }}</a>
-                  {% endfor %}
-                  </span>
+      			    <li class="title row">
+      			      <div class="col-sm-9"><a href="{{ guide.url }}">{{ guide.title }}</a></div>
+        			    <div class="col-sm-3">
+          			    <span class="tags">
+          			    {% for tag in guide.tags %}
+                      <a class="tag-name" href="/tags#{{ tag }}">{{ tag }}</a>
+                    {% endfor %}
+                    </span>
+                  </div>
       			    </li>
       			  {% endfor %}
       			</ul>
