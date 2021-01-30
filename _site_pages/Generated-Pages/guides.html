@@ -30,11 +30,6 @@ permalink: /guides
   <div class="col-sm-9">
     <div id="guide-list">
       <div class="list">
-      <div class="list-search row">
-        <div class="col-sm-12">
-          <input placeholder="Filter..." class="js-filter-search" /> <i class="fa fa-search"></i>
-        </div>
-      </div>        
         {% for topic in topics %}
          {% assign guides = site.guides | where:"categories",topic %}
          {% if guides.size > 0 %}
