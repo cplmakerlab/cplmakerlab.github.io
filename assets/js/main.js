@@ -42,7 +42,8 @@ jQuery(function() {
     var guideList = new List('guide-list', options); 
     */
     
-    // Hide/show list items to quickly filter results
+    // Hide/show list items to quickly filter results. 
+    // Used on guide landing and tags landing page
     $('input.js-filter-search').on('keyup', function(){
       var searchTerm = $(this).val().toLowerCase();
       $('.list li').each(function(){
