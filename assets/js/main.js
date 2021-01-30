@@ -48,13 +48,13 @@ jQuery(function() {
     jQuery.expr[':'].cicontains = function(a,i,m){
         return (a.textContent || a.innerText || "").toUpperCase().indexOf(m[3].toUpperCase())>=0;
     };    
-     $('input.js-filter-search').blur( function () {
+     $('input.js-filter-search').on('keyup', function () {
         var filter = $(this).val().toUpperCase();
         if (filter) {
-          $('.list').find("a:not(:cicontains(" + filter + "))").parent().hide();
-          $('.list').find("a:cicontains(" + filter + ")").parent().show();
+          $('.list li').find("a:not(:cicontains(" + filter + "))").parent().hide();
+          $('.list li').find("a:cicontains(" + filter + ")").parent().show();
         } else {
-          $('.list').find("*").show();
+          $('.list li').show();
         }
       });    
         
