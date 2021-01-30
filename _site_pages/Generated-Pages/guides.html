@@ -11,23 +11,8 @@ permalink: /guides
 {% endfor %}
 
 
-<section class="row topics">
-  <div class="col-sm-3">
+<section class="topics">
 
-    <div class="jump-nav">
-      <h3>Topics</h3>
-      <ul>
-      {% for topic in topics %}
-       {% assign guides = site.guides | where:"categories",topic %}
-       {% if guides.size > 0 %}
-    			<li><a href="#{{ topic }}">{{ topic }}</a></li>
-    		{% endif %}
-    	{% endfor %}
-  	  </ul>
-  	</div>
-    
-  </div>
-  <div class="col-sm-9">
     <div id="guide-list">
       <div class="list">
         {% for topic in topics %}
@@ -55,5 +40,4 @@ permalink: /guides
       	{% endfor %} 
     	</div>
     </div>
-  </div>
 </section>
