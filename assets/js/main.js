@@ -44,11 +44,15 @@ jQuery(function() {
     
     // Hide/show list items to quickly filter results. 
     // Used on guide landing and tags landing page
+    // https://kilianvalkhof.com/2010/javascript/how-to-build-a-fast-simple-list-filter-with-jquery/
+    jQuery.expr[':'].cicontains = function(a,i,m){
+        return (a.textContent || a.innerText || "").toUpperCase().indexOf(m[3].toUpperCase())>=0;
+    };    
      $('input.js-filter-search').change( function () {
-        var filter = $(this).val();
+        var filter = $(this).val().toUpperCase();
         if (filter) {
-          $('.list').find("a:not(:contains(" + filter + "))").parent().slideUp();
-          $('.list').find("a:contains(" + filter + ")").parent().slideDown();
+          $('.list').find("a:not(:cicontains(" + filter + "))").parent().slideUp();
+          $('.list').find("a:cicontains(" + filter + ")").parent().slideDown();
         } else {
           $('.list').find("li").slideDown();
         }
