@@ -14,6 +14,9 @@ permalink: /guides
 <section class="topics">
 
     <div id="guide-list">
+      <div class="list-search">
+        <input placeholder="Filter..." class="js-filter-search" /> <i class="fa fa-search"></i>
+      </div>      
       <div class="list">
         {% for topic in topics %}
          {% assign guides = site.guides | where:"categories",topic %}
