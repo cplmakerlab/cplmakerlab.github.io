@@ -44,17 +44,16 @@ jQuery(function() {
     
     // Hide/show list items to quickly filter results. 
     // Used on guide landing and tags landing page
-    $('input.js-filter-search').on('keyup', function(){
-      var searchTerm = $(this).val().toLowerCase();
-      $('.list li').each(function(){
-          if ($(this).filter(':contains('+searchTerm+')').length > 0 || searchTerm.length < 1) {
-            $(this).show();
-          } else {
-            $(this).hide();
-          }
-      }); 
-    });    
-    
+     $('input.js-filter-search').change( function () {
+        var filter = $(this).val();
+        if (filter) {
+          $('.list').find("a:not(:contains(" + filter + "))").parent().slideUp();
+          $('.list').find("a:contains(" + filter + ")").parent().slideDown();
+        } else {
+          $('.list').find("li").slideDown();
+        }
+      });    
+        
     
     // Fancybox Image Modal 
     // http://fancyapps.com 
