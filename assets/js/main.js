@@ -54,7 +54,7 @@ jQuery(function() {
           $('.list').find("a:not(:cicontains(" + filter + "))").parent().hide();
           $('.list').find("a:cicontains(" + filter + ")").parent().show();
         } else {
-          $('.list').find("li", "h3").show();
+          $('.list').find("*").show();
         }
       });    
         
