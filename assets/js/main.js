@@ -48,7 +48,7 @@ jQuery(function() {
     jQuery.expr[':'].cicontains = function(a,i,m){
         return (a.textContent || a.innerText || "").toUpperCase().indexOf(m[3].toUpperCase())>=0;
     };    
-     $('input.js-filter-search').change( function () {
+     $('input.js-filter-search').blur( function () {
         var filter = $(this).val().toUpperCase();
         if (filter) {
           $('.list').find("a:not(:cicontains(" + filter + "))").parent().hide();
