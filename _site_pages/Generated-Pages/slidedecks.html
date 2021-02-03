@@ -5,7 +5,7 @@ permalink: /slidedecks
 ---
 
     
- {% assign decks = site.slidedecks %}
+ {% assign decks = site.slidedecks | sort %}
  {% if decks.size > 0 %}
 		<ul class="slidedecks">
 		  {% for deck in decks %}
