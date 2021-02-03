@@ -1,5 +1,6 @@
 ---
 title: Example Slide Deck
+tags:
 slides:
   - title: First slide
     content_markdown: |-
