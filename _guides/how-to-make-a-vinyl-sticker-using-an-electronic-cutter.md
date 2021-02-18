@@ -20,9 +20,9 @@ Download the attached 4" x 4" sticker template and open it in [Inkscape](http://
 
 ### Step 2: Think about your design
 
-An electronic cutter works by using a small sharp knife-like tool to score a sheet of vinyl that has an adhesive backing. This means that vinyl stickers made this way are restricted to ONE color. You can of course stack different color stickers on top of each other to achieve 2 or 3 color designs, but just keep in mind that you won't be able to make a full color photo sticker. Vinyl sticker designs seem to work best when they are&nbsp; monochromatic outlines or silhouettes.
+An electronic cutter works by using a small sharp knife-like tool to score a sheet of vinyl that has an adhesive backing. This means that vinyl stickers made this way are restricted to a single color. You can of course layer different color stickers on top of each other to achieve 2 or 3 color designs, but just don't expect to make a full color photo sticker with this method. Vinyl sticker designs seem to work best when they are&nbsp; simple monochromatic outlines or silhouettes.
 
-The other thing to keep in mind is that an electronic-cutter often has trouble cutting very fine details.&nbsp; If your design contains lots of complexity, it may take a long time to cut and process, or the cuts will be ragged and messy. For instance, a small thin cursive font will be much tougher to cut than a large block letter font.
+The other thing to keep in mind is that an electronic cutter often has trouble cutting fine details.&nbsp; If your design contains lots of complexity, it may take a long time to cut and process, or the cuts will be ragged. For instance, a small thin cursive font will be much trickier to cut than a large block letter font.
 
 ### &nbsp;
 
