@@ -6,7 +6,7 @@ tags:
   - Easel
   - Inventables
   - Carvey
-example_image:
+example_image: /uploads/how-to-make-a-wood-carving-with-a-cnc-mill/mill-example.jpg
 difficulty: Medium
 time_required: 2+ hours
 file_attachment_path:
@@ -38,16 +38,34 @@ Because of these clamps, it is best practice is to leave a margin around the edg
 
 ### Step 5: Create your design
 
-&nbsp;
-
 ![](uploads/how-to-make-a-wood-carving-with-a-cnc-mill/easel-shapes.png){: width="1277" height="603"}
 
-To create your design, use the left toolbar to add text and other shapes to your workspace. You can drag, reposition, resize, group, and ungroup shapes. When a shape is selected, you can change the depth of the cut – move the slider up for a shallow carve or move the slider down for a deep carve that can cut all the way through the material.
+To create your design, use the left toolbar to add text and other shapes to your workspace. You can drag, reposition, resize, rotate, group, and ungroup shapes. When a shape is selected, you can change the depth of the cut – move the slider up for a shallow carve or move the slider down for a deep carve that can cut all the way through the material.
 
-When you add a shape to the workspace, you'll see a preview on the right with how it will look. If a cut doesn't look how you expect, try selecting the shape and changing the cut path. A pocket will cut out all the material inside of a shape, while cut path cuts an outline of the shape. Sometimes you'll find see parts of your shape missing in the preview – this is most likely because the machine bit diameter is too large to cut out fine details of the shape.
+When you add a shape to the workspace, you'll see a preview on the right with how it will look. If a cut doesn't look right, try selecting the shape and changing the type of cut. A *pocket* will cut out the inside of a shape, while *cut path* follows the outline of the shape. If you see parts of your shape missing in the preview, it is most likely because the bit diameter is too large to cut out fine details of the shape. Try increasing the size of the shape or select a smaller bit.
 
-You can also import custom shapes as an SVG file. To do that, go to File &gt; Import SVG. Once imported, you can drag, reposition, and change the cut depth just like with Easel shapes. This allows you to use Inkscape's powerful vector editing tools to create complex shapes, which would be harder to do in Easel.
+You can also import custom shapes as an SVG file. To do that, go to File &gt; Import SVG. Once imported, you can drag, reposition, and change the cut depth just like with Easel shapes. This allows you to use Inkscape's powerful vector editing tools to create complex designs.
 
-Lastly, it is possible to overlap shapes that have different cut depths. However, the way the machine cuts overlapping shapes depends on the order that the shapes are stacked. If you right click on a shape, you can send a shape forward or backward to change which shape gets priority during a cut. As you change the stacking order, the preview will update to show you how the final result will look.
+Lastly, it is possible to overlap shapes and give them different cut depths. However, the way the machine cuts overlapping shapes depends on the order that the shapes are stacked. If you right click on a shape, you can send a shape forward or backward to change which shape maintains priority during a cut. As you change the stacking order, the preview will update to show you how the final result will look. Use the preview to tweak the settings until things look correct.
+
+### Step 6: Carve\!
+
+Double check again the size of your bit and the position of your clamps to avoid collisions. Reposition so the design does not overlap with any clamps. Remember, the machine can't detect the clamps and will run right into them\!
+
+In the lower right of the preview window, click Simulate to get an estimate of how long your carve will take. The simulation will show the tool path, and provide a time estimate. You can press the play button or drag the simulation slider to see exactly how the machine will move. If you have deep cuts or use a small bit diameter, it will take longer to mill.
+
+If everything looks good, click the CARVE button in the top right and follow the instructions. It will ask you to confirm settings, and then being cutting.
+
+### What's next?
+
+Hopefully now you understand the basics of CNC milling\! Looking for project ideas?&nbsp; Try carving a monogram, woodblock print, coaster, or topographical map. You can touch up your piece by painting it or finishing the wood with a clear coat.
+
+If you are interested in learning more about CNC milling, we recommend watching [Carving Bits 201: Feeds, Speeds, and V-Bits](https://www.inventables.com/projects/carving-bits-201-feeds-speeds-and-v-bits){: target="_blank" rel="noopener"}. This will discuss some of the more advanced settings when using a CNC milling machine.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
