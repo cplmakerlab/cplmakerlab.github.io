@@ -38,7 +38,11 @@ Because of these clamps, it is best practice is to leave a margin around the edg
 
 ### Step 5: Create your design
 
-To create your design, use the left toolbar to add text and other shapes to your workspace. You can drag, reposition, reposition, group, and ungroup shapes. When a shape is selected, you can change the depth of the cut – from a shallow carve, or a deep cut that goes all the way through the material.
+&nbsp;
+
+![](uploads/how-to-make-a-wood-carving-with-a-cnc-mill/easel-shapes.png){: width="1277" height="603"}
+
+To create your design, use the left toolbar to add text and other shapes to your workspace. You can drag, reposition, resize, group, and ungroup shapes. When a shape is selected, you can change the depth of the cut – move the slider up for a shallow carve or move the slider down for a deep carve that can cut all the way through the material.
 
 When you add a shape to the workspace, you'll see a preview on the right with how it will look. If a cut doesn't look how you expect, try selecting the shape and changing the cut path. A pocket will cut out all the material inside of a shape, while cut path cuts an outline of the shape. Sometimes you'll find see parts of your shape missing in the preview – this is most likely because the machine bit diameter is too large to cut out fine details of the shape.
 
