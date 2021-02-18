@@ -38,7 +38,7 @@ Because of these clamps, it is best practice is to leave a margin around the edg
 
 ### Step 5: Create your design
 
-![](uploads/how-to-make-a-wood-carving-with-a-cnc-mill/easel-shapes.png){: width="1277" height="603"}
+![](uploads/how-to-make-a-wood-carving-with-a-cnc-mill/easel-shapes.jpg){: width="1277" height="603"}
 
 To create your design, use the left toolbar to add text and other shapes to your workspace. You can drag, reposition, resize, rotate, group, and ungroup shapes. When a shape is selected, you can change the depth of the cut – move the slider up for a shallow carve or move the slider down for a deep carve that can cut all the way through the material.
 
