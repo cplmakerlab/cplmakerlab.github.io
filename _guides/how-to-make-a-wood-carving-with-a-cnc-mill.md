@@ -60,7 +60,7 @@ If everything looks good, click the CARVE button in the top right and follow the
 
 Hopefully now you understand the basics of CNC milling\! Looking for project ideas?&nbsp; Try carving a monogram, woodblock print, coaster, or topographical map. You can touch up your piece by painting it or finishing the wood with a clear coat.
 
-If you are interested in learning more about CNC milling, we recommend watching [Carving Bits 201: Feeds, Speeds, and V-Bits](https://www.inventables.com/projects/carving-bits-201-feeds-speeds-and-v-bits){: target="_blank" rel="noopener"}. This will discuss some of the more advanced settings when using a CNC milling machine.
+If you are interested in learning more about CNC milling, watch [Carving Bits 101: Bit Basics](Carving Bits 101 - Bit Basics ){: target="_blank" rel="noopener"} and [Carving Bits 201: Feeds, Speeds, and V-Bits](https://www.inventables.com/projects/carving-bits-201-feeds-speeds-and-v-bits){: target="_blank" rel="noopener"}. These videos will discuss some of the more advanced settings when using a CNC mill.
 
 &nbsp;
 
