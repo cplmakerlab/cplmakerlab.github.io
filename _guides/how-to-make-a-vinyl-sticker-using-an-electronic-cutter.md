@@ -24,7 +24,23 @@ An electronic cutter works by using a small sharp knife-like tool to score a she
 
 The other thing to keep in mind is that an electronic cutter often has trouble cutting fine details.&nbsp; If your design contains lots of complexity, it may take a long time to cut and process, or the cuts will be ragged. For instance, a small thin cursive font will be much trickier to cut than a large block letter font.
 
-### &nbsp;
+### Step 3: Create your design
+
+One quick way to create a design is to search for a silhouette image using [Google Image Search](http://images.google.com){: target="_blank" rel="noopener"} and then [trace the image in Inkscape](https://cplmakerlab.github.io/guide/how-to-trace-an-image-in-inkscape/){: target="_blank" rel="noopener"}. It may help to add the word "outline", "vector" or "silhouette" to your search keywords.
+
+Example search queries:
+
+* [owl silhouette](https://www.google.com/search?tbm=isch&amp;source=hp&amp;biw=1280&amp;bih=703&amp;ei=c9kuYMuYLIyUsgXty5Ao&amp;q=owl+silhouette&amp;oq=owl+silh&amp;gs_lcp=CgNpbWcQAxgAMgUIABCxAzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADoICAAQsQMQgwFQ5gtYuhpgiiJoAHAAeAGAAZgCiAHPCZIBBTAuNy4xmAEAoAEBqgELZ3dzLXdpei1pbWc&amp;sclient=img){: target="_blank" rel="noopener"}
+* [owl outline](https://www.google.com/search?q=owl+outline&amp;tbm=isch&amp;ved=2ahUKEwi0g7aDrvTuAhURkawKHc_OD8gQ2-cCegQIABAA&amp;oq=owl+outline&amp;gs_lcp=CgNpbWcQAzIFCAAQsQMyBAgAEEMyBAgAEEMyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAOgcIABCxAxBDUKsgWPMpYPYsaABwAHgAgAHXAogB8AuSAQcwLjguMC4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&amp;sclient=img&amp;ei=o9kuYPSlOJGisgXPnb_ADA&amp;bih=703&amp;biw=1280){: target="_blank" rel="noopener"}
+* [owl black and white vector](https://www.google.com/search?q=owl+black+and+white+vector&amp;tbm=isch&amp;ved=2ahUKEwichI6ervTuAhVNcqwKHZr2BnEQ2-cCegQIABAA&amp;oq=owl+black+and+white+vector&amp;gs_lcp=CgNpbWcQA1AAWABgntsBaABwAHgAgAEAiAEAkgEAmAEAqgELZ3dzLXdpei1pbWc&amp;sclient=img&amp;ei=29kuYNyqNs3ksQWa7ZuIBw&amp;bih=703&amp;biw=1280){: target="_blank" rel="noopener"}
+
+Once you have an image you like you can trace the image in Inkscape. Follow our how-to guide here if you need help:
+
+* [How to Trace an Image in Inkscape](https://cplmakerlab.github.io/guide/how-to-trace-an-image-in-inkscape/){: target="_blank" rel="noopener"}
+
+You can also create a design from scratch within Inkscape. Explore the different shapes such as square, circle, and polygon tools and the text tool to get started. When selecting a font for your text, try to avoid small, thin cursive fonts. Large block letter fonts usually work best.
+
+&nbsp;
 
 &nbsp;
 
