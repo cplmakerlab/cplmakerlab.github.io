@@ -42,13 +42,13 @@ You can also&nbsp; create an original design from scratch within Inkscape. Explo
 
 ### Design tips:
 
-* Use solid fill colors, no strokes
 * Avoid overly complex features
 * Simple silhouettes, outlines, and block letters work best
+* In Inkscape: use solid fill colors, no strokes.
 
 When you are done, select everything and do *Path &gt; Object to Path*. This will convert all shapes to vector paths that the machine can then follow.
 
-To preserve the position and spacing of your elements, select shapes and do *Path &gt; Combine*. This will "fuse" the shapes so that they are treated as one path, even if they don't necessarily intersect.
+To preserve the position and spacing of your elements, select shapes and do *Path &gt; Combine*. This will "fuse" the shapes into position so that they are treated as one path, even if they don't necessarily intersect.
 
 &nbsp;
 
