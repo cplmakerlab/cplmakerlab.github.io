@@ -24,7 +24,7 @@ An electronic cutter works by using a small sharp knife-like tool to score a she
 
 The other thing to keep in mind is that an electronic cutter often has trouble cutting fine details.&nbsp; If your design contains lots of complexity, it may take a long time to cut and process, or the cuts will be ragged. For instance, a small thin cursive font will be much trickier to cut than a large block letter font.
 
-### Step 3: Create your design
+### Step 3: Create your vector design
 
 One quick way to create a design is to search for a silhouette image using [Google Image Search](http://images.google.com){: target="_blank" rel="noopener"} and then [trace the image in Inkscape](https://cplmakerlab.github.io/guide/how-to-trace-an-image-in-inkscape/){: target="_blank" rel="noopener"}. It may help to add the word "outline", "vector" or "silhouette" to your search keywords.
 
