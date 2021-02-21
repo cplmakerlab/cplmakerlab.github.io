@@ -55,12 +55,32 @@ Save your file as an SVG.
 
 ### Step 4: Cut your design
 
-We need to import it into the Cricut machine software. On a computer connected to a Cricut, go to design.cricut.com and click open. The Cricut Design Space program should open. Click "New Project."
+We need to import it into the Cricut machine software. On a Cricut connectd computer, go to design.cricut.com and click open. The Cricut Design Space program should open. Click "New Project."
 
 In the left menu, choose "Upload" and then upload your SVG. After uploading, select the image and click "Insert Images" in the bottom right.
+
+Drag your image to the upper left corner, but leave about a .25" - .5" margin from the top and sides. You can resize your image by entering custom dimensions (WxH) in the top menu.
+
+Prepare your material by cutting out a piece of vinyl slightly larger than your design. Position the vinyl in the upper left corner of a Cricut mat with the vinyl facing up.
+
+Click *Make it* in the upper right corner of Cricut Design Space. You'll see a preview of how the machine will cut out your sticker. If you have multiple colors, each cut color will be cut separately, which gives you a chance to change the vinyl material.
+
+Click *Continue* and then select the Cricut machine. Set the material to Vinyl. Load the mat into the machine, and then hit the start button on the Cricut machine to start cutting\!
+
+Step 5: Weeding and applying the sticker
+
+Now that your sticker has been cut, you'll need to remove the parts of the sticker you don't want. This process is called weeding and can be done by carefully removing parts of your sticker with your fingers or with tweezers. The more complex your design, the more weeding you will have to do. Refer back to your design in Inkscape so you don't accidentally remove the wrong part. Sometimes the weeded out sections can be repurposed as an "inverted" sticker\!
+
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9kd0stTE5BTnJfZyIgZnJhbWVib3JkZXI9IjAiIGFsbG93PSJhY2NlbGVyb21ldGVyOyBhdXRvcGxheTsgY2xpcGJvYXJkLXdyaXRlOyBlbmNyeXB0ZWQtbWVkaWE7IGd5cm9zY29wZTsgcGljdHVyZS1pbi1waWN0dXJlIiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+"><iframe width="560" height="315" src="https://www.youtube.com/embed/dwK-LNANr_g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+
+Once you are done, you should be ready to apply your sticker. You could simply remove the sticker from the backing paper and apply, but if your design has a lot of separate parts like individual letters, it will be much easier to use transfer tape to apply the sticker. Transfer tape is just sticky enough to hold on to your sticker, but it is less sticky than the vinyl sticker. This lets you pull your entire design off the backing paper at once, and then apply it to you surface.
+
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9LYjhhaFZFWW9yMD9zdGFydD00NyIgZnJhbWVib3JkZXI9IjAiIGFsbG93PSJhY2NlbGVyb21ldGVyOyBhdXRvcGxheTsgY2xpcGJvYXJkLXdyaXRlOyBlbmNyeXB0ZWQtbWVkaWE7IGd5cm9zY29wZTsgcGljdHVyZS1pbi1waWN0dXJlIiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+"><iframe width="560" height="315" src="https://www.youtube.com/embed/Kb8ahVEYor0?start=47" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 &nbsp;
 
 ### Congratulations\!
 
-Stick your sticker i
+Now that you understand the basic steps needed to make a vinyl sticker using the electronic cutter, try using the electronic cutter with other materials. You can use it with thin materials such as fabric, paper, t-shirt heat transfers and more\!
+
+&nbsp;
