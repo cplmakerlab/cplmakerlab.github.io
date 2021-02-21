@@ -9,7 +9,8 @@ tags:
 example_image:
 difficulty: Easy
 time_required: 30 minutes
-file_attachment_path:
+file_attachment_path: >-
+  /uploads/how-to-make-a-vinyl-sticker-using-an-electronic-cutter/sticker-template.svg
 ---
 
 In this guide, you'll learn how to create a vinyl sticker with an electronic cutter such as the Cricut. Vinyl stickers are quite easy to make on an electronic cutter and fairly durable. You can use them for creating signs, labels, laptop stickers, bumper stickers, or use them to decorate crafts such as greeting cards.
@@ -48,10 +49,18 @@ You can also&nbsp; create an original design from scratch within Inkscape. Explo
 
 When you are done, select everything and do *Path &gt; Object to Path*. This will convert all shapes to vector paths that the machine can then follow.
 
-To preserve the position and spacing of your elements, select shapes and do *Path &gt; Combine*. This will "fuse" the shapes into position so that they are treated as one path, even if they don't necessarily intersect.
+To preserve the position and spacing of your elements, select shapes and do *Path &gt; Combine*. This will "fuse" the shapes into position so that they are treated as one path.
+
+Save your file as an SVG.
+
+### Step 4: Cut your design
+
+We need to import it into the Cricut machine software. On a computer connected to a Cricut, go to design.cricut.com and click open. The Cricut Design Space program should open. Click "New Project."
+
+In the left menu, choose "Upload" and then upload your SVG. After uploading, select the image and click "Insert Images" in the bottom right.
 
 &nbsp;
 
 ### Congratulations\!
 
-Add links or resources for further learning (or link to another how-to).
+Stick your sticker i
