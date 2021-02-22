@@ -163,6 +163,14 @@ slides:
     background_color: '#000000'
     background_image: /uploads/learning-to-code-in-chicago/pla2.PNG
     background_size: contain
+  - title: Women Who Code Chicago
+    content_markdown: |-
+      ## Women Who Code Chicago
+
+      [https://www.womenwhocode.com/chicago](https://www.freegeek.org/)
+    background_color: '#000000'
+    background_image: /uploads/learning-to-code-in-chicago/1png.PNG
+    background_size: contain
   - title: Free Geek
     content_markdown: |-
       ## Free Geek
