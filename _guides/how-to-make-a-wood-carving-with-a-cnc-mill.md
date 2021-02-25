@@ -1,5 +1,5 @@
 ---
-title: How to make a wood carving with a CNC  mill
+title: How to Make a Wood Carving with a CNC  Mill
 categories:
   - CNC Mill
 tags:
