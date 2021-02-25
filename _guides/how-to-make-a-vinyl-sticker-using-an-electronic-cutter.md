@@ -1,5 +1,5 @@
 ---
-title: How to make a vinyl sticker using an electronic cutter
+title: How to Make a Vinyl Sticker using an Electronic Cutter
 categories:
   - 2D Design
 tags:
