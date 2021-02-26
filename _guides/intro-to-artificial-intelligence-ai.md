@@ -40,7 +40,7 @@ AI is trained by feeding neural networks large amounts of data.
 
 In the case of supervised learning, training data is prepared and labeled by an AI engineer in advance, so that the algorithm can learn the correct relationship between inputs and outputs. Given enough data, the AI will eventually be able to correctly recognize and identify desired patterns with a high degree of confidence. This is how things like face recognition and speech detection work.
 
-In the case of unsupervised learning, an AI engineer doesn't know in advance what they want the algorithm to do. They feed the AI algorithm lots of data and then allow it to try to find patterns on its own. Data scientists and researchers then examine the output of the AI to see if there are any relevant or meaningful relationships to be found. This type of AI can be unpredictable, and not always productive.
+In the case of unsupervised learning, an AI engineer doesn't know in advance what they want the algorithm to do. They feed the AI algorithm lots of data and then allow it to try to find patterns on its own. Data scientists and researchers then examine the output of the AI to see if there are any insights or meaningful relationships to be found. This type of AI can be unpredictable, and not always productive.
 
 ### Examples of AI (interactive)
 
