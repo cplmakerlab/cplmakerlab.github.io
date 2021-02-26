@@ -22,8 +22,6 @@ From smart speakers to self-driving cars, you've probably heard a lot about Arti
 
 ### Types of AI
 
-#### &nbsp;
-
 #### Artificial Narrow Intelligence (ANI)
 
 Narrow intelligence refers to the use of AI algorithms to perform specific tasks. Most of the AI used today falls under this category. Examples of this type of AI include face recognition, Apple's Siri, Amazon's Alexa, self-driving cars, and quality control processes in modern factory assembly lines.
