@@ -34,13 +34,13 @@ General Intelligence refers to a type of AI that more closely replicates the way
 
 ### How does AI work?
 
-Most AI today is built using machine learning algorithms. These types of algorithms are based on neural networks, which mimic the way neurons in a human brain work. The advantage of these algorithms is that, once trained, they are very efficient at recognizing patterns. The key here lies in how well the AI is trained.
+Most AI today is built using machine learning algorithms. These types of algorithms are based on neural networks, which mimic the way neurons in a human brain work. The advantage of these algorithms is that, once trained, they are very efficient at recognizing patterns.
 
 ### How is AI trained?
 
 #### 1\. Define the problem
 
-AI works best at solving simple problems where the inputs and output are clearly defined and easily quantified. AI cannot solve every problem.
+AI works best at solving simple problems where the inputs and output are clearly defined and easily measured. Keep in mind that AI cannot solve every problem.
 
 #### 2\. Train the AI algorithm
 
