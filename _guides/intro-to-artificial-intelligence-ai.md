@@ -11,7 +11,7 @@ time_required:
 file_attachment_path:
 ---
 
-Brief description of what this guide is about.
+From smart speakers to self-driving cars, you've probably heard a lot about Artificial Intelligence (AI). In this introductory guide, let's take a closer look and learn more about what AI is about\!
 
 ### What is AI?
 
@@ -22,14 +22,36 @@ Brief description of what this guide is about.
 
 ### Types of AI
 
+#### &nbsp;
+
 #### Artificial Narrow Intelligence (ANI)
 
-Narrow intelligence refers to the use of AI algorithms to perform specific tasks. Most of the AI used today falls under this category. Examples of this type of AI include facial recognition, Apple's Siri, Amazon's Alexa, self-driving cars, and quality control in factory assembly lines.
+Narrow intelligence refers to the use of AI algorithms to perform specific tasks. Most of the AI used today falls under this category. Examples of this type of AI include face recognition, Apple's Siri, Amazon's Alexa, self-driving cars, and quality control methods used in modern factory assembly lines.
 
-Artificial General Intelligence (AGI)
+#### Artificial General Intelligence (AGI)
 
-General intelligence refers to computers replicating the way the human brain works. This type of AI does not exist yet. Th
+General Intelligence refers to a type of AI that more closely replicates the way the human brain works. It can learn, discover and solve problems on its own, without any human intervention. This type of AI does not exist yet, however you can find a lot of fictional books & movies that involve super intelligent AI robots.
 
-### Congratulations\!
+### How does AI work?
 
-Add links or resources for further learning (or link to another how-to).
+Most AI today is built using machine learning algorithms. These types of algorithms are based on neural networks, which mimic the way neurons in a human brain work. The advantage of these algorithms is that, once trained, they are very efficient at recognizing patterns. The key here lies in how well the AI is trained.
+
+### How is AI trained?
+
+#### 1\. Define the problem
+
+AI works best at solving simple problems where the inputs and output are clearly defined and easily quantified. AI cannot solve every problem.
+
+#### 2\. Train the AI algorithm
+
+Use training data to teach the AI algorithm to recognize right and wrong answers. The more accurate training data you give it, the better it will get at performing a task. This step can be time consuming and require a lot of computational power. After training the AI algorithm, you will then have a trained model.
+
+#### 3\. Apply the AI model
+
+This step is where you actually use the trained AI model, and it does not require a lot of computational power to work. You can feed the model real input data and then use the output to trigger a task. For instance, you might say "Hey Alexa, turn off the lights" to a smart speaker. The AI model recognizes the command and then triggers the light to turn off.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
