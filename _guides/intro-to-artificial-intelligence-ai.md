@@ -28,7 +28,7 @@ Narrow intelligence refers to the use of AI algorithms to perform specific tasks
 
 #### Artificial General Intelligence (AGI)
 
-General Intelligence refers to a type of AI that more closely replicates the way the human brain works. It can learn, discover and solve problems on its own, without any human intervention. This type of AI does not exist yet, however it is the subject of many science fiction books & movies, and raises many philosophical and ethical questions.
+General Intelligence refers to a type of AI that more closely replicates the way the human brain works. It can learn, discover and solve problems on its own, without any human intervention. This type of AI does not yet exist, however it is the subject of many science fiction books & movies and raises many philosophical and ethical questions.
 
 ### How does AI work?
 
