@@ -51,16 +51,6 @@ You can obtain cryptocurrencies either by mining them, buying them, or having so
 
 &nbsp;
 
-On the other hand, if you store your cryptocurrency on your own wallet, you
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 &nbsp;
 
 In summary, there are three ways you can think about digital currencies:
@@ -69,4 +59,4 @@ In summary, there are three ways you can think about digital currencies:
 * a technology (blockchain)
 * an ideology (decentralized finance)
 
-&nbsp;
+Hopefully this guide has helped you understand this topic bit better and given you a new perspective on the subject.
