@@ -41,7 +41,7 @@ Cryptocurrency is a portmanteau of "cryptography" and "currency". Cryptocurrency
 
 Cryptocurrency falls into two categories: coins and tokens.
 
-A **coin** refers to a cryptocurrency that has its own blockchain. For example, Bitcoin (BTC) runs on its own blockchain, while Ether (ETH) runs on the Ethereum blockchain.
+A **coin** refers to a cryptocurrency that has its own independent blockchain. For example, Bitcoin (BTC) runs on its own blockchain, while Ether (ETH) runs on the Ethereum blockchain.
 
 A **token** refers to a cryptocurrency that relies upon an existing blockchain. Most tokens are built using the ERC-20 token standard and rely on the Ethereum blockchain. Confusingly, tokens are also sometimes referred to as "altcoins." In short, if a cryptocurrency runs on its own blockchain it is a coin -- if not then it is a token.
 
