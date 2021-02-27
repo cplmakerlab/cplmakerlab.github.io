@@ -49,7 +49,21 @@ You can obtain cryptocurrencies either by mining them, buying them, or having so
 
 "Not your keys, not your coins" is a phrase used to warn people about the dangers of storing cryptocurrency on an exchange instead of transferring it to your own wallet. When you leave or store cryptocurrency on an exchange, you don't actually have access to the keys that control the underlying digital asset. If the exchange is robbed or hacked and the keys are stolen (which has happened), you are simply out of luck as now the thief can transfer the coins directly to their own wallet. On the other hand, having your own wallet and being your own bank comes with its own headaches and risks too as you must figure out a way to keep it safe and protected.
 
+Price charts
+
+Exchanges
+
+#### Wallets
+
+Software wallets
+
 &nbsp;
+
+Hardware wallets (these a
+
+#### Taxes
+
+Cryptocurrency transactions may be subject to federal and state tax regulations.&nbsp; Visit IRS.gov to [learn more about how virtual currencies are taxed](https://www.irs.gov/businesses/small-businesses-self-employed/virtual-currencies){: target="_blank" rel="noopener"}.
 
 &nbsp;
 
