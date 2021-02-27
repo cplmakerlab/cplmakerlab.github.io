@@ -47,7 +47,7 @@ A **token** refers to a cryptocurrency that relies upon an existing blockchain. 
 
 You can obtain cryptocurrencies either by mining them, buying them, or having someone send them to you. Mining today requires vast amounts of computational power and electricity, making it unprofitable for most. Cryptocurrency exchanges allow one to use traditional "fiat" currency to purchase cryptocurrency coins and tokens. Lastly you can obtain cryptocurrency by creating a "wallet" and having someone send you cryptocurrency.
 
-"Not your keys, not your coins" is a phrase used to warn people about the dangers of storing cryptocurrency on an exchange instead of storing it in your own wallet under your own control. When you leave or store cryptocurrency on an exchange, you don't actually own the keys that control the underlying digital asset. If the exchange is robbed or hacked and the keys are stolen (which has happened), you are simply out of luck as now the thief can transfer the coins to their own wallet. But owning your own wallet comes with its own risks too as you must figure out a way to keep it protected.
+"Not your keys, not your coins" is a phrase used to warn people about the dangers of storing cryptocurrency on an exchange instead of storing it in your own wallet locked with keys you control. When you leave or store cryptocurrency on an exchange, you don't actually have access to the keys that control the underlying digital asset. If the exchange is robbed or hacked and the keys are stolen (which has happened), you are simply out of luck as now the thief can transfer the coins directly to their own wallet. But owning your own wallet comes with its own risks too as you must figure out a way to keep it protected.
 
 &nbsp;
 
