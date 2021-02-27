@@ -23,17 +23,17 @@ Bitcoin is a peer-to-peer digital cash network and payment system created in 200
 
 The underlying technology that powers bitcoin is called the "blockchain." This is a shared public ledger that records every payment or transaction. When one person sends bitcoin to another person, that exchange is verified and permanently recorded to the blockchain using encrypted digital signatures. Bitcoins are issued to "miners" in exchange for working to verify a transaction, a reward system that keeps the network going. Unlike traditional currency, the total number of bitcoins that can ever be created is restricted to 21 million. This restriction makes it scarce and drives comparisons to other scarce commodities like gold. This has attracted wild price speculation.
 
-If you are interested in learning the technical details of how bitcoin works, a popular Youtube video ["But how does bitcoin actually work?"](https://www.youtube.com/watch?v=bBC-nXj3Ng4){: target="_blank" rel="noopener"} provides a great overview. You can also read the [original bitcoin whitepaper written by Satoshi Nakamoto](https://bitcoin.org/en/bitcoin-paper){: target="_blank" rel="noopener"}, which outlines *exactly* how the system works.
+If you are interested in learning the technical details of how bitcoin works, a popular Youtube video ["But how does bitcoin actually work?"](https://www.youtube.com/watch?v=bBC-nXj3Ng4){: target="_blank" rel="noopener"} provides a great overview and [Khan Academy offers a free Bitcoin course](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-what-is-it){: target="_blank" rel="noopener"}. You can also read the [original bitcoin whitepaper written by Satoshi Nakamoto](https://bitcoin.org/en/bitcoin-paper){: target="_blank" rel="noopener"}, which outlines *exactly* how the system works.
 
 <div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9iQkMtblhqM05nNCIgZnJhbWVib3JkZXI9IjAiIGFsbG93PSJhY2NlbGVyb21ldGVyOyBhdXRvcGxheTsgY2xpcGJvYXJkLXdyaXRlOyBlbmNyeXB0ZWQtbWVkaWE7IGd5cm9zY29wZTsgcGljdHVyZS1pbi1waWN0dXJlIiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+"><iframe width="560" height="315" src="https://www.youtube.com/embed/bBC-nXj3Ng4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 ### What is Ethereum?
 
-A few years after bitcoin launched, a community of software developers saw potential in the underlying technology of the blockchain. They wondered if blockchain technology could be expanded to support more use cases beyond a single digital currency, such as local currencies and smart contracts. However, early experiments proved that this was quite difficult to do with the bitcoin blockchain.
+A few years after bitcoin launched, a community of software developers saw potential in the underlying technology of the blockchain. They wondered if blockchain technology could be expanded to support more use cases beyond a single digital currency, such as local currencies and smart contracts. However, early experiments proved that this was quite difficult to do on the bitcoin blockchain.
 
-In 2015 a programmer named Vitalik Buterin launched a platform called Ethereum, which he described as [A Next-Generation Smart Contract and Decentralized Application Platform.](https://ethereum.org/en/whitepaper/){: target="_blank" rel="noopener"} This platform was a programming language designed to work with blockchain technology, making it possible for developers to build custom applications that are not controlled by a central authority.&nbsp;
+In 2015 a programmer named Vitalik Buterin launched a platform called Ethereum, which he described as [A Next-Generation Smart Contract and Decentralized Application Platform.](https://ethereum.org/en/whitepaper/){: target="_blank" rel="noopener"} This platform was a programming language combined with blockchain technology, making it possible for developers to build custom applications not controlled by a central authority.&nbsp;
 
-With Ethereum, anyone can create their own currency, as well as create smart contracts and build decentralized applications. Developers build on the network by creating or using tokens. There are different standards used to create tokens on the Ethereum network, but the ERC-20 standard is the mostly commonly used. Many, if not most, of the alternative digital currencies that are not bitcoin (a.k.a. altcoins) use the ERC-20 token standard and thus rely on the Ethereum blockchain.
+With Ethereum, anyone can create their own currency, as well as create smart contracts and build decentralized applications. Developers build on the network by creating or using tokens. There are different standards used to create tokens on the Ethereum network, but the ERC-20 standard is the mostly commonly used. Many, if not most, of the alternative digital currencies that are not bitcoin (a.k.a. altcoins) use the ERC-20 token standard and thus rely on the Ethereum blockchain. There are other token standards such as NFTs (Non-Fungible Tokens)
 
 ### What is cryptocurrency?
 
@@ -53,6 +53,14 @@ Price charts
 
 Exchanges
 
+Coinbase
+
+Binance
+
+Kraken
+
+&nbsp;
+
 #### Wallets
 
 Software wallets
@@ -67,13 +75,11 @@ Hardware wallets (these a
 
 Cryptocurrency transactions may be subject to federal and state tax regulations.&nbsp; Visit IRS.gov to [learn more about how virtual currencies are taxed](https://www.irs.gov/businesses/small-businesses-self-employed/virtual-currencies){: target="_blank" rel="noopener"}.
 
-Discussion forums
+#### Discussion forums
 
-[bitcointalk.org](http://bitcointalk.org){: target="_blank" rel="noopener"}
-
-[reddit.com/r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/){: target="_blank" rel="noopener"}
-
-[reddit.com/r/bitcoin](https://www.reddit.com/r/CryptoCurrency/){: target="_blank" rel="noopener"}<br>&nbsp;
+* [bitcointalk.org](http://bitcointalk.org){: target="_blank" rel="noopener"}
+* [reddit.com/r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/){: target="_blank" rel="noopener"}
+* [reddit.com/r/bitcoin](https://www.reddit.com/r/CryptoCurrency/){: target="_blank" rel="noopener"}<br>&nbsp;
 
 There are three ways you can think about digital currencies:
 
