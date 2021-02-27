@@ -43,7 +43,7 @@ Cryptocurrency falls into two categories: coins and tokens.
 
 A **coin** refers to a cryptocurrency that has its own blockchain. For example, Bitcoin (BTC) runs on its own blockchain, while Ether (ETH) runs on the Ethereum blockchain.
 
-A **token** refers to a cryptocurrency that relies upon an existing blockchain. Most tokens are built using the ERC-20 token standard and rely on the Ethereum blockchain. Confusingly, tokens are also sometimes referred to as "altcoins." In short, if a cryptocurrency has its own blockchain it is a coin -- if not then it is a token.
+A **token** refers to a cryptocurrency that relies upon an existing blockchain. Most tokens are built using the ERC-20 token standard and rely on the Ethereum blockchain. Confusingly, tokens are also sometimes referred to as "altcoins." In short, if a cryptocurrency runs on its own blockchain it is a coin -- if not then it is a token.
 
 You can obtain cryptocurrencies either by mining them, buying them, or having someone send them to you. Mining today requires vast amounts of computational power and electricity, making it unprofitable for most. Cryptocurrency exchanges allow one to use traditional "fiat" currency to purchase cryptocurrency coins and tokens. Lastly you can obtain cryptocurrency by creating a "wallet" and having someone send you cryptocurrency.
 
