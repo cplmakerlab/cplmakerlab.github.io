@@ -82,7 +82,7 @@ Gambling Addiction
 
 Trading cryptocurrencies is a highly speculative activity. For some, it can be addictive and gambling. If you need help, seek help&nbsp; a problem gambling
 
-&nbsp;
+https://www.ncpgambling.org/state/illinois/
 
 To review, there are three ways you can think about digital currencies:
 
