@@ -23,40 +23,28 @@ Bitcoin is a peer-to-peer digital cash network and payment system created in 200
 
 The underlying technology that powers Bitcoin is called the "blockchain." This is a shared public ledger that records every payment or transaction. When one person sends Bitcoin to another person, that exchange is verified and permanently recorded to the blockchain using encrypted digital signatures. Bitcoins are issued to "miners" in exchange for verifying a transaction, a reward system that keeps the network going. Unlike traditional currency, the total number of bitcoins that can ever be created is restricted to 21 million. This restriction makes it scarce and drives comparison to other scarce commodities like gold. This has attracted wild price speculation.
 
-If you are interested in learning the technical details of how bitcoin works, a popular Youtube video ["But how does bitcoin actually work?"](https://www.youtube.com/watch?v=bBC-nXj3Ng4){: target="_blank" rel="noopener"} provides a great overview. You can also read the [original bitcoin whitepaper written by Satoshi Nakamoto](https://bitcoin.org/en/bitcoin-paper){: target="_blank" rel="noopener"}, which outlines *exactly* how the system works in great detail.
+If you are interested in learning the technical details of how bitcoin works, a popular Youtube video ["But how does bitcoin actually work?"](https://www.youtube.com/watch?v=bBC-nXj3Ng4){: target="_blank" rel="noopener"} provides a great overview. You can also read the [original bitcoin whitepaper written by Satoshi Nakamoto](https://bitcoin.org/en/bitcoin-paper){: target="_blank" rel="noopener"}, which outlines *exactly* how the system works.
 
 <div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9iQkMtblhqM05nNCIgZnJhbWVib3JkZXI9IjAiIGFsbG93PSJhY2NlbGVyb21ldGVyOyBhdXRvcGxheTsgY2xpcGJvYXJkLXdyaXRlOyBlbmNyeXB0ZWQtbWVkaWE7IGd5cm9zY29wZTsgcGljdHVyZS1pbi1waWN0dXJlIiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+"><iframe width="560" height="315" src="https://www.youtube.com/embed/bBC-nXj3Ng4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 ### What is Ethereum?
 
-A few years after Bitcoin launched, a community of software developers saw potential in the underlying technology of the blockchain. They wondered if blockchain technology could be expanded to support more applications beyond a single digital currency, such as smart contracts and local currencies. However, early experiments proved that this was quite difficult due to the way Bitcoin was designed.
+A few years after bitcoin launched, a community of software developers saw potential in the underlying technology of the blockchain. They wondered if blockchain technology could be expanded to support more use cases beyond a single digital currency, such as smart contracts and local currencies. However, early experiments proved that this was quite difficult to do on the bitcoin network.
 
-In 2015 a programmer named Vitalik Buterin launched a new platform called Ethereum, which he described as [A Next-Generation Smart Contract and Decentralized Application Platform.](https://ethereum.org/en/whitepaper/){: target="_blank" rel="noopener"} This platform was a programming language designed to work with blockchain technology, making it possible for developers to build custom applications that are not controlled by a central authority.&nbsp;
+In 2015 a programmer named Vitalik Buterin launched a platform called Ethereum, which he described as [A Next-Generation Smart Contract and Decentralized Application Platform.](https://ethereum.org/en/whitepaper/){: target="_blank" rel="noopener"} This platform was a programming language designed to work with blockchain technology, making it possible for developers to build custom applications that are not controlled by a central authority.&nbsp;
 
-With Ethereum, anyone can create their own currency, as well as use smart contracts to build decentralized applications. Applications are built on the network by creating or using tokens on the network. There are different ways to build tokens, but the ERC-20 standard is most commonly used.
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-The goal of Ethereum was to expand the possibilities of blockchain technology beyond digital money.
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+With Ethereum, anyone can create their own currency, as well as use smart contracts to build decentralized applications. Developers use the network by creating or using tokens on the network. There are different standards used to create tokens on the network, but the ERC-20 standard is the mostly widely used. Many alternative digital currencies that are not bitcoin (a.k.a. altcoins) use the ERC-20 token standard and rely on the Ethereum network.
 
 What is cryptocurrency?
 
-Cryptocurrency is
+Cryptocurrency is a general term for any digital currency that relies on cryptography. Cryptography is
+
+&nbsp;
+
+In summary, there are three ways you can think about digital currencies:
 
 * digital cash (a.k.a. digital gold)
 * a technology (blockchain)
 * an ideology (decentralized finance)
 
-In
+&nbsp;
