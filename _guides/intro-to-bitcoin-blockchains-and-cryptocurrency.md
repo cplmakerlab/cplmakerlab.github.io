@@ -37,15 +37,15 @@ With Ethereum, anyone can create their own currency, as well as create smart con
 
 ### What is cryptocurrency?
 
-Cryptocurrency is a portmanteau of "cryptography" and "currency". Cryptocurrency has become a general catch-all term to describe any tradeable digital asset that use encrypted digital signatures to verify authenticity.
+Cryptocurrency is a portmanteau of "cryptography" and "currency". Cryptocurrency has become a general catch-all term to describe any digital asset that use encrypted digital signatures to verify authenticity.
 
-Cryptocurrency falls into two categories: coins and tokens.
+Most tradeable cryptocurrency falls into two categories: coins and tokens.
 
 A **coin** refers to a cryptocurrency that has its own independent blockchain. For example, Bitcoin (BTC) runs on its own blockchain, while Ether (ETH) runs on the Ethereum blockchain.
 
 A **token** refers to a cryptocurrency that relies upon an existing blockchain. Most tokens are built using the ERC-20 token standard and rely on the Ethereum blockchain. Confusingly, tokens are also sometimes referred to as "altcoins." In short, if a cryptocurrency runs on its own blockchain it is a coin -- if not then it is a token.
 
-You can obtain cryptocurrencies either by mining them, buying them, or having someone send them to you. Mining today requires vast amounts of computational power and electricity, making it unprofitable for most. Cryptocurrency exchanges allow one to use traditional "fiat" currency to purchase cryptocurrency coins and tokens. Lastly you can obtain cryptocurrency by creating a "wallet" and having someone send you cryptocurrency.
+You can obtain cryptocurrencies either by mining them, buying them, or having someone send them to you. Mining today requires vast amounts of computational power and electricity, making it an impractical option for most people. Cryptocurrency exchanges allow one to use traditional "fiat" currency to purchase cryptocurrency coins and tokens. Lastly you can obtain cryptocurrency by creating a "wallet" and having someone send you cryptocurrency.
 
 "Not your keys, not your coins" is a phrase used to warn people about the dangers of storing cryptocurrency on an exchange instead of transferring it to your own wallet. When you leave or store cryptocurrency on an exchange, you don't actually have access to the keys that control the underlying digital asset. If the exchange is robbed or hacked and the keys are stolen (which has happened), you are simply out of luck as now the thief can transfer the coins directly to their own wallet. On the other hand, having your own wallet and being your own bank comes with its own headaches and risks too as you must figure out a way to keep it safe and protected.
 
@@ -57,6 +57,8 @@ Exchanges
 
 Software wallets
 
+[Electrum](https://electrum.org/#home){: target="_blank" rel="noopener"}
+
 &nbsp;
 
 Hardware wallets (these a
@@ -65,12 +67,18 @@ Hardware wallets (these a
 
 Cryptocurrency transactions may be subject to federal and state tax regulations.&nbsp; Visit IRS.gov to [learn more about how virtual currencies are taxed](https://www.irs.gov/businesses/small-businesses-self-employed/virtual-currencies){: target="_blank" rel="noopener"}.
 
-&nbsp;
+Discussion forums
 
-In summary, there are three ways you can think about digital currencies:
+[bitcointalk.org](http://bitcointalk.org){: target="_blank" rel="noopener"}
+
+[reddit.com/r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/){: target="_blank" rel="noopener"}
+
+[reddit.com/r/bitcoin](https://www.reddit.com/r/CryptoCurrency/){: target="_blank" rel="noopener"}<br>&nbsp;
+
+There are three ways you can think about digital currencies:
 
 * digital cash (a.k.a. digital gold)
-* a technology (blockchain)
+* a technology (blockchain, tokens)
 * an ideology (decentralized finance)
 
 Hopefully this guide has helped you understand this topic bit better and given you a new perspective on the subject.
