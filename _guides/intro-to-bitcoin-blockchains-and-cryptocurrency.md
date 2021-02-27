@@ -31,9 +31,9 @@ What is Ethereum?
 
 A few years after Bitcoin launched, a community of software developers saw potential in the underlying technology of the blockchain. They wondered if blockchain technology could be expanded to support more applications beyond a single digital currency, such as smart contracts and local currencies. However, early experiments proved that this was quite difficult due to the way Bitcoin was designed.
 
-In 2015 a programmer named Vitalik Buterin launched a new platform called Ethereum, which he described as [A Next-Generation Smart Contract and Decentralized Application Platform.](https://ethereum.org/en/whitepaper/){: target="_blank" rel="noopener"} What bitcoin did for money, ethereum did for computer code. This platform was a programming language combined with blockchain technology that made it possible for developers to easily build custom applications that are not controlled by a central authority.
+In 2015 a programmer named Vitalik Buterin launched a new platform called Ethereum, which he described as [A Next-Generation Smart Contract and Decentralized Application Platform.](https://ethereum.org/en/whitepaper/){: target="_blank" rel="noopener"} This platform was a programming language combined with blockchain technology, making it possible for developers to build custom applications that are not controlled by a central authority.&nbsp;
 
-Using this platform, anyone can create their own currency, develop smart contracts for tracking digital assets, and more. Ethereum uses the ECR20 standard
+Using Ethereum, anyone can create their own currency, develop smart contracts for tracking digital assets, and more. Ethereum has its own digital currency, called Ether which powers the network. Applications are built on the network using tokens, which is simply a standard used
 
 &nbsp;
 
