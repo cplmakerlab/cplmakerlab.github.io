@@ -33,7 +33,7 @@ A few years after bitcoin launched, a community of software developers saw poten
 
 In 2015 a programmer named Vitalik Buterin launched a platform called Ethereum, which he described as [A Next-Generation Smart Contract and Decentralized Application Platform.](https://ethereum.org/en/whitepaper/){: target="_blank" rel="noopener"} This platform was a programming language combined with blockchain technology, making it possible for developers to build custom applications not controlled by a central authority.&nbsp;
 
-With Ethereum, anyone can create their own currency, as well as create smart contracts and build decentralized applications. Developers build on the network by creating or using tokens. There are different standards used to create tokens on the Ethereum network, but the ERC-20 standard is the mostly commonly used. Many, if not most, of the alternative digital currencies that are not bitcoin (a.k.a. altcoins) use the ERC-20 token standard and thus rely on the Ethereum blockchain. There are other token standards such as NFTs (Non-Fungible Tokens)
+With Ethereum, anyone can create their own currency, as well as create smart contracts and build decentralized applications. Developers build on the network by creating or using tokens. There are different standards used to create different types of tokens on the Ethereum network, but the [ERC-20 standard](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/){: target="_blank" rel="noopener"} is the mostly commonly used. Most of the alternative digital currencies that are not bitcoin (a.k.a. altcoins) use the ERC-20 token standard.
 
 ### What is cryptocurrency?
 
@@ -43,44 +43,51 @@ Most cryptocurrency falls into two categories: coins and tokens.
 
 A **coin** refers to a cryptocurrency that has its own independent blockchain. For example, Bitcoin (BTC) runs on its own blockchain, while Ether (ETH) runs on the Ethereum blockchain.
 
-A **token** refers to a cryptocurrency that relies upon an existing blockchain. Most tokens are built using the ERC-20 token standard and rely on the Ethereum blockchain. Confusingly, tokens are also sometimes called "altcoins." In short, if a cryptocurrency runs on its own blockchain it is a coin -- if not then it is a token.
+A **token** refers to a cryptocurrency that relies upon an existing blockchain. Most tokens are built using the ERC-20 token standard and rely on the Ethereum blockchain. Confusingly, tokens are also sometimes called altcoins. In short, if a cryptocurrency runs on its own blockchain it is a coin -- if not then it is a token.
 
-You can obtain cryptocurrencies either by mining them, buying them, or having someone send them to you. Mining today requires vast amounts of computational power and electricity, making it an impractical option for most people. Cryptocurrency exchanges allow one to use traditional "fiat" currency to purchase cryptocurrency. Lastly, you can obtain cryptocurrency by creating a "wallet" and having someone send you cryptocurrency.
+You can obtain cryptocurrencies either by mining them, buying them, or having someone send them to you. Bitcoin mining today requires vast amounts of computational power and electricity, making it an impractical option for most people. Cryptocurrency exchanges allow one to use traditional "fiat" currency to purchase cryptocurrency. Lastly, you can obtain cryptocurrency by creating a "wallet" and having someone send you cryptocurrency.
 
-"Not your keys, not your coins" is a phrase used to warn people about the dangers of storing cryptocurrency on an exchange instead of transferring it to your own wallet. When you leave or store cryptocurrency on an exchange, you don't actually have access to the keys that control the underlying digital asset. If the exchange is robbed or hacked and the keys are stolen (which has happened), you are simply out of luck as now the thief can transfer the coins directly to their own wallet. On the other hand, having your own wallet and being your own bank comes with its own headaches and risks too as you must figure out a way to keep it safe and protected.
+"Not your keys, not your coins" is a phrase used to warn people about the dangers of storing cryptocurrency on an exchange instead of transferring it to your own wallet. When you leave or store cryptocurrency on an exchange, you don't actually have access to the keys that control the underlying digital asset. If the exchange is robbed or hacked and the keys are stolen (which has happened), you are simply out of luck as now the thief can transfer the coins directly to their own wallet. On the other hand, having your own wallet and being your own bank comes with its own headaches and risks too as you must figure out a way to keep the wallet and keys safe and protected.
 
-Price charts
+#### Price charts
 
-Exchanges
+* [Coinmarketcap](https://coinmarketcap.com/){: target="_blank" rel="noopener"}
+* [Coinbase Charts](https://pro.coinbase.com/trade/BTC-USD){: target="_blank" rel="noopener"}
 
-Coinbase
+#### Exchanges
 
-Binance
-
-Kraken
-
-&nbsp;
+* [Coinbase](http://coinbase.com/){: target="_blank" rel="noopener"}
+* [Kraken](https://www.kraken.com/){: target="_blank" rel="noopener"}
+* [Binance](https://www.binance.us){: target="_blank" rel="noopener"}
 
 #### Wallets
 
 * Software wallets
-  * [Electrum](https://electrum.org/#home){: target="_blank" rel="noopener"}
-* Hardware wallets (these a
+  * [Electrum](https://electrum.org){: target="_blank" rel="noopener"}
+* Hardware wallets
+  * [Trezor](https://trezor.io/){: target="_blank" rel="noopener"}
+  * [Ledger](https://www.ledger.com/){: target="_blank" rel="noopener"}
 
 #### Taxes
 
-Cryptocurrency transactions may be subject to federal and state tax regulations.&nbsp; Visit IRS.gov to [learn more about how virtual currencies are taxed](https://www.irs.gov/businesses/small-businesses-self-employed/virtual-currencies){: target="_blank" rel="noopener"}.
+Cryptocurrency transactions are subject to federal and state tax regulations.&nbsp; Visit IRS.gov to [learn more about how virtual currencies are taxed](https://www.irs.gov/businesses/small-businesses-self-employed/virtual-currencies){: target="_blank" rel="noopener"}.
 
 #### Discussion forums
 
 * [bitcointalk.org](http://bitcointalk.org){: target="_blank" rel="noopener"}
 * [reddit.com/r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/){: target="_blank" rel="noopener"}
-* [reddit.com/r/bitcoin](https://www.reddit.com/r/CryptoCurrency/){: target="_blank" rel="noopener"}<br>&nbsp;
+* [reddit.com/r/bitcoin](https://www.reddit.com/r/CryptoCurrency/){: target="_blank" rel="noopener"}
 
-There are three ways you can think about digital currencies:
+Gambling Addiction
 
-* digital cash (a.k.a. digital gold)
-* a technology (blockchain, tokens)
+Trading cryptocurrencies is a highly speculative activity. For some, it can be addictive and gambling. If you need help, seek help&nbsp; a problem gambling
+
+&nbsp;
+
+To review, there are three ways you can think about digital currencies:
+
+* digital cash (or digital gold)
+* a technology (blockchain and tokens)
 * an ideology (decentralized finance)
 
-Hopefully this guide has helped you understand this topic bit better and given you a new perspective on the subject.
+Hopefully this guide has helped introduce you to the main concepts behind bitcoin, blockchains and cryptocurrencies.
