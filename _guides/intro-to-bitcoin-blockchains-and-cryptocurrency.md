@@ -97,6 +97,11 @@ Cryptocurrency transactions are subject to federal and state tax regulations.&nb
 * [reddit.com/r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/){: target="_blank" rel="noopener"}
 * [reddit.com/r/bitcoin](https://www.reddit.com/r/CryptoCurrency/){: target="_blank" rel="noopener"}
 
-### Addiction
+#### Books
+
+* [Bitcoin for the Befuddled](https://chipublib.bibliocommons.com/item/show/1639508126){: target="_blank" rel="noopener"}. Barsk, Conrad. 2015.
+* [&nbsp;Mastering Bitcoin: Unlocking Digital Cryptocurrencies](https://chipublib.bibliocommons.com/item/show/1652503126){: target="_blank" rel="noopener"}. Antonopoulos, Andreas M.
+
+#### Addiction Resources
 
 Trading cryptocurrencies is a highly speculative activity. For some, it can be addictive. If you need help, you can find helpful resources here: [https://www.ncpgambling.org/state/illinois/](https://www.ncpgambling.org/state/illinois/){: target="_blank" rel="noopener"}<br>&nbsp;
