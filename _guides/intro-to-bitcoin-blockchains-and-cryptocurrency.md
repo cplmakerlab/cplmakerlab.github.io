@@ -5,7 +5,7 @@ categories:
 tags:
   - Cryptography
   - Cypherpunk
-example_image:
+example_image: /uploads/intro-to-bitcoin-blockchains-and-cryptocurrency/btc.png
 difficulty:
 time_required:
 file_attachment_path:
