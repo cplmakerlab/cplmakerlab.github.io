@@ -42,7 +42,7 @@ With Ethereum, anyone can create their own currency, as well as create smart con
 
 ### What is cryptocurrency?
 
-Cryptocurrency is a portmanteau of "cryptography" and "currency". Cryptocurrency has become a general catch-all term to describe digital currencies that rely on encrypted signatures for authenticity. Most cryptocurrency falls into two categories: coins and tokens.
+Cryptocurrency is a portmanteau of "cryptography" and "currency". Cryptocurrency has become a general catch-all term to describe digital currencies that rely on encrypted signatures for authenticity. There are two categories of cryptocurrency: coins and tokens.
 
 A **coin** refers to a cryptocurrency that has its own blockchain network. For example, Bitcoin (BTC) runs on its own blockchain, while Ether (ETH) runs on the Ethereum blockchain.
 
