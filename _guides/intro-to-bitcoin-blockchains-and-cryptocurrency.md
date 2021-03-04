@@ -68,7 +68,7 @@ In summary, there are three ways you can think about digital currencies:
 * a technology (blockchain and tokens)
 * an ideology (decentralized finance)
 
-Hopefully this guide has helped introduce you to the main concepts behind bitcoin, blockchains and cryptocurrencies. Further resources and links can be found below
+Hopefully this guide has helped introduce you to the main concepts behind bitcoin, blockchains and cryptocurrencies. Further resources and links can be found below.
 
 ---
 
