@@ -15,12 +15,12 @@ In this short introductory guide, we'll talk briefly about what Bitcoin is and h
 
 ### What is Bitcoin?
 
+![](/uploads/intro-to-bitcoin-blockchains-and-cryptocurrency/btc-2.png){: width="100" height="100"}
+
 > "Bitcoin is pretty much like cash for the Internet."
 >
 >
 > \- [https://bitcoin.org/en/faq](https://bitcoin.org/en/faq){: target="_blank" rel="noopener"}
-
-![](/uploads/intro-to-bitcoin-blockchains-and-cryptocurrency/btc-2.png){: width="100" height="100"}
 
 Bitcoin is a peer-to-peer digital cash network and payment system created in 2009 by an anonymous person (or group) named Satoshi Nakomoto. One of the founding principles of bitcoin is that it is decentralized, meaning there is no central authority that controls the network. This is often contrasted with traditional paper money such as the US dollar which is minted and issued by a central bank (The Federal Reserve).
 
