@@ -58,7 +58,7 @@ In the case of unsupervised learning, an AI engineer doesn't know in advance wha
 * [PyTorch](https://pytorch.org/){: target="_blank" rel="noopener"}
 * [Artificial Intelligence in JavaScript with TensorFlow.js](https://www.javascriptjanuary.com/blog/artificial-intelligence-in-javascript-with-tensorflowjs){: target="_blank" rel="noopener"}
 
-### AI Bibliography for Learning Circle
+### AI Reading List
 
 * **[Alpaydin, Ethem. “Introduction to Machine Learning.” 4th Edition, MIT Press, 2020.](https://chipublib.bibliocommons.com/item/show/2274934126){: target="_blank" rel="noopener"}** A recently published textbook focusing on machine learning, including developments in deep learning and neural networks.&nbsp;
 * [**Jennings, Charles “Artificial Intelligence: Rise of the Lightspeed Learners.” Rowman and Littlefield, 2019. **](https://chipublib.bibliocommons.com/item/show/2171992126){: target="_blank" rel="noopener"}An opinionated and anecdotal account of AI with coverage of AI cybersecurity and comparison of AI development in China and the USA. &nbsp;&nbsp;
