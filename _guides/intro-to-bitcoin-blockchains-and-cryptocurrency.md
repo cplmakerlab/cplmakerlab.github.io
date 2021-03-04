@@ -5,7 +5,7 @@ categories:
 tags:
   - Cryptography
   - Cypherpunk
-example_image:
+example_image: /uploads/intro-to-bitcoin-blockchains-and-cryptocurrency/btc-2.png
 difficulty:
 time_required: 5 minute read
 file_attachment_path:
@@ -21,8 +21,6 @@ In this short introductory guide, we'll talk briefly about what Bitcoin is and h
 > \- [https://bitcoin.org/en/faq](https://bitcoin.org/en/faq){: target="_blank" rel="noopener"}
 
 Bitcoin is a peer-to-peer digital cash network and payment system created in 2009 by an anonymous person (or group) named Satoshi Nakomoto. One of the founding principles of bitcoin is that it is decentralized, meaning there is no central authority that controls the network. This is often contrasted with traditional paper money such as the US dollar which is minted and issued by a central bank (The Federal Reserve).
-
-![](/uploads/intro-to-bitcoin-blockchains-and-cryptocurrency/btc-1.png){: width="300" height="300"}
 
 The underlying technology that powers bitcoin is called the "blockchain." This is a shared public ledger that records every payment or transaction. When one person sends bitcoin to another person, that exchange is verified and permanently recorded to the blockchain using encrypted digital signatures. Bitcoins are issued to "miners" in exchange for working to verify a transaction, a reward system that keeps the network going. Unlike traditional currency, the total number of bitcoins that can ever be created is restricted to 21 million. This restriction makes it scarce and drives comparisons to other scarce commodities like gold. This has attracted wild price speculation.
 
