@@ -7,7 +7,7 @@ tags:
   - Machine Learning
 example_image:
 difficulty:
-time_required:
+time_required: 4 Minute Read
 file_attachment_path:
 ---
 
