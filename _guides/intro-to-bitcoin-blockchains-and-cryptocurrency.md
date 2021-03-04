@@ -15,8 +15,6 @@ In this short introductory guide, we'll talk briefly about what Bitcoin is and h
 
 ### What is Bitcoin?
 
-![](/uploads/intro-to-bitcoin-blockchains-and-cryptocurrency/btc-2.png){: width="100" height="100"}
-
 > "Bitcoin is pretty much like cash for the Internet."
 >
 >
@@ -27,6 +25,8 @@ Bitcoin is a peer-to-peer digital cash network and payment system created in 200
 The underlying technology that powers bitcoin is called the "blockchain." This is a shared public ledger that records every payment or transaction. When one person sends bitcoin to another person, that exchange is verified and permanently recorded to the blockchain using encrypted digital signatures. Bitcoins are issued to "miners" in exchange for working to verify a transaction, a reward system that keeps the network going. Unlike traditional currency, the total number of bitcoins that can ever be created is restricted to 21 million. This restriction makes it scarce and drives comparisons to other scarce commodities like gold. This has attracted wild price speculation.
 
 If you are interested in learning the technical details of how bitcoin works, a popular Youtube video ["But how does bitcoin actually work?"](https://www.youtube.com/watch?v=bBC-nXj3Ng4){: target="_blank" rel="noopener"} provides a great overview, and [Khan Academy offers a free Bitcoin course](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-what-is-it){: target="_blank" rel="noopener"}. You can also read the [original bitcoin whitepaper written by Satoshi Nakamoto](https://bitcoin.org/en/bitcoin-paper){: target="_blank" rel="noopener"}, which outlines *exactly* how the network works.
+
+### ![](/uploads/intro-to-bitcoin-blockchains-and-cryptocurrency/btc-2.png){: width="100" height="100"}
 
 ### Why was Bitcoin created?
 
