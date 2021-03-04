@@ -5,11 +5,13 @@ categories:
 tags:
   - Cryptography
   - Cypherpunk
-example_image: /uploads/intro-to-bitcoin-blockchains-and-cryptocurrency/btc-1.png
+example_image:
 difficulty:
 time_required: 5 minute read
 file_attachment_path:
 ---
+
+![](/uploads/intro-to-bitcoin-blockchains-and-cryptocurrency/btc-1.png){: width="300" height="300"}
 
 In this short introductory guide, we'll talk briefly about what Bitcoin is and how it works. We'll also talk about blockchain technology and other cryptocurrencies.
 
