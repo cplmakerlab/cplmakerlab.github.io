@@ -11,8 +11,6 @@ time_required: 5 minute read
 file_attachment_path:
 ---
 
-&nbsp;
-
 In this short introductory guide, we'll talk briefly about what Bitcoin is and how it works. We'll also talk about blockchain technology and other cryptocurrencies.
 
 ### What is Bitcoin?
