@@ -5,6 +5,7 @@ categories:
 tags:
   - AI
   - Machine Learning
+  - Coding
 example_image:
 difficulty:
 time_required: 4 Minute Read
