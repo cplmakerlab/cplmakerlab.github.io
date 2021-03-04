@@ -109,7 +109,7 @@ Cryptocurrency transactions are subject to federal and state tax regulations.&nb
 #### Books
 
 * [Barsk, Conrad. "Bitcoin for the Befuddled." No Starch Press, Inc. 2015.](https://chipublib.bibliocommons.com/item/show/1639508126){: target="_blank" rel="noopener"}
-* [Antonopoulos, Andreas M. "Mastering Bitcoin: Unlocking Digital Cryptocurrencies." O'Reilly Media, Inc. 2015.](__notset__)
+* Antonopoulos, Andreas M. "Mastering Bitcoin: Unlocking Digital Cryptocurrencies." O'Reilly Media, Inc. 2015.
 
 #### Addiction Resources
 
