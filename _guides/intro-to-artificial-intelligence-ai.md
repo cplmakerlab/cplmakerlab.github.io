@@ -58,7 +58,9 @@ In the case of unsupervised learning, an AI engineer doesn't know in advance wha
 * [PyTorch](https://pytorch.org/){: target="_blank" rel="noopener"}
 * [Artificial Intelligence in JavaScript with TensorFlow.js](https://www.javascriptjanuary.com/blog/artificial-intelligence-in-javascript-with-tensorflowjs){: target="_blank" rel="noopener"}
 
-&nbsp;
+### Books
+
+[&nbsp;AI Superpowers: China, Silicon Valley, and the New World Order.](https://chipublib.bibliocommons.com/item/show/2028491126){: target="_blank" rel="noopener"} Lee, Kai-Fu
 
 &nbsp;
 
