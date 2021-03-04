@@ -5,6 +5,7 @@ categories:
 tags:
   - Cryptography
   - Cypherpunk
+  - Coding
 example_image:
 difficulty:
 time_required: 6 minute read
