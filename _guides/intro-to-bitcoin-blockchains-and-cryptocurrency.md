@@ -7,7 +7,7 @@ tags:
   - Cypherpunk
 example_image:
 difficulty:
-time_required: 5 minute read
+time_required: 6 minute read
 file_attachment_path:
 ---
 
@@ -44,7 +44,7 @@ With Ethereum, anyone can create their own currency, as well as create smart con
 
 **ERC-20 token:** This is the most popular token standard. Many (but not all) of the alternative digital currencies (a.k.a. altcoins) are built on the Ethereum blockchain using ERC-20 tokens.
 
-**ERC-721 tokens (NFT or non-fungible tokens):** These tokens are used to uniquely identify and track the ownership of digital assets, akin to DIY [DRM](https://en.wikipedia.org/wiki/Digital_rights_management){: target="_blank" rel="noopener"}. Normally it is impossible to verify that a digital asset is an original because digital copies are exact duplicates. NFTs change this by making it possible to uniquely identify and track which digital asset is the original. Because of this, some digital artists have been able to use NFTs to sell original digital art on [CryptoArt marketplaces](https://mymodernmet.com/crypto-art-blockchain/){: target="_blank" rel="noopener"} for [millions of dollars](https://www.nytimes.com/2021/02/24/arts/design/christies-beeple-auction-blockchain-art.html){: target="_blank" rel="noopener"}. The idea that a piece of digital artwork is an original creates artificial scarcity and drives up the price, even though it costs nothing to make a digital copy. Outside of the art collector world, NFTs can be used to track the sale and ownership of digital assets purchased in video games.
+**ERC-721 tokens (NFT or non-fungible tokens):** These tokens are used to uniquely identify and track the ownership of digital assets, akin to DIY [DRM](https://en.wikipedia.org/wiki/Digital_rights_management){: target="_blank" rel="noopener"}. Normally it is impossible to verify that a digital asset is an original because digital copies are exact duplicates. NFTs change this by making it possible to uniquely identify and track which digital asset is the original. Because of this, some digital artists have been able to use NFTs to sell original digital art on [CryptoArt marketplaces](https://mymodernmet.com/crypto-art-blockchain/){: target="_blank" rel="noopener"} for [millions of dollars](https://www.nytimes.com/2021/02/24/arts/design/christies-beeple-auction-blockchain-art.html){: target="_blank" rel="noopener"}. The idea that a piece of digital artwork is an original creates artificial scarcity and drives up the price, even though it costs nothing to own a digital copy. Outside of the art collector world, NFTs can be used to track the sale and ownership of digital assets purchased in video games.
 
 ### What is cryptocurrency?
 
