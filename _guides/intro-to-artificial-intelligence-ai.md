@@ -62,7 +62,21 @@ In the case of unsupervised learning, an AI engineer doesn't know in advance wha
 
 [&nbsp;AI Superpowers: China, Silicon Valley, and the New World Order.](https://chipublib.bibliocommons.com/item/show/2028491126){: target="_blank" rel="noopener"} Lee, Kai-Fu
 
-&nbsp;
+**Alpaydin, Ethem. “Introduction to Machine Learning.” 4th Edition, MIT Press, 2020.** A recently published textbook focusing on machine learning, including developments in deep learning and neural networks.&nbsp;
+
+**Jennings, Charles “Artificial Intelligence: Rise of the Lightspeed Learners.” Rowman and Littlefield, 2019.** An opinionated and anecdotal account of AI with coverage of AI cybersecurity and comparison of AI development in China and the USA. &nbsp;&nbsp;
+
+**Kaplan, Jerry. “Artificial Intelligence: What Everyone Needs To Know.” Oxford University Press, 2016.** A thorough primer covering the definitions, history and potential social impacts of AI.&nbsp;
+
+**Kaplan, Jerry. “Humans Need Not Apply.” Yale University Press 2015.** A critical look at possible economic and social consequences of AI, and consideration of policy proposals to promote equity.&nbsp;&nbsp;
+
+**Pickover, Clifford A. “Artificial Intelligence: An Illustrated History.” Sterling Publishing, 2019.** A lavishly illustrated survey of the technical and cultural history of AI.&nbsp;
+
+**Rahman, Was. “AI and Machine Learning.” Sage Publishing, 2020.** Includes a non-technical but detailed explanation of how AI works, as well as information on the history and implications of AI.&nbsp;
+
+**Warwick, Kevin. “Artificial Intelligence: The Basics.” Routledge, 2012.** In addition to chapters on the definitions, history and philosophy of AI, this book includes chapters on robots and sensory systems, such as computer vision.&nbsp;
+
+**“In the Age of AI.” PBS, 2020.&nbsp;** DVD with a two hour program covering the perils and promises of AI.**&nbsp;**&nbsp;
 
 &nbsp;
 
