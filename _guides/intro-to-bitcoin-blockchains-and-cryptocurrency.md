@@ -30,7 +30,7 @@ If you are interested in learning the technical details of how bitcoin works, a 
 
 ### Why was Bitcoin created?
 
-The idea of digital currencies can be traced back to the cypherpunk activist movement of the late 1980s. Cypherpunk is derived from the word "cipher" and "cyberpunk". The cypherpunks believed that privacy-enhancing technologies such as cryptography could help individuals bypass censorship and authoritarianism to make society more free. Several of the people involved in the cypherpunk movement would later become important contributors and supporters of the Bitcoin project.
+The idea of digital currencies can be traced back to the cypherpunk activist movement of the late 1980s. Cypherpunk is derived from the word "cipher" and "cyberpunk". Cypherpunks believed that privacy-enhancing technologies such as cryptography could help individuals bypass censorship and authoritarianism to make society more free. Several of the people involved in the cypherpunk movement would later become important contributors and supporters of the Bitcoin project.
 
 Bitcoin itself was launched on January 3, 2009 shortly after the 2008 financial crash. A message was embedded in the first block of the bitcoin blockchain: *"The Times 03/Jan/2009 Chancellor on brink of second bailout for banks"* referring to a headline published in The Times newspaper. This message is often interpreted as a criticism of government response to the global financial crisis.
 
