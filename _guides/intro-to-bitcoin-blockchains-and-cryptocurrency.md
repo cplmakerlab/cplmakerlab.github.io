@@ -28,6 +28,12 @@ The underlying technology that powers bitcoin is called the "blockchain." This i
 
 If you are interested in learning the technical details of how bitcoin works, a popular Youtube video ["But how does bitcoin actually work?"](https://www.youtube.com/watch?v=bBC-nXj3Ng4){: target="_blank" rel="noopener"} provides a great overview, and [Khan Academy offers a free Bitcoin course](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-what-is-it){: target="_blank" rel="noopener"}. You can also read the [original bitcoin whitepaper written by Satoshi Nakamoto](https://bitcoin.org/en/bitcoin-paper){: target="_blank" rel="noopener"}, which outlines *exactly* how the network works.
 
+### Why was Bitcoin created?
+
+The idea of digital currencies can be traced back to the cypherpunk activist movement of the late 1980s. Cypherpunk is derived from the word "cipher" and "cyberpunk". The cypherpunks believed that privacy-enhancing technologies such as cryptography could help individuals bypass censorship and authoritarianism to make society more free. Several of the people involved in the cypherpunk movement would later become important contributors and supporters of the Bitcoin project.
+
+Bitcoin itself was launched on January 3, 2009 shortly after the 2008 financial crash. A message was embedded in the first block of the bitcoin blockchain: *"The Times 03/Jan/2009 Chancellor on brink of second bailout for banks"* referring to a headline published in The Times newspaper. This message is often interpreted as a criticism of government response to the global financial crisis.
+
 ### What is Ethereum?
 
 A few years after bitcoin launched, a community of software developers saw potential in the underlying technology of the blockchain. They wondered if blockchain technology could be expanded to support more use cases beyond a single digital currency, such as local currencies and smart contracts. However, early experiments proved that this was quite difficult to do with the bitcoin blockchain.
