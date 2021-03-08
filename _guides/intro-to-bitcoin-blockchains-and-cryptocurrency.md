@@ -79,7 +79,7 @@ The cryptocurrency market is unregulated, volatile, and highly speculative. Cons
 > "It turns out my release of 6 CryptoArt works consumed in 10 seconds more electricity than the entire studio over the past 2 years."
 >
 >
-> [Mercier, Joane. "The Problem of CryptoArt." February 17, 2021.](https://joanielemercier.com/the-problem-of-cryptoart/https://joanielemercier.com/the-problem-of-cryptoart/){: target="_blank" rel="noopener"}
+> [Mercier, Joane. "The Problem of CryptoArt." February 17, 2021.](https://joanielemercier.com/the-problem-of-cryptoart){: target="_blank" rel="noopener"}
 
 ### Summary
 
