@@ -111,6 +111,24 @@ Cryptocurrency transactions are subject to federal and state tax regulations.&nb
 * [Barsk, Conrad. "Bitcoin for the Befuddled." No Starch Press, Inc. 2015.](https://chipublib.bibliocommons.com/item/show/1639508126){: target="_blank" rel="noopener"}
 * [Antonopoulos, Andreas M. "Mastering Bitcoin: Unlocking Digital Cryptocurrencies." O'Reilly Media, Inc. 2015.](https://chipublib.bibliocommons.com/item/show/1896041126){: target="_blank" rel="noopener"}
 
+#### Risks & Criticisms
+
+**Pump-and-dump schemes**
+
+The cryptocurrency market is unregulated, volatile, and highly speculative. Consumers should be wary of pump-and-dump schemes, a form of price manipulation where the price of a cryptocurrency is artificially inflated ("pumped") through positive social media posts by those who bought at a low price, only to be sold ("dumped") once the price reaches a new all time high, causing a sudden crash. People who bought during the meteoric rise may lose all of their investment.
+
+[Kenan Institute of Private Enterprise. "Should Cryptocurrency “Pump-and-Dump” Schemes be Regulated?" December 2020.](https://kenaninstitute.unc.edu/kenan-insight/should-cryptocurrency-pump-and-dump-schemes-be-regulated/){: target="_blank" rel="noopener"}
+
+**Environmental impact**
+
+> Depending on the energy source, researchers estimate that crypto-mining can produce 3-15 million tons of global carbon emissions.
+
+\- [Samford, Heidi, Lovely-Frances Domingo. "The Political Geography and Environmental Impacts of Cryptocurrency Mining." July 10, 2019.](https://jsis.washington.edu/news/the-political-geography-and-environmental-impacts-of-cryptocurrency-mining/){: target="_blank" rel="noopener"}
+
+> It turns out my release of 6 CryptoArt works consumed in 10 seconds more electricity than the entire studio over the past 2 years.
+
+\- [Mercier, Joane. "The Problem of CryptoArt." February 17, 2021.](https://joanielemercier.com/the-problem-of-cryptoart/https://joanielemercier.com/the-problem-of-cryptoart/){: target="_blank" rel="noopener"}
+
 #### Addiction Resources
 
 Trading cryptocurrencies is a highly speculative activity. For some, it can be addictive. If you need help, you can find helpful resources here: [https://www.ncpgambling.org/state/illinois/](https://www.ncpgambling.org/state/illinois/){: target="_blank" rel="noopener"}<br>&nbsp;
