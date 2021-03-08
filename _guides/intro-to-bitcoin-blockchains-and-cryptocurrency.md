@@ -134,7 +134,3 @@ Cryptocurrency transactions are subject to federal and state tax regulations.&nb
 #### Addiction Resources
 
 Trading cryptocurrencies is a highly speculative activity. For some, it can be addictive. If you need help, you can find helpful resources here: [https://www.ncpgambling.org/state/illinois/](https://www.ncpgambling.org/state/illinois/){: target="_blank" rel="noopener"}
-
-> &nbsp;
-
-#### <br>&nbsp;
