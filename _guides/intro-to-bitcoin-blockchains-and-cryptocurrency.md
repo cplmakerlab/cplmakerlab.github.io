@@ -71,12 +71,12 @@ The cryptocurrency market is unregulated, volatile, and highly speculative. Cons
 
 #### **Environmental impact**
 
-> Depending on the energy source, researchers estimate that crypto-mining can produce 3-15 million tons of global carbon emissions.
+> "Depending on the energy source, researchers estimate that crypto-mining can produce 3-15 million tons of global carbon emissions."
 >
 >
 > [Samford, Heidi, Lovely-Frances Domingo. "The Political Geography and Environmental Impacts of Cryptocurrency Mining." July 10, 2019.](https://jsis.washington.edu/news/the-political-geography-and-environmental-impacts-of-cryptocurrency-mining/){: target="_blank" rel="noopener"}
 
-> It turns out my release of 6 CryptoArt works consumed in 10 seconds more electricity than the entire studio over the past 2 years.
+> "It turns out my release of 6 CryptoArt works consumed in 10 seconds more electricity than the entire studio over the past 2 years."
 >
 >
 > [Mercier, Joane. "The Problem of CryptoArt." February 17, 2021.](https://joanielemercier.com/the-problem-of-cryptoart/https://joanielemercier.com/the-problem-of-cryptoart/){: target="_blank" rel="noopener"}
