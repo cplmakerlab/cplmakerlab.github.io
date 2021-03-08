@@ -8,7 +8,7 @@ tags:
   - Coding
 example_image:
 difficulty:
-time_required: 6 minute read
+time_required: 7 minute read
 file_attachment_path:
 ---
 
