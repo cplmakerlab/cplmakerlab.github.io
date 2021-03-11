@@ -9,7 +9,7 @@ Make a \[adj\] \[noun\]
 
 out of \[material\]
 
-using a \[tool\]
+using \[tool\]
 
 &nbsp;
 
