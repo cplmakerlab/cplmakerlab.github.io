@@ -110,19 +110,9 @@ slides:
     background_image:
   - title: Outsourcing
     content_markdown: >-
-      ## **Monday, September, 28th&nbsp; 12:00 PM &nbsp; **
-
-
-      ## **Outsourcing your Designs**
-
-
-      **&nbsp;**
-
-
-      **&nbsp; &nbsp;Have you designed something during quarantine that you want
-      to have 3D printed or laser cut? Although you cannot yet use the machines
-      at the Maker Lab, you can send your files online to different companies
-      that can make them for you\!&nbsp;**
+      **Have you designed something during that you want to have 3D printed or
+      laser cut? Consider outsourcing designs. You can take our Outsourcing you
+      Designs class or submit a job using our Ask a Maker form.&nbsp;**
     background_color: '#c9ffc7'
     background_image:
 ---
