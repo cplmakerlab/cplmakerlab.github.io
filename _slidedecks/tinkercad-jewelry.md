@@ -1,8 +1,8 @@
 ---
 title: TinkerCAD Jewelry
 slides:
-  - title: 'Software Basics: Tinkercad (Jewelry)'
-    content_markdown: '## **Software Basics: Tinkercad (Jewelry)**'
+  - title: Make Jewelry for 3D Printing
+    content_markdown: '## **Make Jewelry for 3D Printing&nbsp;**'
     background_color: '#c9ffc7'
     background_image:
   - title: Rings
