@@ -111,7 +111,7 @@ slides:
   - title: Outsourcing
     content_markdown: >-
       **Have you designed something during that you want to have 3D printed or
-      laser cut? Consider outsourcing designs. You can take our Outsourcing you
+      laser cut? Consider outsourcing designs. You can take our Outsourcing your
       Designs class or submit a job using our Ask a Maker form.&nbsp;**
     background_color: '#c9ffc7'
     background_image:
