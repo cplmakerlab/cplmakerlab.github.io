@@ -19,8 +19,9 @@ slides:
       target="_blank" rel="nofollow noopener noreferrer"})**
 
 
-      ## ![](/uploads/tinkercad-jewelry/09dbc277ab25703687cec04c795046e4.jpg){:
-      width="612" height="676"}
+      ##
+      ![](/uploads/tinkercad-jewelry/ring-size-table-fields-v2-1200x840.jpg){:
+      width="1600" height="1120"}
     background_color: '#c9ffc7'
     background_image:
   - title: Ring Meaurements
