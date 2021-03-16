@@ -98,11 +98,9 @@ slides:
     background_image:
     background_size: cover
   - title: Objective/ Summary
-    content_markdown: >-
-      ![](/uploads/write-a-resume-using-google-docs/a.png){: width="878"
-      height="96"}
+    content_markdown:
     background_color: '#fdffb0'
-    background_image:
+    background_image: /uploads/write-a-resume-using-google-docs/a.png
     background_size: cover
   - title: What do I do if I don’t have enough on my resume?
     content_markdown: >-
