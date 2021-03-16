@@ -145,21 +145,19 @@ slides:
     background_color: '#fdffb0'
     background_image: /uploads/write-a-resume-using-google-docs/6.png
     background_size: contain
-  - title:
+  - title: Monster
     content_markdown: |-
-      &nbsp;
-
       Monster
 
       For very professional jobs. Need very specific qualifications.
     background_color: '#fdffb0'
     background_image: /uploads/write-a-resume-using-google-docs/4-1.png
     background_size: contain
-  - title:
-    content_markdown:
+  - title: Indeed
+    content_markdown: Most commonly used. Some applications are very fast.
     background_color: '#fdffb0'
-    background_image:
-    background_size: cover
+    background_image: /uploads/write-a-resume-using-google-docs/5.png
+    background_size: contain
   - title:
     content_markdown:
     background_color: '#fdffb0'
