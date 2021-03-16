@@ -119,8 +119,17 @@ slides:
     background_color: '#fdffb0'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Cover Letters & CVs
+    content_markdown: >-
+      * **Cover Letters**\: A motivational letter written to a potential
+      employer, generally several paragraphs in length. Cover letters should
+      show in depth knowledge of the company or organisation you are applying
+      to.
+
+      * **CVs:** This is a comprehensive list of all published works,
+      exhibitions, conferences, awards, and honors a person has received.
+      Nothing should be left out\! The longer a CV is, the better. CVs are often
+      needed for academic, artistic and creative jobs.
     background_color: '#fdffb0'
     background_image:
     background_size: cover
