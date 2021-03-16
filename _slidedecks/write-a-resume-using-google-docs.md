@@ -38,11 +38,9 @@ slides:
     background_image:
     background_size: cover
   - title: Resume Basics
-    content_markdown: >-
-      ![](/uploads/write-a-resume-using-google-docs/1.png){: width="1014"
-      height="1168"}
+    content_markdown:
     background_color: '#fdffb0'
-    background_image:
+    background_image: /uploads/write-a-resume-using-google-docs/1.png
     background_size: cover
   - title: Required Sections
     content_markdown: >-
@@ -55,13 +53,11 @@ slides:
       of study and if degrees were completed.&nbsp;
 
       * **Work Experience**\: Ideally, list two most recent jobs. Three jobs can
-      be listed if space is needed to be filled or if all three jobs make you
-      seem like the ideal candidate. List one job only if have yet to have a
-      second job.&nbsp;
+      be listed if you need to fill space.
 
-      * **Skills** **(Commonly Listed):** Microsoft Suite (Word, Excel,
-      Powerpoint), Computer Programs, Social Media, Customer Service, Teamwork,
-      Leadership, Bilingual
+      * **Skills**\: Commonly listed include**&nbsp;**Microsoft Suite (Word,
+      Excel, Powerpoint), Computer Programs, Social Media, Customer Service,
+      Teamwork, Leadership, Bilingual
     background_color: '#fdffb0'
     background_image:
     background_size: cover
