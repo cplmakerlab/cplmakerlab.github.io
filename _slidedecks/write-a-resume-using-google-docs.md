@@ -11,9 +11,9 @@ slides:
     background_color: '#fdffb0'
     background_image:
     background_size: cover
-  - title: WHAT IS A RESUME?
+  - title: What is a resume?
     content_markdown: |-
-      WHAT IS A RESUME?
+      What is a resume?
 
       * A document meant to show your work experience.&nbsp;
       * Generally written using Google Drive or Microsoft Word.
@@ -21,18 +21,47 @@ slides:
     background_color: '#fdffb0'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Resume Basics
+    content_markdown: |-
+      Resume Basics
+
+      * Contact Information&nbsp;
+      * Objective or Summary (Optional )&nbsp;
+      * Education&nbsp;
+      * Work Experience&nbsp;
+      * Skills
+      * Certifications
+      * Honors,&nbsp;
+      * Volunteer Work
+      * Foreign Languages
     background_color: '#fdffb0'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Resume Basics
+    content_markdown: >-
+      ![](/uploads/write-a-resume-using-google-docs/1.png){: width="1014"
+      height="1168"}
     background_color: '#fdffb0'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Required Sections
+    content_markdown: >-
+      Required Sections&nbsp;
+
+
+      * **Contact Information:** Name, Address, Phone Number, Email, Website
+
+      * **Education:** List most recent education first. Indicate majors/ areas
+      of study and if degrees were completed.&nbsp;
+
+      * **Work Experience**\: Ideally, list two most recent jobs. Three jobs can
+      be listed if space is needed to be filled or if all three jobs make you
+      seem like the ideal candidate. List one job only if have yet to have a
+      second job.&nbsp;
+
+      * **Skills** **(Commonly Listed):** Microsoft Suite (Word, Excel,
+      Powerpoint), Computer Programs, Social Media, Customer Service, Teamwork,
+      Leadership, Bilingual
     background_color: '#fdffb0'
     background_image:
     background_size: cover
