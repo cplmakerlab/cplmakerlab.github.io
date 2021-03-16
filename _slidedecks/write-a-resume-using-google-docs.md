@@ -161,16 +161,32 @@ slides:
     background_color: '#fdffb0'
     background_image: /uploads/write-a-resume-using-google-docs/5.png
     background_size: contain
-  - title:
-    content_markdown:
-    background_color: '#fdffb0'
-    background_image:
-    background_size: cover
   - title: Filters
     content_markdown: '## Filters'
     background_color: '#fdffb0'
     background_image: /uploads/write-a-resume-using-google-docs/7.png
     background_size: contain
+  - title: 'Other job sites/ job boards:'
+    content_markdown: >-
+      Other job sites/ job boards:
+
+
+      * City of Chicago:
+      [https://chicago.taleo.net/careersection/100/jobsearch.ftl?lang=en](https://chicago.taleo.net/careersection/100/jobsearch.ftl?lang=en)
+
+      * Illinois Job Link:
+      [https://illinoisjoblink.illinois.gov/ada/r/](https://illinoisjoblink.illinois.gov/ada/r/)
+
+      * Career Builder
+
+      * The Ladder&nbsp;
+
+      * Simply Hired&nbsp;
+
+      * Linkedin
+    background_color: '#fdffb0'
+    background_image:
+    background_size: cover
   - title:
     content_markdown:
     background_color: '#fdffb0'
