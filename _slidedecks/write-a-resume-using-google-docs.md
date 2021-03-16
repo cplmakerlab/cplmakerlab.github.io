@@ -137,17 +137,13 @@ slides:
     background_size: cover
   - title: Craigslist
     content_markdown: >-
-      ![](/uploads/write-a-resume-using-google-docs/6.png){: width="284"
-      height="80"}
-
-
       Craigslist
 
 
       Easy to apply.&nbsp; Great for finding part time, gig jobs, or jobs at
       small businesses. Need to be careful, some postings are scams.
     background_color: '#fdffb0'
-    background_image:
+    background_image: /uploads/write-a-resume-using-google-docs/6.png
     background_size: cover
   - title:
     content_markdown: >-
