@@ -82,18 +82,40 @@ slides:
     background_color: '#fdffb0'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: What is an Objective/ Summary?
+    content_markdown: >-
+      What is an Objective/ Summary?
+
+
+      * This section usually consists of 1-3 lines, and it’s below your contact
+      information.
+
+      * Important to include in resume if you have never had a job before, or
+      little experience related in the job you are applying to.
+
+      * Emphasize on your key qualifications, skills, and goals.
     background_color: '#fdffb0'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Objective/ Summary
+    content_markdown: >-
+      ![](/uploads/write-a-resume-using-google-docs/2.png){: width="784"
+      height="106"}![](/uploads/write-a-resume-using-google-docs/a.png){:
+      width="878" height="96"}
     background_color: '#fdffb0'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: What do I do if I don’t have enough on my resume?
+    content_markdown: >-
+      What do I do if I don’t have enough on my resume?
+
+
+      * Volunteer
+
+      * Learn a New Language&nbsp;
+
+      * Get a license/ certification: CPR, Forklift License, PERC Card, CNC
+      Operation, software programs, coding&nbsp;
     background_color: '#fdffb0'
     background_image:
     background_size: cover
