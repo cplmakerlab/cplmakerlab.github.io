@@ -150,7 +150,15 @@ slides:
     background_image:
     background_size: cover
   - title:
-    content_markdown:
+    content_markdown: >-
+      ![](/uploads/write-a-resume-using-google-docs/4-1.png){: width="404"
+      height="104"}
+
+
+      Monster
+
+
+      For very professional jobs. Need very specific qualifications.
     background_color: '#fdffb0'
     background_image:
     background_size: cover
