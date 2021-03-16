@@ -144,7 +144,7 @@ slides:
       small businesses. Need to be careful, some postings are scams.
     background_color: '#fdffb0'
     background_image: /uploads/write-a-resume-using-google-docs/6.png
-    background_size: cover
+    background_size: contain
   - title:
     content_markdown: >-
       ![](/uploads/write-a-resume-using-google-docs/4-1.png){: width="404"
