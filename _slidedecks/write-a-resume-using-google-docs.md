@@ -192,11 +192,11 @@ slides:
     background_color: '#fdffb0'
     background_image: /uploads/write-a-resume-using-google-docs/10.jpg
     background_size: contain
-  - title:
-    content_markdown:
+  - title: Google Docs
+    content_markdown: '## Google Docs'
     background_color: '#fdffb0'
-    background_image:
-    background_size: cover
+    background_image: /uploads/write-a-resume-using-google-docs/googledocs.PNG
+    background_size: contain
   - title:
     content_markdown:
     background_color: '#fdffb0'
