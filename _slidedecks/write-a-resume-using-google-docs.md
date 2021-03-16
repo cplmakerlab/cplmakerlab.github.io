@@ -197,8 +197,19 @@ slides:
     background_color: '#fdffb0'
     background_image: /uploads/write-a-resume-using-google-docs/googledocs.PNG
     background_size: contain
-  - title:
-    content_markdown:
+  - title: Google Docs
+    content_markdown: >-
+      Google Docs&nbsp;
+
+
+      * Google Docs is similar to Microsoft Word, however Docs is free unlike
+      Word.
+
+      * If you already have a gmail account, you already have a google docs
+      account.&nbsp;
+
+      * Google Docs is hosted on cloud storage and saves itself
+      automatically.&nbsp;
     background_color: '#fdffb0'
     background_image:
     background_size: cover
