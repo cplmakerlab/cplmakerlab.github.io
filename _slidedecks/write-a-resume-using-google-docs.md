@@ -208,8 +208,9 @@ slides:
       * If you already have a gmail account, you already have a google docs
       account.&nbsp;
 
-      * Google Docs is hosted on cloud storage and saves itself
-      automatically.&nbsp;
+      * Google Docs is hosted on cloud storage and saves itself automatically.
+      This makes it great for writing resumes because you cannot unintentionally
+      lose the file.&nbsp;
     background_color: '#fdffb0'
     background_image:
     background_size: cover
