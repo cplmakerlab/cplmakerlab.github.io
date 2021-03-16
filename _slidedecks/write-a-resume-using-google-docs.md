@@ -154,7 +154,10 @@ slides:
     background_image: /uploads/write-a-resume-using-google-docs/4-1.png
     background_size: contain
   - title: Indeed
-    content_markdown: Most commonly used. Some applications are very fast.
+    content_markdown: |-
+      Indeed
+
+      Most commonly used. Some applications are very fast.
     background_color: '#fdffb0'
     background_image: /uploads/write-a-resume-using-google-docs/5.png
     background_size: contain
@@ -163,11 +166,11 @@ slides:
     background_color: '#fdffb0'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Filters
+    content_markdown: '## Filters'
     background_color: '#fdffb0'
-    background_image:
-    background_size: cover
+    background_image: /uploads/write-a-resume-using-google-docs/7.png
+    background_size: contain
   - title:
     content_markdown:
     background_color: '#fdffb0'
