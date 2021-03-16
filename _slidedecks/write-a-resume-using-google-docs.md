@@ -61,8 +61,24 @@ slides:
     background_color: '#fdffb0'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Additional Sections
+    content_markdown: >-
+      Additional Sections
+
+
+      * **Certifications and Licenses:&nbsp;**Driver's License, CPR
+
+      * **Honors and Awards:** Education honors can be merged with the Education
+      Section. Awards can include: Employee of the Month, 1st Place Prizes.
+
+      * **Volunteer Work:** Not necessary to include volunteer title, do include
+      years volunteered.&nbsp;
+
+      * **Languages:** Indicate Proficiency: Elementary, Intermediate, Advanced,
+      Full/ Native
+
+      * **Interests:** Hobbies, sports, recreational activities, things you like
+      to learn about.
     background_color: '#fdffb0'
     background_image:
     background_size: cover
