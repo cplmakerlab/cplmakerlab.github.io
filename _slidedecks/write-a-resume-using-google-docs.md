@@ -99,9 +99,8 @@ slides:
     background_size: cover
   - title: Objective/ Summary
     content_markdown: >-
-      ![](/uploads/write-a-resume-using-google-docs/2.png){: width="784"
-      height="106"}![](/uploads/write-a-resume-using-google-docs/a.png){:
-      width="878" height="96"}
+      ![](/uploads/write-a-resume-using-google-docs/a.png){: width="878"
+      height="96"}
     background_color: '#fdffb0'
     background_image:
     background_size: cover
