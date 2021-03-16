@@ -41,7 +41,7 @@ slides:
     content_markdown:
     background_color: '#fdffb0'
     background_image: /uploads/write-a-resume-using-google-docs/1.png
-    background_size: cover
+    background_size: contain
   - title: Required Sections
     content_markdown: >-
       Required Sections&nbsp;
