@@ -131,7 +131,7 @@ slides:
       area.&nbsp;
 
 
-      \-Craislist: Allows for a variety of sales and postings, not frequently
+      \-Craigslist: Allows for a variety of sales and postings, not frequently
       used for handmade items.&nbsp;
 
 
@@ -212,7 +212,7 @@ slides:
       \- Necessary for Shopify, Etsy and others.&nbsp;
 
 
-      \- Not necessary for Facebook Marketplace, sellter apps (Letgo, Offerup,
+      \- Not necessary for Facebook Marketplace, seller apps (Letgo, Offerup,
       etc.)
 
 
