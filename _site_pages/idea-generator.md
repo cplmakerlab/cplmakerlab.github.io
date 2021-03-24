@@ -11,6 +11,4 @@ out of \[material\]
 
 using \[tool\]
 
-&nbsp;
-
-SAVE \| REFRESH
+SAVE \| GENERATE NEW IDEA
