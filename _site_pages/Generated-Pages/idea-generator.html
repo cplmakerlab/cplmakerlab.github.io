@@ -81,7 +81,12 @@ permalink: /idea-generator
   var randAdj = adj || adjectives[Math.floor(Math.random() * adjectives.length)];
   var adjDiv = document.querySelector('.igen-adj');
   adjDiv.innerHTML = randAdj;
-
+  // Change article from a to an if word starts with a vowel
+  var adjArt = document.querySelector('.igen-adj-article');
+  var tf = randThing.slice(0, 1);
+  if (tf == "a" || tf == "e" || tf == "i" || tf == "o" || tf == "u") {
+    adjArt.innerHTML = "an";
+  }
   // Make sure noun is singular, a pair of shoes
   var things = [
   'pair of shoes', 
@@ -123,12 +128,7 @@ permalink: /idea-generator
   var randThing= thing || things[Math.floor(Math.random() * things.length)];
   var thingDiv = document.querySelector('.igen-thing');
   thingDiv.innerHTML = randThing;  
-  // Change article from a to an if word starts with a vowel
-  var thingArt = document.querySelector('.igen-thing-article');
-  var tf = randThing.slice(0, 1);
-  if (tf == "a" || tf == "e" || tf == "i" || tf == "o" || tf == "u") {
-    thingArt.innerHTML = "an";
-  }
+
 
 
   // Make sure nouns are singular, a pair of shoes
