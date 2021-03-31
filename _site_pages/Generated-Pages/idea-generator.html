@@ -85,6 +85,7 @@ permalink: /idea-generator
   'sticker',
   'spaceship',
   'dinosaur',
+  'electronic circuit',
   't-shirt',
   'stencil',
   'bag',
@@ -102,6 +103,7 @@ permalink: /idea-generator
   'pine',
   'cardboard',
   'felt',
+  'fabric',
   'vinyl',
   'acrylic'
   'heat transfer',
@@ -111,6 +113,8 @@ permalink: /idea-generator
   'oil board',
   'plastic',
   'chipboard',
+  'metal',
+  'duct tape',
   'linoleum'
   ];
   var randMaterial = materials[Math.floor(Math.random() * materials.length)];
@@ -118,5 +122,30 @@ permalink: /idea-generator
   materialDiv.innerHTML = randMaterial;  
   materialDiv.style.color = "orange";
   
+  // Make sure nouns are singular, a pair of shoes
+  var tools = [
+  '3D printer',
+  'lasercutter',
+  'CNC mill',  
+  'embroidery machine',
+  'sewing machine',  
+  '3D scanner',
+  'microcontroller',
+  'pair of scissors',
+  'single hand',
+  'toothpick',
+  'audio recorder',
+  'microphone',
+  'computer',
+  'butter knife',
+  'electronic cutter',
+  'programming language',
+  'Blender',
+  ];
+  var randTools = tools[Math.floor(Math.random() * tools.length)];
+  var toolDiv = document.querySelector('.igen-tool');
+  toolDiv.innerHTML = randTool;  
+  toolDiv.style.color = "red";
+
   
 </script>
