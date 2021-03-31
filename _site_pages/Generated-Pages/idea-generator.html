@@ -43,6 +43,14 @@ permalink: /idea-generator
   var material = getUrlVars()["material"];
   var tool = getUrlVars()["tool"];
   
+  var colors = [
+    '#EE5F5B',
+    '#F89406',
+    '#FFF457',
+    '#62C462',
+    '#5BC0DE'
+  ];
+  
   var adjectives = [
   'useless', 
   'useful', 
@@ -80,6 +88,9 @@ permalink: /idea-generator
   var randAdj = adj || adjectives[Math.floor(Math.random() * adjectives.length)];
   var adjDiv = document.querySelector('.igen-adj');
   adjDiv.innerHTML = randAdj;
+  adjDiv.style.color = colors[Math.floor(Math.random()* colors.length];
+  adjDiv.style.borderColor = adjDiv.style.color;
+  
   // Change article from a to an if word starts with a vowel
   var adjArt = document.querySelector('.igen-adj-article');
   var tf = randAdj.slice(0, 1);
@@ -128,6 +139,9 @@ permalink: /idea-generator
   var thingDiv = document.querySelector('.igen-thing');
   thingDiv.innerHTML = randThing;  
 
+  thingDiv.style.color = colors[Math.floor(Math.random()* colors.length];
+  thingDiv.style.borderColor = thingDiv.style.color;
+
   // Make sure nouns are singular, a pair of shoes
   var materials = [
   'paper',
@@ -152,6 +166,9 @@ permalink: /idea-generator
   var randMaterial = material || materials[Math.floor(Math.random() * materials.length)];
   var materialDiv = document.querySelector('.igen-material');
   materialDiv.innerHTML = randMaterial;  
+
+  materialDiv.style.color = colors[Math.floor(Math.random()* colors.length];
+  materialDiv.style.borderColor = materialDiv.style.color;
 
   // Make sure nouns are singular, a pair of shoes
   var tools = [
@@ -188,6 +205,9 @@ permalink: /idea-generator
   var randTool = tool || tools[Math.floor(Math.random() * tools.length)];
   var toolDiv = document.querySelector('.igen-tool');
   toolDiv.innerHTML = randTool; 
+  toolDiv.style.color = colors[Math.floor(Math.random()* colors.length];
+  toolDiv.style.borderColor = toolDiv.style.color;  
+  
   // Change article from a to an if word starts with a vowel
   var toolArt = document.querySelector('.igen-tool-article');
   var tff = randTool.slice(0, 1);
