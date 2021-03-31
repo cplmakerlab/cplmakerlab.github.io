@@ -13,7 +13,7 @@ permalink: /idea-generator
 
 <h3>...out of <span class="igen-material">________</span></h3>
 
-<h3>...using <span class="igen-tool">________</span></h3>
+<h3>...using a <span class="igen-tool">________</span></h3>
 
 
 <button type="button" class="igen-save">SAVE</button> | <button class="igen-generate" type="button"><i class="fa fa-redo"></i> GENERATE NEW IDEA</button>
@@ -43,10 +43,15 @@ permalink: /idea-generator
   'radical',
   'spectacular',
   'gigantic',
-  'extremely tiny',
+  'tiny',
   'miniature',
   'lugubrious',
-  'talkative'
+  'talkative',
+  'nonfunctional',
+  'hexagonal'
+  'triangular',
+  'circular'
+  'mushy'
   ];
   var randAdj = adjectives[Math.floor(Math.random() * adjectives.length)];
   var adjDiv = document.querySelector('.igen-adj');
@@ -72,16 +77,44 @@ permalink: /idea-generator
   'monogram',
   'stamp',
   'sculpture',
+  'drawing',
+  'painting',
   'sign',
   'greeting card',
   'sticker',
   'spaceship',
   'dinosaur',
+  't-shirt',
+  'stencil',
+  'bag',
   'time machine'
   ];
   var randNoun = nouns[Math.floor(Math.random() * nouns.length)];
   var nounDiv = document.querySelector('.igen-noun');
   nounDiv.innerHTML = randNoun;  
+
+  // Make sure nouns are singular, a pair of shoes
+  var materials = [
+  'paper',
+  'wood',
+  'pine',
+  'cardboard',
+  'felt',
+  'vinyl',
+  'acrylic'
+  'heat transfer',
+  'engravable rubber',
+  'PLA',
+  'mylar',
+  'oil board',
+  'plastic',
+  'chipboard',
+  'linoleum'
+  
+  ];
+  var randMaterial = materials[Math.floor(Math.random() * materials.length)];
+  var materialDiv = document.querySelector('.igen-material');
+  materialDiv.innerHTML = randMaterial;  
   
   
 </script>
