@@ -20,8 +20,63 @@ permalink: /idea-generator
 
 <!-- For the sake of visibility & learning, this code is included as inline JS. The best practice is to separate and load JS as a separate file.  -->
 <script>
-  var adjectives = ['Rock', 'Paper', 'Scissor'];
-  var randAdj = adjectives[Math.floor(Math.random()*things.length)];
+  var adjectives = [
+  'useless', 
+  'useful', 
+  'yellow',
+  'green',
+  'red',
+  'orange',
+  'blue',
+  'violet',
+  'fuzzy',
+  'crunchy',
+  'chewy',
+  'maniacal',
+  'sleepy',
+  'colorful',
+  'monochromatic',
+  'stupendous',
+  'breathtaking',
+  'dynamite',
+  'marvelous',
+  'radical',
+  'spectacular',
+  'gigantic',
+  'extremely tiny'
+  ];
+  var randAdj = adjectives[Math.floor(Math.random() * adjectives.length)];
   var adjDiv = document.querySelector('.igen-adj');
   adjDiv.innerHTML = randAdj;
+  
+  var nouns = [
+  'shoes', 
+  'hat', 
+  'sunglasses',
+  'spoon',
+  'fork',
+  'cup',
+  'bowl',
+  'cutting board',
+  'plush monster',
+  'puzzle',
+  'game piece',
+  'plant',
+  'animal',
+  'octopus',
+  'owl',
+  'monogram',
+  'stamp',
+  'sculpture',
+  'sign',
+  'papercraft',
+  'spaceship',
+  'dinosaur',
+  'time machine'
+  ];
+  var randNoun = nouns[Math.floor(Math.random() * nouns.length)];
+  var nounDiv = document.querySelector('.igen-noun');
+  nounDiv.innerHTML = randNoun;  
+  
+  
 </script>
