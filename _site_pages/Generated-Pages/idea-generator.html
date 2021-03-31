@@ -10,7 +10,7 @@ permalink: /idea-generator
 
 <hr>
 
-<h3>Make a <span class="igen-adj">________</span> <span class="igen-noun">________</span></h3>
+<h3>Make a <span class="igen-adj">________</span> <span class="igen-thing">________</span></h3>
 
 <h3>...out of <span class="igen-material">________</span></h3>
 
@@ -21,6 +21,18 @@ permalink: /idea-generator
 
 <!-- For the sake of visibility & learning, this code is included as inline JS. The best practice is to separate and load JS as a separate file.  -->
 <script>
+  function getUrlVars() {
+      var vars = {};
+      var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+          vars[key] = value;
+      });
+      return vars;
+  }
+  var adj = getUrlVars()["adj"];
+  var thing = getUrlVars()["thing"];  
+  var material = getUrlVars()["material"];
+  var tool = getUrlVars()["tool"];
+  
   var adjectives = [
   'useless', 
   'useful', 
@@ -60,7 +72,7 @@ permalink: /idea-generator
   adjDiv.style.color = "green";
   
   // Make sure noun is singular, a pair of shoes
-  var nouns = [
+  var things = [
   'pair of shoes', 
   'hat', 
   'pair of sunglasses',
@@ -92,10 +104,10 @@ permalink: /idea-generator
   'bag',
   'time machine'
   ];
-  var randNoun = nouns[Math.floor(Math.random() * nouns.length)];
-  var nounDiv = document.querySelector('.igen-noun');
-  nounDiv.innerHTML = randNoun;  
-  nounDiv.style.color = "violet"; 
+  var randThing= things[Math.floor(Math.random() * things.length)];
+  var nounThing = document.querySelector('.igen-thing');
+  nounThing.innerHTML = randNoun;  
+  nounThing.style.color = "violet"; 
 
   // Make sure nouns are singular, a pair of shoes
   var materials = [
