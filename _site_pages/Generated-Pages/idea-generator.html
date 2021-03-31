@@ -83,8 +83,8 @@ permalink: /idea-generator
   adjDiv.innerHTML = randAdj;
   // Change article from a to an if word starts with a vowel
   var adjArt = document.querySelector('.igen-adj-article');
-  var tf = randThing.slice(0, 1);
-  if (tf == "a" || tf == "e" || tf == "i" || tf == "o" || tf == "u") {
+  var tf = randAdj.slice(0, 1);
+  if (tf == "a" || tf == "e" || tf == "i" || tf == "o") {
     adjArt.innerHTML = "an";
   }
   // Make sure noun is singular, a pair of shoes
@@ -128,8 +128,6 @@ permalink: /idea-generator
   var randThing= thing || things[Math.floor(Math.random() * things.length)];
   var thingDiv = document.querySelector('.igen-thing');
   thingDiv.innerHTML = randThing;  
-
-
 
   // Make sure nouns are singular, a pair of shoes
   var materials = [
@@ -194,7 +192,7 @@ permalink: /idea-generator
   // Change article from a to an if word starts with a vowel
   var toolArt = document.querySelector('.igen-tool-article');
   var tff = randTool.slice(0, 1);
-  if (tff == "a" || tff == "e" || tff == "i" || tff == "o" || tff == "u") {
+  if (tff == "a" || tff == "e" || tff == "i" || tff == "o") {
     toolArt.innerHTML = "an";
   }
 </script>
