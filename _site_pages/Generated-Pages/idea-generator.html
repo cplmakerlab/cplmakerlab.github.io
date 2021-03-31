@@ -56,6 +56,7 @@ permalink: /idea-generator
   var randAdj = adjectives[Math.floor(Math.random() * adjectives.length)];
   var adjDiv = document.querySelector('.igen-adj');
   adjDiv.innerHTML = randAdj;
+  adjDiv.style.color = "green";
   
   // Make sure noun is singular, a pair of shoes
   var nouns = [
@@ -92,6 +93,7 @@ permalink: /idea-generator
   var randNoun = nouns[Math.floor(Math.random() * nouns.length)];
   var nounDiv = document.querySelector('.igen-noun');
   nounDiv.innerHTML = randNoun;  
+  nounDiv.style.color = "red"; 
 
   // Make sure nouns are singular, a pair of shoes
   var materials = [
@@ -115,6 +117,7 @@ permalink: /idea-generator
   var randMaterial = materials[Math.floor(Math.random() * materials.length)];
   var materialDiv = document.querySelector('.igen-material');
   materialDiv.innerHTML = randMaterial;  
+  materialDiv.style.color = "orange";
   
   
 </script>
