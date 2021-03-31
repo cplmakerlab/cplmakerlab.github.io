@@ -18,3 +18,10 @@ permalink: /idea-generator
 
 <button type="button" class="igen-save">SAVE</button> | <button class="igen-generate" type="button"><i class="fa fa-redo"></i> GENERATE NEW IDEA</button>
 
+<!-- For the sake of visibility & learning, this code is included as inline JS. The best practice is to separate and load JS as a separate file.  -->
+<script>
+  var adjectives = ['Rock', 'Paper', 'Scissor'];
+  var randAdj = adjectives[Math.floor(Math.random()*things.length)];
+  var adjDiv = document.querySelector('.igen-adj');
+  adjDiv.innerHTML = randAdj;
+</script>
