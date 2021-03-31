@@ -17,7 +17,7 @@ permalink: /idea-generator
 <h3>...using a <span class="igen-tool">________</span></h3>
 
 
-<button type="button" class="igen-save">SAVE</button> | <button class="igen-generate" type="button"><i class="fa fa-redo"></i> GENERATE NEW IDEA</button>
+<button type="button" class="button igen-save">SAVE</button> | <a class="button igen-generate" href="."><i class="fa fa-redo"></i> GENERATE NEW IDEA</a>
 
 <!-- For the sake of visibility & learning, this code is included as inline JS. The best practice is to separate and load JS as a separate file.  -->
 <script>
@@ -66,7 +66,7 @@ permalink: /idea-generator
   'circular',
   'mushy'
   ];
-  var randAdj = adjectives[Math.floor(Math.random() * adjectives.length)];
+  var randAdj = adj || adjectives[Math.floor(Math.random() * adjectives.length)];
   var adjDiv = document.querySelector('.igen-adj');
   adjDiv.innerHTML = randAdj;
   adjDiv.style.color = "green";
@@ -104,7 +104,7 @@ permalink: /idea-generator
   'bag',
   'time machine'
   ];
-  var randThing= things[Math.floor(Math.random() * things.length)];
+  var randThing= thing || things[Math.floor(Math.random() * things.length)];
   var nounThing = document.querySelector('.igen-thing');
   nounThing.innerHTML = randNoun;  
   nounThing.style.color = "violet"; 
@@ -130,7 +130,7 @@ permalink: /idea-generator
   'duct tape',
   'linoleum'
   ];
-  var randMaterial = materials[Math.floor(Math.random() * materials.length)];
+  var randMaterial = material || materials[Math.floor(Math.random() * materials.length)];
   var materialDiv = document.querySelector('.igen-material');
   materialDiv.innerHTML = randMaterial;  
   materialDiv.style.color = "orange";
@@ -167,7 +167,7 @@ permalink: /idea-generator
   'text editor',
   'machine learning algorithm'
   ];
-  var randTool = tools[Math.floor(Math.random() * tools.length)];
+  var randTool = tool || tools[Math.floor(Math.random() * tools.length)];
   var toolDiv = document.querySelector('.igen-tool');
   toolDiv.innerHTML = randTool;  
   toolDiv.style.color = "red";
