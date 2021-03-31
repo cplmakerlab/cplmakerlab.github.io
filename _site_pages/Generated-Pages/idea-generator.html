@@ -10,14 +10,25 @@ permalink: /idea-generator
 
 <hr>
 
-<h3>Make a <span class="igen-adj">________</span> <span class="igen-thing">________</span></h3>
+<h2>Make <span class="igen-adj-article">a</span> <span class="igen-adj">________</span> <span class="igen-thing">________</span></h2>
 
-<h3>...out of <span class="igen-material">________</span></h3>
+<h2>...out of <span class="igen-material">________</span></h2>
 
-<h3>...using a <span class="igen-tool">________</span></h3>
+<h2>...using <span class="igen-tool-article">a</span> <span class="igen-tool">________</span></h2>
 
 
 <button type="button" class="button igen-save">SAVE</button> | <a class="button igen-generate" href="idea-generate"><i class="fa fa-redo"></i> GENERATE NEW IDEA</a>
+
+<style>
+  .igen-adj,
+  .igen-material,
+  .igen-tool {
+    font-family:inconsolata, monospace;
+    border-bottom:dotted black 3px;
+    text-transform:uppercase;
+  }
+</style>
+
 
 <!-- For the sake of visibility & learning, this code is included as inline JS. The best practice is to separate and load JS as a separate file.  -->
 <script>
@@ -69,8 +80,7 @@ permalink: /idea-generator
   var randAdj = adj || adjectives[Math.floor(Math.random() * adjectives.length)];
   var adjDiv = document.querySelector('.igen-adj');
   adjDiv.innerHTML = randAdj;
-  adjDiv.style.color = "green";
-  
+
   // Make sure noun is singular, a pair of shoes
   var things = [
   'pair of shoes', 
@@ -110,9 +120,15 @@ permalink: /idea-generator
   'time machine'
   ];
   var randThing= thing || things[Math.floor(Math.random() * things.length)];
-  var nounThing = document.querySelector('.igen-thing');
-  nounThing.innerHTML = randThing;  
-  nounThing.style.color = "violet"; 
+  var thingDiv = document.querySelector('.igen-thing');
+  thingDiv.innerHTML = randThing;  
+  // Change article from a to an if word starts with a vowel
+  var thingArt = document.querySelector('.igen-thing-article');
+  var tf = randThing.slice(0, 1);
+  if (tf == "a" || tf == "e" || tf == "i" || tf == "o" || tf == "u") {
+    thingArt.innerHTML = "an";
+  }
+
 
   // Make sure nouns are singular, a pair of shoes
   var materials = [
@@ -138,8 +154,7 @@ permalink: /idea-generator
   var randMaterial = material || materials[Math.floor(Math.random() * materials.length)];
   var materialDiv = document.querySelector('.igen-material');
   materialDiv.innerHTML = randMaterial;  
-  materialDiv.style.color = "orange";
-  
+
   // Make sure nouns are singular, a pair of shoes
   var tools = [
   '3D printer',
@@ -174,7 +189,14 @@ permalink: /idea-generator
   ];
   var randTool = tool || tools[Math.floor(Math.random() * tools.length)];
   var toolDiv = document.querySelector('.igen-tool');
-  toolDiv.innerHTML = randTool;  
-  toolDiv.style.color = "red";
+  toolDiv.innerHTML = randTool; 
+  // Change article from a to an if word starts with a vowel
+  var toolArt = document.querySelector('.igen-tool-article');
+  var tff = randTool.slice(0, 1);
+  if (tff == "a" || tff == "e" || tff == "i" || tff == "o" || tff == "u") {
+    toolArt.innerHTML = "an";
+  }
 </script>
+
+
 
