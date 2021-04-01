@@ -91,6 +91,7 @@ permalink: /idea-generator
   'circular',
   'mushy'
   ];
+  Math.seedrandom();
   var randAdj = adj || adjectives[Math.floor(Math.random() * adjectives.length)];
   var adjDiv = document.querySelector('.igen-adj');
   adjDiv.innerHTML = randAdj;
@@ -143,6 +144,7 @@ permalink: /idea-generator
   'bag',
   'time machine'
   ];
+  Math.seedrandom();
   var randThing= thing || things[Math.floor(Math.random() * things.length)];
   var thingDiv = document.querySelector('.igen-thing');
   thingDiv.innerHTML = randThing;  
@@ -171,6 +173,7 @@ permalink: /idea-generator
   'duct tape',
   'linoleum'
   ];
+  Math.seedrandom();
   var randMaterial = material || materials[Math.floor(Math.random() * materials.length)];
   var materialDiv = document.querySelector('.igen-material');
   materialDiv.innerHTML = randMaterial;  
@@ -210,6 +213,7 @@ permalink: /idea-generator
   'text editor',
   'machine learning algorithm'
   ];
+  Math.seedrandom();
   var randTool = tool || tools[Math.floor(Math.random() * tools.length)];
   var toolDiv = document.querySelector('.igen-tool');
   toolDiv.innerHTML = randTool; 
