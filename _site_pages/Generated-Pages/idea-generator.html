@@ -46,8 +46,13 @@ permalink: /idea-generator
   // http://cplmakerlab.github.io/idea-generator?adj=lugubrious&thing=plush monster&material=felt&tool=lasercutter
   function generateIdea(type) {
     
+    // Increase randomness of Math.random()
+    // Not sure if this is correct usage
+    Math.seedrandom(); 
+    
     switch (type) {
       case "new": 
+        // Initialize to null
         adj = null;
         thing = null;
         material = null;
@@ -55,7 +60,7 @@ permalink: /idea-generator
         break;
       case "load":
       default:
-        // Try to initialize variables from URL
+        // Initialize to URL variables, if possible
         adj = getUrlVars()["adj"] ? decodeURI(getUrlVars()["adj"]) : null;
         thing = getUrlVars()["thing"] ? decodeURI(getUrlVars()["thing"]) : null;  
         material = getUrlVars()["material"] ? decodeURI(getUrlVars()["material"]) : null;
@@ -114,12 +119,10 @@ permalink: /idea-generator
     'circular',
     'mushy'
     ];
-    
-    Math.seedrandom();
+    // Pick random adjective
     var randAdj = adj || adjectives[Math.floor(Math.random() * adjectives.length)];
     var adjDiv = document.querySelector('.igen-adj');
-    
-    // Math.seedrandom();
+    // Pick random color
     adjDiv.innerHTML = randAdj;
     adjDiv.style.color = colors[Math.floor(Math.random()* colors.length)];
     adjDiv.style.borderColor = adjDiv.style.color;
@@ -133,7 +136,8 @@ permalink: /idea-generator
     else {
       adjArt.innerHTML = "a";
     }
-    // Make sure noun is singular, a pair of shoes
+    
+    // Make sure nouns are phrased in a singular form, i.e. 'pair of shoes' or 'shoe' instead of 'shoes' to reduce grammatical weirdness
     var things = [
     'pair of shoes', 
     'landscape portrait',
@@ -176,17 +180,15 @@ permalink: /idea-generator
     'bag',
     'time machine'
     ];
-    
-    //Math.seedrandom();
+    // Pick random thing
     var randThing= thing || things[Math.floor(Math.random() * things.length)];
     var thingDiv = document.querySelector('.igen-thing');
+    // Pick random color
     thingDiv.innerHTML = randThing;  
-    
-    //Math.seedrandom();
     thingDiv.style.color = colors[Math.floor(Math.random()* colors.length)];
     thingDiv.style.borderColor = thingDiv.style.color;
   
-    // Make sure nouns are singular, a pair of shoes
+    // Make sure nouns are phrased in a singular form to reduce grammatical weirdness
     var materials = [
     'paper',
     'wood',
@@ -209,16 +211,15 @@ permalink: /idea-generator
     'duct tape',
     'linoleum'
     ];
-    // Math.seedrandom();
+    // Pick random material
     var randMaterial = material || materials[Math.floor(Math.random() * materials.length)];
     var materialDiv = document.querySelector('.igen-material');
-    materialDiv.innerHTML = randMaterial;  
-    
-    // Math.seedrandom();
+    materialDiv.innerHTML = randMaterial;
+    // Pick random color
     materialDiv.style.color = colors[Math.floor(Math.random()* colors.length)];
     materialDiv.style.borderColor = materialDiv.style.color;
   
-    // Make sure nouns are singular, a pair of shoes
+    // Make sure nouns are phrased in a singular form to reduce grammatical weirdness
     var tools = [
     '3D printer',
     'lasercutter',
@@ -254,12 +255,11 @@ permalink: /idea-generator
     'text editor',
     'machine learning algorithm'
     ];
-    // Math.seedrandom();
+    // Pick random tool
     var randTool = tool || tools[Math.floor(Math.random() * tools.length)];
     var toolDiv = document.querySelector('.igen-tool');
-    
-    // Math.seedrandom();    
     toolDiv.innerHTML = randTool; 
+    // Pick random color   
     toolDiv.style.color = colors[Math.floor(Math.random()* colors.length)];
     toolDiv.style.borderColor = toolDiv.style.color;  
     
@@ -275,10 +275,10 @@ permalink: /idea-generator
     igenURL = 'http://cplmakerlab.github.io/idea-generator?' + 'adj=' + encodeURI(randAdj) + '&thing=' + encodeURI(randThing) + '&material=' + encodeURI(randMaterial) + '&tool=' + encodeURI(randTool);
   }
   
-  // Trigger on page load
+  // Generate idea on page load and attempt to initialize from URL vars
   generateIdea('load');
   
-  // Popup to save url
+  // Pop-up prompt to save url
   var igenSave = function() {
     prompt('Copy & paste URL', igenURL);
   }  
