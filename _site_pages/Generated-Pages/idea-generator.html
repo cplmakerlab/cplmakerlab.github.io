@@ -45,8 +45,8 @@ permalink: /idea-generator
   var tool = decodeURI(getUrlVars()["tool"]);
   var igenURL;
   
-  function generateIdea(reset) {
-    if (reset == 'new') {
+  function generateIdea(type) {
+    if (type == 'new') {
       adj = null;
       thing = null;
       material = null;
