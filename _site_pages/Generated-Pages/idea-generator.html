@@ -39,10 +39,10 @@ permalink: /idea-generator
       });
       return vars;
   }
-  var adjURL = decodeURI(getUrlVars()["adj"]) || null;
-  var thingURL = decodeURI(getUrlVars()["thing"]) || null;  
-  var materialURL = decodeURI(getUrlVars()["material"]) || null;
-  var toolURL = decodeURI(getUrlVars()["tool"]) || null;
+  var adjURL = decodeURI(getUrlVars()["adj"]) || 0;
+  var thingURL = decodeURI(getUrlVars()["thing"]) || 0;  
+  var materialURL = decodeURI(getUrlVars()["material"]) || 0;
+  var toolURL = decodeURI(getUrlVars()["tool"]) || 0;
   var igenURL;
   
   function generateIdea(adj,thing,material,tool) {
@@ -106,6 +106,9 @@ permalink: /idea-generator
     var tf = randAdj.slice(0, 1);
     if (tf == "a" || tf == "e" || tf == "i" || tf == "o") {
       adjArt.innerHTML = "an";
+    }
+    else {
+      adjArt.innerHTML = "a";
     }
     // Make sure noun is singular, a pair of shoes
     var things = [
@@ -230,6 +233,9 @@ permalink: /idea-generator
     var tff = randTool.slice(0, 1);
     if (tff == "a" || tff == "e" || tff == "i" || tff == "o") {
       toolArt.innerHTML = "an";
+    }
+    else {
+      toolArt.innerHTML = "a";
     }
     igenURL = 'http://cplmakerlab.github.io/idea-generator?' + 'adj=' + randAdj + '&thing=' + randThing + '&material=' + randMaterial + '&tool=' + randTool;
   }
