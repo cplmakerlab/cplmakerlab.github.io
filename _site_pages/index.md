@@ -11,6 +11,10 @@ The Maker Lab, Chicago’s first free and publicly accessible maker space, is on
 
 Having trouble with your project file or need help with software?&nbsp; Fill out the [Ask a Maker form](https://www.chipublib.org/maker-lab/ask-a-maker-request-help-from-the-maker-lab/){: target="_blank" rel="noopener"} and someone from the Maker Lab will get back to you.
 
+## Idea generator
+
+Need help coming up with a new project idea? Try the [Maker Lab Idea Generator](idea-generator)\!
+
 ## Upcoming events
 
 Online workshops are now available. You must register for an online event in advance. [View the Maker Lab calendar](https://bit.ly/cplmakerschedule){: target="_blank" rel="noopener"} for more details.
