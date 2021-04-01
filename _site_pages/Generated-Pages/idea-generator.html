@@ -45,7 +45,7 @@ permalink: /idea-generator
   var tool = decodeURI(getUrlVars()["tool"]);
   var igenURL;
   
-  function generateIdea() {
+  function generateIdea(adj,thing,material,tool) {
     var colors = [
       '#f94144',
       '#f3722c',
@@ -233,7 +233,7 @@ permalink: /idea-generator
     }
     igenURL = 'http://cplmakerlab.github.io/idea-generator?' + 'adj=' + randAdj + '&thing=' + randThing + '&material=' + randMaterial + '&tool=' + randTool;
   }
-  generateIdea();
+  generateIdea(adj,thing,material,tool);
   var igenSave = function() {
     prompt('Copy & paste URL', igenURL);
   }  
