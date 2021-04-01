@@ -39,10 +39,7 @@ permalink: /idea-generator
       });
       return vars;
   }
-  var adj = getUrlVars()["adj"] ? decodeURI(getUrlVars()["adj"]) || null;
-  var thing = getUrlVars()["thing"] ? decodeURI(getUrlVars()["thing"]) || null;  
-  var material = getUrlVars()["material"] ? decodeURI(getUrlVars()["material"]) || null;
-  var tool = getUrlVars()["tool"] ? decodeURI(getUrlVars()["tool"]) || null;
+  var adj,thing,material,tool;
   var igenURL;
   
   // http://cplmakerlab.github.io/idea-generator?adj=lugubrious&thing=plush monster&material=felt&tool=lasercutter
@@ -52,6 +49,12 @@ permalink: /idea-generator
       thing = null;
       material = null;
       tool = null;
+    }
+    else {
+      adj = decodeURI(getUrlVars()["adj"]) || null;
+      thing = decodeURI(getUrlVars()["thing"]) || "";  
+      material = decodeURI(getUrlVars()["material"]) || null;
+      tool = decodeURI(getUrlVars()["tool"]) || null;      
     }
     var colors = [
       '#f94144',
