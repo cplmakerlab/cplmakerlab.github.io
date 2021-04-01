@@ -37,6 +37,9 @@
     - name: Materials
       link: /materials
       open_in_new_window: false
+    - name: Idea Generator
+      link: /idea-generator
+      open_in_new_window: false
     - name: Request fabrication
       link: >-
         https://www.chipublib.org/maker-lab/ask-a-maker-request-help-from-the-maker-lab/
