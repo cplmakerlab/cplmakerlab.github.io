@@ -43,6 +43,7 @@ permalink: /idea-generator
   var thing = getUrlVars()["thing"];  
   var material = getUrlVars()["material"];
   var tool = getUrlVars()["tool"];
+  var igenURL;
   
   function generateIdea() {
     var colors = [
@@ -227,13 +228,12 @@ permalink: /idea-generator
     if (tff == "a" || tff == "e" || tff == "i" || tff == "o") {
       toolArt.innerHTML = "an";
     }
-    var igenURL = 'http://cplmakerlab.github.io/idea-generator?' + 'adj=' + randAdj + '&thing=' + randThing + '&material=' + randMaterial + '&tool=' + randTool;
-    
-    var igenSave = function() {
-      prompt('Copy & paste URL', igenURL);
-    }
+    igenURL = 'http://cplmakerlab.github.io/idea-generator?' + 'adj=' + randAdj + '&thing=' + randThing + '&material=' + randMaterial + '&tool=' + randTool;
   }
   generateIdea();
+  var igenSave = function() {
+    prompt('Copy & paste URL', igenURL);
+  }  
   
 </script>
 
