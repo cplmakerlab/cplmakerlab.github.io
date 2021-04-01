@@ -39,13 +39,19 @@ permalink: /idea-generator
       });
       return vars;
   }
-  var adjURL = decodeURI(getUrlVars()["adj"]);
-  var thingURL = decodeURI(getUrlVars()["thing"]);  
-  var materialURL = decodeURI(getUrlVars()["material"]);
-  var toolURL = decodeURI(getUrlVars()["tool"]);
+  var adj = decodeURI(getUrlVars()["adj"]);
+  var thing = decodeURI(getUrlVars()["thing"]);  
+  var material = decodeURI(getUrlVars()["material"]);
+  var tool = decodeURI(getUrlVars()["tool"]);
   var igenURL;
   
-  function generateIdea() {
+  function generateIdea(reset) {
+    if (reset != null) {
+      adj = null;
+      thing = null;
+      material = null;
+      tool = null;
+    }
     var colors = [
       '#f94144',
       '#f3722c',
