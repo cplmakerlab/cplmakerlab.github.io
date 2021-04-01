@@ -39,10 +39,10 @@ permalink: /idea-generator
       });
       return vars;
   }
-  var adj = decodeURI(getUrlVars()["adj"]);
-  var thing = decodeURI(getUrlVars()["thing"]);  
-  var material = decodeURI(getUrlVars()["material"]);
-  var tool = decodeURI(getUrlVars()["tool"]);
+  var adjURL = decodeURI(getUrlVars()["adj"]);
+  var thingURL = decodeURI(getUrlVars()["thing"]);  
+  var materialURL = decodeURI(getUrlVars()["material"]);
+  var toolURL = decodeURI(getUrlVars()["tool"]);
   var igenURL;
   
   function generateIdea(adj,thing,material,tool) {
@@ -233,7 +233,7 @@ permalink: /idea-generator
     }
     igenURL = 'http://cplmakerlab.github.io/idea-generator?' + 'adj=' + randAdj + '&thing=' + randThing + '&material=' + randMaterial + '&tool=' + randTool;
   }
-  generateIdea(adj,thing,material,tool);
+  generateIdea(adjURL,thingURL,materialURL,toolURL);
   var igenSave = function() {
     prompt('Copy & paste URL', igenURL);
   }  
