@@ -39,10 +39,10 @@ permalink: /idea-generator
       });
       return vars;
   }
-  var adjURL = decodeURI(getUrlVars()["adj"]);
-  var thingURL = decodeURI(getUrlVars()["thing"]);  
-  var materialURL = decodeURI(getUrlVars()["material"]);
-  var toolURL = decodeURI(getUrlVars()["tool"]);
+  var adjURL = decodeURI(getUrlVars()["adj"]) || null;
+  var thingURL = decodeURI(getUrlVars()["thing"]) || null;  
+  var materialURL = decodeURI(getUrlVars()["material"]) || null;
+  var toolURL = decodeURI(getUrlVars()["tool"]) || null;
   var igenURL;
   
   function generateIdea(adj,thing,material,tool) {
