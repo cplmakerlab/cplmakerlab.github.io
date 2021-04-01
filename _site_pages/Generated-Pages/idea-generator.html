@@ -17,8 +17,8 @@ permalink: /idea-generator
 <h1>...using <span class="igen-tool-article">a</span> <span class="igen-tool">________</span></h1>
 
 
-<a type="button" class="button igen-save" href="javascript:igenSave();"><i class="fa fa-heart"></i> SAVE</a>  
-<a class="button igen-generate" href="javascript:window.location.reload();"><i class="fa fa-repeat"></i> GENERATE NEW IDEA</a>
+<button type="button" class="button igen-save" onclick="igenSave();"><i class="fa fa-heart"></i> SAVE</button>  
+<button class="button igen-generate" onclick="window.location.reload();"><i class="fa fa-repeat"></i> GENERATE NEW IDEA</button>
 
 <style>
   .igen-adj,
@@ -228,9 +228,9 @@ permalink: /idea-generator
   }
   var igenURL = 'http://cplmakerlab.github.io/idea-generator?' + 'adj=' + randAdj + '&thing=' + randThing + '&material=' + randMaterial + '&tool=' + randTool;
   
-  var igenSave = function(e) {
-    e.preventDefault();
+  var igenSave = function() {
     prompt('Copy & paste URL', igenURL);
+    
   }
   
 </script>
