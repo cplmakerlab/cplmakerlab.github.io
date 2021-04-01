@@ -18,7 +18,7 @@ permalink: /idea-generator
 
 
 <button type="button" class="button igen-save" onclick="igenSave();"><i class="fa fa-heart"></i> SAVE</button>  
-<button class="button igen-generate" onclick="window.location.reload();"><i class="fa fa-repeat"></i> GENERATE NEW IDEA</button>
+<button class="button igen-generate" onclick="generateIdea();"><i class="fa fa-repeat"></i> GENERATE NEW IDEA</button>
 
 <style>
   .igen-adj,
@@ -233,6 +233,7 @@ permalink: /idea-generator
       prompt('Copy & paste URL', igenURL);
     }
   }
+  generateIdea();
   
 </script>
 
