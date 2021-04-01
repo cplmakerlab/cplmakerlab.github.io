@@ -44,193 +44,194 @@ permalink: /idea-generator
   var material = getUrlVars()["material"];
   var tool = getUrlVars()["tool"];
   
-  var colors = [
-    '#f94144',
-    '#f3722c',
-    '#f8961e',
-    '#f9c74f',
-    '#90be6d',
-    '#43aa8b',
-    '#577590',
-    '#c77dff'
-  ];
-  
-  var adjectives = [
-  'useless', 
-  'useful', 
-  'yellow',
-  'green',
-  'red',
-  'orange',
-  'blue',
-  'violet',
-  'fuzzy',
-  'crunchy',
-  'chewy',
-  'maniacal',
-  'sleepy',
-  'colorful',
-  'monochromatic',
-  'stupendous',
-  'breathtaking',
-  'dynamite',
-  'marvelous',
-  'radical',
-  'spectacular',
-  'gigantic',
-  'tiny',
-  'miniature',
-  'lugubrious',
-  'talking',
-  'musical',
-  'funky',
-  'laughing',
-  'nonfunctional',
-  'hexagonal',
-  'triangular',
-  'circular',
-  'mushy'
-  ];
-  Math.seedrandom();
-  var randAdj = adj || adjectives[Math.floor(Math.random() * adjectives.length)];
-  var adjDiv = document.querySelector('.igen-adj');
-  adjDiv.innerHTML = randAdj;
-  adjDiv.style.color = colors[Math.floor(Math.random()* colors.length)];
-  adjDiv.style.borderColor = adjDiv.style.color;
-  
-  // Change article from a to an if word starts with a vowel
-  var adjArt = document.querySelector('.igen-adj-article');
-  var tf = randAdj.slice(0, 1);
-  if (tf == "a" || tf == "e" || tf == "i" || tf == "o") {
-    adjArt.innerHTML = "an";
-  }
-  // Make sure noun is singular, a pair of shoes
-  var things = [
-  'pair of shoes', 
-  'landscape portrait',
-  'self portrait',
-  'peanut',
-  'banana',
-  'lamp',
-  'hat', 
-  'pair of sunglasses',
-  'spoon',
-  'fork',
-  'cup',
-  'bowl',
-  'cutting board',
-  'plush monster',
-  'puzzle',
-  'game piece',
-  'plant',
-  'animal',
-  'octopus',
-  'penguin',
-  'rabbit',
-  'owl',
-  'monogram',
-  'stamp',
-  'sculpture',
-  'drawing',
-  'painting',
-  'sign',
-  'greeting card',
-  'sticker',
-  'spaceship',
-  'dinosaur',
-  'electronic circuit',
-  't-shirt',
-  'stencil',
-  'bag',
-  'time machine'
-  ];
-  Math.seedrandom();
-  var randThing= thing || things[Math.floor(Math.random() * things.length)];
-  var thingDiv = document.querySelector('.igen-thing');
-  thingDiv.innerHTML = randThing;  
-
-  thingDiv.style.color = colors[Math.floor(Math.random()* colors.length)];
-  thingDiv.style.borderColor = thingDiv.style.color;
-
-  // Make sure nouns are singular, a pair of shoes
-  var materials = [
-  'paper',
-  'wood',
-  'pine',
-  'cardboard',
-  'felt',
-  'fabric',
-  'vinyl',
-  'acrylic',
-  'heat transfer',
-  'engravable rubber',
-  'PLA',
-  'mylar',
-  'oil board',
-  'plastic',
-  'chipboard',
-  'metal',
-  'duct tape',
-  'linoleum'
-  ];
-  Math.seedrandom();
-  var randMaterial = material || materials[Math.floor(Math.random() * materials.length)];
-  var materialDiv = document.querySelector('.igen-material');
-  materialDiv.innerHTML = randMaterial;  
-
-  materialDiv.style.color = colors[Math.floor(Math.random()* colors.length)];
-  materialDiv.style.borderColor = materialDiv.style.color;
-
-  // Make sure nouns are singular, a pair of shoes
-  var tools = [
-  '3D printer',
-  'lasercutter',
-  'CNC mill',  
-  'embroidery machine',
-  'sewing machine',  
-  '3D scanner',
-  'microcontroller',
-  'pair of scissors',
-  'human hand',
-  'toothpick',
-  'audio recording device',
-  'computer',
-  'butter knife',
-  'electronic cutter',
-  'programming language',
-  '3D modeling program',
-  'digital audio workstation',
-  'musical instrument',
-  'paintbrush',
-  'digital paintbrush',
-  'photo editing program',
-  'chisel',
-  'knife',
-  'screwdriver',
-  'hammer', 
-  'pair of chopsticks',
-  'printing press',
-  'text editor',
-  'machine learning algorithm'
-  ];
-  Math.seedrandom();
-  var randTool = tool || tools[Math.floor(Math.random() * tools.length)];
-  var toolDiv = document.querySelector('.igen-tool');
-  toolDiv.innerHTML = randTool; 
-  toolDiv.style.color = colors[Math.floor(Math.random()* colors.length)];
-  toolDiv.style.borderColor = toolDiv.style.color;  
-  
-  // Change article from a to an if word starts with a vowel
-  var toolArt = document.querySelector('.igen-tool-article');
-  var tff = randTool.slice(0, 1);
-  if (tff == "a" || tff == "e" || tff == "i" || tff == "o") {
-    toolArt.innerHTML = "an";
-  }
-  var igenURL = 'http://cplmakerlab.github.io/idea-generator?' + 'adj=' + randAdj + '&thing=' + randThing + '&material=' + randMaterial + '&tool=' + randTool;
-  
-  var igenSave = function() {
-    prompt('Copy & paste URL', igenURL);
+  function generateIdea() {
+    var colors = [
+      '#f94144',
+      '#f3722c',
+      '#f8961e',
+      '#f9c74f',
+      '#90be6d',
+      '#43aa8b',
+      '#577590',
+      '#c77dff'
+    ];
     
+    var adjectives = [
+    'useless', 
+    'useful', 
+    'yellow',
+    'green',
+    'red',
+    'orange',
+    'blue',
+    'violet',
+    'fuzzy',
+    'crunchy',
+    'chewy',
+    'maniacal',
+    'sleepy',
+    'colorful',
+    'monochromatic',
+    'stupendous',
+    'breathtaking',
+    'dynamite',
+    'marvelous',
+    'radical',
+    'spectacular',
+    'gigantic',
+    'tiny',
+    'miniature',
+    'lugubrious',
+    'talking',
+    'musical',
+    'funky',
+    'laughing',
+    'nonfunctional',
+    'hexagonal',
+    'triangular',
+    'circular',
+    'mushy'
+    ];
+    Math.seedrandom();
+    var randAdj = adj || adjectives[Math.floor(Math.random() * adjectives.length)];
+    var adjDiv = document.querySelector('.igen-adj');
+    adjDiv.innerHTML = randAdj;
+    adjDiv.style.color = colors[Math.floor(Math.random()* colors.length)];
+    adjDiv.style.borderColor = adjDiv.style.color;
+    
+    // Change article from a to an if word starts with a vowel
+    var adjArt = document.querySelector('.igen-adj-article');
+    var tf = randAdj.slice(0, 1);
+    if (tf == "a" || tf == "e" || tf == "i" || tf == "o") {
+      adjArt.innerHTML = "an";
+    }
+    // Make sure noun is singular, a pair of shoes
+    var things = [
+    'pair of shoes', 
+    'landscape portrait',
+    'self portrait',
+    'peanut',
+    'banana',
+    'lamp',
+    'hat', 
+    'pair of sunglasses',
+    'spoon',
+    'fork',
+    'cup',
+    'bowl',
+    'cutting board',
+    'plush monster',
+    'puzzle',
+    'game piece',
+    'plant',
+    'animal',
+    'octopus',
+    'penguin',
+    'rabbit',
+    'owl',
+    'monogram',
+    'stamp',
+    'sculpture',
+    'drawing',
+    'painting',
+    'sign',
+    'greeting card',
+    'sticker',
+    'spaceship',
+    'dinosaur',
+    'electronic circuit',
+    't-shirt',
+    'stencil',
+    'bag',
+    'time machine'
+    ];
+    Math.seedrandom();
+    var randThing= thing || things[Math.floor(Math.random() * things.length)];
+    var thingDiv = document.querySelector('.igen-thing');
+    thingDiv.innerHTML = randThing;  
+  
+    thingDiv.style.color = colors[Math.floor(Math.random()* colors.length)];
+    thingDiv.style.borderColor = thingDiv.style.color;
+  
+    // Make sure nouns are singular, a pair of shoes
+    var materials = [
+    'paper',
+    'wood',
+    'pine',
+    'cardboard',
+    'felt',
+    'fabric',
+    'vinyl',
+    'acrylic',
+    'heat transfer',
+    'engravable rubber',
+    'PLA',
+    'mylar',
+    'oil board',
+    'plastic',
+    'chipboard',
+    'metal',
+    'duct tape',
+    'linoleum'
+    ];
+    Math.seedrandom();
+    var randMaterial = material || materials[Math.floor(Math.random() * materials.length)];
+    var materialDiv = document.querySelector('.igen-material');
+    materialDiv.innerHTML = randMaterial;  
+  
+    materialDiv.style.color = colors[Math.floor(Math.random()* colors.length)];
+    materialDiv.style.borderColor = materialDiv.style.color;
+  
+    // Make sure nouns are singular, a pair of shoes
+    var tools = [
+    '3D printer',
+    'lasercutter',
+    'CNC mill',  
+    'embroidery machine',
+    'sewing machine',  
+    '3D scanner',
+    'microcontroller',
+    'pair of scissors',
+    'human hand',
+    'toothpick',
+    'audio recording device',
+    'computer',
+    'butter knife',
+    'electronic cutter',
+    'programming language',
+    '3D modeling program',
+    'digital audio workstation',
+    'musical instrument',
+    'paintbrush',
+    'digital paintbrush',
+    'photo editing program',
+    'chisel',
+    'knife',
+    'screwdriver',
+    'hammer', 
+    'pair of chopsticks',
+    'printing press',
+    'text editor',
+    'machine learning algorithm'
+    ];
+    Math.seedrandom();
+    var randTool = tool || tools[Math.floor(Math.random() * tools.length)];
+    var toolDiv = document.querySelector('.igen-tool');
+    toolDiv.innerHTML = randTool; 
+    toolDiv.style.color = colors[Math.floor(Math.random()* colors.length)];
+    toolDiv.style.borderColor = toolDiv.style.color;  
+    
+    // Change article from a to an if word starts with a vowel
+    var toolArt = document.querySelector('.igen-tool-article');
+    var tff = randTool.slice(0, 1);
+    if (tff == "a" || tff == "e" || tff == "i" || tff == "o") {
+      toolArt.innerHTML = "an";
+    }
+    var igenURL = 'http://cplmakerlab.github.io/idea-generator?' + 'adj=' + randAdj + '&thing=' + randThing + '&material=' + randMaterial + '&tool=' + randTool;
+    
+    var igenSave = function() {
+      prompt('Copy & paste URL', igenURL);
+    }
   }
   
 </script>
