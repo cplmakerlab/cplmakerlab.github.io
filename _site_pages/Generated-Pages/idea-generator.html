@@ -39,10 +39,10 @@ permalink: /idea-generator
       });
       return vars;
   }
-  var adj = getUrlVars()["adj"] ? decodeURI(getUrlVars()["adj"]) || "";
-  var thing = getUrlVars()["thing"] ? decodeURI(getUrlVars()["thing"]) || "";  
-  var material = getUrlVars()["material"] ? decodeURI(getUrlVars()["material"]) || "";
-  var tool = getUrlVars()["tool"] ? decodeURI(getUrlVars()["tool"]) || "";
+  var adj = getUrlVars()["adj"] ? decodeURI(getUrlVars()["adj"]) || null;
+  var thing = getUrlVars()["thing"] ? decodeURI(getUrlVars()["thing"]) || null;  
+  var material = getUrlVars()["material"] ? decodeURI(getUrlVars()["material"]) || null;
+  var tool = getUrlVars()["tool"] ? decodeURI(getUrlVars()["tool"]) || null;
   var igenURL;
   
   // http://cplmakerlab.github.io/idea-generator?adj=lugubrious&thing=plush monster&material=felt&tool=lasercutter
