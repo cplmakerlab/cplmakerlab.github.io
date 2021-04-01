@@ -104,10 +104,12 @@ permalink: /idea-generator
     'circular',
     'mushy'
     ];
+    
     Math.seedrandom();
     var randAdj = adj || adjectives[Math.floor(Math.random() * adjectives.length)];
     var adjDiv = document.querySelector('.igen-adj');
-    Math.seedrandom();
+    
+    // Math.seedrandom();
     adjDiv.innerHTML = randAdj;
     adjDiv.style.color = colors[Math.floor(Math.random()* colors.length)];
     adjDiv.style.borderColor = adjDiv.style.color;
@@ -164,12 +166,13 @@ permalink: /idea-generator
     'bag',
     'time machine'
     ];
-    Math.seedrandom();
+    
+    //Math.seedrandom();
     var randThing= thing || things[Math.floor(Math.random() * things.length)];
     var thingDiv = document.querySelector('.igen-thing');
     thingDiv.innerHTML = randThing;  
     
-    Math.seedrandom();
+    //Math.seedrandom();
     thingDiv.style.color = colors[Math.floor(Math.random()* colors.length)];
     thingDiv.style.borderColor = thingDiv.style.color;
   
@@ -196,11 +199,12 @@ permalink: /idea-generator
     'duct tape',
     'linoleum'
     ];
-    Math.seedrandom();
+    // Math.seedrandom();
     var randMaterial = material || materials[Math.floor(Math.random() * materials.length)];
     var materialDiv = document.querySelector('.igen-material');
     materialDiv.innerHTML = randMaterial;  
-    Math.seedrandom();
+    
+    // Math.seedrandom();
     materialDiv.style.color = colors[Math.floor(Math.random()* colors.length)];
     materialDiv.style.borderColor = materialDiv.style.color;
   
@@ -240,10 +244,11 @@ permalink: /idea-generator
     'text editor',
     'machine learning algorithm'
     ];
-    Math.seedrandom();
+    // Math.seedrandom();
     var randTool = tool || tools[Math.floor(Math.random() * tools.length)];
     var toolDiv = document.querySelector('.igen-tool');
-    Math.seedrandom();    
+    
+    // Math.seedrandom();    
     toolDiv.innerHTML = randTool; 
     toolDiv.style.color = colors[Math.floor(Math.random()* colors.length)];
     toolDiv.style.borderColor = toolDiv.style.color;  
