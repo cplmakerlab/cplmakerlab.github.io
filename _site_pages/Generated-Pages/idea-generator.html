@@ -51,10 +51,10 @@ permalink: /idea-generator
       tool = null;
     }
     else {
-      adj = decodeURI(getUrlVars()["adj"]) || null;
-      thing = decodeURI(getUrlVars()["thing"]) || null;  
-      material = decodeURI(getUrlVars()["material"]) || null;
-      tool = decodeURI(getUrlVars()["tool"]) || null;      
+      adj = typeof(decodeURI(getUrlVars()["adj"])) != 'undefined' ? decodeURI(getUrlVars()["adj"])  || null;
+      thing = typeof(decodeURI(getUrlVars()["thing"])) != 'undefined' ? decodeURI(getUrlVars()["thing"]) || null;  
+      material = typeof(decodeURI(getUrlVars()["material"])) != 'undefined' ? decodeURI(getUrlVars()["material"]) || null;
+      tool = typeof(decodeURI(getUrlVars()["tool"])) != 'undefined' ? decodeURI(getUrlVars()["tool"]) || null;      
     }
     var colors = [
       '#f94144',
