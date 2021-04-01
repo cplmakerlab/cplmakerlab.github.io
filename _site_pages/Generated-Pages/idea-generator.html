@@ -45,18 +45,23 @@ permalink: /idea-generator
   
   // http://cplmakerlab.github.io/idea-generator?adj=lugubrious&thing=plush monster&material=felt&tool=lasercutter
   function generateIdea(type) {
-    if (type == 'new') {
-      adj = null;
-      thing = null;
-      material = null;
-      tool = null;
+    switch (type) {
+      case "new": 
+        adj = null;
+        thing = null;
+        material = null;
+        tool = null;        
+        break;
+      case "load":
+      default:
+        // Try to load from URL
+        adj = getUrlVars()["adj"] ? decodeURI(getUrlVars()["adj"]) : null;
+        thing = getUrlVars()["thing"] ? decodeURI(getUrlVars()["thing"]) : null;  
+        material = getUrlVars()["material"] ? decodeURI(getUrlVars()["material"]) : null;
+        tool = getUrlVars()["tool"] ? decodeURI(getUrlVars()["tool"]) : null; 
+        break;
     }
-    else {
-      adj = getUrlVars()["adj"] ? decodeURI(getUrlVars()["adj"]) : null;
-      thing = getUrlVars()["thing"] ? decodeURI(getUrlVars()["thing"]) : null;  
-      material = getUrlVars()["material"] ? decodeURI(getUrlVars()["material"]) : null;
-      tool = getUrlVars()["tool"] ? decodeURI(getUrlVars()["tool"]) : null;      
-    }
+
     var colors = [
       '#f94144',
       '#f3722c',
@@ -268,6 +273,7 @@ permalink: /idea-generator
     }
     igenURL = 'http://cplmakerlab.github.io/idea-generator?' + 'adj=' + encodeURI(randAdj) + '&thing=' + encodeURI(randThing) + '&material=' + encodeURI(randMaterial) + '&tool=' + encodeURI(randTool);
   }
+  
   // Trigger on page load
   generateIdea('load');
   
