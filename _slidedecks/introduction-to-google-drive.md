@@ -46,40 +46,50 @@ slides:
     background_color: '#a3acdf'
     background_image: /uploads/introduction-to-google-drive/5.PNG
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Google Docs
+    content_markdown: '## Google Docs'
     background_color: '#a3acdf'
     background_image:
     background_size: cover
   - title:
     content_markdown:
     background_color: '#a3acdf'
-    background_image:
+    background_image: /uploads/introduction-to-google-drive/6.PNG
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Google Slides
+    content_markdown: '## Google Slides&nbsp;'
     background_color: '#a3acdf'
     background_image:
     background_size: cover
   - title:
     content_markdown:
     background_color: '#a3acdf'
-    background_image:
+    background_image: /uploads/introduction-to-google-drive/8.PNG
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Google Sheets
+    content_markdown: '## Google Slides&nbsp;'
     background_color: '#a3acdf'
     background_image:
     background_size: cover
   - title:
     content_markdown:
     background_color: '#a3acdf'
+    background_image: /uploads/introduction-to-google-drive/7.PNG
+    background_size: cover
+  - title: Google Forms
+    content_markdown: '## Google Slides&nbsp;'
+    background_color: '#a3acdf'
     background_image:
     background_size: cover
   - title:
     content_markdown:
     background_color: '#a3acdf'
-    background_image:
+    background_image: /uploads/introduction-to-google-drive/9.PNG
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#a3acdf'
+    background_image: /uploads/introduction-to-google-drive/9.PNG
     background_size: cover
   - title:
     content_markdown:
@@ -98,6 +108,11 @@ slides:
     content_markdown:
     background_color: '#a3acdf'
     background_image: /uploads/introduction-to-google-drive/3.PNG
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#a3acdf'
+    background_image:
     background_size: cover
   - title:
     content_markdown:
