@@ -86,16 +86,6 @@ slides:
     background_color: '#a3acdf'
     background_image: /uploads/introduction-to-google-drive/9.PNG
     background_size: cover
-  - title:
-    content_markdown:
-    background_color: '#a3acdf'
-    background_image: /uploads/introduction-to-google-drive/9.PNG
-    background_size: cover
-  - title:
-    content_markdown:
-    background_color: '#a3acdf'
-    background_image:
-    background_size: cover
   - title: Chicago Digital Learn
     content_markdown: |-
       ## Chicago Digital Learn
@@ -112,17 +102,7 @@ slides:
   - title:
     content_markdown:
     background_color: '#a3acdf'
-    background_image:
-    background_size: cover
-  - title:
-    content_markdown:
-    background_color: '#a3acdf'
-    background_image:
-    background_size: cover
-  - title:
-    content_markdown:
-    background_color: '#a3acdf'
-    background_image:
+    background_image: /uploads/introduction-to-google-drive/10.PNG
     background_size: cover
 tags:
 ---
