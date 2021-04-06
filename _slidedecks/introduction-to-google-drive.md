@@ -67,7 +67,7 @@ slides:
     background_image: /uploads/introduction-to-google-drive/8.PNG
     background_size: cover
   - title: Google Sheets
-    content_markdown: '## Google Slides&nbsp;'
+    content_markdown: '## Google Sheets'
     background_color: '#a3acdf'
     background_image:
     background_size: cover
@@ -77,7 +77,7 @@ slides:
     background_image: /uploads/introduction-to-google-drive/7.PNG
     background_size: cover
   - title: Google Forms
-    content_markdown: '## Google Slides&nbsp;'
+    content_markdown: '## Google Forms'
     background_color: '#a3acdf'
     background_image:
     background_size: cover
