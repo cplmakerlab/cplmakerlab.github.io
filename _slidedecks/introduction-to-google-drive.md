@@ -12,26 +12,34 @@ slides:
     background_image:
     background_size: cover
   - title: Google Drive
-    content_markdown: |-
+    content_markdown: >-
       Google Drive&nbsp;
 
-      \- Free to use.&nbsp;
+
+      \- Free to use. Free storage up until 20 GB. 100 GB available for 19.99
+      per year.&nbsp;
+
 
       \- Available to anyone who already has a Gmail/ Google Account.&nbsp;
+
 
       \- Progress saves automatically using cloud storage.&nbsp;
     background_color: '#a3acdf'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: What is Cloud Storage?
+    content_markdown: '## What is Cloud Storage?'
     background_color: '#a3acdf'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Cloud Storage
+    content_markdown: >-
+      ## Cloud Storage
+
+
+      [https://www.youtube.com/watch?v=VDBhvexAj8I](https://www.youtube.com/watch?v=VDBhvexAj8I)
     background_color: '#a3acdf'
-    background_image:
+    background_image: /uploads/introduction-to-google-drive/4.PNG
     background_size: cover
   - title:
     content_markdown:
