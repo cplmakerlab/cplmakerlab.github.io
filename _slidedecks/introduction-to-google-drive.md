@@ -41,10 +41,10 @@ slides:
     background_color: '#a3acdf'
     background_image: /uploads/introduction-to-google-drive/4.PNG
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Sharing
+    content_markdown: '## Sharing&nbsp;'
     background_color: '#a3acdf'
-    background_image:
+    background_image: /uploads/introduction-to-google-drive/5.PNG
     background_size: cover
   - title:
     content_markdown:
