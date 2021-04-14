@@ -46,7 +46,6 @@ In the case of unsupervised learning, an AI engineer doesn't know in advance wha
 ### Examples of AI (interactive)
 
 * [Google AI Experiments](https://experiments.withgoogle.com/collection/ai){: target="_blank" rel="noopener"}
-* [Quickdraw Experiment](https://quickdraw.withgoogle.com/){: target="_blank" rel="noopener"} (AI tries to guess what you draw)
 * [AI Face Generator](https://thispersondoesnotexist.com/){: target="_blank" rel="noopener"}
 * [Text Generator](http://gpt.contentyze.com/){: target="_blank" rel="noopener"}
 * [Runway ML](https://runwayml.com/){: target="_blank" rel="noopener"} (cloud-based machine learning platform)
