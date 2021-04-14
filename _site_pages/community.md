@@ -19,10 +19,6 @@ Keep up with the latest news at the Maker Lab.
 
 Photos we've taken over the years at the Maker Lab.
 
-### [Illinois PPE Network](https://www.illinoisppe.org/){: target="_blank" rel="noopener"}
-
-A network of makers organizing and responding to the COVID-19 pandemic.
-
 ### [Nation of Makers](https://www.nationofmakers.us){: target="_blank" rel="noopener"}
 
 Connect with a nationwide network of makers and makerspaces.
@@ -34,5 +30,13 @@ A list of makerspaces and maker-related resources in Chicago.
 ### [Thingiverse](http://thingiverse.com/){: target="_blank" rel="noopener"}
 
 A design community for those interested in sharing and building 3D printed things.
+
+### [Netizen](Netizen.org){: target="_blank" rel="noopener"}
+
+Chicago-based collective of new media artists, educators and activists on a mission to reestablish human agency in the information age through public events, workshops, digital tools and online programming.
+
+### [Illinois PPE Network](https://www.illinoisppe.org/){: target="_blank" rel="noopener"}
+
+A network of makers organizing and responding to the COVID-19 pandemic.
 
 &nbsp;
