@@ -12,7 +12,7 @@ time_required: 4 Minute Read
 file_attachment_path:
 ---
 
-<span class="author-a-r6z75zvz86zz83z32z79zcoomvvz84z url"><a href="https://magenta.tensorflow.org/" rel="noreferrer noopener">https://magenta.tensorflow.org/</a></span>
+<span class="author-a-r6z75zvz86zz83z32z79zcoomvvz84z url"><a rel="noreferrer noopener" href="https://magenta.tensorflow.org/">https://magenta.tensorflow.org/</a></span>
 
 From smart speakers to self-driving cars, you've probably heard a lot about Artificial Intelligence (AI). In this introductory guide, let's take a closer look and learn more about what AI is all about\!
 
@@ -65,6 +65,7 @@ In the case of unsupervised learning, an AI engineer doesn't know in advance wha
 * [PyTorch](https://pytorch.org/){: target="_blank" rel="noopener"}
 * [Artificial Intelligence in JavaScript with TensorFlow.js](https://www.javascriptjanuary.com/blog/artificial-intelligence-in-javascript-with-tensorflowjs){: target="_blank" rel="noopener"}
 * [Open Source Speech Recognition](https://fosspost.org/open-source-speech-recognition/){: target="_blank" rel="noopener"}
+* [Open AI](https://openai.com/){: target="_blank" rel="noopener"} (Creators of the[GPT-3](https://medium.com/dataseries/gpt-3-model-by-openai-the-new-hype-7d112b6ce996){: target="_blank" rel="noopener"} language model)
 
 ### Artist Resources
 
