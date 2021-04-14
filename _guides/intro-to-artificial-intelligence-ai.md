@@ -12,8 +12,6 @@ time_required: 4 Minute Read
 file_attachment_path:
 ---
 
-<span class="author-a-r6z75zvz86zz83z32z79zcoomvvz84z url"><a rel="noreferrer noopener" href="https://magenta.tensorflow.org/">https://magenta.tensorflow.org/</a></span>
-
 From smart speakers to self-driving cars, you've probably heard a lot about Artificial Intelligence (AI). In this introductory guide, let's take a closer look and learn more about what AI is all about\!
 
 ### What is AI?
@@ -48,6 +46,7 @@ In the case of unsupervised learning, an AI engineer doesn't know in advance wha
 ### Examples of AI (interactive)
 
 * [Google AI Experiments](https://experiments.withgoogle.com/collection/ai){: target="_blank" rel="noopener"}
+* [Quickdraw Experiment](https://quickdraw.withgoogle.com/){: target="_blank" rel="noopener"} (AI tries to guess what you draw)
 * [AI Face Generator](https://thispersondoesnotexist.com/){: target="_blank" rel="noopener"}
 * [Text Generator](http://gpt.contentyze.com/){: target="_blank" rel="noopener"}
 * [Runway ML](https://runwayml.com/){: target="_blank" rel="noopener"} (cloud-based machine learning platform)
