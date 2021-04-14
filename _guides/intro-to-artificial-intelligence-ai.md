@@ -12,6 +12,8 @@ time_required: 4 Minute Read
 file_attachment_path:
 ---
 
+<span class="author-a-r6z75zvz86zz83z32z79zcoomvvz84z url"><a href="https://magenta.tensorflow.org/" rel="noreferrer noopener">https://magenta.tensorflow.org/</a></span>
+
 From smart speakers to self-driving cars, you've probably heard a lot about Artificial Intelligence (AI). In this introductory guide, let's take a closer look and learn more about what AI is all about\!
 
 ### What is AI?
@@ -48,16 +50,23 @@ In the case of unsupervised learning, an AI engineer doesn't know in advance wha
 * [Google AI Experiments](https://experiments.withgoogle.com/collection/ai){: target="_blank" rel="noopener"}
 * [AI Face Generator](https://thispersondoesnotexist.com/){: target="_blank" rel="noopener"}
 * [Text Generator](https://gpt2.ai-demo.xyz/){: target="_blank" rel="noopener"}
+* [AI Music](https://magenta.tensorflow.org/){: target="_blank" rel="noopener"}
+* [Runway ML](https://runwayml.com/){: target="_blank" rel="noopener"} (cloud-based machine learning platform)
 
 ### Online courses
 
 * [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone){: target="_blank" rel="noopener"} (4 week introductory course on Coursera)
+* [Machine Learning](https://www.coursera.org/learn/machine-learning){: target="_blank" rel="noopener"} (60 hr technical course on Coursera)
+* [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning#courses){: target="_blank" rel="noopener"} (series of specialized courses on Coursera)
+* [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/){: target="_blank" rel="noopener"}
+* [But What is a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk){: target="_blank" rel="noopener"} (math-oriented video series on Youtube)
 
 ### Software engineering resources
 
 * [TensorFlow](https://www.tensorflow.org/){: target="_blank" rel="noopener"}
 * [PyTorch](https://pytorch.org/){: target="_blank" rel="noopener"}
 * [Artificial Intelligence in JavaScript with TensorFlow.js](https://www.javascriptjanuary.com/blog/artificial-intelligence-in-javascript-with-tensorflowjs){: target="_blank" rel="noopener"}
+* [Open Source Speech Recognition](https://fosspost.org/open-source-speech-recognition/){: target="_blank" rel="noopener"}
 
 ### AI Reading List
 
