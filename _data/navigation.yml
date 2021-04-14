@@ -57,9 +57,6 @@
     - name: Photos
       link: 'http://bit.ly/cplmakerphotos'
       open_in_new_window: true
-    - name: Illinois PPE Network
-      link: 'https://www.illinoisppe.org/'
-      open_in_new_window: true
     - name: Makers In Chicago
       link: 'http://makersinchicago.org'
       open_in_new_window: true
@@ -68,5 +65,11 @@
       open_in_new_window: true
     - name: Thingiverse
       link: 'http://thingiverse.com'
+      open_in_new_window: true
+    - name: Netizen
+      link: 'http://netizen.org'
+      open_in_new_window: true
+    - name: Illinois PPE Network
+      link: 'https://www.illinoisppe.org/'
       open_in_new_window: true
 ---
