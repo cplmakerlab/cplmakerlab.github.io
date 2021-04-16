@@ -32,4 +32,9 @@ Due to the COVID-19 pandemic, the Maker Lab is currently closed until further no
 
 <div class="cms-embed" data-cms-embed="PGlmcmFtZSBzcmM9Imh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vbWFwcy9lbWJlZD9wYj0hMW0xOCExbTEyITFtMyExZDYzNS40NDQyNTI0MTU2ODA3ITJkLTg3LjYyODQ3MjMxMzcxNDA3ITNkNDEuODc2MjcxNzYyOTA0MjghMm0zITFmMCEyZjAhM2YwITNtMiExaTEwMjQhMmk3NjghNGYxMy4xITNtMyExbTIhMXMweDg4MGUyZDI0MjQwMzY2ODMlM0EweDg1MzQ3ZTYwYzU1MTY1YyEyc01ha2VyJTIwTGFiITVlMCEzbTIhMXNlbiEyc3VzITR2MTU5NDM1MDk4NDk4MSE1bTIhMXNlbiEyc3VzIiBzdHlsZT0iYm9yZGVyOjA7IiBhbGxvd2Z1bGxzY3JlZW4gYXJpYS1oaWRkZW49ImZhbHNlIiB0YWJpbmRleD0iMCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMzAwIiBmcmFtZWJvcmRlcj0iMCI+PC9pZnJhbWU+Cg=="><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d635.4442524156807!2d-87.62847231371407!3d41.87627176290428!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2d2424036683%3A0x85347e60c55165c!2sMaker%20Lab!5e0!3m2!1sen!2sus!4v1594350984981!5m2!1sen!2sus" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0" width="100%" height="300" frameborder="0"></iframe></div>
 
-&nbsp;
+## Other locations
+
+* Altgeld Branch, 955 E. 131st Street
+* Legler Regional, 115 S. Pulaski Road
+* Whitney Young Branch, 415 E. 79th Street
+* Woodson Regional, 9525 S. Halsted Street
