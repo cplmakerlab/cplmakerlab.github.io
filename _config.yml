@@ -188,7 +188,7 @@ _explore:
     - heading: Pages
       collections:
         - site_pages
-    - heading: How-To and Resource Guides
+    - heading: How-To Guides
       collections:
         - guides   
     - heading: Slide Decks
