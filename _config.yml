@@ -19,7 +19,7 @@ social:
   name: CPL Maker Lab
   links:
     - http://chipublib.org/maker-lab
-
+H
 # -----
 # Build 
 
@@ -188,7 +188,7 @@ _explore:
     - heading: Pages
       collections:
         - site_pages
-    - heading: How-To Guides
+    - heading: How-To & Resource Guides
       collections:
         - guides   
     - heading: Slide Decks
