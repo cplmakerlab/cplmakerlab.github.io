@@ -1,5 +1,5 @@
 ---
-title: Music and Audio Resource Guide
+title: Music and Audio Production Resource Guide
 categories:
   - Music
 tags:
@@ -79,8 +79,4 @@ Recording studio multitracking software. Great for recording and editing podcast
 * [Free Music Archive](https://freemusicarchive.org){: target="_blank" rel="noopener"}
 * [Looperman](https://www.looperman.com/){: target="_blank" rel="noopener"}
 * [Goldbaby free sample packs](https://www.goldbaby.co.nz/freestuff.html){: target="_blank" rel="noopener"}
-* [Polyphone Soundfonts](polyphone-soundfonts.com/){: target="_blank" rel="noopener"} (sf2 files)
-
-&nbsp;
-
-&nbsp;
+* [Polyphone Soundfonts](http://polyphone-soundfonts.com/){: target="_blank" rel="noopener"} (sf2 files)
