@@ -70,6 +70,7 @@ Recording studio multitracking software. Great for recording and editing podcast
 
 * [Ableton Learning Synths Interactive Tutorial](https://learningsynths.ableton.com/){: target="_blank" rel="noopener"}
 * [Open Music Theory](http://openmusictheory.com/){: target="_blank" rel="noopener"}
+* [Basics of VCV Rack](https://www.youtube.com/watch?v=pDmSy3PukTQ&amp;list=RDpDmSy3PukTQ&amp;start_radio=1){: target="_blank" rel="noopener"} (Virtual Modular Synthesis)
 * [Podcast Tools & Techniques](https://transom.org/topics/tools/){: target="_blank" rel="noopener"}
 
 ### Free audio/music libraries and sample packs
