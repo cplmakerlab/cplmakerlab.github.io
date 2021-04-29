@@ -64,6 +64,7 @@ In the case of unsupervised learning, an AI engineer doesn't know in advance wha
 * [Open AI](https://openai.com/){: target="_blank" rel="noopener"} (creators of the powerful [GPT-3](https://medium.com/dataseries/gpt-3-model-by-openai-the-new-hype-7d112b6ce996){: target="_blank" rel="noopener"} language model)
 * [Artificial Intelligence in JavaScript with TensorFlow.js](https://www.javascriptjanuary.com/blog/artificial-intelligence-in-javascript-with-tensorflowjs){: target="_blank" rel="noopener"}
 * [Open Source Speech Recognition](https://fosspost.org/open-source-speech-recognition/){: target="_blank" rel="noopener"} (TTS tools + resources)
+* [ml5js.org](https://ml5js.org/){: target="_blank" rel="noopener"} (approachable, friendly machine learning for the web)
 
 ### Artist Resources
 
