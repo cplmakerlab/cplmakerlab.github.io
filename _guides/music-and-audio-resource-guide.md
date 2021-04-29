@@ -41,7 +41,7 @@ Recording studio multitracking software. Great for recording and editing podcast
 * [Valhalla free/low-cost plugins](https://valhalladsp.com/){: target="_blank" rel="noopener"} (excellent reverb and delay plugins\!)
 * [iZotope free plugins](https://www.izotope.com/en/products/free-audio-plug-ins.html){: target="_blank" rel="noopener"} (vinyl, stereo width, vocal doubler)
 * [TDR Nova](https://www.tokyodawn.net/tdr-nova/){: target="_blank" rel="noopener"} (dynamic equalizer plugin)
-* [TDR Kotelnikov](https://www.tokyodawn.net/tdr-kotelnikov/){: target="_blank" rel="noopener"}(mastering compressor)
+* [TDR Kotelnikov](https://www.tokyodawn.net/tdr-kotelnikov/){: target="_blank" rel="noopener"} (mastering compressor)
 * [Blackhole](https://existential.audio/blackhole){: target="_blank" rel="noopener"} (handy tool for configuring loopback recording)
 * [TwinySam Free Plugin List](https://twinysam.github.io/FreeAudioPluginList/){: target="_blank" rel="noopener"}
 
