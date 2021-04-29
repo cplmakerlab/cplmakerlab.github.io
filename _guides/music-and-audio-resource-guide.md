@@ -23,7 +23,7 @@ Make music online using a web browser\!
 
 * [Citizen DJ](https://citizen-dj.labs.loc.gov/){: target="_blank" rel="noopener"} (remix music samples from library of congress)
 * [Online Sequencer](http://onlinesequencer.net){: target="_blank" rel="noopener"} (easy-to-use online sequencer)
-* [Collection of online synthesizers](https://synth.playtronica.com/){: target="_blank" rel="noopener"} (many support MIDI keyboard input)
+* [Collection of online synthesizers](https://synth.playtronica.com/){: target="_blank" rel="noopener"} (some support MIDI keyboard input)
 * [Soundbox](https://sb.bitsnbites.eu/){: target="_blank" rel="noopener"} (online music tracker)
 * [Soundtrap](https://www.soundtrap.com/){: target="_blank" rel="noopener"} (music sequencing / collaboration. note: account required)
 * [AudioTool](https://www.audiotool.com/){: target="_blank" rel="noopener"} (collaborative music tools & community. note:account required)
