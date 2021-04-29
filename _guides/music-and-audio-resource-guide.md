@@ -63,7 +63,7 @@ Recording studio multitracking software. Great for recording and editing podcast
 * [Pure Data](https://puredata.info/){: target="_blank" rel="noopener"} (patcher style visual programming language)
 * [IanniX](https://www.iannix.org/en/){: target="_blank" rel="noopener"} (a graphical open-source sequencer for digital art)
 * [SPEAR](http://www.klingbeil.com/spear/){: target="_blank" rel="noopener"} (sinusoidal analysis/resynthesis)
-* [ChucK](https://chuck.cs.princeton.edu/){: target="_blank" rel="noopener"}(real-time music programming language)
+* [ChucK](https://chuck.cs.princeton.edu/){: target="_blank" rel="noopener"} (real-time music programming language)
 * [Supercollider](https://supercollider.github.io/){: target="_blank" rel="noopener"} (music programming language)
 
 ### Learning resources
