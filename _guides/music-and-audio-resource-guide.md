@@ -21,7 +21,7 @@ If you are an aspiring music producer or want to record a podcast, check out our
 
 Make music online using a web browser\!
 
-* [Citizen DJ](https://citizen-dj.labs.loc.gov/){: target="_blank" rel="noopener"} (remix music samples from library of congress)
+* [Citizen DJ](https://citizen-dj.labs.loc.gov/){: target="_blank" rel="noopener"} (remix music samples from the [Library of Congress](http://loc.gov){: target="_blank" rel="noopener"})
 * [Online Sequencer](http://onlinesequencer.net){: target="_blank" rel="noopener"} (easy-to-use online sequencer)
 * [Collection of online synthesizers](https://synth.playtronica.com/){: target="_blank" rel="noopener"} (some support MIDI keyboard input)
 * [Soundbox](https://sb.bitsnbites.eu/){: target="_blank" rel="noopener"} (online music tracker)
