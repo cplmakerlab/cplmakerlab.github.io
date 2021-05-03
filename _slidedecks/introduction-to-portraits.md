@@ -228,7 +228,7 @@ slides:
     content_markdown:
     background_color: '#a3e297'
     background_image: /uploads/introduction-to-portraits/71tlpdmwpwl.jpg
-    background_size: cover
+    background_size: contain
   - title: The Love Letter
     content_markdown:
     background_color: '#a3e297'
