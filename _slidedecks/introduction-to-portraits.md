@@ -32,7 +32,8 @@ slides:
       accident.&nbsp;
 
 
-      Work 1:&nbsp;&nbsp;
+      Work 1: &nbsp;[Self Portrait with Necklace of Thorns,
+      &nbsp;1940](https://www.fridakahlo.org/self-portrait-with-necklace-of-thorns.jsp)
 
 
       Work 2:&nbsp;
@@ -53,11 +54,12 @@ slides:
     background_color: '#a3e297'
     background_image: /uploads/introduction-to-portraits/tumblr-pnc6airnt41t5cx8so1-640.jpg
     background_size: contain
-  - title:
+  - title: 'Self Portrait with Necklace of Thorns,  1940'
     content_markdown:
     background_color: '#a3e297'
-    background_image:
-    background_size: cover
+    background_image: >-
+      /uploads/introduction-to-portraits/self-portrait-with-necklace-of-thorns.jpg
+    background_size: contain
   - title:
     content_markdown:
     background_color: '#a3e297'
