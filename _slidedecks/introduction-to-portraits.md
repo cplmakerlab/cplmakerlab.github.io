@@ -42,26 +42,35 @@ slides:
     background_color: '#a3e297'
     background_image:
     background_size: cover
+  - title: Kihende Wiley
+    content_markdown: >-
+      ## Kihende Wiley&nbsp;
+
+
+      Work 1:
+
+
+      Work 2:
+
+
+      Work 3:&nbsp;[President Barack Obama, Kihende Wiley,
+      2018](https://npg.si.edu/object/npg_NPG.2018.16?destination=edan-search/default_search%3Freturn_all%3D1%26edan_local%3D1%26edan_q%3DOBAMA)
+
+
+      (Sources linked to artwork names)
+    background_color: '#a3e297'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#a3e297'
+    background_image:
+    background_size: cover
   - title:
     content_markdown:
     background_color: '#a3e297'
     background_image: /uploads/introduction-to-portraits/capture4-1.PNG
     background_size: contain
-  - title: 'President Barack Obama, Kihende Wiley, 2018'
-    content_markdown: 'President Barack Obama, Kihende Wiley, 2018'
-    background_color: '#a3e297'
-    background_image:
-    background_size: cover
-  - title: 'President Barack Obama, Kihende Wiley, 2018'
-    content_markdown: >-
-      President Barack Obama, Kihende Wiley, 2018, Oil on Canvas
-
-
-      ![](/uploads/introduction-to-portraits/capture4-1.PNG){: width="512"
-      height="778"}
-    background_color: '#a3e297'
-    background_image:
-    background_size: cover
   - title: 'Kehinde Wiley: The art of presidential portraits'
     content_markdown: >-
       ## Kehinde Wiley: The art of presidential portraits
