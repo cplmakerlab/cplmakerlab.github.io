@@ -68,7 +68,7 @@ slides:
     content_markdown:
     background_color: '#a3e297'
     background_image: /uploads/introduction-to-portraits/thinking-about-death.jpg
-    background_size: cover
+    background_size: contain
   - title: Diego in My Thoughts
     content_markdown:
     background_color: '#a3e297'
@@ -79,7 +79,7 @@ slides:
     background_color: '#a3e297'
     background_image: >-
       /uploads/introduction-to-portraits/self-portrait-along-the-boarder-line-between-mexico-and-the-united-states.jpg
-    background_size: cover
+    background_size: contain
   - title: Kihende Wiley
     content_markdown: >-
       ## Kihende Wiley&nbsp;
