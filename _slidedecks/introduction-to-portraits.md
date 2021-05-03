@@ -133,48 +133,52 @@ slides:
       ## Vivian Maier
 
 
-      &nbsp;
+      American, Born 1926. She worked as a nanny in Chicago for 40 years and
+      took thousands of photographs of daily life. Her work only became publicly
+      known after she died.&nbsp;
 
 
       Work 1:&nbsp;
       [Untitled](https://slate.com/human-interest/2014/03/finding-vivian-maier-a-new-documentary-about-the-mysterious-street-photographer-nanny-by-john-maloof-and-charlie-siskel.html)
 
 
-      Work 2:&nbsp;
+      Work 2:&nbsp;[1959\. Los Angeles,
+      CA](http://www.vivianmaier.com/gallery/street-2/#slide-14)
 
 
       Work 3:&nbsp;[1955\. New York,
       NY](http://www.vivianmaier.com/gallery/street-1/#slide-24)
 
 
-      Work 4:&nbsp;
+      Work 4: [Chicago,
+      IL](http://www.vivianmaier.com/gallery/street-1/#slide-16)
 
 
       (Sources linked to artwork names)
     background_color: '#a3e297'
     background_image:
     background_size: cover
-  - title:
+  - title: Untitled
     content_markdown:
     background_color: '#a3e297'
     background_image: >-
       /uploads/introduction-to-portraits/63be90c8-32ec-4b9f-8a8b-da4ce2ba048a-1.jpg
     background_size: contain
-  - title:
+  - title: '1959. Los Angeles, CA'
     content_markdown:
     background_color: '#a3e297'
-    background_image:
-    background_size: cover
+    background_image: /uploads/introduction-to-portraits/vm1959w04159-08-mc.jpg
+    background_size: contain
   - title: '1955. New York, NY'
     content_markdown:
     background_color: '#a3e297'
     background_image: /uploads/introduction-to-portraits/vm1955w00180-06-mc.jpg
     background_size: contain
-  - title:
+  - title: 'Chicago, IL'
     content_markdown:
     background_color: '#a3e297'
-    background_image:
-    background_size: cover
+    background_image: /uploads/introduction-to-portraits/vm19xxw03132-10-mc.jpg
+    background_size: contain
   - title: Sources
     content_markdown:
     background_color: '#a3e297'
