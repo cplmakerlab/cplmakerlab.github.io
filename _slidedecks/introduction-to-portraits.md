@@ -36,13 +36,17 @@ slides:
       &nbsp;1940](https://www.fridakahlo.org/self-portrait-with-necklace-of-thorns.jsp)
 
 
-      Work 2:&nbsp;
+      Work 2: [Thinking About Death,
+      1943](https://www.fridakahlo.org/thinking-about-death.jsp)
 
 
-      Work 3:&nbsp;
+      Work 3:&nbsp;[Diego in My Thoughts,
+      1940](https://www.fridakahlo.org/self-portrait-as-a-tehuana.jsp)
 
 
-      Work 4:
+      Work 4:&nbsp;[Self Portrait Along the Boarder Line Between Mexico and the
+      United States,
+      1932](https://www.fridakahlo.org/self-portrait-along-the-boarder-line-between-mexico-and-the-united-states.jsp)
 
 
       (Sources linked to artwork names)
@@ -60,20 +64,21 @@ slides:
     background_image: >-
       /uploads/introduction-to-portraits/self-portrait-with-necklace-of-thorns.jpg
     background_size: contain
-  - title:
+  - title: Thinking About Death
     content_markdown:
     background_color: '#a3e297'
-    background_image:
+    background_image: /uploads/introduction-to-portraits/thinking-about-death.jpg
     background_size: cover
-  - title:
+  - title: Diego in My Thoughts
     content_markdown:
     background_color: '#a3e297'
-    background_image:
-    background_size: cover
-  - title:
+    background_image: /uploads/introduction-to-portraits/self-portrait-as-a-tehuana.jpg
+    background_size: contain
+  - title: Self Portrait Along the Boarder Line Between Mexico and the United States
     content_markdown:
     background_color: '#a3e297'
-    background_image:
+    background_image: >-
+      /uploads/introduction-to-portraits/self-portrait-along-the-boarder-line-between-mexico-and-the-united-states.jpg
     background_size: cover
   - title: Kihende Wiley
     content_markdown: >-
