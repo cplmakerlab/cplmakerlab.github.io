@@ -46,7 +46,7 @@ slides:
       African American Men in classical poses.&nbsp;
 
 
-      Work 1:&nbsp;
+      Work 1: &nbsp;[Saint Adrian, 2006](https://kehindewiley.com/works/scenic/)
 
 
       Work 2: [Ice T,
