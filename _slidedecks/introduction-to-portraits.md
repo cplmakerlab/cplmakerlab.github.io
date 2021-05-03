@@ -189,8 +189,23 @@ slides:
     background_color: '#a3e297'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Elements of Portraits
+    content_markdown: |-
+      ## Elements of Portraits
+
+      &nbsp;
+
+      Medium
+
+      Subject
+
+      Color Scheme&nbsp;
+
+      Symbols
+
+      Environment/ Landscape&nbsp;
+
+      &nbsp;
     background_color: '#a3e297'
     background_image:
     background_size: cover
