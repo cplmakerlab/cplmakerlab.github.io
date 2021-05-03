@@ -128,26 +128,48 @@ slides:
     background_color: '#a3e297'
     background_image: /uploads/introduction-to-portraits/capture3.PNG
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Vivian Maier
+    content_markdown: >-
+      ## Vivian Maier
+
+
+      &nbsp;
+
+
+      Work 1:&nbsp;
+      [Untitled](https://slate.com/human-interest/2014/03/finding-vivian-maier-a-new-documentary-about-the-mysterious-street-photographer-nanny-by-john-maloof-and-charlie-siskel.html)
+
+
+      Work 2:&nbsp;
+
+
+      Work 3:&nbsp;[1955\. New York,
+      NY](http://www.vivianmaier.com/gallery/street-1/#slide-24)
+
+
+      Work 4:&nbsp;
+
+
+      (Sources linked to artwork names)
     background_color: '#a3e297'
     background_image:
     background_size: cover
   - title:
     content_markdown:
     background_color: '#a3e297'
-    background_image:
-    background_size: cover
+    background_image: >-
+      /uploads/introduction-to-portraits/63be90c8-32ec-4b9f-8a8b-da4ce2ba048a-1.jpg
+    background_size: contain
   - title:
     content_markdown:
     background_color: '#a3e297'
     background_image:
     background_size: cover
-  - title:
+  - title: '1955. New York, NY'
     content_markdown:
     background_color: '#a3e297'
-    background_image:
-    background_size: cover
+    background_image: /uploads/introduction-to-portraits/vm1955w00180-06-mc.jpg
+    background_size: contain
   - title:
     content_markdown:
     background_color: '#a3e297'
