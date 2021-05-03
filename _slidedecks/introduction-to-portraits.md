@@ -47,13 +47,17 @@ slides:
       ## Kihende Wiley&nbsp;
 
 
+      &nbsp;
+
+
       Work 1:
 
 
-      Work 2:
+      Work 2: [Ice T,
+      2005](http://camscadiblog.blogspot.com/2012/08/kehinde-wiley-and-inter-textuality.html)
 
 
-      Work 3:&nbsp;[President Barack Obama, Kihende Wiley,
+      Work 3:&nbsp;[President Barack Obama,
       2018](https://npg.si.edu/object/npg_NPG.2018.16?destination=edan-search/default_search%3Freturn_all%3D1%26edan_local%3D1%26edan_q%3DOBAMA)
 
 
@@ -64,7 +68,7 @@ slides:
   - title: Ice T
     content_markdown:
     background_color: '#a3e297'
-    background_image: /uploads/introduction-to-portraits/1356115-kehinde-wiley-ice-t.jpg
+    background_image: /uploads/introduction-to-portraits/5.PNG
     background_size: contain
   - title:
     content_markdown:
