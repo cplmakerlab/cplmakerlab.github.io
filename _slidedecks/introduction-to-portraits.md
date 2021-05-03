@@ -22,7 +22,27 @@ slides:
     background_color: '#a3e297'
     background_image:
     background_size: cover
-  - title: Friday Kahlo
+  - title: Elements of Portraits
+    content_markdown: |-
+      ## Elements of Portraits
+
+      &nbsp;
+
+      Medium
+
+      Subject
+
+      Color Scheme&nbsp;
+
+      Symbols
+
+      Environment/ Landscape&nbsp;
+
+      &nbsp;
+    background_color: '#a3e297'
+    background_image:
+    background_size: cover
+  - title: Frida Kahlo
     content_markdown: >-
       ## Frida Kahlo
 
@@ -179,34 +199,61 @@ slides:
     background_color: '#a3e297'
     background_image: /uploads/introduction-to-portraits/vm19xxw03132-10-mc.jpg
     background_size: contain
-  - title: Sources
-    content_markdown:
+  - title: Johannes Vermeer
+    content_markdown: >-
+      ## Johannes Vermeer
+
+
+      Dutch, born 1632. Known for hyper realistic interior scenes with rich
+      color schemes.&nbsp;
+
+
+      Work 1:&nbsp;[&nbsp;Girl with a Pearl
+      Earring](http://www.essentialvermeer.com/catalogue/girl_with_a_pearl_earring.html#top)
+
+
+      Work 2: [The Love
+      Lette](http://www.essentialvermeer.com/catalogue/love_letter.html#top)r
+
+
+      Work 3:&nbsp;[The
+      Milkmaid](http://www.essentialvermeer.com/catalogue/milkmaid.html#top)
+
+
+      (Sources linked to artwork names)
     background_color: '#a3e297'
     background_image:
     background_size: cover
-  - title:
+  - title: Girl with a Pearl Earring
     content_markdown:
     background_color: '#a3e297'
-    background_image:
+    background_image: /uploads/introduction-to-portraits/71tlpdmwpwl.jpg
     background_size: cover
-  - title: Elements of Portraits
-    content_markdown: |-
-      ## Elements of Portraits
-
-      &nbsp;
-
-      Medium
-
-      Subject
-
-      Color Scheme&nbsp;
-
-      Symbols
-
-      Environment/ Landscape&nbsp;
-
-      &nbsp;
+  - title: The Love Letter
+    content_markdown:
     background_color: '#a3e297'
+    background_image: >-
+      /uploads/introduction-to-portraits/800px-the-love-letter---johannes-vermeer.png
+    background_size: contain
+  - title: The Milkmaid
+    content_markdown:
+    background_color: '#a3e297'
+    background_image: >-
+      /uploads/introduction-to-portraits/800px-johannes-vermeer---het-melkmeisje---google-art-project.jpg
+    background_size: contain
+  - title: Essential Vermeer
+    content_markdown: '## Essential Vermeer'
+    background_color:
+    background_image: /uploads/introduction-to-portraits/capture.PNG
+    background_size: contain
+  - title: Drawing Exercise
+    content_markdown: >-
+      ## Drawing Exercise
+
+
+      Take 10 minutes to draw a self portrait. Afterwards you will have the
+      opportunity to share what you drew.&nbsp;
+    background_color:
     background_image:
     background_size: cover
   - title: How to Draw the Head from Any Angle
