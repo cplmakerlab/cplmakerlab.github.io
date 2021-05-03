@@ -47,10 +47,14 @@ slides:
     background_color: '#a3e297'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: 'Kehinde Wiley: The art of presidential portraits'
+    content_markdown: >-
+      ## Kehinde Wiley: The art of presidential portraits
+
+
+      [https://www.youtube.com/watch?v=XjRHbwrn4wA](https://www.youtube.com/watch?v=XjRHbwrn4wA)
     background_color: '#a3e297'
-    background_image:
+    background_image: /uploads/introduction-to-portraits/capture3.PNG
     background_size: cover
   - title:
     content_markdown:
