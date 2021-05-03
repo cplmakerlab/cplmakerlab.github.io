@@ -47,7 +47,8 @@ slides:
       ## Kihende Wiley&nbsp;
 
 
-      &nbsp;
+      American, born 1977. Best known for his large oil paintings depicting
+      African American Men in classical poses.&nbsp;
 
 
       Work 1:
@@ -70,7 +71,7 @@ slides:
     background_color: '#a3e297'
     background_image: /uploads/introduction-to-portraits/5.PNG
     background_size: contain
-  - title:
+  - title: 'President Barack Obama, 2018'
     content_markdown:
     background_color: '#a3e297'
     background_image: /uploads/introduction-to-portraits/capture4-1.PNG
