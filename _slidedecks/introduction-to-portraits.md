@@ -37,11 +37,6 @@ slides:
     background_color: '#a3e297'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
-    background_color: '#a3e297'
-    background_image:
-    background_size: cover
   - title: Kihende Wiley
     content_markdown: >-
       ## Kihende Wiley&nbsp;
@@ -51,7 +46,7 @@ slides:
       African American Men in classical poses.&nbsp;
 
 
-      Work 1:
+      Work 1:&nbsp;
 
 
       Work 2: [Ice T,
@@ -66,6 +61,11 @@ slides:
     background_color: '#a3e297'
     background_image:
     background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#a3e297'
+    background_image: /uploads/introduction-to-portraits/7.PNG
+    background_size: contain
   - title: Ice T
     content_markdown:
     background_color: '#a3e297'
