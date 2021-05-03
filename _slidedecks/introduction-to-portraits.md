@@ -253,7 +253,7 @@ slides:
 
       Take 10 minutes to draw a self portrait. Afterwards you will have the
       opportunity to share what you drew.&nbsp;
-    background_color:
+    background_color: '#a3e297'
     background_image:
     background_size: cover
   - title: How to Draw the Head from Any Angle
