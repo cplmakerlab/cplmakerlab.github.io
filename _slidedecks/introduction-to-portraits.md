@@ -27,6 +27,37 @@ slides:
     background_color: '#a3e297'
     background_image:
     background_size: cover
+  - title: Frida Kahlo
+    content_markdown: >-
+      ## Frida Kahlo
+
+
+      Mexican, Born 1907. Best known for her self portraits that she completed
+      after being confined to bed for three months following a bus
+      accident.&nbsp;
+
+
+      Work 1:&nbsp;&nbsp;
+
+
+      Work 2:&nbsp;
+
+
+      Work 3:&nbsp;
+
+
+      Work 4:
+
+
+      (Sources linked to artwork names)
+    background_color: '#a3e297'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#a3e297'
+    background_image:
+    background_size: cover
   - title:
     content_markdown:
     background_color: '#a3e297'
