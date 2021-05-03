@@ -61,11 +61,11 @@ slides:
     background_color: '#a3e297'
     background_image:
     background_size: cover
-  - title:
+  - title: Ice T
     content_markdown:
     background_color: '#a3e297'
-    background_image:
-    background_size: cover
+    background_image: /uploads/introduction-to-portraits/1356115-kehinde-wiley-ice-t.jpg
+    background_size: contain
   - title:
     content_markdown:
     background_color: '#a3e297'
