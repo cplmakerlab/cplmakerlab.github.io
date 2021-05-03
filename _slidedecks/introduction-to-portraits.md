@@ -43,6 +43,16 @@ slides:
     background_image:
     background_size: cover
   - title: 'President Barack Obama, Kihende Wiley, 2018'
+    content_markdown: 'President Barack Obama, Kihende Wiley, 2018'
+    background_color: '#a3e297'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#a3e297'
+    background_image: /uploads/introduction-to-portraits/capture4-1.PNG
+    background_size: cover
+  - title: 'President Barack Obama, Kihende Wiley, 2018'
     content_markdown: >-
       President Barack Obama, Kihende Wiley, 2018, Oil on Canvas
 
