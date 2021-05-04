@@ -59,7 +59,7 @@ A **token** refers to a cryptocurrency that runs on top of an existing blockchai
 
 You can obtain cryptocurrencies either by mining them, buying them, or having someone send them to you. Bitcoin mining today requires vast amounts of computational power and electricity, making it an impractical option for most people. Cryptocurrency exchanges allow one to use traditional currency to purchase cryptocurrency. Lastly, you can obtain cryptocurrency by creating a cryptocurrency "wallet" and then having someone send cryptocurrency to that wallet.
 
-*"[Not your keys, not your coins](https://www.youtube.com/watch?v=dnC5mFaIW3Q){: target="_blank" rel="noopener"}"* is a phrase used to warn people about the dangers of leaving cryptocurrency on an exchange instead of transferring it to your own wallet. When you leave or store cryptocurrency on an exchange, you don't actually have access to the keys that control the underlying digital asset. If the exchange is hacked and the keys are stolen, you are simply out of luck as now the thief can transfer the coins directly to their own wallet. On the other hand, having your own wallet and being your own bank comes with its own headaches and risks too as you must figure out a way to keep the wallet and keys safe and protected.
+*"[Not your keys, not your coins](https://www.youtube.com/watch?v=vt-zXEsJ61U){: target="_blank" rel="noopener"}"* is a phrase used to warn people about the dangers of leaving cryptocurrency on an exchange instead of transferring it to your own wallet. When you leave or store cryptocurrency on an exchange, you don't actually have access to the keys that control the underlying digital asset. If the exchange is hacked and the keys are stolen, you are simply out of luck as now the thief can transfer the coins directly to their own wallet. On the other hand, having your own wallet and being your own bank comes with its own headaches and risks too as you must figure out a way to keep the wallet and keys safe and protected.
 
 ### Risks & Criticisms
 
@@ -115,6 +115,12 @@ Hopefully this guide has helped introduce you to the main concepts behind bitcoi
 #### Mining
 
 * [CoinWarz](https://www.coinwarz.com/){: target="_blank" rel="noopener"}
+
+#### DeFi (Decentralized Finance)
+
+*"DeFi, standing for Decentralized Finance, takes the decentralized concept of cryptocurrency and applies it to the world of finance. Built upon the blockchains of cryptocurrencies, the range of DeFi applications cover a range of financial services, including insurance, loans, savings, and trading. "*
+
+* [What Is DeFi? (A Beginner’s Guide to Decentralized Finance)](https://learn.bybit.com/defi/what-is-defi/){: target="_blank" rel="noopener"}
 
 #### Taxes
 
