@@ -82,7 +82,7 @@ ul.inline li {
 .list ul li:before {
   /* https://en.wikipedia.org/wiki/Geometric_Shapes */
   content:"▨";
-  /*color:#ECEFF1;*/
+  color:#ECEFF1;
 }
 
 .list .category {
