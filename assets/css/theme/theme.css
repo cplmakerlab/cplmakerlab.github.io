@@ -205,7 +205,9 @@ ul.guide-summary .detail {
   border-radius:5px;
 }
 
-
+.list .tags {
+  display:none;
+}
 #content .tags .tag-name,
 .tags .tag-name {
   border:solid 1px #ccc;
