@@ -83,9 +83,10 @@ ul.inline li {
 }
 
 .list .category {
-  border-top:solid 1px #ECEFF1;
+  border-left:solid 1px #ECEFF1;
   margin:1px 0;
 }
+
 
 .list .tags a {
   border:none;
