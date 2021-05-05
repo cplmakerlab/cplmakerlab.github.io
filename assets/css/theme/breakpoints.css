@@ -91,10 +91,12 @@
     display: block;
   }
   .list .tags {
+    /*
     display:block;
     white-space:nowrap;  
     float:right;
     width:100px;
+    */
   }
 
 }
