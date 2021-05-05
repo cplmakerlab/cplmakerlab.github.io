@@ -208,6 +208,9 @@ ul.guide-summary .detail {
 .list .tags {
   display:none;
 }
+.js-filter-hidden {
+  display:none;
+}
 #content .tags .tag-name,
 .tags .tag-name {
   border:solid 1px #ccc;
