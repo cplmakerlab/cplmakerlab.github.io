@@ -91,6 +91,7 @@
     display: block;
   }
   .list .tags {
+    display:inline;
     white-space:nowrap;  
   }
 
