@@ -42,10 +42,10 @@ jQuery(function() {
      $('input.js-filter-search').on('keyup', function () {
         var filter = $(this).val().toUpperCase();
         if (filter) {
-          $('.list').find("*:not(:cicontains(" + filter + "))").parent().hide();
-          $('.list').find("*:cicontains(" + filter + ")").parent().show();
+          $('.list').find("*:not(:cicontains(" + filter + "))").parent().addClass('js-filter-hidden');
+          $('.list').find("*:cicontains(" + filter + ")").parent().removeClass('js-filter-hidden');
         } else {
-          $('.list *').show();
+          $('.list *').removeClass('js-filter-hidden');
         }
       });    
         
