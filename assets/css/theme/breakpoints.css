@@ -90,6 +90,11 @@
     opacity: 1;
     display: block;
   }
-
+  .list .tags {
+    max-width:100px;
+    overflow:hidden;
+    display:inline-block;
+    white-space:nowrap;  
+  }
 
 }
