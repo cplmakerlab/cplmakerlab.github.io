@@ -70,6 +70,7 @@ ul.inline li {
   text-transform: uppercase;  
   text-align:left;
   margin-left:-15px;
+  letter-spacing:0px;
 }
 .list ul {
   margin:0;
