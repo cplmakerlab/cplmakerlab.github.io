@@ -69,8 +69,10 @@ ul.inline li {
   display: block;
   text-transform: uppercase;  
   text-align:left;
-  margin-left:-15px;
   letter-spacing:0px;
+}
+.guide-list .list h4 {
+  margin-left:-15px;
 }
 .list ul {
   margin:0;
@@ -80,7 +82,7 @@ ul.inline li {
 .list ul li:before {
   /* https://en.wikipedia.org/wiki/Geometric_Shapes */
   content:"▨";
-  color:#ECEFF1;
+  /*color:#ECEFF1;*/
 }
 
 .list .category {
