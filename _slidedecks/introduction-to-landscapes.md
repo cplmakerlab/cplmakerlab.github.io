@@ -25,7 +25,8 @@ slides:
       abstraction and add political elements.&nbsp;
 
 
-      Work 1: &nbsp;
+      Work 1: &nbsp;[*Valley of
+      Aosta*](https://www.artic.edu/artworks/109938/valley-of-aosta-snowstorm-avalanche-and-thunderstorm)
 
 
       Work 2:&nbsp;[*The Fighting
@@ -35,18 +36,20 @@ slides:
       Work 3:&nbsp;
 
 
-      Work 4:&nbsp;
+      Work 4: [The Slave
+      Ship](https://www.william-turner.org/The-Slave-Ship-1840.html)
 
 
       (Sources linked to artwork names)
     background_color: '#ccc1ad'
     background_image:
     background_size: cover
-  - title:
+  - title: Valley of Aosta
     content_markdown:
     background_color: '#ccc1ad'
-    background_image:
-    background_size: cover
+    background_image: >-
+      /uploads/introduction-to-landscapes/1024px-chicago-art-inst-turner-vallee-aoste.jpg
+    background_size: contain
   - title: The Fighting Temeraire
     content_markdown:
     background_color: '#ccc1ad'
