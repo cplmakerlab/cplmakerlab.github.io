@@ -16,20 +16,20 @@ slides:
     background_color: '#ccc1ad'
     background_image:
     background_size: cover
-  - title:
+  - title: J. M. W. Turner
     content_markdown: >-
-      ## Frida Kahlo
+      ## J. M. W. Turner
 
 
-      Mexican, Born 1907. Best known for her self portraits that she completed
-      after being confined to bed for three months following a bus
-      accident.&nbsp;
+      English, Born 1775. Known for being one of the first artists to push
+      abstraction and add political elements.&nbsp;
 
 
       Work 1: &nbsp;
 
 
-      Work 2:&nbsp;
+      Work 2:&nbsp;[*The Fighting
+      Temeraire*](https://www.william-turner.org/The-Fighting-T%E9m%E9raire-Tugged-To-Her-Last-Berth-To-Be-Broken-Up.html)
 
 
       Work 3:&nbsp;
@@ -50,8 +50,9 @@ slides:
   - title:
     content_markdown:
     background_color: '#ccc1ad'
-    background_image:
-    background_size: cover
+    background_image: >-
+      /uploads/introduction-to-landscapes/582px-the-fighting-temeraire-jmw-turner-national-gallery.jpg
+    background_size: contain
   - title:
     content_markdown:
     background_color: '#ccc1ad'
