@@ -33,7 +33,8 @@ slides:
       Temeraire*](https://www.william-turner.org/The-Fighting-T%E9m%E9raire-Tugged-To-Her-Last-Berth-To-Be-Broken-Up.html)
 
 
-      Work 3:&nbsp;
+      Work 3:&nbsp;*[Snow Storm: Steam-Boat off a Harbour's
+      Mouth](https://en.wikipedia.org/wiki/J._M._W._Turner#/media/File:Joseph_Mallord_William_Turner_-_Snow_Storm_-_Steam-Boat_off_a_Harbour's_Mouth_-_WGA23178.jpg)*
 
 
       Work 4: [The Slave
@@ -56,11 +57,12 @@ slides:
     background_image: >-
       /uploads/introduction-to-landscapes/582px-the-fighting-temeraire-jmw-turner-national-gallery.jpg
     background_size: contain
-  - title:
+  - title: 'Snow Storm: Steam-Boat off a Harbour''s Mouth'
     content_markdown:
     background_color: '#ccc1ad'
-    background_image:
-    background_size: cover
+    background_image: >-
+      /uploads/introduction-to-landscapes/1280px-joseph-mallord-william-turner---snow-storm---steam-boat-off-a-harbours-mouth---wga23178.jpg
+    background_size: contain
   - title: The Slave Ship
     content_markdown:
     background_color: '#ccc1ad'
