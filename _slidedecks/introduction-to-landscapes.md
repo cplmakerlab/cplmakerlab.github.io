@@ -47,7 +47,7 @@ slides:
     background_color: '#ccc1ad'
     background_image:
     background_size: cover
-  - title:
+  - title: The Fighting Temeraire
     content_markdown:
     background_color: '#ccc1ad'
     background_image: >-
@@ -58,8 +58,64 @@ slides:
     background_color: '#ccc1ad'
     background_image:
     background_size: cover
+  - title: The Slave Ship
+    content_markdown:
+    background_color: '#ccc1ad'
+    background_image: /uploads/introduction-to-landscapes/1024px-slave-ship.jpg
+    background_size: contain
+  - title: Ando Hiroshige
+    content_markdown: |-
+      ## Ando Hiroshige&nbsp;
+
+      &nbsp;
+
+      Work 1: &nbsp;
+
+      Work 2:&nbsp;
+
+      Work 3:&nbsp;
+
+      Work 4:&nbsp;
+
+      (Sources linked to artwork names)
+    background_color: '#ccc1ad'
+    background_image:
+    background_size: cover
   - title:
     content_markdown:
+    background_color: '#ccc1ad'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#ccc1ad'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#ccc1ad'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#ccc1ad'
+    background_image:
+    background_size: cover
+  - title: David Hockney
+    content_markdown: |-
+      ## David Hockney&nbsp;
+
+      &nbsp;
+
+      Work 1: &nbsp;
+
+      Work 2:&nbsp;
+
+      Work 3:&nbsp;
+
+      Work 4:&nbsp;
+
+      (Sources linked to artwork names)
     background_color: '#ccc1ad'
     background_image:
     background_size: cover
