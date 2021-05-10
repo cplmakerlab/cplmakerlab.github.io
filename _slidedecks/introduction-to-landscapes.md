@@ -37,10 +37,6 @@ slides:
       Mouth](https://en.wikipedia.org/wiki/J._M._W._Turner#/media/File:Joseph_Mallord_William_Turner_-_Snow_Storm_-_Steam-Boat_off_a_Harbour's_Mouth_-_WGA23178.jpg)*
 
 
-      Work 4: [The Slave
-      Ship](https://www.william-turner.org/The-Slave-Ship-1840.html)
-
-
       (Sources linked to artwork names)
     background_color: '#ccc1ad'
     background_image:
@@ -63,11 +59,6 @@ slides:
     background_image: >-
       /uploads/introduction-to-landscapes/1280px-joseph-mallord-william-turner---snow-storm---steam-boat-off-a-harbours-mouth---wga23178.jpg
     background_size: contain
-  - title: The Slave Ship
-    content_markdown:
-    background_color: '#ccc1ad'
-    background_image: /uploads/introduction-to-landscapes/1024px-slave-ship.jpg
-    background_size: contain
   - title: Ando Hiroshige
     content_markdown: >-
       ## Ando Hiroshige&nbsp;
@@ -81,7 +72,8 @@ slides:
       Kameido*](https://en.wikipedia.org/wiki/Plum_Park_in_Kameido)
 
 
-      Work 2:&nbsp;
+      Work 2:&nbsp;[*The Shopping Street
+      Suruga-cho*](https://www.1stdibs.co.uk/art/prints-works-on-paper/landscape-prints-works-on-paper/utagawa-hiroshige-ando-hiroshige-shopping-street-suruga-cho/id-a_6043132/)
 
 
       Work 3:&nbsp;
@@ -100,11 +92,11 @@ slides:
     background_image: >-
       /uploads/introduction-to-landscapes/de-pruimenboomgaard-te-kameido-rijksmuseum-rp-p-1956-743-jpeg.jpeg
     background_size: contain
-  - title:
+  - title: The Shopping Street Suruga-cho
     content_markdown:
     background_color: '#ccc1ad'
-    background_image:
-    background_size: cover
+    background_image: /uploads/introduction-to-landscapes/hir499-master.jpg
+    background_size: contain
   - title:
     content_markdown:
     background_color: '#ccc1ad'
