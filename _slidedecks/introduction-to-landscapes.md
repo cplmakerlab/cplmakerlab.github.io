@@ -234,11 +234,6 @@ slides:
     background_image: >-
       /uploads/introduction-to-landscapes/iso-julie-mehretu-looking-back-to-a-bright-new-future-2003-1.jpg
     background_size: contain
-  - title:
-    content_markdown:
-    background_color: '#ccc1ad'
-    background_image:
-    background_size: cover
   - title: Drawing Exercise
     content_markdown: >-
       ## Drawing Exercise:
