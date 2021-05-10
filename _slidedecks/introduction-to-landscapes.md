@@ -111,32 +111,42 @@ slides:
       /uploads/introduction-to-landscapes/hiroshige-atake-sous-une-averse-soudaine.jpg
     background_size: contain
   - title: David Hockney
-    content_markdown: |-
+    content_markdown: >-
       ## David Hockney&nbsp;
 
-      &nbsp;
 
-      Work 1: &nbsp;
+      British, Born, 1987. Known for a variety of styles and materials, known
+      for landscapes made out of photocollages called "joiners."
 
-      Work 2:&nbsp;
+
+      Work 1:&nbsp;
+      *[Untitled](https://sites.google.com/a/nsix.org.uk/asphotoalice/ao1-develop/critical-and-contextual-understanding/david-hockney-joiners)*
+
+
+      Work 2:&nbsp;[*Pearblossom Highway
+      \#2*](https://sites.google.com/a/nsix.org.uk/asphotoalice/ao1-develop/critical-and-contextual-understanding/david-hockney-joiners)
+
 
       Work 3:&nbsp;
 
+
       Work 4:&nbsp;
+
 
       (Sources linked to artwork names)
     background_color: '#ccc1ad'
     background_image:
     background_size: cover
-  - title:
+  - title: Untitled
     content_markdown:
     background_color: '#ccc1ad'
-    background_image:
-    background_size: cover
-  - title:
+    background_image: /uploads/introduction-to-landscapes/untitled.jpg
+    background_size: contain
+  - title: 'Pearblossom Highway #2'
     content_markdown:
     background_color: '#ccc1ad'
-    background_image:
+    background_image: >-
+      /uploads/introduction-to-landscapes/hockney-david-pearblossom-highway-11-18th-april-1986-2.jpg
     background_size: cover
   - title:
     content_markdown:
