@@ -15,16 +15,21 @@ slides:
     background_image:
     background_size: cover
   - title: Elements of Landscapes
-    content_markdown: |-
+    content_markdown: >-
       # Elements of Landscapes
+
 
       Line, Texture, Color, Scale&nbsp;
 
-      Foreground:&nbsp;
 
-      Midground:
+      Foreground: The objects or subjects closest to the viewer.
 
-      Background:&nbsp;
+
+      Midground: The objects or subjects in between the foreground and
+      background.&nbsp;
+
+
+      Background: The objects or subjects farthest from the viewer.
     background_color: '#ccc1ad'
     background_image:
     background_size: cover
@@ -249,9 +254,35 @@ slides:
     background_color: '#ccc1ad'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Drawing Exercise
+    content_markdown: >-
+      ## Drawing Exercise:
+
+
+      First, find an image on your phone or on Google of a place that is
+      meaningful to you.&nbsp;
     background_color: '#ccc1ad'
+    background_image:
+    background_size: cover
+  - title: Think about Composition
+    content_markdown: >-
+      ## Think about Composition
+
+
+      Identify a foreground, middle ground and background. Identify what areas/
+      subjects should be lighter or darker.&nbsp;
+    background_color:
+    background_image:
+    background_size: cover
+  - title: Draw
+    content_markdown: >-
+      ## Draw
+
+
+      Take 10 minutes to draw a landscape of that place using a pen, pencil or
+      other utensil. Afterwards you will have the opportunity to share the
+      landscape with the group.
+    background_color:
     background_image:
     background_size: cover
 tags:
