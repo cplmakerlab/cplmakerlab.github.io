@@ -212,33 +212,37 @@ slides:
 
 
       Work 1:
-      [Untitled](https://www.contemporary-african-art.com/julie-mehretu.html)
+      [S](https://www.contemporary-african-art.com/julie-mehretu.html)[tadia
+      1](__notset__)
 
 
-      Work 2:&nbsp;
+      Work 2: [Stadia
+      2&nbsp;](https://www.forbes.com/sites/chaddscott/2019/12/26/julie-mehretu-mid-career-survey-dazzles-at-los-angeles-county-museum-of-art/?sh=fcce5351cbd5)
 
 
-      Work 3:
+      Work 3: [Looking Back to a Bright New
+      Future](https://www.culturetype.com/2017/02/27/detroit-museum-exhibits-major-painting-by-julie-mehretu-first-in-series-of-works-on-loan-by-black-artists/)
 
 
       (Sources linked to artwork names)
     background_color: '#ccc1ad'
     background_image:
     background_size: cover
-  - title: Untitled
+  - title: Stadia I
     content_markdown:
     background_color: '#ccc1ad'
     background_image: /uploads/introduction-to-landscapes/julie-mehretu.jpg
     background_size: contain
-  - title:
+  - title: Stadia II
     content_markdown:
     background_color: '#ccc1ad'
-    background_image:
-    background_size: cover
-  - title:
+    background_image: /uploads/introduction-to-landscapes/960x0.jpg
+    background_size: contain
+  - title: Looking Back to A Bright New Future
     content_markdown:
     background_color: '#ccc1ad'
-    background_image:
+    background_image: >-
+      /uploads/introduction-to-landscapes/iso-julie-mehretu-looking-back-to-a-bright-new-future-2003-1.jpg
     background_size: cover
   - title:
     content_markdown:
