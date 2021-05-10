@@ -69,28 +69,37 @@ slides:
     background_image: /uploads/introduction-to-landscapes/1024px-slave-ship.jpg
     background_size: contain
   - title: Ando Hiroshige
-    content_markdown: |-
+    content_markdown: >-
       ## Ando Hiroshige&nbsp;
 
-      &nbsp;
 
-      Work 1: &nbsp;
+      Japanese, Born 1797. Best known for scenes of nature and urban life with
+      extensive use of bokashi (color gradiation).&nbsp;
+
+
+      Work 1: &nbsp;[*Plum Park in
+      Kameido*](https://en.wikipedia.org/wiki/Plum_Park_in_Kameido)
+
 
       Work 2:&nbsp;
 
+
       Work 3:&nbsp;
 
+
       Work 4:&nbsp;
+
 
       (Sources linked to artwork names)
     background_color: '#ccc1ad'
     background_image:
     background_size: cover
-  - title:
+  - title: Plum Park in Kameido
     content_markdown:
     background_color: '#ccc1ad'
-    background_image:
-    background_size: cover
+    background_image: >-
+      /uploads/introduction-to-landscapes/de-pruimenboomgaard-te-kameido-rijksmuseum-rp-p-1956-743-jpeg.jpeg
+    background_size: contain
   - title:
     content_markdown:
     background_color: '#ccc1ad'
