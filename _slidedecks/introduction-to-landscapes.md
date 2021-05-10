@@ -41,21 +41,6 @@ slides:
     background_color: '#ccc1ad'
     background_image: /uploads/introduction-to-landscapes/capture.PNG
     background_size: contain
-  - title:
-    content_markdown:
-    background_color: '#ccc1ad'
-    background_image:
-    background_size: cover
-  - title:
-    content_markdown:
-    background_color: '#ccc1ad'
-    background_image:
-    background_size: cover
-  - title:
-    content_markdown:
-    background_color: '#ccc1ad'
-    background_image:
-    background_size: cover
   - title: J. M. W. Turner
     content_markdown: >-
       ## J. M. W. Turner
