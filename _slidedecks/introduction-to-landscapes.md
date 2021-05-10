@@ -76,10 +76,12 @@ slides:
       Suruga-cho*](https://www.1stdibs.co.uk/art/prints-works-on-paper/landscape-prints-works-on-paper/utagawa-hiroshige-ando-hiroshige-shopping-street-suruga-cho/id-a_6043132/)
 
 
-      Work 3:&nbsp;
+      Work 3: [Naruto
+      Whirlpools](https://en.wikipedia.org/wiki/Naruto_whirlpools)
 
 
-      Work 4:&nbsp;
+      Work 4:&nbsp;*[Sudden Shower Over Shin-Ohashi Bridge and
+      Atake](https://en.wikipedia.org/wiki/Sudden_Shower_over_Shin-%C5%8Chashi_bridge_and_Atake)*
 
 
       (Sources linked to artwork names)
@@ -97,16 +99,17 @@ slides:
     background_color: '#ccc1ad'
     background_image: /uploads/introduction-to-landscapes/hir499-master.jpg
     background_size: contain
-  - title:
+  - title: Naruto Whirlpools
     content_markdown:
     background_color: '#ccc1ad'
-    background_image:
-    background_size: cover
-  - title:
+    background_image: /uploads/introduction-to-landscapes/il-570xn-1686059220-3x1w.jpg
+    background_size: contain
+  - title: Sudden Shower Over Shin-Ohashi Bridge and Atake
     content_markdown:
     background_color: '#ccc1ad'
-    background_image:
-    background_size: cover
+    background_image: >-
+      /uploads/introduction-to-landscapes/hiroshige-atake-sous-une-averse-soudaine.jpg
+    background_size: contain
   - title: David Hockney
     content_markdown: |-
       ## David Hockney&nbsp;
