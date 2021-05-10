@@ -194,7 +194,7 @@ slides:
     background_size: contain
   - title: Julie Mehretu
     content_markdown: >-
-      ## David Hockney&nbsp;
+      ## Julie Mehretu&nbsp;
 
 
       Ethiopian, Born 1970. Uses dense abstract lines that create space in a way
