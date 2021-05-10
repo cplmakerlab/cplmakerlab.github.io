@@ -127,10 +127,13 @@ slides:
       \#2*](https://sites.google.com/a/nsix.org.uk/asphotoalice/ao1-develop/critical-and-contextual-understanding/david-hockney-joiners)
 
 
-      Work 3:&nbsp;
+      Work 3: [Sunday Morning, Mayflower Hotel,
+      N.Y](https://www.artic.edu/artworks/100864/sunday-morning-mayflower-hotel-n-y){:
+      target="_blank" rel="noopener"}
 
 
-      Work 4:&nbsp;
+      Work 4:
+      [Untitled](https://www.juxtapoz.com/news/photography/david-hockney-s-joiners/)
 
 
       (Sources linked to artwork names)
@@ -148,16 +151,17 @@ slides:
     background_image: >-
       /uploads/introduction-to-landscapes/hockney-david-pearblossom-highway-11-18th-april-1986-2.jpg
     background_size: cover
-  - title:
+  - title: 'Sunday Morning, Mayflower Hotel, N.Y.'
     content_markdown:
     background_color: '#ccc1ad'
-    background_image:
-    background_size: cover
-  - title:
+    background_image: >-
+      /uploads/introduction-to-landscapes/c04a376f-23fc-65da-bc10-6af4b77f120a.jpg
+    background_size: contain
+  - title: Untitled
     content_markdown:
     background_color: '#ccc1ad'
-    background_image:
-    background_size: cover
+    background_image: /uploads/introduction-to-landscapes/jux-david-hockney6.jpg
+    background_size: contain
   - title:
     content_markdown:
     background_color: '#ccc1ad'
