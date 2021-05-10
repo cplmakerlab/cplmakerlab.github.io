@@ -7,12 +7,47 @@ slides:
     background_image:
     background_size: cover
   - title: Landscape Definition
-    content_markdown: 'Landscape:'
+    content_markdown: >-
+      Landscape: An artwork depicting an area of land. Although natural elements
+      are often the central focus, landscapes can also include buildings,
+      people, and animals.&nbsp;
     background_color: '#ccc1ad'
     background_image:
     background_size: cover
   - title: Elements of Landscapes
-    content_markdown: '# Elements of Landscapes'
+    content_markdown: |-
+      # Elements of Landscapes
+
+      Line, Texture, Color, Scale&nbsp;
+
+      Foreground:&nbsp;
+
+      Midground:
+
+      Background:&nbsp;
+    background_color: '#ccc1ad'
+    background_image:
+    background_size: cover
+  - title: From Foreground to Background in Oil Painting
+    content_markdown: |-
+      ## From Foreground to Background in Oil Painting
+
+      https://www.youtube.com/watch?v=gphHelLsuw4
+    background_color: '#ccc1ad'
+    background_image: /uploads/introduction-to-landscapes/capture.PNG
+    background_size: contain
+  - title:
+    content_markdown:
+    background_color: '#ccc1ad'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#ccc1ad'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
     background_color: '#ccc1ad'
     background_image:
     background_size: cover
@@ -143,7 +178,7 @@ slides:
   - title: Untitled
     content_markdown:
     background_color: '#ccc1ad'
-    background_image: /uploads/introduction-to-landscapes/untitled.jpg
+    background_image: /uploads/introduction-to-landscapes/dh.jpg
     background_size: contain
   - title: 'Pearblossom Highway #2'
     content_markdown:
@@ -161,6 +196,39 @@ slides:
     content_markdown:
     background_color: '#ccc1ad'
     background_image: /uploads/introduction-to-landscapes/jux-david-hockney6.jpg
+    background_size: contain
+  - title: Cubism
+    content_markdown: '## Cubism&nbsp;'
+    background_color: '#ccc1ad'
+    background_image: /uploads/introduction-to-landscapes/50095877028-be061688d8-b.jpg
+    background_size: contain
+  - title: Julie Mehretu
+    content_markdown: >-
+      ## David Hockney&nbsp;
+
+
+      Ethiopian, Born 1970. Uses dense abstract lines that create space in a way
+      that conveys a foreground, middleground and backgroung.&nbsp;
+
+
+      Work 1:
+      [Untitled](https://www.contemporary-african-art.com/julie-mehretu.html)
+
+
+      Work 2:&nbsp;
+
+
+      Work 3:
+
+
+      (Sources linked to artwork names)
+    background_color: '#ccc1ad'
+    background_image:
+    background_size: cover
+  - title: Untitled
+    content_markdown:
+    background_color: '#ccc1ad'
+    background_image: /uploads/introduction-to-landscapes/julie-mehretu.jpg
     background_size: contain
   - title:
     content_markdown:
