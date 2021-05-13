@@ -17,8 +17,9 @@ At the Maker Lab, we use and love free and open-source design software. Open-sou
 
 * [TinkerCad (3D CAD)](http://tinkercad.com){: target="_blank" rel="noopener"}
 * [Fusion 360](http://autodesk.com/fusion360){: target="_blank" rel="noopener"} (Advanced 3D CAD)
+* [Blender](http://blender.org){: target="_blank" rel="noopener"} (3D rendering, animation, sculpting)
 * [Sculptris](http://pixologic.com/sculptris){: target="_blank" rel="noopener"} (3D sculpting)
-* [Blender](http://blender.org){: target="_blank" rel="noopener"}(rendering, animation)
+* [SculptFab](https://labs.sketchfab.com/sculptfab/){: target="_blank" rel="noopener"} (3D sculpting in the browser)
 * [Meshmixer](http://meshmixer.com){: target="_blank" rel="noopener"} (3D mesh editor)
 * [Meshroom](https://alicevision.org/#meshroom){: target="_blank" rel="noopener"} (3D scanning)
 * [ReconstructMe](http://reconstructme.net){: target="_blank" rel="noopener"} (3D scanning)
