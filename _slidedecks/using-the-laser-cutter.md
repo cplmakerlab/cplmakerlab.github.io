@@ -16,10 +16,10 @@ slides:
     background_color:
     background_image: /uploads/closewindow.png
     background_size: cover
-  - title:
+  - title: Review Image
     content_markdown:
     background_color:
-    background_image: /uploads/runperimeter.png
+    background_image: /uploads/using-the-laser-cutter/raster250.png
     background_size: cover
 tags:
 ---
