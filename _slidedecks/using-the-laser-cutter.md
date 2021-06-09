@@ -72,7 +72,7 @@ slides:
     background_color:
     background_image:
     background_size: cover
-  - title: Raster Settings
+  - title: Raster Review
     content_markdown: >-
       In Raster Mode, you can set the DPI.
 
@@ -86,6 +86,13 @@ slides:
     background_color:
     background_image:
     background_size: cover
+  - title: Cut Settings
+    content_markdown: >-
+      ![](/uploads/using-the-laser-cutter/cutsettings.png){: width="372"
+      height="563"}
+    background_color:
+    background_image:
+    background_size: contain
   - title: Vector Review
     content_markdown: >-
       The Vector Cut tab shows vector lines and an empty rectangle for raster
@@ -98,13 +105,11 @@ slides:
     background_color:
     background_image:
     background_size: contain
-  - title: Cut Settings
-    content_markdown: >-
-      ![](/uploads/using-the-laser-cutter/cutsettings.png){: width="372"
-      height="563"}
+  - title: Raster Settings
+    content_markdown:
     background_color:
     background_image:
-    background_size: contain
+    background_size: cover
 ---
 
 
