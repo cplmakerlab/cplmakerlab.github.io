@@ -1,8 +1,12 @@
 ---
-title: Using the Laser Cutter
+title: Using the Full Spectrum Laser Cutter
 slides:
   - title: Stroke Paint Color
     content_markdown: >-
+      Last steps to prepare your file for the Full Spectrum/HWLC laser
+      cutter:<br>1\. Set any lines to be CUT to the color red
+
+
       ![](/uploads/using-the-laser-cutter/strokepaint.png){: width="800"
       height="662"}
     background_color:
@@ -10,11 +14,14 @@ slides:
     background_size: contain
   - title: Stroke Style
     content_markdown: >-
+      2\. Set Stroke style to **0\.003 inches**
+
+
       ![](/uploads/using-the-laser-cutter/strokestyle.png){: width="782"
       height="522"}
     background_color:
     background_image:
-    background_size: cover
+    background_size: contain
   - title: Go to Print
     content_markdown:
     background_color:
@@ -52,5 +59,6 @@ slides:
     background_color:
     background_image: /uploads/using-the-laser-cutter/cutsettings.png
     background_size: contain
-tags:
 ---
+
+
