@@ -23,9 +23,15 @@ slides:
     background_image:
     background_size: contain
   - title: Go to Print
-    content_markdown:
+    content_markdown: >-
+      Open RetinaEngrave, then send your file from Inkscape to RetinaEngrave by
+      clicking **File&gt;Print**
+
+
+      ![](/uploads/using-the-laser-cutter/inkscapefileprint.png){: width="685"
+      height="517"}
     background_color:
-    background_image: /uploads/inkscapefileprint.png
+    background_image:
     background_size: contain
   - title: Check Printer
     content_markdown:
