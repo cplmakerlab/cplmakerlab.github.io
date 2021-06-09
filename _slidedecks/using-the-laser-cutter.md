@@ -74,6 +74,13 @@ slides:
     background_size: cover
   - title: Raster Settings
     content_markdown: >-
+      In Raster Mode, you can set the DPI.
+
+
+      250 DPI is faster and lower resolution and usually has enough detail for
+      most projects.
+
+
       ![](/uploads/using-the-laser-cutter/raster250.png){: width="1137"
       height="531"}
     background_color:
@@ -81,15 +88,22 @@ slides:
     background_size: cover
   - title: Vector Review
     content_markdown: >-
+      The Vector Cut tab shows vector lines and an empty rectangle for raster
+      images. You'll tell the laser to ignore the black box by setting the black
+      line passes to 0.
+
+
       ![](/uploads/using-the-laser-cutter/vectormode.png){: width="1125"
       height="746"}
     background_color:
     background_image:
     background_size: contain
   - title: Cut Settings
-    content_markdown:
+    content_markdown: >-
+      ![](/uploads/using-the-laser-cutter/cutsettings.png){: width="372"
+      height="563"}
     background_color:
-    background_image: /uploads/using-the-laser-cutter/cutsettings.png
+    background_image:
     background_size: contain
 ---
 
