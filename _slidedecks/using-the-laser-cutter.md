@@ -34,14 +34,24 @@ slides:
     background_image:
     background_size: contain
   - title: Check Printer
-    content_markdown:
+    content_markdown: >-
+      If Full Spectrum Engineering Driver is highlighted, click Print.
+
+
+      ![](/uploads/using-the-laser-cutter/fullspectrumengineeringdriver.png){:
+      width="607" height="507"}
     background_color:
-    background_image: /uploads/fullspectrumengineeringdriver.png
+    background_image:
     background_size: cover
   - title: Close the Preview
-    content_markdown:
+    content_markdown: >-
+      This preview window will pop open -- you can simply close it.
+
+
+      ![](/uploads/using-the-laser-cutter/closewindow.png){: width="810"
+      height="805"}
     background_color:
-    background_image: /uploads/closewindow.png
+    background_image:
     background_size: cover
   - title: Run Perimeter
     content_markdown:
