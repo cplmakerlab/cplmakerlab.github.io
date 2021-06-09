@@ -54,14 +54,30 @@ slides:
     background_image:
     background_size: cover
   - title: Run Perimeter
-    content_markdown:
+    content_markdown: >-
+      1. Place your material on the honeycomb.
+
+      2. Use the on-screen or keyboard arrow keys to move the laser head to a
+      corner of the material.
+
+      3. Use Run Perimeter (7th icon, to the right of the house icon) and watch
+      the laser head move to make sure you have space for your design on the
+      material.
+
+      4. Adjust material and repeat Run Perimeter as needed.
+
+
+      ![](/uploads/using-the-laser-cutter/vectormode.png){: width="1125"
+      height="746"}
     background_color:
-    background_image: /uploads/using-the-laser-cutter/raster250.png
+    background_image:
     background_size: cover
   - title: Raster Settings
-    content_markdown:
+    content_markdown: >-
+      ![](/uploads/using-the-laser-cutter/raster250.png){: width="1137"
+      height="531"}
     background_color:
-    background_image: /uploads/using-the-laser-cutter/rastersettings.png
+    background_image:
     background_size: cover
   - title: Vector Review
     content_markdown: >-
