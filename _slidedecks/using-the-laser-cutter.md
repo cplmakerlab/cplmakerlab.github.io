@@ -7,7 +7,7 @@ slides:
       cutter:<br>1\. Set any lines to be CUT to the color red
 
 
-      ![](/uploads/using-the-laser-cutter/strokepaint.png){: width="800"
+      ![](/uploads/using-the-laser-cutter/strokepaintcallout.png){: width="800"
       height="662"}
     background_color:
     background_image:
@@ -17,7 +17,7 @@ slides:
       2\. Set Stroke style to **0\.003 inches**
 
 
-      ![](/uploads/using-the-laser-cutter/strokestyle.png){: width="782"
+      ![](/uploads/using-the-laser-cutter/strokestylecallout.png){: width="782"
       height="522"}
     background_color:
     background_image:
@@ -38,18 +38,16 @@ slides:
       If Full Spectrum Engineering Driver is highlighted, click Print.
 
 
-      ![](/uploads/using-the-laser-cutter/fullspectrumengineeringdriver.png){:
-      width="607" height="507"}
+      ![](/uploads/using-the-laser-cutter/inkscapefileprintcallout.png){:
+      width="1270" height="659"}
     background_color:
     background_image:
     background_size: cover
   - title: Close the Preview
-    content_markdown: >-
-      This preview window will pop open -- you can simply close it.
+    content_markdown: |-
+      This preview window will pop open – you can simply close it.
 
-
-      ![](/uploads/using-the-laser-cutter/closewindow.png){: width="810"
-      height="805"}
+      &nbsp;
     background_color:
     background_image:
     background_size: cover
@@ -67,8 +65,8 @@ slides:
       4. Adjust material and repeat Run Perimeter as needed.
 
 
-      ![](/uploads/using-the-laser-cutter/vectormode.png){: width="1125"
-      height="746"}
+      ![](/uploads/using-the-laser-cutter/runperimetercallout.png){: width="883"
+      height="651"}
     background_color:
     background_image:
     background_size: cover
@@ -81,18 +79,18 @@ slides:
       most projects.
 
 
-      ![](/uploads/using-the-laser-cutter/raster250.png){: width="1137"
-      height="531"}
+      ![](/uploads/using-the-laser-cutter/raster250callout.png){: width="887"
+      height="656"}
     background_color:
     background_image:
     background_size: cover
-  - title: Cut Settings
+  - title: Raster Settings
     content_markdown: >-
-      ![](/uploads/using-the-laser-cutter/cutsettings.png){: width="372"
-      height="563"}
+      ![](/uploads/using-the-laser-cutter/settingsraster.png){: width="288"
+      height="470"}
     background_color:
     background_image:
-    background_size: contain
+    background_size: cover
   - title: Vector Review
     content_markdown: >-
       The Vector Cut tab shows vector lines and an empty rectangle for raster
@@ -100,13 +98,14 @@ slides:
       line passes to 0.
 
 
-      ![](/uploads/using-the-laser-cutter/vectormode.png){: width="1125"
-      height="746"}
+      &nbsp;
     background_color:
     background_image:
     background_size: contain
-  - title: Raster Settings
-    content_markdown:
+  - title:
+    content_markdown: >-
+      ![](/uploads/using-the-laser-cutter/settingsvector.png){: width="288"
+      height="470"}
     background_color:
     background_image:
     background_size: cover
