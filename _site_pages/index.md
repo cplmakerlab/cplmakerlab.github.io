@@ -37,4 +37,3 @@ Due to the COVID-19 pandemic, the Maker Lab is currently closed until further no
 * Altgeld Branch, 955 E. 131st Street
 * Legler Regional, 115 S. Pulaski Road
 * Whitney Young Branch, 415 E. 79th Street
-* Woodson Regional, 9525 S. Halsted Street
