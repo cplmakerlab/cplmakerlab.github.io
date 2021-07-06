@@ -9,13 +9,14 @@ slides:
   - title: Portrait/ Self Portrait
     content_markdown: >-
       Portrait: A painting, drawing, photograph, engraving, or sculpture of a
-      person, especially one depicting only the face or head and shoulders. A
-      broader definition of portraits can include things like animals or groups
-      of people.&nbsp;
+      person, especially one depicting only the face or head and shoulders.
 
 
       Self-portrait: A portrait of an artist produced or created by that
       artist.&nbsp;
+
+
+      Portaits can also be of groups of people or animals.
 
 
       &nbsp;
@@ -78,7 +79,7 @@ slides:
     background_color: '#a3e297'
     background_image: /uploads/introduction-to-portraits/tumblr-pnc6airnt41t5cx8so1-640.jpg
     background_size: contain
-  - title: 'Self Portrait with Necklace of Thorns,  1940'
+  - title: Self Portrait with Necklace of Thorns,  1940
     content_markdown:
     background_color: '#a3e297'
     background_image: >-
@@ -134,7 +135,7 @@ slides:
     background_color: '#a3e297'
     background_image: /uploads/introduction-to-portraits/5.PNG
     background_size: contain
-  - title: 'President Barack Obama, 2018'
+  - title: President Barack Obama, 2018
     content_markdown:
     background_color: '#a3e297'
     background_image: /uploads/introduction-to-portraits/capture4-1.PNG
@@ -184,17 +185,17 @@ slides:
     background_image: >-
       /uploads/introduction-to-portraits/63be90c8-32ec-4b9f-8a8b-da4ce2ba048a-1.jpg
     background_size: contain
-  - title: '1959. Los Angeles, CA'
+  - title: 1959. Los Angeles, CA
     content_markdown:
     background_color: '#a3e297'
     background_image: /uploads/introduction-to-portraits/vm1959w04159-08-mc.jpg
     background_size: contain
-  - title: '1955. New York, NY'
+  - title: 1955. New York, NY
     content_markdown:
     background_color: '#a3e297'
     background_image: /uploads/introduction-to-portraits/vm1955w00180-06-mc.jpg
     background_size: contain
-  - title: 'Chicago, IL'
+  - title: Chicago, IL
     content_markdown:
     background_color: '#a3e297'
     background_image: /uploads/introduction-to-portraits/vm19xxw03132-10-mc.jpg
@@ -268,5 +269,6 @@ slides:
     background_color: '#a3e297'
     background_image: /uploads/introduction-to-portraits/capture2.PNG
     background_size: cover
-tags:
 ---
+
+
