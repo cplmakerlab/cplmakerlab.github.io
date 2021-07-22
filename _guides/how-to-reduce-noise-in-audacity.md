@@ -1,5 +1,5 @@
 ---
-title: 'How to Reduce Noise in Audacity '
+title: 'How to Reduce Background Noise in Audacity '
 categories:
   - Audio
 tags:
@@ -13,6 +13,7 @@ difficulty: Medium
 time_required: '5 Minutes '
 file_attachment_path:
 ---
+
 Brief description of what this guide is about.
 
 ### Step 1
