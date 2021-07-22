@@ -14,7 +14,7 @@ time_required: '5 Minutes '
 file_attachment_path:
 ---
 
-Do you want to remove background noise from an audio track? Audacity is a free audio program that allows you to record and edit single audio files as well as mix and arrange multiple audio tracks together (multitracking). You can do this easily with a free software called Audacity, which can be downloaded here:&nbsp;[https://www.audacityteam.org/download/](https://www.audacityteam.org/download/)
+Do you want to remove background noise from an audio track? You can do this easily with a free software called Audacity, which can be downloaded here:&nbsp;[https://www.audacityteam.org/download/](https://www.audacityteam.org/download/)
 
 ### Step 1
 
