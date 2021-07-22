@@ -64,8 +64,6 @@ You now have an audio track with reduced background noise\! All you need to do n
 
 ### Congratulations\!
 
-&nbsp;
-
 Further reading:
 
 * [Audacity Noise Reduction](https://manual.audacityteam.org/man/noise_reduction.html#:~:text=Frequency%20Smoothing%20%28bands%29%3A%20At%20values%20of%201%20or,smoothing%20can%20make%20those%20artifacts%20sound%20more%20acceptable.)
