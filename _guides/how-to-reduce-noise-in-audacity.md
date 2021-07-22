@@ -14,7 +14,7 @@ time_required: '5 Minutes '
 file_attachment_path:
 ---
 
-Brief description of what this guide is about.
+Do you want to remove background noise from an audio track? You can do this easily with a free software called Audacity, which can be downloaded here:&nbsp;[https://www.audacityteam.org/download/](https://www.audacityteam.org/download/)
 
 ### Step 1
 
