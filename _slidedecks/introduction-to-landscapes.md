@@ -176,7 +176,7 @@ slides:
     background_image: >-
       /uploads/introduction-to-landscapes/hockney-david-pearblossom-highway-11-18th-april-1986-2.jpg
     background_size: cover
-  - title: 'Sunday Morning, Mayflower Hotel, N.Y.'
+  - title: Sunday Morning, Mayflower Hotel, N.Y.
     content_markdown:
     background_color: '#ccc1ad'
     background_image: >-
@@ -265,5 +265,6 @@ slides:
     background_color:
     background_image:
     background_size: cover
-tags:
 ---
+
+
