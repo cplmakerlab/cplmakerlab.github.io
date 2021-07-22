@@ -38,7 +38,9 @@ Next click on&nbsp;*Effect* at the top and select *Noise Reduction.*
 
 ![](/uploads/how-to-reduce-noise-in-audacity/3.JPG){: width="922" height="701"}
 
-This will
+This will cause a new menu to pop up. You may need to click&nbsp;*Get Noise Pr*
+
+| &nbsp; |
 
 ### Step 5
 
