@@ -38,7 +38,7 @@ Next click on&nbsp;*Effect* at the top and select *Noise Reduction.*
 
 ![](/uploads/how-to-reduce-noise-in-audacity/3.JPG){: width="922" height="701"}
 
-This will cause a new menu to pop up. The default *Noise Reduction* settings are going to work for most audio files, click&nbsp;*OK&nbsp;*on the menu to reduce noise using these settings.
+This will cause a new menu to pop up. The default *Noise Reduction* settings are going to work for most audio files, click&nbsp;*OK &nbsp;*at the bottom if you want to use these settings.&nbsp;
 
 You likely will not need to adjust the default settings, but here is extra information in case you do need to adjust&nbsp;*Reduction, Sensitivity,* or *Frequency Smoothing*.. This information is copied from the [Audacity Team Manual](https://manual.audacityteam.org/man/noise_reduction.html#:~:text=Frequency%20Smoothing%20%28bands%29%3A%20At%20values%20of%201%20or,smoothing%20can%20make%20those%20artifacts%20sound%20more%20acceptable.).*​​​​​​*
 
