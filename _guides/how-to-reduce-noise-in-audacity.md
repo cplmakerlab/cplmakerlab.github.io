@@ -20,19 +20,25 @@ Do you want to remove background noise from an audio track? Audacity is a free a
 
 ![](/uploads/how-to-reduce-noise-in-audacity/1.JPG){: width="920" height="705"}
 
-Download and open [Audacity](http://audacity.org/){: target="_blank" rel="noopener"} on your computer. Then upload your audio file. Audacity supports a range of file formats such as MP3, WAV, and more.&nbsp;
+Download and open [Audacity](http://audacity.org/){: target="_blank" rel="noopener"} on your computer. Then upload your audio file. Audacity supports a range of file formats such as MP3, WAV, and more. For a list of supported file formats, click [here.](https://manual.audacityteam.org/man/importing_audio.html#:~:text=1%20Contents%202%20Audio%20File%20Formats%20Supported%20by,other%20information%20about%20the%20file%20to%20be%20)
 
 ### Step 2
 
 ![](/uploads/how-to-reduce-noise-in-audacity/2.JPG){: width="920" height="701"}
 
+Select a section of audio with no visible sound waves. Click and drag your mouse over the desired area to select it.&nbsp;
+
 ### Step 3
 
 ![](/uploads/how-to-reduce-noise-in-audacity/2-5.png){: width="915" height="620"}
 
+Next click on&nbsp;*Effect* at the top and select *Noise Reduction.*
+
 ### Step 4
 
 ![](/uploads/how-to-reduce-noise-in-audacity/3.JPG){: width="922" height="701"}
+
+This will
 
 ### Step 5
 
