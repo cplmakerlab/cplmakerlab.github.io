@@ -20,7 +20,7 @@ Do you want to remove background noise from an audio track? Audacity is a free a
 
 ![](/uploads/how-to-reduce-noise-in-audacity/1.JPG){: width="920" height="705"}
 
-Download and open [Audacity](http://audacity.org/){: target="_blank" rel="noopener"} on your computer. Then upload your audio file (MP\# or WAV
+Download and open [Audacity](http://audacity.org/){: target="_blank" rel="noopener"} on your computer. Then upload your audio file. Audacity supports a range of file formats such as MP3, WAV, and more.&nbsp;
 
 ### Step 2
 
