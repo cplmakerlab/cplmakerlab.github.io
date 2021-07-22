@@ -24,6 +24,22 @@ Do you want to remove background noise from an audio track? You can do this easi
 
 ![](/uploads/how-to-reduce-noise-in-audacity/2.JPG){: width="920" height="701"}
 
+### Step 3
+
+### Step 4
+
+### Step 5
+
+### Step 6
+
+### Step 7
+
+### Step 8
+
+### Step 9
+
+### &nbsp;
+
 ### Congratulations\!
 
 Add links or resources for further learning (or link to another how-to).
