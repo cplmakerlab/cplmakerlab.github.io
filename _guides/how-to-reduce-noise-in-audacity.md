@@ -54,7 +54,7 @@ Now select all audio by holding down the&nbsp;*Ctrl&nbsp;*&nbsp;and&nbsp;*A&nbsp
 
 ![](/uploads/how-to-reduce-noise-in-audacity/4.png){: width="922" height="820"}
 
-Finally, click on&nbsp;*Effect* at the top and select *Repeat&nbsp;**Noise Reduction.*
+Finally, click on&nbsp;*Effect* at the top and select *Repeat Noise Reduction.*
 
 ### Step 7
 
