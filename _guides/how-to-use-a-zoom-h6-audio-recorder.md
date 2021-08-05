@@ -12,7 +12,8 @@ difficulty: Medium
 time_required: 20 Minutes
 file_attachment_path:
 ---
-Brief description of what this guide is about.
+
+Zoom H6 devices can be used to record high quality audio. Zoom recorders are available for check out at the Harold Washington Library Center (more rental info). But how do you r
 
 ### Step 1
 
