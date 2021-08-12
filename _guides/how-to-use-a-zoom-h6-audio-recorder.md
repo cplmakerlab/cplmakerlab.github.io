@@ -31,15 +31,15 @@ Want to record high quality audio? Zoom H6 audio recording devices are available
 
 ## Step 4
 
-## &nbsp;
+## ![](/uploads/how-to-use-a-zoom-h6-audio-recorder/img-0122-1.jpg){: width="3024" height="4032"}
 
 ## Step 5
 
-![](/uploads/how-to-use-a-zoom-h6-audio-recorder/img-0122.jpg){: width="3024" height="4032"}
+![](/uploads/how-to-use-a-zoom-h6-audio-recorder/img-0127.jpg){: width="3024" height="4032"}
 
 ## Step 6
 
-&nbsp;
+![](/uploads/how-to-use-a-zoom-h6-audio-recorder/img-0129.jpg){: width="3024" height="4032"}
 
 ## Step 7
 
