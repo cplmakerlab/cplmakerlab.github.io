@@ -17,13 +17,29 @@ Want to record high quality audio? Zoom H6 audio recording devices are available
 
 ### Step 1
 
-Enter step details and any images that may help.
+&nbsp;
 
 ### Step 2
 
-Enter step details and any images that may help.
+&nbsp;
 
-…continue adding more steps as needed.
+Step 3
+
+Step 4
+
+Step 5
+
+Step 6
+
+Step 7
+
+Step 8
+
+Step 9&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Congratulations\!
 
