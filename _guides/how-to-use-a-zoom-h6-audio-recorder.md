@@ -13,9 +13,11 @@ time_required: 20 Minutes
 file_attachment_path:
 ---
 
-Want to record high quality audio? Zoom H6 audio recording devices are available for check out at the Harold Washington Library Center (more rental info). This guide will teach you the most essential basics: how to turn on your zoom device, attach a module, record, stop recording, and upload your files.&nbsp;
+Want to record high quality audio? Zoom H6 audio recording devices are available for check out at the Harold Washington Library Center (more rental info). This guide will teach you the most easiest way to make a recording: how to turn on your zoom device, attach a module, record, stop recording, and upload your files.&nbsp;
 
 ### Step 1
+
+![](/uploads/how-to-use-a-zoom-h6-audio-recorder/img-0100.jpg){: width="3024" height="4032"}
 
 &nbsp;
 
@@ -23,19 +25,33 @@ Want to record high quality audio? Zoom H6 audio recording devices are available
 
 &nbsp;
 
-Step 3
+## Step 3
 
-Step 4
+&nbsp;
 
-Step 5
+## Step 4
 
-Step 6
+&nbsp;
 
-Step 7
+## Step 5
 
-Step 8
+&nbsp;
 
-Step 9&nbsp;
+## Step 6
+
+&nbsp;
+
+## Step 7
+
+&nbsp;
+
+## Step 8
+
+&nbsp;
+
+## Step 9&nbsp;
+
+&nbsp;
 
 &nbsp;
 
