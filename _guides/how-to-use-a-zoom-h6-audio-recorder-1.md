@@ -41,13 +41,15 @@ You now need to attach the selected mic. To connect it, press down on the sides 
 
 ## Step 4
 
+![](/uploads/how-to-use-a-zoom-h6-audio-recorder/img-0122-1.jpg){: width="3024" height="4032"}
+
 ## &nbsp;
 
 Before you start recording, press the **L** and **R&nbsp;**buttons. This tells your device to record from the input channel at the top (which is where you inserted either the XY or MS mic). Then, press the red circle at the center of your device to begin recording. When you are done, press the red circle again to finish recording.&nbsp;
 
 ## Step 5
 
-&nbsp;
+![](/uploads/how-to-use-a-zoom-h6-audio-recorder/img-0127.jpg){: width="3024" height="4032"}
 
 You can play back the audio files you record on the zoom H6 device. You may want to do this either to check audio quality or to make sure that a recording started or stopped at the correct time. To do this, press the "Menu" button on the right hand side and use the scroll wheel to navigate the different folders. Pressing in on the scroll wheel will select and play a recording, to return home press the red circle.&nbsp;
 
