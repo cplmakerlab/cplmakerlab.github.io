@@ -25,17 +25,21 @@ To turn on the Zoom H6, hold down the power button on the left hand side. A scre
 
 ![](/uploads/how-to-use-a-zoom-h6-audio-recorder/img-0102.jpg){: width="3024" height="4032"}
 
-Select which microphone head you would like to use, either the XY Mic or MS Mic. The XY Mic is generally for close and medium range recordings, and the MS is generally for long distance recordings. &nbsp;Both will work for a basic recording, but the guide explains what each does in further detail:&nbsp;
+Select which microphone head you would like to use, either the XY Mic or MS Mic. The XY Mic is generally for close and medium range recordings, and the MS is generally for long distance recordings. &nbsp;Both will work for a basic recording, but the guide included with your Zoom H6 kit explains what each does in further detail:&nbsp;
 
-| **XY Mic**<br><br>This has two crossing directional mics. By rotating the mics, you can switch the width of the recording field between 90&deg; and 120&deg;<br><br>Features: Newly developed large diaphragm mics enable low and high frequencies to be recorded with good stereo placement while sounds in the center are captured clearly. This mic is ideal for recording at close and medium ranges when aimed at specific sound sources to capture a three-dimensional sound with natural depth and width. Use examples: solo performances, chamber music, live rehearsals, field recording.&nbsp;<br><br>**MS Mic**<br><br>&nbsp; |
+| **XY Mic**<br><br>This has two crossing directional mics. By rotating the mics, you can switch the width of the recording field between 90&deg; and 120&deg;<br><br>Features: Newly developed large diaphragm mics enable low and high frequencies to be recorded with good stereo placement while sounds in the center are captured clearly. This mic is ideal for recording at close and medium ranges when aimed at specific sound sources to capture a three-dimensional sound with natural depth and width. Use examples: solo performances, chamber music, live rehearsals, field recording.&nbsp;<br><br>**MS Mic**<br><br>This mic combines a unidirectional mid mic that captures sound from the center with a bidirectional side mic that captures sounds from the left and right. By adjusting the side mic level, you can change the stereo width as you like. If you record in MS-RAW mode, you can adjust the side mic level after recording to change the stereo width.&nbsp;<br><br>Features: This mic can capture a wide and detailed stereo image, making it ideal for recording wide open spaces with multiple sound sources. With the side mic off it can also be used for mono recording. Use examples: orchestras, live concerts, soundscapes. Use examples with side mic off: interviews, narrations, meetings.&nbsp; |
 
 ## Step 3
 
 ![](/uploads/how-to-use-a-zoom-h6-audio-recorder/img-0105.jpg){: width="3024" height="4032"}
 
+You now need to attach the selected mic. To connect it, press down on the sides of the mic and connect it to the main unit at the top. Push it in until it is connected completely.&nbsp;
+
 ## Step 4
 
 ## ![](/uploads/how-to-use-a-zoom-h6-audio-recorder/img-0122-1.jpg){: width="3024" height="4032"}
+
+Before you start recording, Press the **L** and **R&nbsp;**buttons on your mic. This tells your device to record from the input channel at the top where you inserted either the XY or MS mic.&nbsp;
 
 ## Step 5
 
