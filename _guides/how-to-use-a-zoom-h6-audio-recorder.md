@@ -45,7 +45,7 @@ Before you start recording, press the **L** and **R&nbsp;**buttons. This tells y
 
 ![](/uploads/how-to-use-a-zoom-h6-audio-recorder/img-0127.jpg){: width="3024" height="4032"}
 
-You can play back the audio files you record on the zoom H6 device. You may want to do this either to check audio quality or to make sure that a recording started or stopped at the correct time. To do this, press the "Menu" button on the right hand side and use the scroll wheel to navigate the different folders. Pressing in on the scroll wheel will select a recording, to return home press the red circle.&nbsp;
+You can play back the audio files you record on the zoom H6 device. You may want to do this either to check audio quality or to make sure that a recording started or stopped at the correct time. To do this, press the "Menu" button on the right hand side and use the scroll wheel to navigate the different folders. Pressing in on the scroll wheel will select and play a recording, to return home press the red circle.&nbsp;
 
 ## Step 6
 
