@@ -19,11 +19,13 @@ Want to record high quality audio? Zoom H6 audio recording devices are available
 
 ![](/uploads/how-to-use-a-zoom-h6-audio-recorder/img-0100.jpg){: width="3024" height="4032"}
 
-&nbsp;
+To turn on the Zoom H6, hold down the power button on the left hand side. A screen will then appear that says "H6 Handy Recorder."
 
 ### Step 2
 
 ![](/uploads/how-to-use-a-zoom-h6-audio-recorder/img-0102.jpg){: width="3024" height="4032"}
+
+&nbsp;
 
 ## Step 3
 
