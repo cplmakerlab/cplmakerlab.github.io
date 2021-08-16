@@ -13,7 +13,7 @@ time_required: 20 Minutes
 file_attachment_path:
 ---
 
-Want to record high quality audio? Zoom H6 audio recording devices are available for check out at the Harold Washington Library Center (more rental info). This guide will teach you the most easiest way to make a recording: how to turn on your zoom device, attach a module, record, stop recording, and upload your files.&nbsp;
+Want to record high quality audio? Zoom H6 audio recording devices are available for check out at the Harold Washington Library Center. This guide will teach you the easiest way to make a recording: how to turn on your zoom device, attach a module, record, stop recording, and upload your file. There are more complex features and tools on the Zoom H6, but this guide lists only the most essential steps needed in order to make a basic audio recording.&nbsp;
 
 ### Step 1
 
@@ -25,7 +25,9 @@ To turn on the Zoom H6, hold down the power button on the left hand side. A scre
 
 ![](/uploads/how-to-use-a-zoom-h6-audio-recorder/img-0102.jpg){: width="3024" height="4032"}
 
-&nbsp;
+Select which microphone head you would like to use, either the XY Mic or MS Mic. The XY Mic is generally for close and medium range recordings, and the MS is generally for long distance recordings. &nbsp;Both will work for a basic recording, but the guide explains what each does in further detail:&nbsp;
+
+| **XY Mic**<br><br>This has two crossing directional mics. By rotating the mics, you can switch the width of the recording field between 90&deg; and 120&deg;<br><br>&nbsp;<br><br>Features: Newly developed large&nbsp; |
 
 ## Step 3
 
