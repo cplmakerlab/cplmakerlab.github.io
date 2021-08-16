@@ -19,7 +19,7 @@ Want to record high quality audio? Zoom H6 audio recording devices are available
 
 ![](/uploads/how-to-use-a-zoom-h6-audio-recorder/img-0100.jpg){: width="3024" height="4032"}
 
-To turn on the Zoom H6, hold down the power button on the left hand side. A screen will then appear that says "H6 Handy Recorder."
+To turn on the Zoom H6, hold down the power button on the left hand side. A screen will then appear that says "H6 Handy Recorder." Your device should also already have an SD card inserted, which is located in the slot on the left hand side labeled (SD XC).
 
 ### Step 2
 
@@ -39,37 +39,23 @@ You now need to attach the selected mic. To connect it, press down on the sides 
 
 ## ![](/uploads/how-to-use-a-zoom-h6-audio-recorder/img-0122-1.jpg){: width="3024" height="4032"}
 
-Before you start recording, Press the **L** and **R&nbsp;**buttons on your mic. This tells your device to record from the input channel at the top where you inserted either the XY or MS mic.&nbsp;
+Before you start recording, press the **L** and **R&nbsp;**buttons. This tells your device to record from the input channel at the top (which is where you inserted either the XY or MS mic). Then, press the red circle at the center of your device to begin recording. When you are done, press the red circle again to finish recording.&nbsp;
 
 ## Step 5
 
 ![](/uploads/how-to-use-a-zoom-h6-audio-recorder/img-0127.jpg){: width="3024" height="4032"}
 
+You can play back the audio files you record on the zoom H6 device. You may want to do this either to check audio quality or to make sure that a recording started or stopped at the correct time. To do this, press the "Menu" button on the right hand side and use the scroll wheel to navigate the different folders.&nbsp;
+
 ## Step 6
 
 ![](/uploads/how-to-use-a-zoom-h6-audio-recorder/img-0129.jpg){: width="3024" height="4032"}
 
-## Step 7
+When done, remove the SD card from the slot on the left hand side labeled SD XC. You can then upload the files on the SD card for storage and editing.&nbsp;
 
 &nbsp;
 
-## Step 8
-
-&nbsp;
-
-## Step 8
-
-&nbsp;
-
-## Step 9&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-### Congratulations\!
+## Congratulations\!
 
 Further reading:
 
