@@ -5,11 +5,16 @@ categories:
 tags:
   - Audio
   - Audio Recording
-example_image: /uploads/how-to-use-a-zoom-h6-audio-recorder/img-0105.jpg
+  - Sound
+  - Zoom
+  - Zoom H6
+  - Recording
+example_image:
 difficulty:
 time_required:
 file_attachment_path:
 ---
+
 Want to record high quality audio? Zoom H6 audio recording devices are available for check out at the Harold Washington Library Center. This guide will teach you the easiest way to make a recording: how to turn on your zoom device, attach a module, record, stop recording, and upload your file. There are more complex features and tools on the Zoom H6, but this guide lists only the most essential steps needed in order to make a basic audio recording.&nbsp;
 
 ### Step 1
@@ -22,7 +27,7 @@ To turn on the Zoom H6, hold down the power button on the left hand side. A scre
 
 ## Step 2
 
-&nbsp;
+![](/uploads/how-to-use-a-zoom-h6-audio-recorder/img-0102.jpg){: width="3024" height="4032"}
 
 Select which microphone head you would like to use, either the XY Mic or MS Mic. The XY Mic is generally for close and medium range recordings and the MS is generally for long distance recordings. &nbsp;Both will work for a basic recording, but the guide included with your Zoom H6 kit explains what each does in further detail:&nbsp;
 
@@ -30,7 +35,7 @@ Select which microphone head you would like to use, either the XY Mic or MS Mic.
 
 ## Step 3
 
-&nbsp;
+![](/uploads/how-to-use-a-zoom-h6-audio-recorder/img-0105.jpg){: width="3024" height="4032"}
 
 You now need to attach the selected mic. To connect it, press down on the sides of the mic and connect it to the main unit at the top. Push it in until it is connected completely.&nbsp;
 
@@ -48,7 +53,7 @@ You can play back the audio files you record on the zoom H6 device. You may want
 
 ## Step 6
 
-&nbsp;
+![](/uploads/how-to-use-a-zoom-h6-audio-recorder/img-0129.jpg){: width="3024" height="4032"}
 
 When done, remove the SD card from the slot on the left hand side labeled SD XC. You can then upload the files by inserting them into a computer and uploading your files to a folder or the desktop.
 
