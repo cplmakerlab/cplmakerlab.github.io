@@ -27,7 +27,7 @@ To turn on the Zoom H6, hold down the power button on the left hand side. A scre
 
 Select which microphone head you would like to use, either the XY Mic or MS Mic. The XY Mic is generally for close and medium range recordings, and the MS is generally for long distance recordings. &nbsp;Both will work for a basic recording, but the guide explains what each does in further detail:&nbsp;
 
-| **XY Mic**<br><br>This has two crossing directional mics. By rotating the mics, you can switch the width of the recording field between 90&deg; and 120&deg;<br><br>&nbsp;<br><br>Features: Newly developed large&nbsp; |
+| **XY Mic**<br><br>This has two crossing directional mics. By rotating the mics, you can switch the width of the recording field between 90&deg; and 120&deg;<br><br>Features: Newly developed large diaphragm mics enable low and high frequencies to be recorded with good stereo placement while sounds in the center are captured clearly. This mic is ideal for recording at close and medium ranges when aimed at specific sound sources to capture a three-dimensional sound with natural depth and width. Use examples: solo performances, chamber music, live rehearsals, field recording.&nbsp;<br><br>**MS Mic**<br><br>&nbsp; |
 
 ## Step 3
 
