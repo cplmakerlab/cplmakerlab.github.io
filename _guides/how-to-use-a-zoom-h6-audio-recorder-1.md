@@ -21,8 +21,6 @@ Want to record high quality audio? Zoom H6 audio recording devices are available
 
 ![](/uploads/how-to-use-a-zoom-h6-audio-recorder/img-0100.jpg){: width="3024" height="4032"}
 
-&nbsp;
-
 To turn on the Zoom H6, hold down the power button on the left hand side. A screen will then appear that says "H6 Handy Recorder." Your device should also already have an SD card inserted, which is located in the slot on the left hand side labeled "SD XC."
 
 ## Step 2
@@ -42,8 +40,6 @@ You now need to attach the selected mic. To connect it, press down on the sides 
 ## Step 4
 
 ![](/uploads/how-to-use-a-zoom-h6-audio-recorder/img-0122-1.jpg){: width="3024" height="4032"}
-
-## &nbsp;
 
 Before you start recording, press the **L** and **R&nbsp;**buttons. This tells your device to record from the input channel at the top (which is where you inserted either the XY or MS mic). Then, press the red circle at the center of your device to begin recording. When you are done, press the red circle again to finish recording.&nbsp;
 
