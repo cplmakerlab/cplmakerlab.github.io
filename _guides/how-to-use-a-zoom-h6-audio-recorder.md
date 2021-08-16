@@ -7,7 +7,7 @@ tags:
   - Sound
   - Zoom
   - Zoom H6
-example_image:
+example_image: /uploads/how-to-use-a-zoom-h6-audio-recorder/img-0105.jpg
 difficulty: Medium
 time_required: 20 Minutes
 file_attachment_path:
