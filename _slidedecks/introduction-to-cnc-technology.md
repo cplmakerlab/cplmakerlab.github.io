@@ -84,8 +84,8 @@ slides:
     background_color: '#a9e8e6'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: 'Machines for Hobbyists '
+    content_markdown: Machines for Hobbyists&nbsp;
     background_color: '#a9e8e6'
     background_image:
     background_size: cover
@@ -94,8 +94,26 @@ slides:
     background_color: '#a9e8e6'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Carbide 3D Shapeoko
+    content_markdown: '## Carbide 3D Shapeoko'
+    background_color: '#a9e8e6'
+    background_image:
+    background_size: cover
+  - title: Inventables X-Carve 1000mm
+    content_markdown: '## Inventables X-Carve 1000mm'
+    background_color: '#a9e8e6'
+    background_image:
+    background_size: cover
+  - title: Inventables Carvey
+    content_markdown: Inventables Carvey
+    background_color: '#a9e8e6'
+    background_image:
+    background_size: cover
+  - title: Design Software
+    content_markdown: |-
+      ### Design Software
+
+      &nbsp;
     background_color: '#a9e8e6'
     background_image:
     background_size: cover
