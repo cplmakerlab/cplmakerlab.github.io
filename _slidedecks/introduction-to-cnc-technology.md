@@ -15,7 +15,7 @@ slides:
     background_image: >-
       /uploads/introduction-to-cnc-technology/daniel-smyth-mljzy6wkupu-unsplash.jpg
     background_size: cover
-  - title:
+  - title: CNC Technology
     content_markdown: >-
       ### CNC Technology
 
@@ -37,10 +37,14 @@ slides:
     background_color: '#a9e8e6'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: What is CNC Machining and How Does it Work?
+    content_markdown: >-
+      ## What is CNC Machining and How Does it Work?
+
+
+      ([https://www.youtube.com/watch?v=FNYEXjRmDtI](https://www.youtube.com/watch?v=FNYEXjRmDtI))
     background_color: '#a9e8e6'
-    background_image:
+    background_image: /uploads/introduction-to-cnc-technology/capture.PNG
     background_size: cover
   - title:
     content_markdown:
