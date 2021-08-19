@@ -46,7 +46,7 @@ slides:
     background_color: '#a9e8e6'
     background_image: /uploads/introduction-to-cnc-technology/capture.PNG
     background_size: cover
-  - title: CNC Jobs
+  - title: "CNC Technology for Jobs & Employment\_"
     content_markdown: |-
       ## CNC Technology for Jobs & Employment&nbsp;
 
@@ -54,33 +54,33 @@ slides:
     background_color: '#a9e8e6'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Manufacturing Worker Deficit
+    content_markdown: '## Manufacturing Worker Deficit'
     background_color: '#a9e8e6'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Types of CNC Jobs
+    content_markdown: Types of CNC Jobs
     background_color: '#a9e8e6'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Organizations for CNC Training
+    content_markdown: Organizations for CNC Training
     background_color: '#a9e8e6'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Jane Addams Resource Corporation (JARC)
+    content_markdown: Jane Addams Resource Corporation (JARC)
     background_color: '#a9e8e6'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Daley College & CCC
+    content_markdown: Daley College & CCC
     background_color: '#a9e8e6'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: CNC Technology for Art and Design
+    content_markdown: '## CNC Technology for Art and Design'
     background_color: '#a9e8e6'
     background_image:
     background_size: cover
