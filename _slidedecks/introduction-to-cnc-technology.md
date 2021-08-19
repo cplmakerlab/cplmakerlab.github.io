@@ -8,7 +8,7 @@ slides:
     background_size: cover
   - title: What is a CNC Machine?
     content_markdown: |-
-      ## What is a CNC Machine?
+      ## What is CNC Technology?
 
       (Source: https://unsplash.com/photos/mljzy6wKUpU)
     background_color: '#a9e8e6'
@@ -20,8 +20,13 @@ slides:
       ### CNC Technology
 
 
+      &nbsp;
+
+
       * CNC stands for "computer numerical coding."
 
+      * Design software translates designs into G-code which then read by the
+      CNC machine.
 
       * The Earliest CNC machines appeared in 1940
 
