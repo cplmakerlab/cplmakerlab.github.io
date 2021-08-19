@@ -12,14 +12,16 @@ slides:
 
       (Source: https://unsplash.com/photos/mljzy6wKUpU)
     background_color: '#a9e8e6'
-    background_image:
+    background_image: >-
+      /uploads/introduction-to-cnc-technology/daniel-smyth-mljzy6wkupu-unsplash.jpg
     background_size: cover
   - title:
     content_markdown: >-
-      CNC Technology
+      ### CNC Technology
 
 
       * CNC stands for "computer numerical coding."
+
 
       * The Earliest CNC machines appeared in 1940
 
