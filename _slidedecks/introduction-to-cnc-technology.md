@@ -46,8 +46,11 @@ slides:
     background_color: '#a9e8e6'
     background_image: /uploads/introduction-to-cnc-technology/capture.PNG
     background_size: cover
-  - title:
-    content_markdown:
+  - title: CNC Jobs
+    content_markdown: |-
+      ## CNC Technology for Jobs & Employment&nbsp;
+
+      &nbsp;
     background_color: '#a9e8e6'
     background_image:
     background_size: cover
