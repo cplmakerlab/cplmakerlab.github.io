@@ -84,7 +84,7 @@ slides:
     background_image:
     background_size: cover
   - title: Organizations for CNC Training
-    content_markdown: Organizations for CNC Training
+    content_markdown: '## Organizations for CNC Training'
     background_color: '#a9e8e6'
     background_image:
     background_size: cover
