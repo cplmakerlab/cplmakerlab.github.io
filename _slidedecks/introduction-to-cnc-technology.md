@@ -55,7 +55,21 @@ slides:
     background_image:
     background_size: cover
   - title: Manufacturing Worker Deficit
-    content_markdown: '## Manufacturing Worker Deficit'
+    content_markdown: >-
+      ## Manufacturing Worker Deficit
+
+
+      (source:&nbsp;[American factories are desperate for workers. It's a $1
+      trillion problem -
+      CNN](https://www.cnn.com/2021/05/04/economy/manufacturing-jobs-economy/index.html))
+
+
+      * American manufacturing activity at a 37 year high as of March 2021.
+
+      * As many as 2.1 manufacturing jobs projected to be unfilled through 2030.
+
+      * Part of the shortage is due to concerns about globalization and
+      automation.
     background_color: '#a9e8e6'
     background_image:
     background_size: cover
