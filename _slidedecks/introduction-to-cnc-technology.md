@@ -56,7 +56,7 @@ slides:
     background_size: cover
   - title: Manufacturing Worker Deficit
     content_markdown: >-
-      ## Manufacturing Worker Deficit
+      ### Manufacturing Worker Deficit
 
 
       (source:&nbsp;[American factories are desperate for workers. It's a $1
@@ -74,7 +74,12 @@ slides:
     background_image:
     background_size: cover
   - title: Types of CNC Jobs
-    content_markdown: Types of CNC Jobs
+    content_markdown: |-
+      ### Types of CNC Jobs
+
+      * CAD Designer: Models designs that are translated into G-Code.
+      * CNC Mechanist: Program the machinery &nbsp;and assess mechanical issues.
+      * CNC Operator: Stocks material and runs the machine.&nbsp;
     background_color: '#a9e8e6'
     background_image:
     background_size: cover
