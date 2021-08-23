@@ -89,10 +89,10 @@ slides:
     background_image:
     background_size: cover
   - title: Jane Addams Resource Corporation (JARC)
-    content_markdown: Jane Addams Resource Corporation (JARC)
+    content_markdown: '## Jane Addams Resource Corporation (JARC)'
     background_color: '#a9e8e6'
-    background_image:
-    background_size: cover
+    background_image: /uploads/introduction-to-cnc-technology/jarc.PNG
+    background_size: contain
   - title: Daley College & CCC
     content_markdown: Daley College & CCC
     background_color: '#a9e8e6'
