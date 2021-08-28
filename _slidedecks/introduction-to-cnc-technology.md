@@ -149,6 +149,11 @@ slides:
     background_color: '#a9e8e6'
     background_image:
     background_size: cover
+  - title: Daley College Manufacturing Technology & Engineering Center
+    content_markdown: '### Daley College Manufacturing Technology & Engineering Center'
+    background_color: '#a9e8e6'
+    background_image:
+    background_size: cover
   - title: CNC Technology for Art and Design
     content_markdown: '## CNC Technology for Art and Design'
     background_color: '#a9e8e6'
