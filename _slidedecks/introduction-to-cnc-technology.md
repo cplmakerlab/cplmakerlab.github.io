@@ -128,7 +128,7 @@ slides:
     background_size: cover
   - title: Daley College & CCC
     content_markdown: |-
-      Daley College & CCC
+      ## Daley College & CCC
 
       &nbsp;
     background_color: '#a9e8e6'
