@@ -136,7 +136,7 @@ slides:
     background_size: cover
   - title: CCC Programs
     content_markdown: |-
-      CCC Programs
+      ### CCC Programs
 
       &nbsp;
 
