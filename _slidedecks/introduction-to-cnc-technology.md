@@ -127,12 +127,10 @@ slides:
     background_image:
     background_size: cover
   - title: Daley College & CCC
-    content_markdown: >-
+    content_markdown: |-
       Daley College & CCC
 
-
-      (Image source:
-      https://www.cannondesign.com/our-work/work/city-colleges-of-chicago-daley-college-manufacturing-technology-and-engineering-center-mtec/)
+      &nbsp;
     background_color: '#a9e8e6'
     background_image: /uploads/introduction-to-cnc-technology/005349-00-n271-medium.jpg
     background_size: cover
