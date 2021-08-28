@@ -94,8 +94,21 @@ slides:
     background_image: /uploads/introduction-to-cnc-technology/jarc.PNG
     background_size: contain
   - title: Jane Addams Resource Corporation (JARC)
-    content_markdown: |-
+    content_markdown: >-
       ### Jane Addams Resource Corporation (JARC)
+
+
+      * 5 free programs available: Mechanical Assembly, CNC Operators Fast
+      Track, Manufacturing Bridge Program, Welding Fast Track, Brake Press Fast
+      Track
+
+      * 1 paid program available for 3-D printing + forklift certification
+      ($250)
+
+      * Free adult education in reading, language, math and computers.&nbsp;
+
+      * Different programs available per location:
+
 
       &nbsp;
     background_color: '#a9e8e6'
