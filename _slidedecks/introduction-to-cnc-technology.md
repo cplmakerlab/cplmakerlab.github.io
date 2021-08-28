@@ -127,12 +127,44 @@ slides:
     background_image:
     background_size: cover
   - title: Daley College & CCC
-    content_markdown: '## Daley College & CCC'
+    content_markdown: |-
+      ## Daley College & CCC
+
+      &nbsp;
     background_color: '#a9e8e6'
     background_image: /uploads/introduction-to-cnc-technology/005349-00-n271-medium.jpg
     background_size: cover
-  - title:
-    content_markdown:
+  - title: CCC Programs
+    content_markdown: |-
+      CCC Programs
+
+      &nbsp;
+
+      Communications Technology
+
+      * Basic Certificate (BC)
+
+      Computer Numeric Control Machining
+
+      * Advanced Certificate (AC)
+      * Basic Certificate (BC)
+
+      Electrical Construction Technology
+
+      * Associate in Applied Science (AAS)
+      * Basic Certificate (BC)
+
+      Factory Automation
+
+      * Basic Certificate (BC)
+
+      Quality Assurance
+
+      * Basic Certificate (BC)
+
+      Welding
+
+      * Basic Certificate (BC)
     background_color: '#a9e8e6'
     background_image:
     background_size: cover
