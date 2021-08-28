@@ -140,31 +140,12 @@ slides:
 
       &nbsp;
 
-      Communications Technology
-
-      * Basic Certificate (BC)
-
-      Computer Numeric Control Machining
-
-      * Advanced Certificate (AC)
-      * Basic Certificate (BC)
-
-      Electrical Construction Technology
-
-      * Associate in Applied Science (AAS)
-      * Basic Certificate (BC)
-
-      Factory Automation
-
-      * Basic Certificate (BC)
-
-      Quality Assurance
-
-      * Basic Certificate (BC)
-
-      Welding
-
-      * Basic Certificate (BC)
+      * Communications Technology
+      * Computer Numeric Control Machining
+      * Electrical Construction Technology
+      * Factory Automation
+      * Quality Assurance
+      * Welding
     background_color: '#a9e8e6'
     background_image:
     background_size: cover
