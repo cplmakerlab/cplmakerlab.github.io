@@ -147,7 +147,10 @@ slides:
     background_image:
     background_size: cover
   - title: Daley College Manufacturing Technology & Engineering Center
-    content_markdown: '### Daley College Manufacturing Technology & Engineering Center'
+    content_markdown: |-
+      ### Daley College Manufacturing Technology & Engineering Center
+
+      * 7500 S Pulaski Rd, Chicago, IL 60652
     background_color: '#a9e8e6'
     background_image:
     background_size: cover
