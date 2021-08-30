@@ -127,10 +127,7 @@ slides:
     background_image:
     background_size: cover
   - title: Daley College & CCC
-    content_markdown: |-
-      ## Daley College & CCC
-
-      &nbsp;
+    content_markdown: '## Daley College & CCC'
     background_color: '#a9e8e6'
     background_image: /uploads/introduction-to-cnc-technology/005349-00-n271-medium.jpg
     background_size: cover
