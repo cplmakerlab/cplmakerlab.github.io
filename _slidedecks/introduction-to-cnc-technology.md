@@ -160,7 +160,7 @@ slides:
     background_image:
     background_size: cover
   - title: 'Machines for Hobbyists '
-    content_markdown: Machines for Hobbyists&nbsp;
+    content_markdown: '## Machines for Hobbyists&nbsp;'
     background_color: '#a9e8e6'
     background_image:
     background_size: cover
@@ -170,8 +170,13 @@ slides:
     background_image:
     background_size: cover
   - title: Carbide 3D Shapeoko
+    content_markdown: '## Carbide 3D Shapeoko'
+    background_color: '#a9e8e6'
+    background_image:
+    background_size: cover
+  - title: Inventables X-Carve 1000mm
     content_markdown: >-
-      ## Carbide 3D Shapeoko
+      ## Inventables X-Carve 1000mm
 
 
       * Uses both 1/4" and 1/8" shank diameter bits&nbsp;
@@ -183,11 +188,6 @@ slides:
     background_color: '#a9e8e6'
     background_image: /uploads/introduction-to-cnc-technology/1000mm-x-carve.png
     background_size: contain
-  - title: Inventables X-Carve 1000mm
-    content_markdown: '## Inventables X-Carve 1000mm'
-    background_color: '#a9e8e6'
-    background_image:
-    background_size: cover
   - title: Inventables Carvey
     content_markdown: Inventables Carvey
     background_color: '#a9e8e6'
