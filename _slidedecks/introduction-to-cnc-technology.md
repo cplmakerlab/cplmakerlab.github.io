@@ -172,8 +172,8 @@ slides:
   - title: Carbide 3D Shapeoko
     content_markdown: '## Carbide 3D Shapeoko'
     background_color: '#a9e8e6'
-    background_image:
-    background_size: cover
+    background_image: /uploads/introduction-to-cnc-technology/1000mm-x-carve.png
+    background_size: contain
   - title: Inventables X-Carve 1000mm
     content_markdown: '## Inventables X-Carve 1000mm'
     background_color: '#a9e8e6'
