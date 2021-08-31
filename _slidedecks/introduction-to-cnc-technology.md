@@ -203,7 +203,7 @@ slides:
       * #### **No longer available for purchase**
     background_color: '#a9e8e6'
     background_image: /uploads/introduction-to-cnc-technology/carvey-main.jpg
-    background_size: contain
+    background_size: cover
   - title: Design Software
     content_markdown: |-
       ### Design Software
