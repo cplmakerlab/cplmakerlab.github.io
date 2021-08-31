@@ -44,10 +44,12 @@ slides:
     background_image:
     background_size: cover
   - title: Close the Preview
-    content_markdown: |-
+    content_markdown: >-
       This preview window will pop open – you can simply close it.
 
-      &nbsp;
+
+      ![](/uploads/using-the-laser-cutter/closewindow.png){: width="810"
+      height="805"}
     background_color:
     background_image:
     background_size: cover
@@ -98,14 +100,13 @@ slides:
       line passes to 0.
 
 
-      &nbsp;
+      ![](/uploads/using-the-laser-cutter/settingsvector.png){: width="288"
+      height="470"}
     background_color:
     background_image:
     background_size: contain
   - title:
-    content_markdown: >-
-      ![](/uploads/using-the-laser-cutter/settingsvector.png){: width="288"
-      height="470"}
+    content_markdown:
     background_color:
     background_image:
     background_size: cover
