@@ -189,10 +189,15 @@ slides:
     background_image: /uploads/introduction-to-cnc-technology/1000mm-x-carve.png
     background_size: contain
   - title: Inventables Carvey
-    content_markdown: Inventables Carvey
+    content_markdown: >-
+      ## Inventables Carvey
+
+
+      * **Work Area: Width (X-axis): 12 inches (30 cm)**, Depth (Y-axis): 8
+      inche
     background_color: '#a9e8e6'
-    background_image:
-    background_size: cover
+    background_image: /uploads/introduction-to-cnc-technology/carvey-main.jpg
+    background_size: contain
   - title: Design Software
     content_markdown: |-
       ### Design Software
