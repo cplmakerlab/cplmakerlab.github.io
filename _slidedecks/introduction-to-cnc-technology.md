@@ -187,7 +187,7 @@ slides:
       * Cost: $2,299
     background_color: '#a9e8e6'
     background_image: /uploads/introduction-to-cnc-technology/1000mm-x-carve.png
-    background_size: contain
+    background_size: cover
   - title: Inventables Carvey
     content_markdown: >-
       ## Inventables Carvey
