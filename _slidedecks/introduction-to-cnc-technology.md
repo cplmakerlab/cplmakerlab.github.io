@@ -178,6 +178,8 @@ slides:
 
       * Work
       area:&nbsp;**X-axis:**&nbsp;750mm**Y-axis:**&nbsp;750mm&nbsp;**Z-axis:**&nbsp;65mm
+
+      * Cost: $2,299
     background_color: '#a9e8e6'
     background_image: /uploads/introduction-to-cnc-technology/1000mm-x-carve.png
     background_size: contain
