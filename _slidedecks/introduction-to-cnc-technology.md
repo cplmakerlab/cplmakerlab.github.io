@@ -193,14 +193,14 @@ slides:
       ## Inventables Carvey
 
 
-      * **Wood, Plastic**
+      * ### **Wood, Plastic**
 
-      * **Assortment of bits from 1/32” to 1/8”**
+      * ### **Assortment of bits from 1/32” to 1/8”**
 
-      * **Work Area: X-axis: 12 inches , Y-axis: 8 inches , Height: 2.75
+      * ### **Work Area: X-axis: 12 inches , Y-axis: 8 inches , Height: 2.75
       inches**
 
-      * **No longer available for purchase**
+      * ### **No longer available for purchase**
     background_color: '#a9e8e6'
     background_image: /uploads/introduction-to-cnc-technology/carvey-main.jpg
     background_size: contain
