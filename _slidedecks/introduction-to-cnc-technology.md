@@ -170,7 +170,14 @@ slides:
     background_image:
     background_size: cover
   - title: Carbide 3D Shapeoko
-    content_markdown: '## Carbide 3D Shapeoko'
+    content_markdown: >-
+      ## Carbide 3D Shapeoko
+
+
+      * Uses both 1/4" and 1/8" shank diameter bits&nbsp;
+
+      * Work
+      area:&nbsp;**X-axis:**&nbsp;750mm**Y-axis:**&nbsp;750mm&nbsp;**Z-axis:**&nbsp;65mm
     background_color: '#a9e8e6'
     background_image: /uploads/introduction-to-cnc-technology/1000mm-x-carve.png
     background_size: contain
