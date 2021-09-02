@@ -222,11 +222,11 @@ slides:
     background_color: '#a9e8e6'
     background_image:
     background_size: cover
-  - title:
+  - title: Blender
     content_markdown:
     background_color: '#a9e8e6'
-    background_image:
-    background_size: cover
+    background_image: /uploads/introduction-to-cnc-technology/blender-logo.png
+    background_size: contain
   - title:
     content_markdown:
     background_color: '#a9e8e6'
