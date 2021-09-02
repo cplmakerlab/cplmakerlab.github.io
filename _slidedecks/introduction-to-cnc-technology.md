@@ -114,15 +114,15 @@ slides:
     background_size: cover
   - title: Jane Addams Resource Corporation (JARC)
     content_markdown: |-
-      ### Programs Locations:&nbsp;
+      ### Programs Locations
 
       &nbsp;
 
-      4432 N. RAVENSWOOD AVE., CHICAGO, IL 60640<br>&nbsp;
+      4432 N. RAVENSWOOD AVE., CHICAGO, IL 60640
 
       640 E. 79TH ST., CHICAGO, IL 60619
 
-      <br>976 N KILBOURN AVE, CHICAGO, IL 60651
+      976 N KILBOURN AVE, CHICAGO, IL 60651
     background_color: '#a9e8e6'
     background_image:
     background_size: cover
