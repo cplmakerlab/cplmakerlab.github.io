@@ -164,11 +164,6 @@ slides:
     background_color: '#a9e8e6'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
-    background_color: '#a9e8e6'
-    background_image:
-    background_size: cover
   - title: Carbide 3D Shapeoko
     content_markdown: >-
       ## Carbide Shapeoko 4 Standard
@@ -216,11 +211,12 @@ slides:
     background_color: '#a9e8e6'
     background_image:
     background_size: cover
-  - title:
+  - title: Fusion 360
     content_markdown:
     background_color: '#a9e8e6'
-    background_image:
-    background_size: cover
+    background_image: >-
+      /uploads/introduction-to-cnc-technology/autodesk-fusion360-2017-lockup-1280x720.jpg
+    background_size: contain
   - title:
     content_markdown:
     background_color: '#a9e8e6'
