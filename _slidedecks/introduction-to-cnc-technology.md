@@ -114,7 +114,7 @@ slides:
     background_size: cover
   - title: Jane Addams Resource Corporation (JARC)
     content_markdown: |-
-      ### Programs Locations
+      ### Program Locations
 
       &nbsp;
 
