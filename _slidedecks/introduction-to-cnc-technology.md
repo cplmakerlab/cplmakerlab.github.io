@@ -217,15 +217,15 @@ slides:
     background_image: >-
       /uploads/introduction-to-cnc-technology/autodesk-fusion360-2017-lockup-1280x720.jpg
     background_size: contain
-  - title:
-    content_markdown:
-    background_color: '#a9e8e6'
-    background_image:
-    background_size: cover
   - title: Blender
     content_markdown:
     background_color: '#a9e8e6'
     background_image: /uploads/introduction-to-cnc-technology/blender-logo.png
+    background_size: contain
+  - title: Easel
+    content_markdown:
+    background_color: '#a9e8e6'
+    background_image: /uploads/introduction-to-cnc-technology/easelbyinventables.jpg
     background_size: contain
   - title:
     content_markdown:
