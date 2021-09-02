@@ -170,10 +170,19 @@ slides:
     background_image:
     background_size: cover
   - title: Carbide 3D Shapeoko
-    content_markdown: '## Carbide 3D Shapeoko'
+    content_markdown: >-
+      ## Carbide Shapeoko 4 Standard
+
+
+      * Dust boot included&nbsp;
+
+      * Work
+      area:&nbsp;**X-axis:**&nbsp;17.5"&nbsp;**Y-axis:**&nbsp;17.5"&nbsp;**Z-axis:**&nbsp;4"
+
+      * Cost: $1,700
     background_color: '#a9e8e6'
-    background_image:
-    background_size: cover
+    background_image: /uploads/introduction-to-cnc-technology/s4a100-above-992x992.jpg
+    background_size: contain
   - title: Inventables X-Carve 1000mm
     content_markdown: >-
       ## Inventables X-Carve 1000mm
@@ -182,25 +191,20 @@ slides:
       * Uses both 1/4" and 1/8" shank diameter bits&nbsp;
 
       * Work
-      area:&nbsp;**X-axis:**&nbsp;750mm**Y-axis:**&nbsp;750mm&nbsp;**Z-axis:**&nbsp;65mm
+      area:&nbsp;**X-axis:**&nbsp;29.5"&nbsp;**Y-axis:**&nbsp;29.5"&nbsp;**Z-axis:**&nbsp;2.5"
 
       * Cost: $2,299
     background_color: '#a9e8e6'
     background_image: /uploads/introduction-to-cnc-technology/1000mm-x-carve.png
     background_size: cover
   - title: Inventables Carvey
-    content_markdown: >-
+    content_markdown: |-
       ## Inventables Carvey
 
-
-      * #### **Wood, Plastic**
-
-      * #### **Assortment of bits from 1/32” to 1/8”**
-
-      * #### **Work Area: X-axis: 12 inches , Y-axis: 8 inches , Height: 2.75
-      inches**
-
-      * #### **No longer available for purchase**
+      * Wood, Plastic
+      * Assortment of bits from 1/32” to 1/8”
+      * Work Area: X-axis: 12 inches , Y-axis: 8 inches , Height: 2.75 inches
+      * No longer available for purchase
     background_color: '#a9e8e6'
     background_image: /uploads/introduction-to-cnc-technology/carvey-main.jpg
     background_size: cover
