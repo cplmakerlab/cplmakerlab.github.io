@@ -201,8 +201,8 @@ slides:
       #### &nbsp;
 
 
-      #### What makes CNC better for making that object than 3D printing or
-      laser cutting?
+      #### What makes CNC a better&nbsp; choice for making that object than 3D
+      printing or laser cutting?
     background_color: '#a9e8e6'
     background_image:
     background_size: cover
