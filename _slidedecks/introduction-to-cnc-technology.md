@@ -77,11 +77,15 @@ slides:
     background_image:
     background_size: cover
   - title: Types of CNC Jobs
-    content_markdown: |-
+    content_markdown: >-
       ### Types of CNC Jobs
 
+
       * CAD Designer: Models designs that are translated into G-Code.
-      * CNC Mechanist: Program the machinery &nbsp;and assess mechanical issues.
+
+      * CNC Mechanist: Programs the machinery &nbsp;and assess mechanical
+      issues.
+
       * CNC Operator: Stocks material and runs the machine.&nbsp;
     background_color: '#a9e8e6'
     background_image:
@@ -94,7 +98,7 @@ slides:
   - title: Jane Addams Resource Corporation (JARC)
     content_markdown: '## Jane Addams Resource Corporation (JARC)'
     background_color: '#a9e8e6'
-    background_image: /uploads/introduction-to-cnc-technology/jarc.PNG
+    background_image: /uploads/introduction-to-cnc-technology/capture-1.PNG
     background_size: contain
   - title: Jane Addams Resource Corporation (JARC)
     content_markdown: >-
