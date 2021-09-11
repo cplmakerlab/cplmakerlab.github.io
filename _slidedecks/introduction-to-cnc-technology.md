@@ -168,8 +168,8 @@ slides:
       * 7500 S Pulaski Rd, Chicago, IL 60652
 
       * Basic certificates (16 credit hours) and advanced certificates (37
-      credit hours) are
-      available.![](/uploads/introduction-to-cnc-technology/daleymtec03.jpg){:
+      credit hours)&nbsp;
+      available![](/uploads/introduction-to-cnc-technology/daleymtec03.jpg){:
       width="1600" height="1068"}
     background_color: '#a9e8e6'
     background_image:
@@ -195,6 +195,10 @@ slides:
       area:&nbsp;**X-axis:**&nbsp;17.5"&nbsp;**Y-axis:**&nbsp;17.5"&nbsp;**Z-axis:**&nbsp;4"
 
       * Cost: $1,700
+
+
+      ![](/uploads/introduction-to-cnc-technology/s4a100-above-992x992.jpg){:
+      width="992" height="992"}
     background_color: '#a9e8e6'
     background_image: /uploads/introduction-to-cnc-technology/s4a100-above-992x992.jpg
     background_size: contain
