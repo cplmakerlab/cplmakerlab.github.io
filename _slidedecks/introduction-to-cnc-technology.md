@@ -199,7 +199,15 @@ slides:
     background_image:
     background_size: cover
   - title: 'Machines for Hobbyists '
-    content_markdown: '## Machines for Hobbyists&nbsp;'
+    content_markdown: >-
+      #### CAN YOU THINK OF DESIGNS YOU WANT TO MAKE WITH THE CNC MACHINE?
+
+
+      #### &nbsp;
+
+
+      #### WHAT MAKES CNC BETTER FOR MAKING THAT OBJECT THAN 3D PRINTING OR
+      LASER CUTTING?
     background_color: '#a9e8e6'
     background_image:
     background_size: cover
