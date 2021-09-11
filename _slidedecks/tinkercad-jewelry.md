@@ -104,16 +104,11 @@ slides:
     background_image:
   - title: Necklaces
     content_markdown: |-
-      ## Necklaces
+      ## Necklaces: Vertical vs Horizontal&nbsp;
 
       ![](/uploads/tinkercad-jewelry/capture8.PNG){: width="849" height="415"}
     background_color: '#c9ffc7'
     background_image:
-  - title: Outsourcing
-    content_markdown: >-
-      **Have you designed something during that you want to have 3D printed or
-      laser cut? Consider outsourcing designs. You can take our Outsourcing your
-      Designs class or submit a job using our Ask a Maker form.&nbsp;**
-    background_color: '#c9ffc7'
-    background_image:
 ---
+
+
