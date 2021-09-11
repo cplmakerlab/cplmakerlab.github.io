@@ -262,7 +262,7 @@ slides:
     background_image: /uploads/introduction-to-cnc-technology/easelbyinventables.jpg
     background_size: contain
   - title: Easel
-    content_markdown:
+    content_markdown: '## Easel Walkthrough'
     background_color: '#a9e8e6'
     background_image: /uploads/introduction-to-cnc-technology/capture-2.PNG
     background_size: cover
