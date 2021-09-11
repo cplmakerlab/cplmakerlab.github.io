@@ -195,8 +195,14 @@ slides:
       Can you think of designs you want to make with the CNC machine? What makes
       CNC better for making that object than 3D printing or laser cutting?
     content_markdown: >-
-      ## Can you think of designs you want to make with the CNC machine? What
-      makes CNC better for making that object than 3D printing or laser cutting?
+      #### Can you think of designs you want to make with the CNC machine?
+
+
+      #### &nbsp;
+
+
+      #### What makes CNC better for making that object than 3D printing or
+      laser cutting?
     background_color: '#a9e8e6'
     background_image:
     background_size: cover
