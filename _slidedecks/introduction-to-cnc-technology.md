@@ -39,16 +39,6 @@ slides:
     background_size: cover
   - title: What is CNC Machining and How Does it Work?
     content_markdown: >-
-      ## Can you think of any items you use that may have been made with CNC
-      technology?
-
-
-      &nbsp;
-    background_color: '#a9e8e6'
-    background_image:
-    background_size: cover
-  - title: What is CNC Machining and How Does it Work?
-    content_markdown: >-
       ## What is CNC Machining and How Does it Work?
 
 
@@ -58,6 +48,28 @@ slides:
       &nbsp;
     background_color: '#a9e8e6'
     background_image: /uploads/introduction-to-cnc-technology/capture.PNG
+    background_size: cover
+  - title: >-
+      Can you think of any items you use that may have been made with CNC
+      technology?
+    content_markdown: |-
+      ## &nbsp;
+
+      &nbsp;
+    background_color: '#a9e8e6'
+    background_image:
+    background_size: cover
+  - title: >-
+      Can you think of any items you use that may have been made with CNC
+      technology?
+    content_markdown: >-
+      ## Can you think of any items you use that may have been made with CNC
+      technology?
+
+
+      &nbsp;
+    background_color: '#a9e8e6'
+    background_image:
     background_size: cover
   - title: "CNC Technology for Jobs & Employment\_"
     content_markdown: |-
