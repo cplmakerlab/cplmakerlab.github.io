@@ -200,7 +200,7 @@ slides:
       ![](/uploads/introduction-to-cnc-technology/s4a100-above-992x992.jpg){:
       width="992" height="992"}
     background_color: '#a9e8e6'
-    background_image: /uploads/introduction-to-cnc-technology/s4a100-above-992x992.jpg
+    background_image:
     background_size: contain
   - title: Inventables X-Carve 1000mm
     content_markdown: >-
@@ -213,19 +213,31 @@ slides:
       area:&nbsp;**X-axis:**&nbsp;29.5"&nbsp;**Y-axis:**&nbsp;29.5"&nbsp;**Z-axis:**&nbsp;2.5"
 
       * Cost: $2,299
+
+
+      ![](/uploads/introduction-to-cnc-technology/1000mm-x-carve.png){:
+      width="680" height="370"}
     background_color: '#a9e8e6'
-    background_image: /uploads/introduction-to-cnc-technology/1000mm-x-carve.png
+    background_image:
     background_size: cover
   - title: Inventables Carvey
-    content_markdown: |-
+    content_markdown: >-
       ## Inventables Carvey
 
+
       * Wood, Plastic
+
       * Assortment of bits from 1/32” to 1/8”
+
       * Work Area: X-axis: 12 inches , Y-axis: 8 inches , Height: 2.75 inches
+
       * No longer available for purchase
+
+
+      ![](/uploads/introduction-to-cnc-technology/carvey-main.jpg){:
+      width="1200" height="800"}
     background_color: '#a9e8e6'
-    background_image: /uploads/introduction-to-cnc-technology/carvey-main.jpg
+    background_image:
     background_size: cover
   - title: Design Software
     content_markdown: |-
