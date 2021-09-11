@@ -227,8 +227,6 @@ slides:
 
       * Wood, Plastic
 
-      * Assortment of bits from 1/32” to 1/8”
-
       * Work Area: X-axis: 12 inches , Y-axis: 8 inches , Height: 2.75 inches
 
       * No longer available for purchase
