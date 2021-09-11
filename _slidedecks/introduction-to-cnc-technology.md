@@ -161,10 +161,16 @@ slides:
     background_image:
     background_size: cover
   - title: Daley College Manufacturing Technology & Engineering Center
-    content_markdown: |-
+    content_markdown: >-
       ### Daley College Manufacturing Technology & Engineering Center
 
+
       * 7500 S Pulaski Rd, Chicago, IL 60652
+
+      * Basic certificates (16 credit hours) and advanced certificates (37
+      credit hours) are
+      available.![](/uploads/introduction-to-cnc-technology/daleymtec03.jpg){:
+      width="1600" height="1068"}
     background_color: '#a9e8e6'
     background_image:
     background_size: cover
