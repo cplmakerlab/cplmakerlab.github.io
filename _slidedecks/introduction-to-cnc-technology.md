@@ -52,10 +52,12 @@ slides:
   - title: >-
       Can you think of any items you use that may have been made with CNC
       technology?
-    content_markdown: |-
+    content_markdown: >-
       ## &nbsp;
 
-      &nbsp;
+
+      #### Can you think of any items you use that may have been made with CNC
+      technology?
     background_color: '#a9e8e6'
     background_image:
     background_size: cover
