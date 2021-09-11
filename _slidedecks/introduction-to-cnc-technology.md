@@ -59,18 +59,6 @@ slides:
     background_color: '#a9e8e6'
     background_image:
     background_size: cover
-  - title: >-
-      Can you think of any items you use that may have been made with CNC
-      technology?
-    content_markdown: >-
-      ## Can you think of any items you use that may have been made with CNC
-      technology?
-
-
-      &nbsp;
-    background_color: '#a9e8e6'
-    background_image:
-    background_size: cover
   - title: "CNC Technology for Jobs & Employment\_"
     content_markdown: |-
       ## CNC Technology for Jobs & Employment&nbsp;
@@ -198,6 +186,13 @@ slides:
     background_size: cover
   - title: CNC Technology for Art and Design
     content_markdown: '## CNC Technology for Art and Design'
+    background_color: '#a9e8e6'
+    background_image:
+    background_size: cover
+  - title: CNC Technology for Art and Design
+    content_markdown: >-
+      ## Can you think of designs you want to make with the CNC machine? What
+      makes CNC better for making that object than 3D printing or laser cutting?
     background_color: '#a9e8e6'
     background_image:
     background_size: cover
