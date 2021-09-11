@@ -96,7 +96,10 @@ slides:
     background_image:
     background_size: cover
   - title: Jane Addams Resource Corporation (JARC)
-    content_markdown: '## Jane Addams Resource Corporation (JARC)'
+    content_markdown: |-
+      ## Jane Addams Resource Corporation (JARC)
+
+      (https://jane-addams.org/)
     background_color: '#a9e8e6'
     background_image: /uploads/introduction-to-cnc-technology/capture-1.PNG
     background_size: contain
