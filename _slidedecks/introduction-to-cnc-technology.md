@@ -191,7 +191,9 @@ slides:
     background_color: '#a9e8e6'
     background_image:
     background_size: cover
-  - title: CNC Technology for Art and Design
+  - title: >-
+      Can you think of designs you want to make with the CNC machine? What makes
+      CNC better for making that object than 3D printing or laser cutting?
     content_markdown: >-
       ## Can you think of designs you want to make with the CNC machine? What
       makes CNC better for making that object than 3D printing or laser cutting?
