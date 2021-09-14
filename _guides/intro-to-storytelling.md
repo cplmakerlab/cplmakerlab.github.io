@@ -7,6 +7,7 @@ difficulty:
 time_required:
 file_attachment_path:
 ---
+
 This guide contains discussion questions and links we put together for our [OBOC](https://www.chipublib.org/one-book-one-chicago/) learning circle that uses the course material [The Art of Storytelling](https://courtduvall.github.io/The-Art-of-Storytelling/modules/before%20week%20one/preliminary/).
 
 ### Week One and Two
