@@ -2,11 +2,11 @@
 title: Selling your Designs Online
 slides:
   - title: Selling your Designs Online
-    content_markdown: '## Where do you like to buy things online?'
+    content_markdown: '## Selling your Designs Online'
     background_color: '#ffc1b4'
     background_image:
-  - title: Selling your Designs Online
-    content_markdown: '## Selling your Designs Online'
+  - title: Question 1
+    content_markdown: '## Where do you like to buy things online?'
     background_color: '#ffc1b4'
     background_image:
   - title: Platforms
@@ -213,7 +213,7 @@ slides:
       ## Buying a Web Domain
 
 
-      \- Necessary for Shopify, Etsy and others.&nbsp;
+      \- Necessary for Shopify
 
 
       \- Not necessary for Facebook Marketplace, seller apps (Letgo, Offerup,
