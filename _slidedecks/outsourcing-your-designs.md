@@ -40,8 +40,8 @@ slides:
 
       * Material
       * Cost
-      * Time
-      * Shipping&nbsp;
+      * Shipping
+      * Time&nbsp;
       * Ethics
     background_color: '#90dbff'
     background_image:
@@ -85,6 +85,13 @@ slides:
     background_color: '#90dbff'
     background_image:
     background_size: cover
+  - title: Question 1
+    content_markdown: >-
+      ## Are there any other interesting materials you have heard of people 3D
+      printing in?
+    background_color: '#90dbff'
+    background_image:
+    background_size: cover
   - title: Cost
     content_markdown: '## **Cost**'
     background_color: '#90dbff'
@@ -114,20 +121,21 @@ slides:
     background_color: '#90dbff'
     background_image:
     background_size: cover
-  - title: Time Considerations
+  - title: 'Time '
+    content_markdown: |-
+      ## **Time&nbsp;**
+
+      ​​​​​
+    background_color: '#90dbff'
+    background_image:
+    background_size: cover
+  - title: Question 2
     content_markdown: >-
-      ## **Time Considerations**
+      ## **What do you think is important to consider about time constraints
+      when outsourcing?**
 
 
-      &nbsp;
-
-
-      * Do I need my object fabricated to meet a certain deadline?&nbsp;
-        * You will usually need to give companies at least 3 weeks.
-
-      * Do I need to make multiple prototypes? How can I check scale, or if
-      parts fit together?
-        * Check material properties lists from the company to see how much particular materials shrink.
+      ​​​​​
     background_color: '#90dbff'
     background_image:
     background_size: cover
@@ -137,16 +145,12 @@ slides:
     background_image:
     background_size: cover
   - title: Labor/ Waste
-    content_markdown: >-
+    content_markdown: |-
       ## **Labor/ Waste**
 
-
       * Is the company green/ environmentally sustainable?&nbsp;
-
       * Can the material I use be recycled later on?&nbsp;
-
-      * How are the employees treated? Have there been any reports about
-      mistreatment?
+      * How are employees treated?&nbsp;
     background_color: '#90dbff'
     background_image:
     background_size: cover
