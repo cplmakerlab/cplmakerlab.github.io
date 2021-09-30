@@ -30,10 +30,10 @@ slides:
 
       * The Earliest CNC machines appeared in 1940
 
-      * CNC milling a subtractive method that removes material from a piece
-      block of metal using drill bits.&nbsp;
+      * CNC milling is a subtractive method that removes material from a chunk
+      of metal using drill bits.&nbsp;
 
-      * CNC machines can mill using 1, 2, 2.5, 3, 4, or 5 axis.
+      * CNC machines use either 1, 2, 2.5, 3, or 5 axis.
     background_color: '#a9e8e6'
     background_image:
     background_size: cover
@@ -56,7 +56,7 @@ slides:
       ## &nbsp;
 
 
-      #### Can you think of any items you use that may have been made with CNC
+      #### Can you think of anything you use that may have been made with CNC
       technology?
     background_color: '#a9e8e6'
     background_image:
@@ -79,9 +79,10 @@ slides:
       CNN](https://www.cnn.com/2021/05/04/economy/manufacturing-jobs-economy/index.html))
 
 
-      * American manufacturing activity at a 37 year high as of March 2021.
+      * American manufacturing activity is at a 37 year high as of March 2021.
 
-      * As many as 2.1 manufacturing jobs projected to be unfilled through 2030.
+      * As many as 2.1 manufacturing jobs are projected to be unfilled through
+      2030.
 
       * Part of the shortage is due to concerns about globalization and
       automation.
@@ -153,7 +154,7 @@ slides:
       ## Daley College & CCC
 
 
-      (https://www.ccc.edu/colleges/daley/departments/pages/manufacturing--technology.aspx)
+      (https://www.ccc.edu/colleges/daley/departments/pages/manufacturing–technology.aspx)
     background_color: '#a9e8e6'
     background_image: /uploads/introduction-to-cnc-technology/005349-00-n271-medium.jpg
     background_size: cover
@@ -195,7 +196,7 @@ slides:
       Can you think of designs you want to make with the CNC machine? What makes
       CNC better for making that object than 3D printing or laser cutting?
     content_markdown: >-
-      #### Can you think of designs you want to make with the CNC machine?
+      #### Can you think of designs you want to fabricate with a CNC machine?
 
 
       #### &nbsp;
