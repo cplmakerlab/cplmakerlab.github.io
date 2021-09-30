@@ -41,7 +41,7 @@ slides:
       * Material
       * Cost
       * Time
-      * Shipping / Country of origin
+      * Shipping&nbsp;
       * Ethics
     background_color: '#90dbff'
     background_image:
@@ -109,8 +109,8 @@ slides:
     background_color: '#90dbff'
     background_image:
     background_size: cover
-  - title: Time/ Shipping
-    content_markdown: '## **Time/ Shipping**'
+  - title: Shipping
+    content_markdown: '## **Shipping**'
     background_color: '#90dbff'
     background_image:
     background_size: cover
@@ -155,7 +155,7 @@ slides:
     background_color: '#90dbff'
     background_image:
     background_size: cover
-  - title: 'Ponoko (Also Xometry, Cotter, Sculpteo, Lasergist)'
+  - title: Ponoko (Also Xometry, Cotter, Sculpteo, Lasergist)
     content_markdown: >-
       ## **Ponoko (Also Xometry, Cotter, Sculpteo, Lasergist)**
 
@@ -187,7 +187,7 @@ slides:
     background_color: '#90dbff'
     background_image:
     background_size: cover
-  - title: 'Sticker Mule (Also Sticker Giant, Stickeryou)'
+  - title: Sticker Mule (Also Sticker Giant, Stickeryou)
     content_markdown: |-
       ## Sticker Mule (Sticker Giant, Stickeryou)
 
@@ -240,3 +240,5 @@ slides:
     background_image:
     background_size: cover
 ---
+
+
