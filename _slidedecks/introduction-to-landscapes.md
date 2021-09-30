@@ -247,13 +247,13 @@ slides:
     background_image: /uploads/introduction-to-landscapes/960x0.jpg
     background_size: contain
   - title: Looking Back to A Bright New Future
-    content_markdown: '## What creates a sense of space in this painting?'
+    content_markdown:
     background_color: '#ccc1ad'
     background_image: >-
       /uploads/introduction-to-landscapes/iso-julie-mehretu-looking-back-to-a-bright-new-future-2003-1.jpg
     background_size: contain
   - title: Looking Back to A Bright New Future
-    content_markdown:
+    content_markdown: '## What creates a sense of space in this painting?'
     background_color: '#ccc1ad'
     background_image: >-
       /uploads/introduction-to-landscapes/iso-julie-mehretu-looking-back-to-a-bright-new-future-2003-1.jpg
