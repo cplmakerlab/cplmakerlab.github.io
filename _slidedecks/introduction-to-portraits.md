@@ -185,26 +185,32 @@ slides:
     background_color: '#a3e297'
     background_image:
     background_size: cover
+  - title: Chicago, IL
+    content_markdown:
+    background_color: '#a3e297'
+    background_image: /uploads/introduction-to-portraits/vm19xxw03132-10-mc.jpg
+    background_size: contain
+  - title: Untitled
+    content_markdown: '## Why do these two women look so surprised?'
+    background_color: '#a3e297'
+    background_image: >-
+      /uploads/introduction-to-portraits/63be90c8-32ec-4b9f-8a8b-da4ce2ba048a-1.jpg
+    background_size: contain
   - title: Untitled
     content_markdown:
     background_color: '#a3e297'
     background_image: >-
       /uploads/introduction-to-portraits/63be90c8-32ec-4b9f-8a8b-da4ce2ba048a-1.jpg
     background_size: contain
-  - title: 1959. Los Angeles, CA
-    content_markdown:
-    background_color: '#a3e297'
-    background_image: /uploads/introduction-to-portraits/vm1959w04159-08-mc.jpg
-    background_size: contain
   - title: 1955. New York, NY
     content_markdown:
     background_color: '#a3e297'
     background_image: /uploads/introduction-to-portraits/vm1955w00180-06-mc.jpg
     background_size: contain
-  - title: Chicago, IL
+  - title: 1959. Los Angeles, CA
     content_markdown:
     background_color: '#a3e297'
-    background_image: /uploads/introduction-to-portraits/vm19xxw03132-10-mc.jpg
+    background_image: /uploads/introduction-to-portraits/vm1959w04159-08-mc.jpg
     background_size: contain
   - title: Johannes Vermeer
     content_markdown: >-
