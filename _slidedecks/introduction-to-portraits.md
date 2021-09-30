@@ -242,6 +242,11 @@ slides:
     background_color: '#a3e297'
     background_image: /uploads/introduction-to-portraits/71tlpdmwpwl.jpg
     background_size: contain
+  - title: Girl with a Pearl Earring
+    content_markdown: '## What is unusual about her earring?&nbsp;'
+    background_color: '#a3e297'
+    background_image: /uploads/introduction-to-portraits/71tlpdmwpwl.jpg
+    background_size: contain
   - title: The Love Letter
     content_markdown:
     background_color: '#a3e297'
