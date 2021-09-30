@@ -85,6 +85,12 @@ slides:
     background_image: >-
       /uploads/introduction-to-portraits/self-portrait-with-necklace-of-thorns.jpg
     background_size: contain
+  - title: Self Portrait with Necklace of Thorns,  1940
+    content_markdown: '## What do each of these animals represent?'
+    background_color: '#a3e297'
+    background_image: >-
+      /uploads/introduction-to-portraits/self-portrait-with-necklace-of-thorns.jpg
+    background_size: contain
   - title: Thinking About Death
     content_markdown:
     background_color: '#a3e297'
