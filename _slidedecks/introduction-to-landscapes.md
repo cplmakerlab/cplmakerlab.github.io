@@ -72,6 +72,12 @@ slides:
     background_image: >-
       /uploads/introduction-to-landscapes/1024px-chicago-art-inst-turner-vallee-aoste.jpg
     background_size: contain
+  - title: Valley of Aosta
+    content_markdown: '## How does this painting create a sense of awe?'
+    background_color: '#ccc1ad'
+    background_image: >-
+      /uploads/introduction-to-landscapes/1024px-chicago-art-inst-turner-vallee-aoste.jpg
+    background_size: contain
   - title: The Fighting Temeraire
     content_markdown:
     background_color: '#ccc1ad'
@@ -121,6 +127,13 @@ slides:
     background_size: contain
   - title: The Shopping Street Suruga-cho
     content_markdown:
+    background_color: '#ccc1ad'
+    background_image: /uploads/introduction-to-landscapes/hir499-master.jpg
+    background_size: contain
+  - title: The Shopping Street Suruga-cho
+    content_markdown: >-
+      ## What is the middle ground in this print? What does that do to the
+      forground/ background?
     background_color: '#ccc1ad'
     background_image: /uploads/introduction-to-landscapes/hir499-master.jpg
     background_size: contain
