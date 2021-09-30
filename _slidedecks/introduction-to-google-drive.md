@@ -46,6 +46,19 @@ slides:
     background_color: '#a3acdf'
     background_image: /uploads/introduction-to-google-drive/5.PNG
     background_size: cover
+  - title: Question 1
+    content_markdown: >-
+      #### What advantages are there to sharing? When is it better to share a
+      document by using a public link?&nbsp;
+
+
+      &nbsp;
+
+
+      &nbsp;
+    background_color: '#a3acdf'
+    background_image: /uploads/introduction-to-google-drive/5.PNG
+    background_size: cover
   - title: Google Docs
     content_markdown: '## Google Docs'
     background_color: '#a3acdf'
@@ -99,10 +112,12 @@ slides:
     background_color: '#a3acdf'
     background_image: /uploads/introduction-to-google-drive/3.PNG
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Google Drive Demo
+    content_markdown: '## Google Drive Demo'
     background_color: '#a3acdf'
-    background_image: /uploads/introduction-to-google-drive/10.PNG
+    background_image:
     background_size: cover
 tags:
 ---
+
+
