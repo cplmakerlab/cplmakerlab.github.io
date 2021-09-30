@@ -82,6 +82,11 @@ slides:
     background_color: '#7b7b7b'
     background_image: /uploads/learning-to-code-in-chicago/history-1024x668.png
     background_size: contain
+  - title: Most Popular Languages
+    content_markdown: '## What things do people notice in this list?'
+    background_color: '#7b7b7b'
+    background_image: /uploads/learning-to-code-in-chicago/history-1024x668.png
+    background_size: contain
   - title: Sources
     content_markdown: >-
       Sources:&nbsp;[https://www.northeastern.edu/graduate/blog/most-popular-programming-languages/](https://www.northeastern.edu/graduate/blog/most-popular-programming-languages/)
@@ -343,3 +348,5 @@ slides:
     background_color: '#7b7b7b'
     background_image:
 ---
+
+
