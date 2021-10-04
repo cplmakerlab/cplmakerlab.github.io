@@ -13,7 +13,11 @@ time_required: 5 Minutes
 file_attachment_path:
 ---
 
-Blender is a free open-source software that is for 3D modeling, animation, and rendering. As with many software programs, designers often find themselves performing repetitive tasks over and over again. Thankfully, HotKeys exist in Blender that will help you quickly perform actions by using keys on your keyboard instead of clicking on buttons.&nbsp; HotKeys can be difficult to remember at first, but thankfully many HotKeys in Blender perform the same action in other programs.
+Blender is a free open-source software that is for 3D modeling, animation, video editing, and rendering. As with many software programs, designers often find themselves performing repetitive tasks over and over again. Thankfully, HotKeys exist in Blender to help you quickly perform actions by using keys on your keyboard instead of clicking on buttons.
+
+It may not seem easier to use HotKeys, but think of this: would you rather click on a button to delete something or simply press "Delete" on your keyboard? HotKeys can be difficult to remember at first, but thankfully many HotKeys in Blender perform the same action in other programs. This guide organizes&nbsp;
+
+You can find a comprehensive list of all HotKeys here: https://download.blender.org/documentation/BlenderHotkeyReference.pdf But this guide is&nbsp;
 
 ### Step 1
 
