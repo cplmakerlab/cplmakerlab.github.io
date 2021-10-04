@@ -21,23 +21,23 @@ It may not seem easier to use HotKeys, but think of this: would you rather click
 
 These commands are useful in essentially every workspace and step in the creation process.&nbsp;
 
-**Ctrl + Z** - Undo
+**Ctrl + Z**\: Undo
 
-**Ctrl + Y** - Re-do
+**Ctrl + Y**\: &nbsp;Re-do
 
-**Ctrl + C** - Copy
+**Ctrl + C**\: Copy
 
-**Ctrl + V** - Paste
+**Ctrl + V**\: Paste
 
-**Shift + D** - Duplicate
+**Shift + D**\: Duplicate
 
 ### Layout&nbsp;
 
 The layout workspace is used to arrange and select objects to then edit in other workspaces. Many of these hotkeys also work in the Modeling and Sculpting workspaces as well.&nbsp;
 
-**G -** Grab - Used to move an objects position.
+**G -** Grab: Used to move an objects position.
 
-**S -** Scale - Used to make an object larger or smaller while maintaining the same proportions.
+**S -** Scale: Used to make an object larger or smaller while maintaining the same proportions.
 
 **R -** Rotate - Used
 
