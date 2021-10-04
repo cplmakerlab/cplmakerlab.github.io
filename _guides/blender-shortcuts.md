@@ -12,7 +12,8 @@ difficulty: Easy
 time_required: 5 Minutes
 file_attachment_path:
 ---
-Blender Short&nbsp;
+
+Blender is a free open-source software that is for 3D modeling, animation, and rendering. As with many software programs, designers often find themselves performing repetitive tasks over and over again. Thankfully, Hotkeys exist in Blender that will help you quickly perform actions by using keys on your keyboard instead of clicking on buttons.&nbsp;
 
 ### Step 1
 
