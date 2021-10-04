@@ -17,7 +17,29 @@ Blender is a free open-source software that is used for 3D modeling, animation, 
 
 It may not seem easier to use HotKeys, but think of this: would you rather click on a button to delete something or simply press "Delete" on your keyboard? HotKeys can be difficult to remember at first, but thankfully many HotKeys in Blender perform the same action in other programs. This guide organizes all of the most commonly used HotKeys into different categories.&nbsp;
 
-### Layout
+### Universal
+
+These commands are useful in essentially every workspace and step in the creation process.&nbsp;
+
+**Ctrl + Z** - Undo
+
+**Ctrl + Y** - Re-do
+
+**Ctrl + C** - Copy
+
+**Ctrl + V** - Paste
+
+**Shift + D** - Duplicate
+
+### Layout&nbsp;
+
+The layout workspace is used to arrange and select objects to then edit in other workspaces. Many of these hotkeys also work in the Modeling and Sculpting workspaces as well.&nbsp;
+
+**G -** Grab - Used to move an objects position.
+
+**S -** Scale - Used to make an object larger or smaller while maintaining the same proportions.
+
+**R -** Rotate - Used
 
 &nbsp;
 
