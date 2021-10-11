@@ -17,6 +17,8 @@ Blender is a free open-source software that is used for 3D modeling, animation, 
 
 It may not seem easier to use HotKeys at first, but think of this: would you rather click on a button to delete something or simply press "Delete" on your keyboard? HotKeys can be difficult to remember initially, but thankfully many HotKeys in Blender perform the same action in other programs. This guide organizes all of the most commonly used HotKeys into different categories.&nbsp;
 
+&nbsp;
+
 ### Universal
 
 These commands are useful in essentially every workspace and step in the creation process.&nbsp;
@@ -27,6 +29,8 @@ These commands are useful in essentially every workspace and step in the creatio
 * **Ctrl + V**\: Paste
 * **Shift + D**\: Duplicate
 * **F3**\: Search
+
+&nbsp;
 
 ### Layout&nbsp;
 
@@ -40,6 +44,8 @@ The layout workspace is used to arrange and select objects to then edit in other
 * **Alt + R -** Rotate: Resets the rotation
 * **G + Ctrl****&nbsp;-**&nbsp;Enables Snapping: Allows you to move incrementally.&nbsp;
 
+&nbsp;
+
 ### Modeling
 
 The Modeling workspace has dozens of tools that can be used to create orthogonal&nbsp;
@@ -50,6 +56,8 @@ The Modeling workspace has dozens of tools that can be used to create orthogonal
 * **E -&nbsp;**Extrude: Creates new faces attached to existing edges of a shape.&nbsp;
 * **Ctrl + R** **\-** Create an Edge Loop: Creates edges that bisect existing faces.
 
+&nbsp;
+
 ### Sculpting
 
 The Sculpting workspace has dozens of brushes that can be used to sculpt mesh shapes into organic forms.&nbsp;
@@ -58,6 +66,8 @@ The Sculpting workspace has dozens of brushes that can be used to sculpt mesh sh
 * **\] -** Increases brush diameter.
 * **Shift + F -&nbsp;**Change Brush Strength: Move your mouse in either direction to increase or decrease brush strength.&nbsp;
 * **Shift -**&nbsp;Smooth: Will smooth out irregularities in the mesh.
+
+&nbsp;
 
 ### Animation
 
