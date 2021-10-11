@@ -40,8 +40,6 @@ The layout workspace is used to arrange and select objects to then edit in other
 * **Alt + R -** Rotate: Resets the rotation
 * **G + Ctrl****&nbsp;-**&nbsp;Enables Snapping: Allows you to move incrementally.&nbsp;
 
-&nbsp;
-
 ### Modeling
 
 The Modeling workspace has dozens of tools that can be used to create orthogonal&nbsp;
@@ -52,23 +50,20 @@ The Modeling workspace has dozens of tools that can be used to create orthogonal
 * **E -&nbsp;**Extrude: Creates new faces attached to existing edges of a shape.&nbsp;
 * **Ctrl + R** **\-** Create an Edge Loop: Creates edges that bisect existing faces.
 
-&nbsp;
-
 ### Sculpting
 
 The Sculpting workspace has dozens of brushes that can be used to sculpt mesh shapes into organic forms.&nbsp;
 
-**Shift -**&nbsp;Smooth: Will smooth out irregularities in the mesh.
-
-&nbsp;
+* **\[ -** Decreases brush diameter.
+* **\] -** Increases brush diameter.
+* **Shift + F -&nbsp;**Change Brush Strength: Move your mouse in either direction to increase or decrease brush strength.&nbsp;
+* **Shift -**&nbsp;Smooth: Will smooth out irregularities in the mesh.
 
 ### Animation
 
 The Animation workspace isn't exclusively used for animation, it can be used to edit video clips as well.&nbsp;
 
-**K -&nbsp;**Cut
-
-&nbsp;
+* **K -&nbsp;**Cut: Allows you to cut a video or audio clip on the frame that your mouse is located.
 
 &nbsp;
 
