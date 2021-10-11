@@ -7,7 +7,7 @@ tags:
   - 3D Printing
   - Blender
   - Blender Shortcuts
-example_image:
+example_image: /uploads/blender-shortcuts/logo-blender-svg.png
 difficulty: Easy
 time_required: 5 Minutes
 file_attachment_path:
