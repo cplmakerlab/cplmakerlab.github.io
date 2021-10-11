@@ -1,5 +1,5 @@
 ---
-title: Blender Shortcuts
+title: Blender HotKeys
 categories:
   - 3D Design
 tags:
