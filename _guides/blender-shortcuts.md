@@ -6,8 +6,8 @@ tags:
   - 3D Design
   - 3D Printing
   - Blender
-  - Blender Shortcuts
-example_image: /uploads/blender-shortcuts/logo-blender-svg.png
+  - Blender Hotkeys
+example_image: /uploads/blender-hotkeys/logo-blender-svg.png
 difficulty: Easy
 time_required: 5 Minutes
 file_attachment_path:
