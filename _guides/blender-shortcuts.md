@@ -26,6 +26,7 @@ These commands are useful in essentially every workspace and step in the creatio
 * **Ctrl + C**\: Copy&nbsp;
 * **Ctrl + V**\: Paste
 * **Shift + D**\: Duplicate
+* **F3**\: Search
 
 ### Layout&nbsp;
 
@@ -33,13 +34,23 @@ The layout workspace is used to arrange and select objects to then edit in other
 
 * **G -** Grab: Used to move an object's position.
 * **S -** Scale: Used to make an object larger or smaller while maintaining the same proportions.
-* **R -** Rotate - Used to rotate an object along the X, Y or Z axis.&nbsp;
+* **R -** Rotate: Used to rotate an object along the X, Y or Z axis.&nbsp;
+* **Alt + G -** Grab: Resets the location.
+* **Alt + S -** Scale: Resets the scale.
+* **Alt + R -** Rotate: Resets the rotation
+* **G + Ctrl****&nbsp;-**&nbsp;Enables Snapping: Allows you to move incrementally.&nbsp;
 
 &nbsp;
 
 ### Modeling
 
 The Modeling workspace has dozens of tools that can be used to create orthogonal&nbsp;
+
+* **1 -&nbsp;**Vertices Select: Allows you to only select vertices with your mouse.
+* **2 -&nbsp;**Edges Select: Allows you to only select edges with your mouse.
+* **2 -&nbsp;**Faces Select: Allows you to only select faces with your mouse.
+* **E -&nbsp;**Extrude: Creates new faces attached to existing edges of a shape.&nbsp;
+* **Ctrl + R** **\-** Create an Edge Loop: Creates edges that bisect existing faces.
 
 &nbsp;
 
@@ -68,3 +79,4 @@ Resources:
 * [All HotKeys](https://download.blender.org/documentation/BlenderHotkeyReference.pdf)&nbsp;
 * [Blender Download](https://www.blender.org/download/)
 * Blender Guru's&nbsp;[Blender Beginner Tutorial Doughnut Series](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U)&nbsp;
+* [Blender 2.8 Top Shortcut Keys](https://www.youtube.com/watch?v=--kN_4sUqj8) on Youtube (this is using Blender 2.8 but the HotKeys have remained largely the same).
