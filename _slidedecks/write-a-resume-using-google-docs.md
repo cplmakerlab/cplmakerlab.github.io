@@ -201,8 +201,11 @@ slides:
     background_color: '#fdffb0'
     background_image: /uploads/write-a-resume-using-google-docs/brainfuse.PNG
     background_size: contain
-  - title:
-    content_markdown:
+  - title: Brainfuse Info
+    content_markdown: |-
+      ## Brainfuse
+
+      &nbsp;
     background_color: '#fdffb0'
     background_image:
     background_size: cover
