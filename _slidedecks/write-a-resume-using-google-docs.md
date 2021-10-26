@@ -202,8 +202,17 @@ slides:
     background_image: /uploads/write-a-resume-using-google-docs/brainfuse.PNG
     background_size: contain
   - title: Brainfuse Info
-    content_markdown: |-
+    content_markdown: >-
       ## Brainfuse
+
+
+      * Resume Templates: Chronological, Combination, Functional, Military
+
+      * Resume Help: Submit resume and receive feedback in 24 hours
+
+      * Live Help: Can get immediate advice on resume's and job searching in
+      live chat.&nbsp;
+
 
       &nbsp;
     background_color: '#fdffb0'
