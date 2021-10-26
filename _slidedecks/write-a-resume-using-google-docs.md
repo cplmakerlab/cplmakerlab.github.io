@@ -192,6 +192,35 @@ slides:
     background_color: '#fdffb0'
     background_image: /uploads/write-a-resume-using-google-docs/10.jpg
     background_size: contain
+  - title: Brainfuse
+    content_markdown: >-
+      ## Brainfuse
+
+
+      [https://alc.brainfuse.com/alc/resume.asp](https://alc.brainfuse.com/alc/resume.asp)
+    background_color: '#fdffb0'
+    background_image: /uploads/write-a-resume-using-google-docs/brainfuse.PNG
+    background_size: contain
+  - title:
+    content_markdown:
+    background_color: '#fdffb0'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#fdffb0'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#fdffb0'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#fdffb0'
+    background_image:
+    background_size: cover
   - title: Google Docs
     content_markdown: '## Google Docs'
     background_color: '#fdffb0'
@@ -216,3 +245,5 @@ slides:
     background_size: cover
 tags:
 ---
+
+
