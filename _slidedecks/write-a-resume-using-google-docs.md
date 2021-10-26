@@ -218,10 +218,10 @@ slides:
     background_color: '#fdffb0'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: CPL Events
+    content_markdown: '## CPL Events'
     background_color: '#fdffb0'
-    background_image:
+    background_image: /uploads/write-a-resume-using-google-docs/cpl.PNG
     background_size: cover
   - title:
     content_markdown:
