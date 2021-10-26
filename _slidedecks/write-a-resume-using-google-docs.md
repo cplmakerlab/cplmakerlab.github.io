@@ -219,7 +219,11 @@ slides:
     background_image:
     background_size: cover
   - title: CPL Events
-    content_markdown: '## CPL Events'
+    content_markdown: >-
+      ## CPL Events
+
+
+      [https://chipublib.bibliocommons.com/events/search/fq=types:(53f20447e04c1e3b1c00d0a3)](https://chipublib.bibliocommons.com/events/search/fq=types:&#40;53f20447e04c1e3b1c00d0a3&#41;)
     background_color: '#fdffb0'
     background_image: /uploads/write-a-resume-using-google-docs/cpl.PNG
     background_size: cover
