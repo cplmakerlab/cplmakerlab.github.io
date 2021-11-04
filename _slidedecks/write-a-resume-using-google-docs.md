@@ -235,8 +235,25 @@ slides:
     background_color: '#fdffb0'
     background_image: /uploads/write-a-resume-using-google-docs/library.PNG
     background_size: contain
-  - title:
-    content_markdown:
+  - title: 'Linkedin Learning Info '
+    content_markdown: >-
+      Watch an entire course or short individual video, bookmark courses that
+      suit your interests
+
+
+      * Looking for a new job? With LinkedIn Learning you can get the resume
+      writing and interview skills you need.&nbsp;
+
+      * Are you looking to level up in your career? Refine and expand your
+      skills in thousands of courses in areas like sales, marketing, graphic
+      design, user experience, IT, human resources and project management.
+
+      * Maybe you're thinking of pursuing a new career path? Explore topics like
+      personal branding, small business finance, freelancing and design
+      thinking.
+
+
+      &nbsp;
     background_color: '#fdffb0'
     background_image:
     background_size: cover
