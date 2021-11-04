@@ -244,9 +244,9 @@ slides:
       * Looking for a new job? With LinkedIn Learning you can get the resume
       writing and interview skills you need.&nbsp;
 
-      * Are you looking to level up in your career? Refine and expand your
-      skills in thousands of courses in areas like sales, marketing, graphic
-      design, user experience, IT, human resources and project management.
+      * Are you looking to level up in your career? Expand your skills in
+      courses like sales, marketing, graphic design, user experience, IT, human
+      resources and project management.
 
       * Maybe you're thinking of pursuing a new career path? Explore topics like
       personal branding, small business finance, freelancing and design
