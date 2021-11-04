@@ -17,7 +17,12 @@ slides:
     background_image:
     background_size: cover
   - title:
-    content_markdown:
+    content_markdown: |-
+      What do you think of when you hear these terms?
+
+      * Antique
+      * Retro
+      * Vintage
     background_color: '#fff7f7'
     background_image:
     background_size: cover
