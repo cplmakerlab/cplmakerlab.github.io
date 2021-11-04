@@ -3,7 +3,7 @@ title: Antiques and Restoration
 slides:
   - title: Antiques and Restoration
     content_markdown:
-    background_color:
+    background_color: '#fff7f7'
     background_image:
     background_size: cover
 tags:
@@ -14,3 +14,5 @@ tags:
   - Metal
   - Rust
 ---
+
+
