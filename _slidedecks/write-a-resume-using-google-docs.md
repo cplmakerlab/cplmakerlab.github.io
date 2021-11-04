@@ -227,11 +227,14 @@ slides:
     background_color: '#fdffb0'
     background_image: /uploads/write-a-resume-using-google-docs/cpl.PNG
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Linkedin Learning
+    content_markdown: |-
+      ## LinkedIn Learning
+
+      https://www.linkedin.com/learning-login/go/chipublib
     background_color: '#fdffb0'
-    background_image:
-    background_size: cover
+    background_image: /uploads/write-a-resume-using-google-docs/library.PNG
+    background_size: contain
   - title:
     content_markdown:
     background_color: '#fdffb0'
