@@ -159,14 +159,6 @@ slides:
     background_color: '#fff7f7'
     background_image:
     background_size: cover
-  - title:
-    content_markdown: >-
-      The following information most applies to wooden furniture. Metal is best
-      left alone, unless it is severely rusting. Vast information exists online
-      about how to safely clean different types of antiques.&nbsp;
-    background_color: '#fff7f7'
-    background_image:
-    background_size: cover
   - title: Cleaning Your Antiques
     content_markdown: >-
       #### Cleaning Your Antiques
@@ -181,19 +173,39 @@ slides:
     background_color: '#fff7f7'
     background_image:
     background_size: cover
-  - title: Dusting
-    content_markdown: |-
-      #### Dusting
+  - title: Cleaning Your Antiques
+    content_markdown: >-
+      #### Cleaning Your Antiques
 
-      * Dusting&nbsp;
+
+      * Always do individual research on items before cleaning to see what is
+      recommended.&nbsp;
+
+      * Try the least strong cleaning method first. If not satisfied, try a more
+      intensive method. i.e: Water -&gt; Vinegar
+
+      * Avoid commercial cleaning products, even plant based ones, unless
+      explicitely recomended. Every day cleaners are not meant for antiques.
+    background_color: '#fff7f7'
+    background_image:
+    background_size: cover
+  - title: Dusting
+    content_markdown: >-
+      #### Dusting Your Antiques
+
+
+      * Dust with a soft wet rag.
+        * Wiping a surface with a dry rag will create micro-scratches.&nbsp;
+      * Some antique experts prefer to dust with feathers, but this method is
+      contentious. Critics of this method worry that quills scratch wood.&nbsp;
     background_color: '#fff7f7'
     background_image:
     background_size: cover
   - title: 'Waxing '
     content_markdown: |-
-      #### Waxing
+      #### Waxing Wooden Furniture
 
-      * Wood Furniture needs to be w
+      * Wood Furniture needs to be waxed
     background_color: '#fff7f7'
     background_image:
     background_size: cover
