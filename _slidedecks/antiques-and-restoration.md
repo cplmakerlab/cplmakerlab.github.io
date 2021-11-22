@@ -220,7 +220,7 @@ slides:
     background_image:
     background_size: cover
   - title: Restoration
-    content_markdown: '#### Restoration is always preferable&nbsp;'
+    content_markdown: '#### Restoration is preferable to refinishing&nbsp;'
     background_color: '#fff7f7'
     background_image:
     background_size: cover
@@ -233,8 +233,14 @@ slides:
     background_color: '#fff7f7'
     background_image: /uploads/antiques-and-restoration/screen-shot-2021-11-22-at-4-28-25-pm.png
     background_size: contain
-  - title:
-    content_markdown:
+  - title: Refinishing
+    content_markdown: >-
+      #### Refinishing
+
+
+      * Chemicals for stripping wood can be harmful and refinishing will often
+      reduce the value of antiques. People still choose to refinish if pieces
+      are extremely damaged or if they have a strong aesthetic preference.&nbsp;
     background_color: '#fff7f7'
     background_image:
     background_size: cover
