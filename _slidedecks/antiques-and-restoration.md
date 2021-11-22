@@ -60,8 +60,6 @@ slides:
       ## Reddit
 
       [https://www.reddit.com/r/Antiques/](https://www.reddit.com/r/Antiques/)
-
-      &nbsp;
     background_color: '#fff7f7'
     background_image: >-
       /uploads/antiques-and-restoration/screen-shot-2021-11-22-at-11-24-01-am.png
