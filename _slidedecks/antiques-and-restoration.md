@@ -40,15 +40,20 @@ slides:
     background_color: '#fff7f7'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: How can you find information about antiques?
+    content_markdown: '## How can you find information about antiques?'
     background_color: '#fff7f7'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Museums
+    content_markdown: >-
+      ## Museums
+
+
+      ([Image
+      source](https://www.chicagotribune.com/columns/ct-met-art-institute-architecture-exhibition-kamin-0828-20160826-column.html))
     background_color: '#fff7f7'
-    background_image:
+    background_image: /uploads/antiques-and-restoration/mwj7427ebbdfrjysof4uajocd4.webp
     background_size: cover
   - title:
     content_markdown:
