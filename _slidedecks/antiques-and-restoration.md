@@ -64,8 +64,30 @@ slides:
     background_image: >-
       /uploads/antiques-and-restoration/screen-shot-2021-11-22-at-11-24-01-am.png
     background_size: contain
-  - title:
-    content_markdown:
+  - title: Just Answer Antiques
+    content_markdown: >-
+      ## Just Answer Antiques
+
+
+      [https://www.justanswer.com/antiques/](https://www.justanswer.com/antiques/)
+    background_color: '#fff7f7'
+    background_image: >-
+      /uploads/antiques-and-restoration/screen-shot-2021-11-22-at-11-26-48-am.png
+    background_size: contain
+  - title: Just Answer Antiques
+    content_markdown: >-
+      ## Just Answer Antiques
+
+
+      * Ask questions directly to antique dealers, lawyers, doctors,
+      veterinarians, and other experts.
+
+      * $1 - $5 one week trial price, after which there is a $50 monthly fee.
+
+      * Cancel your membership after one week in order to avoid the larger fee.
+
+      * .They can give you information on the cost, style, origin, and time
+      period of your antiques.
     background_color: '#fff7f7'
     background_image:
     background_size: cover
