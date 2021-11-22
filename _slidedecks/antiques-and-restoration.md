@@ -241,6 +241,8 @@ slides:
       * Chemicals for stripping wood can be harmful and refinishing will often
       reduce the value of antiques. People still choose to refinish if pieces
       are extremely damaged or if they have a strong aesthetic preference.&nbsp;
+
+      * Types of finishing: Wood Stain, Polyurethane, Lacquer, Shellac, Tung
     background_color: '#fff7f7'
     background_image:
     background_size: cover
