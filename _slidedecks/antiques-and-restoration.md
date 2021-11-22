@@ -202,20 +202,25 @@ slides:
     background_image:
     background_size: cover
   - title: 'Waxing '
-    content_markdown: |-
+    content_markdown: >-
       #### Waxing Wooden Furniture
 
-      * Wood Furniture needs to be waxed
+
+      * Wood Furniture needs to be waxed 1 - 2 times per year. More than that
+      can cause damage to your wooden furniture.&nbsp;
+
+      * Pure beeswax is preferable. A good commercially available wax is Howard
+      Feed-N-Wax
     background_color: '#fff7f7'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Restoration & Repair
+    content_markdown: '## Restoration & Repair'
     background_color: '#fff7f7'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Restoration
+    content_markdown: '#### Restoration is always preferable&nbsp;'
     background_color: '#fff7f7'
     background_image:
     background_size: cover
