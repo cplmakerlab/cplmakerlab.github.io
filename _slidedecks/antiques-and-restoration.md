@@ -55,11 +55,17 @@ slides:
     background_color: '#fff7f7'
     background_image: /uploads/antiques-and-restoration/mwj7427ebbdfrjysof4uajocd4.webp
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Reddit
+    content_markdown: |-
+      ## Reddit
+
+      [https://www.reddit.com/r/Antiques/](https://www.reddit.com/r/Antiques/)
+
+      &nbsp;
     background_color: '#fff7f7'
-    background_image:
-    background_size: cover
+    background_image: >-
+      /uploads/antiques-and-restoration/screen-shot-2021-11-22-at-11-24-01-am.png
+    background_size: contain
   - title:
     content_markdown:
     background_color: '#fff7f7'
