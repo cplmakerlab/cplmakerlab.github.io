@@ -16,9 +16,9 @@ slides:
     background_color: '#fff7f7'
     background_image:
     background_size: cover
-  - title:
+  - title: Terms?
     content_markdown: |-
-      What do you think of when you hear these terms?
+      #### What do you think of when you hear these terms?
 
       * Antique
       * Retro
@@ -26,9 +26,9 @@ slides:
     background_color: '#fff7f7'
     background_image:
     background_size: cover
-  - title: Differences
+  - title: Definitions
     content_markdown: >-
-      ## Differences
+      #### Definitions&nbsp;
 
 
       * Antique: 100 years old or more
@@ -65,13 +65,16 @@ slides:
     background_color: '#fff7f7'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
-    background_color: '#fff7f7'
-    background_image:
-    background_size: cover
-  - title:
-    content_markdown:
+  - title: Common Styles
+    content_markdown: |-
+      #### Common Styles
+
+      * Rococo
+      * Victorian
+      * Arts & Crafts Movement / Mission
+      * Art Nouveau&nbsp;
+      * Art Deco&nbsp;
+      * Mid-century Modern
     background_color: '#fff7f7'
     background_image:
     background_size: cover
