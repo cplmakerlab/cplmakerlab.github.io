@@ -123,7 +123,7 @@ slides:
 
 
       * Keep antiques away from windows. Rotate items incrementally over time to
-      reduce irregular sun bleaching. Curtains can help.
+      reduce irregular sun fading. Curtains can help.
         * Grandfather clocks are often the most sun-damaged antique.&nbsp;
       * Cover surfaces with cloth to reduce scratches.&nbsp;
     background_color: '#fff7f7'
@@ -224,11 +224,15 @@ slides:
     background_color: '#fff7f7'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Restor-A-Finish
+    content_markdown: >-
+      ## Restor-A-Finish
+
+
+      [https://www.youtube.com/watch?v=qIGyIbJS8bI](https://www.youtube.com/watch?v=qIGyIbJS8bI)
     background_color: '#fff7f7'
-    background_image:
-    background_size: cover
+    background_image: /uploads/antiques-and-restoration/screen-shot-2021-11-22-at-4-28-25-pm.png
+    background_size: contain
   - title:
     content_markdown:
     background_color: '#fff7f7'
