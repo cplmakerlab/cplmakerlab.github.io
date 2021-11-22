@@ -31,12 +31,12 @@ slides:
       #### Definitions&nbsp;
 
 
-      * Antique: 100 years old or more
+      * **Antique:** 100 years old or more
         * The term originally only referred to goods made before 1830, prior to mass production in the US
-      * Vintage: 50 years or more
+      * **Vintage:** 50 years or more
 
-      * Retro: Refers to anything that imitates an older style, the item does
-      not have to genuinely be from said time period.&nbsp;
+      * **Retro:** Refers to anything that imitates an older style, the item
+      does not have to genuinely be from said time period.&nbsp;
     background_color: '#fff7f7'
     background_image:
     background_size: cover
@@ -112,7 +112,7 @@ slides:
     background_color: '#fff7f7'
     background_image:
     background_size: cover
-  - title: Antique Storage
+  - title: Storage
     content_markdown: '## Storage'
     background_color: '#fff7f7'
     background_image:
@@ -143,7 +143,7 @@ slides:
     background_color: '#fff7f7'
     background_image:
     background_size: cover
-  - title:
+  - title: Victorian Living Room
     content_markdown: >-
       #### Familiar?
 
@@ -157,13 +157,24 @@ slides:
     background_image: >-
       /uploads/antiques-and-restoration/a-victorian-sitting-room-with-electric-mary-evans-picture-library.jpg
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Cleaning
+    content_markdown: '## Cleaning'
     background_color: '#fff7f7'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Cleaning Your Antiques
+    content_markdown: >-
+      #### Cleaning Your Antiques
+
+
+      * Cleaning should be minimal. Cleaning too much will get rid of the
+      ***patina*** and reduce the antique's value.
+        * ***Patina***\: Thin layer that variously forms on the surface of copper, brass, bronze and similar metals, or certain stones, and wooden furniture, or any similar acquired change of a surface through age and exposure.
+      * Lightly wiping down surfaces with water, a rag, and a small amount of
+      soap is the safest way to clean antiques.
+
+      * More intensive cleaning with vinegar, denatured alcohol, and other
+      materials is also acceptable but should be avoided
     background_color: '#fff7f7'
     background_image:
     background_size: cover
