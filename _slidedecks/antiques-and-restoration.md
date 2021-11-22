@@ -150,9 +150,6 @@ slides:
 
       [Image
       Source](https://pixels.com/featured/a-victorian-sitting-room-with-electric-mary-evans-picture-library.html)
-
-
-      &nbsp;
     background_color: '#fff7f7'
     background_image: >-
       /uploads/antiques-and-restoration/a-victorian-sitting-room-with-electric-mary-evans-picture-library.jpg
