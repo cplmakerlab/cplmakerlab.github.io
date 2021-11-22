@@ -32,10 +32,10 @@ slides:
 
 
       * Antique: 100 years old or more
-
+        * The term originally only referred to goods made before 1830, prior to mass production in the US
       * Vintage: 50 years or more
 
-      * Retro: Refers to anything that immitates an older style, the item does
+      * Retro: Refers to anything that imitates an older style, the item does
       not have to genuinely be from said time period.&nbsp;
     background_color: '#fff7f7'
     background_image:
