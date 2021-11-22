@@ -76,7 +76,7 @@ slides:
     background_size: contain
   - title: Just Answer Antiques
     content_markdown: >-
-      ## Just Answer Antiques
+      ## Just Answer&nbsp;
 
 
       * Ask questions directly to antique dealers, lawyers, doctors,
@@ -114,6 +114,66 @@ slides:
     background_size: cover
   - title: Antique Storage
     content_markdown: '## Storage'
+    background_color: '#fff7f7'
+    background_image:
+    background_size: cover
+  - title: Items in Use
+    content_markdown: >-
+      #### Items in Use
+
+
+      * Keep antiques away from windows. Rotate items incrementally over time to
+      reduce irregular sun bleaching. Curtains can help.
+        * Grandfather clocks are often the most sun-damaged antique.&nbsp;
+      * Cover surfaces with cloth to reduce scratches.&nbsp;
+    background_color: '#fff7f7'
+    background_image:
+    background_size: cover
+  - title: Items in Storage
+    content_markdown: >-
+      #### Items in Storage
+
+
+      * Cover with a sheet and keep items away from the window.&nbsp;
+
+      * Check on stored antiques at least once a year to monitor for termites
+      and water damage.&nbsp;
+
+      * Stored wooden furniture still needs to be waxed once a year.
+    background_color: '#fff7f7'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown: >-
+      #### Familiar?
+
+
+      [Image
+      Source](https://pixels.com/featured/a-victorian-sitting-room-with-electric-mary-evans-picture-library.html)
+
+
+      &nbsp;
+    background_color: '#fff7f7'
+    background_image: >-
+      /uploads/antiques-and-restoration/a-victorian-sitting-room-with-electric-mary-evans-picture-library.jpg
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#fff7f7'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#fff7f7'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#fff7f7'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
     background_color: '#fff7f7'
     background_image:
     background_size: cover
