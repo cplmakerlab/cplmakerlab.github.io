@@ -26,8 +26,17 @@ slides:
     background_color: '#fff7f7'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Differences
+    content_markdown: >-
+      ## Differences
+
+
+      * Antique: 100 years old or more
+
+      * Vintage: 50 years or more
+
+      * Retro: Refers to anything that immitates an older style, the item does
+      not have to genuinely be from said time period.&nbsp;
     background_color: '#fff7f7'
     background_image:
     background_size: cover
