@@ -159,6 +159,14 @@ slides:
     background_color: '#fff7f7'
     background_image:
     background_size: cover
+  - title:
+    content_markdown: >-
+      The following information most applies to wooden furniture. Metal is best
+      left alone, unless it is severely rusting. Vast information exists online
+      about how to safely clean different types of antiques.&nbsp;
+    background_color: '#fff7f7'
+    background_image:
+    background_size: cover
   - title: Cleaning Your Antiques
     content_markdown: >-
       #### Cleaning Your Antiques
@@ -168,25 +176,24 @@ slides:
       ***patina*** and reduce the antique's value.
         * ***Patina***\: Thin layer that variously forms on the surface of copper, brass, bronze and similar metals, or certain stones, and wooden furniture, or any similar acquired change of a surface through age and exposure.
       * Lightly wiping down surfaces with water, a rag, and a small amount of
-      soap is the safest way to clean antiques.
+      soap is the safest way to clean antiques. Other methods: vinegar,
+      denatured alcohol&nbsp;
+    background_color: '#fff7f7'
+    background_image:
+    background_size: cover
+  - title: Dusting
+    content_markdown: |-
+      #### Dusting
 
-      * More intensive cleaning with vinegar, denatured alcohol, and other
-      materials is also acceptable but should be avoided
+      * Dusting&nbsp;
     background_color: '#fff7f7'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
-    background_color: '#fff7f7'
-    background_image:
-    background_size: cover
-  - title:
-    content_markdown:
-    background_color: '#fff7f7'
-    background_image:
-    background_size: cover
-  - title:
-    content_markdown:
+  - title: 'Waxing '
+    content_markdown: |-
+      #### Waxing
+
+      * Wood Furniture needs to be w
     background_color: '#fff7f7'
     background_image:
     background_size: cover
