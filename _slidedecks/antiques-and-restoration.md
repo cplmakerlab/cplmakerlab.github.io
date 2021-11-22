@@ -105,6 +105,74 @@ slides:
     background_image:
     background_size: cover
   - title:
+    content_markdown: |-
+      ## Antique Care
+
+      Storage, Cleaning, Restoration & Repair
+    background_color: '#fff7f7'
+    background_image:
+    background_size: cover
+  - title: Antique Storage
+    content_markdown: '## Storage'
+    background_color: '#fff7f7'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#fff7f7'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#fff7f7'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#fff7f7'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#fff7f7'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#fff7f7'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#fff7f7'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#fff7f7'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#fff7f7'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#fff7f7'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#fff7f7'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#fff7f7'
+    background_image:
+    background_size: cover
+  - title:
     content_markdown:
     background_color: '#fff7f7'
     background_image:
