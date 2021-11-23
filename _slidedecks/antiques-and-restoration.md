@@ -273,6 +273,11 @@ slides:
     background_color: '#fff7f7'
     background_image: /uploads/antiques-and-restoration/2018-01-8.jpg
     background_size: cover
+  - title: Upholstery
+    content_markdown: '## Upholstery'
+    background_color: '#fff7f7'
+    background_image: /uploads/antiques-and-restoration/capture.PNG
+    background_size: contain
   - title: Selling
     content_markdown: '## Selling'
     background_color: '#fff7f7'
