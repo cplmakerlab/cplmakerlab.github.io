@@ -287,17 +287,17 @@ slides:
     content_markdown:
     background_color: '#fff7f7'
     background_image: /uploads/antiques-and-restoration/1920px-ebay-logo-svg.png
-    background_size: cover
+    background_size: contain
   - title: Facebook
     content_markdown:
     background_color: '#fff7f7'
-    background_image: /uploads/antiques-and-restoration/facebook-logo-2019-svg.png
+    background_image: /uploads/antiques-and-restoration/facebook-logo-700x394.png
     background_size: contain
   - title: Offerup
     content_markdown:
     background_color: '#fff7f7'
     background_image: /uploads/antiques-and-restoration/1920px-green-ou-logotag.png
-    background_size: cover
+    background_size: contain
   - title: Questions?
     content_markdown: '## Questions?'
     background_color: '#fff7f7'
