@@ -302,8 +302,8 @@ slides:
     background_color: '#fff7f7'
     background_image: /uploads/antiques-and-restoration/1920px-green-ou-logotag.png
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Questions?
+    content_markdown: '## Questions?'
     background_color: '#fff7f7'
     background_image:
     background_size: cover
