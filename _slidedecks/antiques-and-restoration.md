@@ -86,7 +86,7 @@ slides:
 
       * Cancel your membership after one week in order to avoid the larger fee.
 
-      * .They can give you information on the cost, style, origin, and time
+      * They can give you information on the cost, style, origin, and time
       period of your antiques.
     background_color: '#fff7f7'
     background_image:
