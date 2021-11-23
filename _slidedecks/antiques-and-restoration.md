@@ -214,13 +214,11 @@ slides:
     background_color: '#fff7f7'
     background_image:
     background_size: cover
-  - title: Restoration & Repair
-    content_markdown: '## Restoration & Repair'
-    background_color: '#fff7f7'
-    background_image:
-    background_size: cover
   - title: Restoration
-    content_markdown: '#### Restoration is preferable to refinishing&nbsp;'
+    content_markdown: |-
+      #### Restoration vs Repair
+
+      Restoration is preferable to refinishing&nbsp;
     background_color: '#fff7f7'
     background_image:
     background_size: cover
@@ -246,25 +244,36 @@ slides:
     background_color: '#fff7f7'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Restoration
+    content_markdown: '## Restoration'
     background_color: '#fff7f7'
     background_image:
     background_size: cover
   - title:
-    content_markdown:
+    content_markdown: |-
+      ## Furniture: Tighlman Chicago
+
+      &nbsp;
+
+      &nbsp;
     background_color: '#fff7f7'
-    background_image:
+    background_image: /uploads/antiques-and-restoration/image-asset.jpeg
     background_size: cover
-  - title:
-    content_markdown:
+  - title: General Restoration
+    content_markdown: |-
+      ## General Restoration: Evanstonia
+
+      6417 N Ravenswood Ave, Chicago, IL 60640
     background_color: '#fff7f7'
-    background_image:
+    background_image: /uploads/antiques-and-restoration/mainimage.png
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Rewiring
+    content_markdown: |-
+      ## Rewiring: A Lamp and Fixture Corp.
+
+      3181 N Elston Ave, Chicago, IL 60618
     background_color: '#fff7f7'
-    background_image:
+    background_image: /uploads/antiques-and-restoration/2018-01-8.jpg
     background_size: cover
   - title:
     content_markdown:
