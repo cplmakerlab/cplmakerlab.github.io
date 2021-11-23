@@ -253,6 +253,8 @@ slides:
     content_markdown: |-
       ## Furniture: Tighlman Chicago
 
+      SW Burbs
+
       &nbsp;
 
       &nbsp;
@@ -275,35 +277,30 @@ slides:
     background_color: '#fff7f7'
     background_image: /uploads/antiques-and-restoration/2018-01-8.jpg
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Selling
+    content_markdown: '## Selling'
     background_color: '#fff7f7'
     background_image:
     background_size: cover
   - title:
     content_markdown:
     background_color: '#fff7f7'
-    background_image:
-    background_size: cover
-  - title:
+    background_image: /uploads/antiques-and-restoration/etsy-logo-svg.png
+    background_size: contain
+  - title: Ebay
     content_markdown:
     background_color: '#fff7f7'
-    background_image:
+    background_image: /uploads/antiques-and-restoration/1920px-ebay-logo-svg.png
     background_size: cover
-  - title:
+  - title: Facebook
     content_markdown:
     background_color: '#fff7f7'
-    background_image:
-    background_size: cover
-  - title:
+    background_image: /uploads/antiques-and-restoration/facebook-logo-2019-svg.png
+    background_size: contain
+  - title: Offerup
     content_markdown:
     background_color: '#fff7f7'
-    background_image:
-    background_size: cover
-  - title:
-    content_markdown:
-    background_color: '#fff7f7'
-    background_image:
+    background_image: /uploads/antiques-and-restoration/1920px-green-ou-logotag.png
     background_size: cover
   - title:
     content_markdown:
