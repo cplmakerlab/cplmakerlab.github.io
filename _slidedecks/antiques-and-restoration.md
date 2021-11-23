@@ -254,10 +254,6 @@ slides:
       ## Furniture: Tighlman Chicago
 
       SW Burbs
-
-      &nbsp;
-
-      &nbsp;
     background_color: '#fff7f7'
     background_image: /uploads/antiques-and-restoration/image-asset.jpeg
     background_size: cover
