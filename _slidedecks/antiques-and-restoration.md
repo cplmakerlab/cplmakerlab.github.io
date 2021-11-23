@@ -50,8 +50,8 @@ slides:
       ## Museums
 
 
-      ([Image
-      source](https://www.chicagotribune.com/columns/ct-met-art-institute-architecture-exhibition-kamin-0828-20160826-column.html))
+      [Image
+      source](https://www.chicagotribune.com/columns/ct-met-art-institute-architecture-exhibition-kamin-0828-20160826-column.html)
     background_color: '#fff7f7'
     background_image: /uploads/antiques-and-restoration/mwj7427ebbdfrjysof4uajocd4.webp
     background_size: cover
