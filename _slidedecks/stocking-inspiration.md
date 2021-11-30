@@ -14,10 +14,12 @@ slides:
     background_image: /uploads/stocking-inspiration/7195zyyjgvl--ac-sl1500.jpg
     background_size: contain
   - title:
-    content_markdown:
+    content_markdown: >-
+      [Image
+      Source](https://www.etsy.com/listing/63114742/extra-large-snowman-christmas-stocking)
     background_color: '#1ea547'
-    background_image:
-    background_size: cover
+    background_image: /uploads/stocking-inspiration/il-794xn-390162722-c7sk.webp
+    background_size: contain
   - title:
     content_markdown:
     background_color: '#1ea547'
