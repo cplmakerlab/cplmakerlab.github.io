@@ -23,7 +23,8 @@ slides:
       &nbsp;
 
 
-      https://www.amazon.com/Creative-Co-Op-Cream-Wool-Stocking/dp/B07G2YT8VB?pldnSite=1
+      [Image
+      Source](https://www.amazon.com/Creative-Co-Op-Cream-Wool-Stocking/dp/B07G2YT8VB?pldnSite=1)
     background_color: '#1ea547'
     background_image: /uploads/stocking-inspiration/7195zyyjgvl--ac-sl1500.jpg
     background_size: contain
