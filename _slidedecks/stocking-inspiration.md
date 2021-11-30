@@ -35,13 +35,13 @@ slides:
   - title:
     content_markdown:
     background_color: '#1ea547'
-    background_image: /uploads/stocking-inspiration/7195zyyjgvl--ac-sl1500.jpg
+    background_image: /uploads/stocking-inspiration/download.jpeg
     background_size: contain
   - title:
     content_markdown:
     background_color: '#1ea547'
-    background_image:
-    background_size: cover
+    background_image: /uploads/stocking-inspiration/7195zyyjgvl--ac-sl1500.jpg
+    background_size: contain
   - title:
     content_markdown:
     background_color: '#1ea547'
