@@ -20,8 +20,8 @@ slides:
   - title:
     content_markdown:
     background_color: '#1ea547'
-    background_image:
-    background_size: cover
+    background_image: /uploads/stocking-inspiration/il-794xn-390162722-c7sk.webp
+    background_size: contain
   - title:
     content_markdown:
     background_color: '#1ea547'
