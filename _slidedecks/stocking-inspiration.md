@@ -11,14 +11,14 @@ slides:
       [Image
       Source](https://www.amazon.com/Creative-Co-Op-Cream-Wool-Stocking/dp/B07G2YT8VB?pldnSite=1)
     background_color: '#1ea547'
-    background_image: /uploads/stocking-inspiration/7195zyyjgvl--ac-sl1500.jpg
+    background_image:
     background_size: contain
   - title:
     content_markdown: >-
       [Image
       Source](https://www.etsy.com/listing/63114742/extra-large-snowman-christmas-stocking)
     background_color: '#1ea547'
-    background_image: /uploads/stocking-inspiration/il-794xn-390162722-c7sk.webp
+    background_image:
     background_size: contain
   - title:
     content_markdown:
