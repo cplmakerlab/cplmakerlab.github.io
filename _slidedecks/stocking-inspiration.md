@@ -8,21 +8,6 @@ slides:
     background_size: cover
   - title:
     content_markdown: >-
-      &nbsp;
-
-
-      &nbsp;
-
-
-      &nbsp;
-
-
-      &nbsp;
-
-
-      &nbsp;
-
-
       [Image
       Source](https://www.amazon.com/Creative-Co-Op-Cream-Wool-Stocking/dp/B07G2YT8VB?pldnSite=1)
     background_color: '#1ea547'
