@@ -6,9 +6,7 @@ slides:
     background_color: '#7b7b7b'
     background_image:
   - title: What is Coding
-    content_markdown: >-
-      ## Coding: The activity of writing computer programs using a programming
-      language.&nbsp;
+    content_markdown: '## What is coding?'
     background_color: '#7b7b7b'
     background_image:
   - title: Java
