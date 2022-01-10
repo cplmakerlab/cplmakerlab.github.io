@@ -5,12 +5,12 @@ slides:
     content_markdown: '## Learning to Code in Chicago'
     background_color: '#7b7b7b'
     background_image:
-  - title: "\_PROGRAMMING LANGUAGES"
-    content_markdown: '## &nbsp;PROGRAMMING LANGUAGES'
-    background_color: '#7b7b7b'
-    background_image:
   - title: What is Coding
     content_markdown: '## What is coding?'
+    background_color: '#7b7b7b'
+    background_image:
+  - title: "\_PROGRAMMING LANGUAGES"
+    content_markdown: '## &nbsp;PROGRAMMING LANGUAGES'
     background_color: '#7b7b7b'
     background_image:
   - title: Java
