@@ -149,7 +149,8 @@ slides:
   - title: Google Partnership
     content_markdown:
     background_color: '#7b7b7b'
-    background_image: /uploads/learning-to-code-in-chicago/google.PNG
+    background_image: >-
+      /uploads/learning-to-code-in-chicago/screen-shot-2022-01-10-at-2-47-43-pm.png
     background_size: contain
   - title: Google IT Support Professional Certificate Launch your career in IT
     content_markdown: >-
