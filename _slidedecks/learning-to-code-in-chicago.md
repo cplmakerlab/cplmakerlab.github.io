@@ -79,6 +79,10 @@ slides:
       [Image Source](https://unsplash.com/photos/f77Bh3inUpE)
     background_color: '#7b7b7b'
     background_image:
+  - title: What other jobs use coding?
+    content_markdown: '### What other jobs use coding?'
+    background_color: '#7b7b7b'
+    background_image:
   - title: Which programming language should you learn?
     content_markdown: >-
       ### Which programming language should you learn?&nbsp;
