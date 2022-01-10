@@ -115,6 +115,9 @@ slides:
     background_image:
   - title: Certifications vs University Programs
     content_markdown: >-
+      &nbsp;
+
+
       **Certification Program:** A certificate demonstrates you have a single
       skill, often not granted by a university. Often take a few weeks to
       several months to complete.
