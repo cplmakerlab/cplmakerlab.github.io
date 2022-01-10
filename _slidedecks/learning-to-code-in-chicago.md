@@ -261,9 +261,7 @@ slides:
     background_color: '#7b7b7b'
     background_image:
   - title: Free Code Camp Certification Info
-    content_markdown: >-
-      ## What is an extra benefit of creating projects as part of free code
-      camp?
+    content_markdown: '## When coding, what is an extra benefit of creating projects?'
     background_color: '#7b7b7b'
     background_image:
   - title: Free Code Camp Certifications
