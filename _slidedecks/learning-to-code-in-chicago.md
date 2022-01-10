@@ -5,6 +5,10 @@ slides:
     content_markdown: '## Learning to Code in Chicago'
     background_color: '#7b7b7b'
     background_image:
+  - title: "\_PROGRAMMING LANGUAGES"
+    content_markdown: '## &nbsp;PROGRAMMING LANGUAGES'
+    background_color: '#7b7b7b'
+    background_image:
   - title: What is Coding
     content_markdown: '## What is coding?'
     background_color: '#7b7b7b'
@@ -55,6 +59,18 @@ slides:
     background_image: >-
       /uploads/learning-to-code-in-chicago/main-qimg-b4d8dfe1de991041fdaf15df8549de93-c.jpg
     background_size: contain
+  - title: How do you decide which language you should learn?
+    content_markdown: >-
+      ### How do you pick which language to learn?
+
+
+      [Image Source](https://unsplash.com/photos/f77Bh3inUpE)
+
+
+      ![](/uploads/learning-to-code-in-chicago/photo-1555066931-4365d14bab8c.jpeg){:
+      width="1740" height="1160"}
+    background_color: '#7b7b7b'
+    background_image:
   - title: Which programming language should you learn?
     content_markdown: >-
       ### Which programming language should you learn?&nbsp;
