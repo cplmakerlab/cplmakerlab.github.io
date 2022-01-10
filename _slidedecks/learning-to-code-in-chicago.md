@@ -146,11 +146,6 @@ slides:
     background_image: >-
       /uploads/learning-to-code-in-chicago/screen-shot-2022-01-10-at-12-55-16-pm.png
     background_size: contain
-  - title: CCC Bootcamps
-    content_markdown:
-    background_color: '#7b7b7b'
-    background_image: /uploads/learning-to-code-in-chicago/bootcamps.PNG
-    background_size: contain
   - title: Google Partnership
     content_markdown:
     background_color: '#7b7b7b'
@@ -263,6 +258,10 @@ slides:
     content_markdown: >-
       ## Each certificate curriculum takes 300 hours to complete by submitting 5
       required projects.
+    background_color: '#7b7b7b'
+    background_image:
+  - title: Free Code Camp Certification Info
+    content_markdown: '## What is an extra benefit of creating projects while coding?'
     background_color: '#7b7b7b'
     background_image:
   - title: Free Code Camp Certifications
