@@ -2,7 +2,15 @@
 title: Learning to Code in Chicago
 slides:
   - title: Learning to Code in Chicago
-    content_markdown: '## Learning to Code in Chicago'
+    content_markdown: >-
+      ## Learning to Code in Chicago
+
+
+      ![](/uploads/learning-to-code-in-chicago/photo-1517694712202-14dd9538aa97.jpeg){:
+      width="1740" height="1160"}
+
+
+      [Image Source](https://unsplash.com/photos/95YRwf6CNw8)
     background_color: '#7b7b7b'
     background_image:
   - title: What is Coding
