@@ -162,10 +162,9 @@ slides:
       * Need an average of 6-8 hours of study each week for up to 6 months to
       complete coursework&nbsp;
 
-      * Are expected to take the certification exam upon course completion
+      * Students are expected to take the certification exam upon completion
 
-      * Will assist in shaping the program’s future design and will be required
-      to participate in feedback surveys during the span of the program&nbsp;
+      * It is a synchronous class that meets weekly with an instructor/coach
     background_color: '#7b7b7b'
     background_image:
   - title: Code Platoon
