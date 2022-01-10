@@ -64,11 +64,11 @@ slides:
       ### How do you pick which language to learn?
 
 
-      [Image Source](https://unsplash.com/photos/f77Bh3inUpE)
-
-
       ![](/uploads/learning-to-code-in-chicago/photo-1555066931-4365d14bab8c.jpeg){:
       width="1740" height="1160"}
+
+
+      [Image Source](https://unsplash.com/photos/f77Bh3inUpE)
     background_color: '#7b7b7b'
     background_image:
   - title: Which programming language should you learn?
@@ -123,10 +123,9 @@ slides:
       &nbsp;
 
 
-      **University Program:** A degree demonstrates you have been educated in a
-      variety subjects. Degrees take longer, there are different requirements
-      for an Associates Degree (generally 2 years) and a Bachelors degree
-      (generally 4 years).
+      **University Program:**&nbsp;Degrees take longer, there are different
+      requirements for an Associates Degree (generally 2 years) and a Bachelors
+      degree (generally 4 years).
 
 
       &nbsp;
