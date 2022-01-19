@@ -84,8 +84,8 @@ slides:
       ### Which programming language should you learn?&nbsp;
 
 
-      ![](/uploads/learning-to-code-in-chicago/screen-shot-2022-01-19-at-4-50-59-pm.png){:
-      width="1276" height="444"}
+      ![](/uploads/learning-to-code-in-chicago/screen-shot-2022-01-19-at-4-57-13-pm.png){:
+      width="1286" height="464"}
     background_color: '#7b7b7b'
     background_image:
   - title: Which programming language should you learn?
