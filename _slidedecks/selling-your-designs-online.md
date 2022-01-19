@@ -254,20 +254,12 @@ slides:
       /uploads/selling-your-designs-online/screen-shot-2022-01-19-at-2-45-28-pm.png
     background_size: contain
   - title: 'Redbubble: Pikaole'
-    content_markdown: |-
-      ## [Pikaole](https://www.redbubble.com/people/pikaole/shop?ref=typeahead)
-
-      &nbsp;
+    content_markdown: '## [Pikaole](https://www.redbubble.com/people/pikaole/shop?ref=typeahead)'
     background_color: '#ffc1b4'
     background_image: /uploads/selling-your-designs-online/2880px-redbubble-logo-svg.png
     background_size: contain
   - title: 'Redbubble: Obinsun'
-    content_markdown: |-
-      ## [Obinsun](redbubble.com/people/obinsun/shop?ref=typeahead)
-
-      &nbsp;
-
-      &nbsp;
+    content_markdown: '## [Obinsun](redbubble.com/people/obinsun/shop?ref=typeahead)'
     background_color: '#ffc1b4'
     background_image: >-
       /uploads/selling-your-designs-online/screen-shot-2022-01-19-at-2-51-58-pm.png
