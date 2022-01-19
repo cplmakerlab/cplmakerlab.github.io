@@ -245,7 +245,7 @@ slides:
     background_image: /uploads/selling-your-designs-online/desktop.PNG
   - title: Redbubble
     content_markdown: |-
-      ## &nbsp;
+      ## Redbubble
 
       &nbsp;
     background_color: '#ffc1b4'
