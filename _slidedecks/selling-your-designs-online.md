@@ -296,12 +296,8 @@ slides:
       be factored in to calculate what margin of the sale goes to artists. More
       info: [rebubble sale
       prices](https://help.redbubble.com/hc/en-us/articles/202270799-How-much-do-I-earn-from-my-sales-)
-
-
-      ![](/uploads/selling-your-designs-online/ex--3-en-us.png){: width="550"
-      height="120"}
     background_color: '#ffc1b4'
-    background_image:
+    background_image: /uploads/selling-your-designs-online/ex--3-en-us.png
   - title: Questions
     content_markdown: '## Questions'
     background_color: '#ffc1b4'
