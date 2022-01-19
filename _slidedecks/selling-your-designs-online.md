@@ -249,7 +249,7 @@ slides:
     background_image: >-
       /uploads/selling-your-designs-online/screen-shot-2022-01-19-at-2-45-28-pm.png
     background_size: contain
-  - title: Redbubble
+  - title: 'Redbubble: Pikaole'
     content_markdown: |-
       ## Redbubble
 
@@ -257,7 +257,22 @@ slides:
     background_color: '#ffc1b4'
     background_image: /uploads/selling-your-designs-online/2880px-redbubble-logo-svg.png
     background_size: contain
-  - title: Facebook Marketplace Pros
+  - title: Redbubble Cons
+    content_markdown: >-
+      Cons
+
+
+      \- Most people already have an account.&nbsp;
+
+
+      \- No seller fees with local pickup.&nbsp;
+
+
+      ![](/uploads/selling-your-designs-online/unnamed-file.png){: width="730"
+      height="464"}
+    background_color: '#ffc1b4'
+    background_image:
+  - title: Redbubble Pros
     content_markdown: >-
       Pros
 
