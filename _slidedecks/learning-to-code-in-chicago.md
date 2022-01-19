@@ -84,6 +84,15 @@ slides:
       ### Which programming language should you learn?&nbsp;
 
 
+      ![](/uploads/learning-to-code-in-chicago/screen-shot-2022-01-19-at-4-50-59-pm.png){:
+      width="1276" height="444"}
+    background_color: '#7b7b7b'
+    background_image:
+  - title: Which programming language should you learn?
+    content_markdown: >-
+      ### Which programming language should you learn?&nbsp;
+
+
       * Web-based startups often use **Python** and **JavaScript**.
 
       * Larger companies tend to develop their internal software applications
@@ -372,5 +381,3 @@ slides:
     background_color: '#7b7b7b'
     background_image:
 ---
-
-
