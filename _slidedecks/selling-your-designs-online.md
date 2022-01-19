@@ -245,13 +245,12 @@ slides:
     background_image: /uploads/selling-your-designs-online/desktop.PNG
   - title: Redbubble
     content_markdown: |-
-      ## Redbubble
+      ## &nbsp;
 
       &nbsp;
     background_color: '#ffc1b4'
-    background_image: >-
-      /uploads/selling-your-designs-online/screen-shot-2022-01-19-at-2-39-06-pm.png
-    background_size: cover
+    background_image: /uploads/selling-your-designs-online/2880px-redbubble-logo-svg.png
+    background_size: contain
   - title: Teespring
     content_markdown: '## Teespring&nbsp;'
     background_color: '#ffc1b4'
