@@ -14,10 +14,7 @@ slides:
     background_color: '#ffc1b4'
     background_image:
   - title: Facebook Market Place
-    content_markdown: |-
-      ## Facebook Marketplace
-
-      &nbsp;
+    content_markdown: '## Facebook Marketplace'
     background_color: '#ffc1b4'
     background_image: /uploads/selling-your-designs-online/facebook-logo.png
   - title: Facebook Marketplace Pros
@@ -246,6 +243,15 @@ slides:
     content_markdown: '## Print All Over Me (Zebra Katz)'
     background_color: '#ffc1b4'
     background_image: /uploads/selling-your-designs-online/desktop.PNG
+  - title: Redbubble
+    content_markdown: |-
+      ## Redbubble
+
+      &nbsp;
+    background_color: '#ffc1b4'
+    background_image: >-
+      /uploads/selling-your-designs-online/screen-shot-2022-01-19-at-2-39-06-pm.png
+    background_size: cover
   - title: Teespring
     content_markdown: '## Teespring&nbsp;'
     background_color: '#ffc1b4'
@@ -255,5 +261,3 @@ slides:
     background_color: '#ffc1b4'
     background_image:
 ---
-
-
