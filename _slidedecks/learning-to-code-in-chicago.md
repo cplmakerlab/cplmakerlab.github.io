@@ -357,7 +357,7 @@ slides:
       &nbsp;
     background_color: '#7b7b7b'
     background_image:
-  - title: Free Code Camp Pros & Cons
+  - title: Udacity Pros & Cons
     content_markdown: >-
       ## Udacity
 
@@ -372,6 +372,13 @@ slides:
       monthly subscription instead of paying by course is not suitable for
       everyone.&nbsp; |
 
+
+      &nbsp;
+    background_color: '#7b7b7b'
+    background_image:
+  - title: LinkedIn Learning
+    content_markdown: |-
+      ## LinkedinLearning
 
       &nbsp;
     background_color: '#7b7b7b'
