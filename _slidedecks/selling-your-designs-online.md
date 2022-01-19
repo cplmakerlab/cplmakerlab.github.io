@@ -10,7 +10,7 @@ slides:
     background_color: '#ffc1b4'
     background_image:
   - title: Platforms
-    content_markdown: '## Platforms&nbsp;'
+    content_markdown: '## General Marketplaces'
     background_color: '#ffc1b4'
     background_image:
   - title: Facebook Market Place
