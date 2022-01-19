@@ -244,6 +244,12 @@ slides:
     background_color: '#ffc1b4'
     background_image: /uploads/selling-your-designs-online/desktop.PNG
   - title: Redbubble
+    content_markdown: '## [Pikaole](https://www.redbubble.com/people/pikaole/shop?ref=typeahead)'
+    background_color: '#ffc1b4'
+    background_image: >-
+      /uploads/selling-your-designs-online/screen-shot-2022-01-19-at-2-45-28-pm.png
+    background_size: contain
+  - title: Redbubble
     content_markdown: |-
       ## Redbubble
 
@@ -251,6 +257,21 @@ slides:
     background_color: '#ffc1b4'
     background_image: /uploads/selling-your-designs-online/2880px-redbubble-logo-svg.png
     background_size: contain
+  - title: Facebook Marketplace Pros
+    content_markdown: >-
+      Pros
+
+
+      \- Most people already have an account.&nbsp;
+
+
+      \- No seller fees with local pickup.&nbsp;
+
+
+      ![](/uploads/selling-your-designs-online/unnamed-file.png){: width="730"
+      height="464"}
+    background_color: '#ffc1b4'
+    background_image:
   - title: Teespring
     content_markdown: '## Teespring&nbsp;'
     background_color: '#ffc1b4'
