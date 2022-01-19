@@ -243,6 +243,10 @@ slides:
     content_markdown: '## Print All Over Me (Zebra Katz)'
     background_color: '#ffc1b4'
     background_image: /uploads/selling-your-designs-online/desktop.PNG
+  - title: Teespring
+    content_markdown: '## Teespring&nbsp;'
+    background_color: '#ffc1b4'
+    background_image: /uploads/selling-your-designs-online/teespring.PNG
   - title: Redbubble
     content_markdown: '## Redbubble'
     background_color: '#ffc1b4'
@@ -298,10 +302,6 @@ slides:
       height="464"}
     background_color: '#ffc1b4'
     background_image:
-  - title: Teespring
-    content_markdown: '## Teespring&nbsp;'
-    background_color: '#ffc1b4'
-    background_image: /uploads/selling-your-designs-online/teespring.PNG
   - title: Questions
     content_markdown: '## Questions'
     background_color: '#ffc1b4'
