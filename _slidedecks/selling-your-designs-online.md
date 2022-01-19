@@ -285,11 +285,9 @@ slides:
 
 
       \- Complex selling metrics. Baseprice, markup, and discounts, all need to
-      be factored in to calculate what margin of the sale goes to artists.&nbsp;
-
-
-      ![](/uploads/selling-your-designs-online/unnamed-file.png){: width="730"
-      height="464"}
+      be factored in to calculate what margin of the sale goes to artists. More
+      info: [rebubble sale
+      prices](https://help.redbubble.com/hc/en-us/articles/202270799-How-much-do-I-earn-from-my-sales-)
     background_color: '#ffc1b4'
     background_image:
   - title: Questions
