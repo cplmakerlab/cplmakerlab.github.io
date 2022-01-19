@@ -269,14 +269,11 @@ slides:
       Pros
 
 
-      \- Large variety of items: clothing
+      \- Large variety of items: clothing, phone cases, greeting cards, wall
+      art, & more
 
 
-      \- No seller fees with local pickup.&nbsp;
-
-
-      ![](/uploads/selling-your-designs-online/unnamed-file.png){: width="730"
-      height="464"}
+      \- East upload process
     background_color: '#ffc1b4'
     background_image:
   - title: Redbubble Cons
@@ -284,10 +281,11 @@ slides:
       Cons
 
 
-      \- Most people already have an account.&nbsp;
+      \- High saturation & competition
 
 
-      \- No seller fees with local pickup.&nbsp;
+      \- Complex selling metrics. Baseprice, markup, and discounts, all need to
+      be factored in to calculate what margin of the sale goes to artists.&nbsp;
 
 
       ![](/uploads/selling-your-designs-online/unnamed-file.png){: width="730"
