@@ -2,7 +2,15 @@
 title: Selling your Designs Online
 slides:
   - title: Selling your Designs Online
-    content_markdown: '## Selling your Designs Online'
+    content_markdown: >-
+      ## Selling your Designs Online
+
+
+      ![](/uploads/selling-your-designs-online/photo-1485217988980-11786ced9454.jpeg){:
+      width="1740" height="1160"}
+
+
+      [Image Source](https://unsplash.com/photos/WHWYBmtn3_0)
     background_color: '#ffc1b4'
     background_image:
   - title: Question 1
