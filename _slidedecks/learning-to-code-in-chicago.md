@@ -88,26 +88,6 @@ slides:
       width="1286" height="464"}
     background_color: '#7b7b7b'
     background_image:
-  - title: Which programming language should you learn?
-    content_markdown: >-
-      ### Which programming language should you learn?&nbsp;
-
-
-      * Web-based startups often use **Python** and **JavaScript**.
-
-      * Larger companies tend to develop their internal software applications
-      using **C\#** or **Java** and their Web applications using **PHP**.
-
-      * Data analytics typically use&nbsp;**R** and **MATLAB**.
-
-      * Embedded devices use **C**, **C++**, or **Rust**.
-
-      * Applications that run on the cloud use&nbsp;**Go** or
-      **Scala**.&nbsp;&nbsp;
-
-      * Mobile applications increasingly use **Swift** or **Kotlin**.
-    background_color: '#7b7b7b'
-    background_image:
   - title: Most Popular Languages
     content_markdown:
     background_color: '#7b7b7b'
