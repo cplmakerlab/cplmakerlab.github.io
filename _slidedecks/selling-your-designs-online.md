@@ -125,10 +125,6 @@ slides:
 
       \- You need to establish a legal entity for your company and provide an
       EIN to create a shop (Employer Identification Number).&nbsp;
-
-
-      ![](/uploads/selling-your-designs-online/shop-1.PNG){: width="1826"
-      height="791"}
     background_color: '#ffc1b4'
     background_image:
   - title: Other Ways to Sell
