@@ -281,7 +281,7 @@ slides:
       art, & more
 
 
-      \- East upload process
+      \- Easy upload process
 
 
       &nbsp;
@@ -293,7 +293,7 @@ slides:
       Cons
 
 
-      \- High saturation & competition
+      \- High competition
 
 
       \- Complex selling metrics. Baseprice, markup, and discounts, all need to
@@ -303,6 +303,18 @@ slides:
     background_color: '#ffc1b4'
     background_image:
     background_size: contain
+  - title: NFTs for Artists101 with Melanie Adcock
+    content_markdown: >-
+      ## NFTs for Artists101 with Melanie Adcock
+
+
+      [Link](https://www.youtube.com/watch?v=7NpP0CzFl0E&amp;t=5634s)
+
+
+      ![](/uploads/selling-your-designs-online/nfts.PNG){: width="1133"
+      height="782"}
+    background_color: '#ffc1b4'
+    background_image:
   - title: Questions
     content_markdown: '## Questions'
     background_color: '#ffc1b4'
