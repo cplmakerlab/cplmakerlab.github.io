@@ -176,7 +176,13 @@ slides:
     background_color: '#ffc1b4'
     background_image:
   - title: Should I Create a Legal Entity?
-    content_markdown: '## Should I Create a Legal Entity?'
+    content_markdown: >-
+      ## Why&nbsp; would you want to hold off on creating one in the
+      begining?&nbsp;
+    background_color: '#ffc1b4'
+    background_image:
+  - title: Should I Create a Legal Entity?
+    content_markdown: '## Should you create a legal entity?&nbsp;'
     background_color: '#ffc1b4'
     background_image:
   - title: Sole Proprietorship
