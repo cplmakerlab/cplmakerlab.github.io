@@ -190,12 +190,12 @@ slides:
       ## Sole Proprietorship&nbsp;
 
 
-      (Source:
-      https://www.moneyunder30.com/inc-llc-or-sole-proprietorship-a-quick-guide-to-business-structures-for-young-entrepreneurs)
-
-
       ![](/uploads/selling-your-designs-online/sole.PNG){: width="1045"
       height="543"}
+
+
+      [Image&nbsp;](__notset__)[Source](
+      https://www.moneyunder30.com/inc-llc-or-sole-proprietorship-a-quick-guide-to-business-structures-for-young-entrepreneurs)
 
 
       &nbsp;
@@ -208,6 +208,10 @@ slides:
 
       ![](/uploads/selling-your-designs-online/llc.PNG){: width="1056"
       height="779"}
+
+
+      [Image&nbsp;](__notset__)[Source](
+      https://www.moneyunder30.com/inc-llc-or-sole-proprietorship-a-quick-guide-to-business-structures-for-young-entrepreneurs)
     background_color: '#ffc1b4'
     background_image:
   - title: Incorporation
@@ -217,6 +221,10 @@ slides:
 
       ![](/uploads/selling-your-designs-online/inc.PNG){: width="1067"
       height="608"}
+
+
+      [Image&nbsp;](__notset__)[Source](
+      https://www.moneyunder30.com/inc-llc-or-sole-proprietorship-a-quick-guide-to-business-structures-for-young-entrepreneurs)
     background_color: '#ffc1b4'
     background_image:
   - title: Buying a Web Domain
