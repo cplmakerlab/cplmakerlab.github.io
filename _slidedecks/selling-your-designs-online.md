@@ -27,7 +27,7 @@ slides:
     background_image: /uploads/selling-your-designs-online/facebook-logo.png
   - title: Facebook Marketplace Pros
     content_markdown: >-
-      Pros
+      #### Pros
 
 
       \- Most people already have an account.&nbsp;
@@ -42,7 +42,7 @@ slides:
     background_image:
   - title: Facebook Marketplace Cons
     content_markdown: |-
-      Cons&nbsp;
+      #### Cons&nbsp;
 
       \- Not great for rare items (choose Ebay).
 
@@ -57,7 +57,7 @@ slides:
     background_image: /uploads/selling-your-designs-online/etsy-emblem.jpg
   - title: Etsy Pros
     content_markdown: >-
-      Pros
+      #### Pros
 
 
       \- Many customers looking for handmade goods, Etsy only allows for
@@ -76,7 +76,7 @@ slides:
     background_image:
   - title: Cons of Etsy
     content_markdown: >-
-      ## **Cons**
+      #### **Cons**
 
 
       **\-&nbsp;**$0.20 Listing fee, 5 % Transaction fee, 3% + $0.25 payment
@@ -94,7 +94,7 @@ slides:
       /uploads/selling-your-designs-online/5d6911e18cc2810c3cae3274-shopify-logo-600x600.jpg
   - title: Pros of Shopify
     content_markdown: >-
-      ## Pros
+      #### Pros
 
 
       \- Very professional, strong analytics tools.&nbsp;
@@ -116,7 +116,7 @@ slides:
     background_image:
   - title: Cons of Shopify
     content_markdown: >-
-      ## Cons&nbsp;
+      #### Cons&nbsp;
 
 
       \- Shopify plans range from $29.00 - $299.00 per moth, fees range from .5%
@@ -288,7 +288,7 @@ slides:
     background_size: contain
   - title: Redbubble Pros
     content_markdown: >-
-      Pros
+      #### Pros
 
 
       \- Large variety of items: clothing, phone cases, greeting cards, wall
@@ -304,7 +304,7 @@ slides:
     background_size: cover
   - title: Redbubble Cons
     content_markdown: >-
-      Cons
+      #### Cons
 
 
       \- High competition
