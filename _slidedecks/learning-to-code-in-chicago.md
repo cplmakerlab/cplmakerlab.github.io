@@ -193,6 +193,15 @@ slides:
     background_color: '#000000'
     background_image: /uploads/learning-to-code-in-chicago/free-1.PNG
     background_size: contain
+  - title: Diversify Tech
+    content_markdown: |-
+      ## Diversify&nbsp; Tech
+
+      [https://www.diversifytech.co/](https://www.diversifytech.co/)
+    background_color: '#000000'
+    background_image: >-
+      /uploads/learning-to-code-in-chicago/screen-shot-2022-01-22-at-10-13-47-am.png
+    background_size: contain
   - title: Free Online Resources
     content_markdown: '## Free Online Resources'
     background_color: '#7b7b7b'
