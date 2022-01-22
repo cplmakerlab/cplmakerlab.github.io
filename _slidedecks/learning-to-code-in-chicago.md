@@ -375,12 +375,17 @@ slides:
     background_color: '#7b7b7b'
     background_image:
   - title: LinkedIn Learning
-    content_markdown: |-
+    content_markdown: >-
       ## LinkedinLearning
+
+
+      [Link](https://www.linkedin.com/learning-login/go/validate?account=116852650&amp;redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning-login%2Fcontinue%3FauthUUID%3D09xG7oYNTYClof0wzwb7Sg%253D%253D%26forceAccount%3Dfalse&amp;authUUID=09xG7oYNTYClof0wzwb7Sg%3D%3D)
+
 
       &nbsp;
     background_color: '#7b7b7b'
-    background_image:
+    background_image: >-
+      /uploads/learning-to-code-in-chicago/screen-shot-2022-01-22-at-10-28-32-am.png
   - title: Questions
     content_markdown: '## Questions?'
     background_color: '#7b7b7b'
