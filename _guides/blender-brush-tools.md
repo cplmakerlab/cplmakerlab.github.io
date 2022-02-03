@@ -39,3 +39,9 @@ When sculpting, after a while you may feel like the brushes aren't doing anythin
 ### **White Tools:&nbsp;**
 
 **![](/uploads/blender-brush-tools/screen-shot-2022-02-03-at-3-21-09-pm.png){: width="954" height="1114"}**
+
+### **Comparing the Draw, Draw Sharp, and Clay Strips Tools**
+
+**![](/uploads/blender-brush-tools/screen-shot-2022-02-03-at-3-41-10-pm.png){: width="1342" height="1214"}**
+
+As mentioned in the guide, the&nbsp;**Draw, Draw Sharp**&nbsp;and&nbsp;**Clay Strips&nbsp;**tools each add and subtract volume in a way that is similar to a pen. The shape of the strokes are different though, being circular, triangular and rectangular respectively.&nbsp;
