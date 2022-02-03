@@ -18,11 +18,11 @@ file_attachment_path: /uploads/blender-shortcuts/logo-blender-svg.png
 
 Blender is a free open-source software that is used for 3D modeling, animation, video editing, and rendering. The Sculpting workspace in Blender is used for modeling 3-dimensional forms by manipulating meshes with brush tools. It is best for organic forms such as people, plants, animals, and other natural elements.
 
-It may not seem easier to use HotKeys at first, but think of this: would you rather click on a button to delete something or simply press “Delete” on your keyboard? HotKeys can be difficult to remember initially, but thankfully many HotKeys in Blender perform the same action in other programs. This guide organizes all of the most commonly used HotKeys into different categories.&nbsp;
+When&nbsp;
 
-**Blue Tools:** Adding and Subtracting Volume **&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Yellow Tools:** Grabbing&nbsp;
+&nbsp;
 
-**Red Tools:** Increasing and Decreasing Contrast **&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; White Tools:** Masking/ Special &nbsp;**&nbsp;**
+<table><tbody><tr><td><ul><li><strong>Blue Tools: </strong>Adding and Subtracting Volume<strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong></li><li><strong>Red Tools: </strong>Increasing and Decreasing Contrast <strong>&nbsp;</strong></li></ul></td><td><ul><li><strong>Yellow Tools: </strong>Grabbing&nbsp;<span style="background-color: transparent; color: var(--color-carbon); font-family: var(--font-family); letter-spacing: 0.01rem;">&nbsp;</span><strong style="background-color: transparent; color: var(--color-carbon); font-family: var(--font-family); letter-spacing: 0.01rem;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</strong></li><li><strong style="background-color: transparent; color: var(--color-carbon); font-family: var(--font-family); letter-spacing: 0.01rem;">White Tools: </strong><span style="background-color: transparent; color: var(--color-carbon); font-family: var(--font-family); letter-spacing: 0.01rem;">Masking/ Special &nbsp;</span><strong style="background-color: transparent; color: var(--color-carbon); font-family: var(--font-family); letter-spacing: 0.01rem;">&nbsp;</strong></li></ul></td></tr></tbody></table>
 
 ![](/uploads/blender-brush-tools/screen-shot-2022-02-03-at-11-02-46-am.png){: width="964" height="988"}
 
