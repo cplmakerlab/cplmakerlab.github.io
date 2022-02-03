@@ -32,7 +32,7 @@ When sculpting, after a while you may feel like the brushes aren't doing anythin
 
 ![](/uploads/blender-brush-tools/screen-shot-2022-02-03-at-11-03-00-am.png){: width="964" height="482"}
 
-#### **Yellow Tools**\:
+## **Yellow Tools**\:
 
 ![](/uploads/blender-brush-tools/screen-shot-2022-02-03-at-11-03-11-am.png){: width="974" height="1090"}
 
