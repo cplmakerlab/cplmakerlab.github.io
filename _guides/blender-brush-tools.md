@@ -1,6 +1,7 @@
 ---
 title: Blender Brush Tools
 categories:
+  - 3D Design
 tags:
   - Blender
   - Brush
@@ -12,6 +13,7 @@ difficulty: Easy
 time_required: '5 Minutes '
 file_attachment_path:
 ---
+
 Brief description of what this guide is about.
 
 ### Step 1
