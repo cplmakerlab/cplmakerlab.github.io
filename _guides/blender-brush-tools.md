@@ -24,7 +24,7 @@ Imagine that the mesh is a ball of clay, and each of the brush tools are things 
 
 When sculpting, after a while you may feel like the brushes aren't doing anything. This is usually because you have stretched the existing triangles in the model's mesh too much, and you need more triangles. You can increase the number of triangles by turning on&nbsp;**Dyntopo i**n the top left. Once that is turned on,&nbsp;**Blue**&nbsp;tools will increase the number of triangles as you sculpt and add more detail. &nbsp;**Dyntopo&nbsp;**will not work when using other colored brushes because only&nbsp;**Blue&nbsp;**tools add and subtract volume.&nbsp;
 
-#### **Blue Tools:**
+### **Blue Tools:**
 
 ![](/uploads/blender-brush-tools/screen-shot-2022-02-03-at-11-02-46-am.png){: width="964" height="988"}
 
