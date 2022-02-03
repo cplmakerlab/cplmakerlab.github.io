@@ -28,14 +28,14 @@ When sculpting, after a while you may feel like the brushes aren't doing anythin
 
 ![](/uploads/blender-brush-tools/screen-shot-2022-02-03-at-11-02-46-am.png){: width="964" height="988"}
 
-#### **Red Tools:**
+### **Red Tools:**
 
 ![](/uploads/blender-brush-tools/screen-shot-2022-02-03-at-11-03-00-am.png){: width="964" height="482"}
 
-## **Yellow Tools**\:
+### **Yellow Tools**\:
 
 ![](/uploads/blender-brush-tools/screen-shot-2022-02-03-at-11-03-11-am.png){: width="974" height="1090"}
 
-#### **White Tools:&nbsp;**
+### **White Tools:&nbsp;**
 
 **![](/uploads/blender-brush-tools/screen-shot-2022-02-03-at-3-21-09-pm.png){: width="954" height="1114"}**
