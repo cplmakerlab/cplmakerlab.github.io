@@ -159,18 +159,19 @@ slides:
       #### Metal
 
 
-      * Silver: Consider polishing&nbsp;
+      * Silver: Polish
 
-      * Gold: Consider polishing&nbsp;
+      * Gold: Polish
 
-      * Brass/ Bronze/ Copper:&nbsp; Consider polishing, probably leave the
+      * Brass/ Bronze/ Copper:&nbsp; Consider polishing, but probably leave the
       patina
 
       * Iron: Wash with warm water,&nbsp; scrub with kerosene, polish with steel
       wool (+rust remover), rinse thoroughly, dry with a cloth.
 
-      * Steel: Prevent rush. Consider painting, powder coating, or re-surfacing
-      steel that is&nbsp; seriously deteriorating,&nbsp;
+      * Steel: Prevent rust. Clean with vinegar and lime solution. Consider
+      painting, powder coating, or re-surfacing steel that is&nbsp; seriously
+      deteriorating,&nbsp;
     background_color: '#fff7f7'
     background_image:
     background_size: cover
