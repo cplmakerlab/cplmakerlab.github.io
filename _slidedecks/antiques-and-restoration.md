@@ -154,6 +154,26 @@ slides:
     background_image: >-
       /uploads/antiques-and-restoration/a-victorian-sitting-room-with-electric-mary-evans-picture-library.jpg
     background_size: cover
+  - title: Metal
+    content_markdown: >-
+      #### Metal
+
+
+      * Silver: Consider polishing&nbsp;
+
+      * Gold: Consider polishing&nbsp;
+
+      * Brass/ Bronze/ Copper:&nbsp; Consider polishing, probably leave the
+      patina
+
+      * Iron: Wash with warm water,&nbsp; scrub with kerosene, polish with steel
+      wool (+rust remover), rinse thoroughly, dry with a cloth.
+
+      * Steel: Prevent rush. Consider painting, powder coating, or re-surfacing
+      steel that is&nbsp; seriously deteriorating,&nbsp;
+    background_color: '#fff7f7'
+    background_image:
+    background_size: cover
   - title: Cleaning
     content_markdown: '## Cleaning'
     background_color: '#fff7f7'
@@ -316,5 +336,3 @@ tags:
   - Metal
   - Rust
 ---
-
-
