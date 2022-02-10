@@ -154,6 +154,11 @@ slides:
     background_image: >-
       /uploads/antiques-and-restoration/a-victorian-sitting-room-with-electric-mary-evans-picture-library.jpg
     background_size: cover
+  - title: Cleaning
+    content_markdown: '## Cleaning'
+    background_color: '#fff7f7'
+    background_image:
+    background_size: cover
   - title: Metal
     content_markdown: >-
       #### Metal
@@ -172,11 +177,6 @@ slides:
       * Steel: Prevent rust. Clean with vinegar and lime solution. Consider
       painting, powder coating, or re-surfacing steel that is&nbsp; seriously
       deteriorating,&nbsp;
-    background_color: '#fff7f7'
-    background_image:
-    background_size: cover
-  - title: Cleaning
-    content_markdown: '## Cleaning'
     background_color: '#fff7f7'
     background_image:
     background_size: cover
