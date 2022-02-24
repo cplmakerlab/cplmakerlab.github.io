@@ -148,33 +148,6 @@ slides:
       (woodworking, glass making).&nbsp;
     background_color: '#ffc1b4'
     background_image:
-  - title: La Kaiser
-    content_markdown: >-
-      https://www.lakaiser.com/
-
-
-      ![](/uploads/selling-your-designs-online/lakaiser.PNG){: width="1892"
-      height="900"}
-
-
-      &nbsp;
-    background_color: '#ffc1b4'
-    background_image:
-  - title: Rebirth Garments
-    content_markdown: >-
-      https://www.etsy.com/shop/RebirthGarments?page=1\#items&nbsp;
-
-
-      ![](/uploads/selling-your-designs-online/rebirth.PNG){: width="1875"
-      height="887"}
-
-
-      <div class="cms-embed" data-cms-embed=""></div>
-
-
-      &nbsp;
-    background_color: '#ffc1b4'
-    background_image:
   - title: Should I Create a Legal Entity?
     content_markdown: '## Should you create a legal entity?&nbsp;'
     background_color: '#ffc1b4'
