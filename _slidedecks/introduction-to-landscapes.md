@@ -153,7 +153,7 @@ slides:
       ## David Hockney&nbsp;
 
 
-      British, Born, 1987. Known for a variety of styles and materials, known
+      British, Born, 1937. Known for a variety of styles and materials, known
       for landscapes made out of photocollages called "joiners."
 
 
@@ -216,7 +216,7 @@ slides:
 
 
       Ethiopian, Born 1970. Uses dense abstract lines that create space in a way
-      that conveys a foreground, middleground and backgroung.&nbsp;
+      that conveys a foreground, middleground and background.
 
 
       Work 1:
@@ -290,5 +290,3 @@ slides:
     background_image:
     background_size: cover
 ---
-
-
