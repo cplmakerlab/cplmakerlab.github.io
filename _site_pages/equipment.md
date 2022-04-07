@@ -126,6 +126,15 @@ Our lab equipment includes: 3D printers, lasercutters, sewing machines, electron
     * When the VP3 file is copied to a USB thumb drive, the file can be successfully loaded into the machine.
     * Sewing time must not exceed Maker Lab time limit
 
+&nbsp;
+
+* **Brother Electroknit KH-930**
+  * Design software:&nbsp;[Img2track.exe](https://daviworks.com/knitting/)&nbsp;
+  * File formats: JPG, JPEG
+  * **DESIGN FILE PREPARATION**
+    * **​​​​​​​**JPEG: Img2track prefers bit map images in JPG or JPEG format, but many other file types work. It works bests with photographs and does not translate vector images very well.&nbsp;
+    * The lighter of your two yarn colors should be in the A slot on the carriage, the dar
+
 ## 3D Scanner
 
 * Kinect (via Skanect/ReconstructMe)
