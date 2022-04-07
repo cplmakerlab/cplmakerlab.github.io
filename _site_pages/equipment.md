@@ -133,7 +133,8 @@ Our lab equipment includes: 3D printers, lasercutters, sewing machines, electron
   * File formats: JPG, JPEG
   * **DESIGN FILE PREPARATION**
     * **​​​​​​​**JPEG: Img2track prefers bit map images in JPG or JPEG format, but many other file types work. It works bests with photographs and does not translate vector images very well.&nbsp;
-    * The lighter of your two yarn colors should be in the A slot on the carriage, the dar
+    * Image quality correlates with the width of your project. The maximum width possible is 200, smaller widths can still produce detailed knit images.&nbsp;
+    * The lighter of your two yarn colors should be in the A slot on the sinker plate, the darker of the two colors should be in the B slot.&nbsp;
 
 ## 3D Scanner
 
