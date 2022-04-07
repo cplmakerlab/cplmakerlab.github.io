@@ -72,3 +72,11 @@ The following table shows suggested lasercutter settings for various materials. 
 | Cherry Veneer (1/40") | &nbsp; | Speed: 60<br>Power: 50<br>Passes: 1 | &nbsp; |
 
 &nbsp;
+
+### Approved Electroknit KH-930 Materials
+
+The knitting machine only works with fingering weight yarn, yarn that is between weights 1 and 3. Yarn that is too thin (weight 0) will snap, and yarn that is too thick (weight 4) will clog the machine. Patrons must bring yarn information with them before starting their projects. If the material repeatedly breaks or clogs the machine, staff may ask patrons to stop their projects until they come back with new yarn in order to reduce risk of damage to the machine.&nbsp;
+
+&nbsp;
+
+&nbsp;
