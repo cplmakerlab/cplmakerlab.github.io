@@ -104,8 +104,7 @@ slides:
       several weeks in a row. Stock Price
 
 
-      ![](/uploads/selling-your-designs-online/stock.PNG){: width="956"
-      height="585"}
+      &nbsp;
 
 
       &nbsp;
