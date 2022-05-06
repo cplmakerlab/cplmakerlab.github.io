@@ -21,7 +21,7 @@ Online workshops are now available. You must register for an online event in adv
 
 ## Hours
 
-Due to the COVID-19 pandemic, the Maker Lab is currently closed until further notice.
+We have limited hours at this time. Use the [Ask a Maker form](https://www.chipublib.org/maker-lab/ask-a-maker-request-help-from-the-maker-lab/) to schedule a one-on-one or check the upcoming events to register or visit during [Open Shop](https://bit.ly/cplmakerschedule).
 
 ## Contact Us
 
