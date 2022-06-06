@@ -19,6 +19,12 @@ Need help coming up with a new project idea? Try the [Maker Lab Idea Generator](
 
 Online workshops are now available. You must register for an online event in advance. [View the Maker Lab calendar](https://bit.ly/cplmakerschedule){: target="_blank" rel="noopener"} for more details.
 
+### Feedback
+
+Tell us how we did in this brief [survey](https://www.surveymonkey.com/r/MLClass){: target="_blank" rel="noopener"}.
+
+![QR code to survey](/uploads/index/qr-code-mlclass.png){: width="256" height="256"}
+
 ## Hours
 
 We have limited hours at this time. Use the [Ask a Maker form](https://www.chipublib.org/maker-lab/ask-a-maker-request-help-from-the-maker-lab/) to schedule a one-on-one or check the upcoming events to register or visit during [Open Shop](https://bit.ly/cplmakerschedule).
