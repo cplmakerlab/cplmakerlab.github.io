@@ -21,7 +21,7 @@ Online workshops are now available. You must register for an online event in adv
 
 ### Feedback
 
-Tell us how we did in this brief [survey](https://www.surveymonkey.com/r/MLClass){: target="_blank" rel="noopener"}.
+Did you just take a class with us? Tell us how we did in this brief [survey](https://www.surveymonkey.com/r/MLClass){: target="_blank" rel="noopener"}.
 
 ![QR code to survey](/uploads/index/qr-code-mlclass.png){: width="256" height="256"}
 
