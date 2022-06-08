@@ -21,6 +21,10 @@ Guided video instruction with audio narration
 
 Informational presentation slides that we use for our classes.
 
+### [Worksheets](/worksheets)
+
+Informational presentation slides that we use for our classes.
+
 ### [Jobs & Career Training](/education-training)
 
 If you are interested in pursuing a new career path, check out these helpful links & resources.
