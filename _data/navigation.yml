@@ -10,7 +10,7 @@
       link: /guides
       open_in_new_window: false
     - name: Workshops & Events
-      link: 'https://bit.ly/cplmakerschedule'
+      link: https://bit.ly/cplmakerschedule
       open_in_new_window: true
     - name: Jobs & Career Training
       link: /education-training
@@ -18,12 +18,17 @@
     - name: Slide Decks
       link: /slidedecks
       open_in_new_window: false
-    - name: Videos
-      link: 'https://www.youtube.com/channel/UCgYrYjnoluGLUl-fdpSMSJQ/videos'
+    - name:
+      link:
       open_in_new_window: true
-    - name: Request help
-      link: >-
-        https://www.chipublib.org/maker-lab/ask-a-maker-request-help-from-the-maker-lab/
+    - name:
+      link:
+      open_in_new_window: true
+    - name: Videos
+      link: https://www.youtube.com/channel/UCgYrYjnoluGLUl-fdpSMSJQ/videos
+      open_in_new_window: true
+    - name: Worksheets
+      link: https://cplmakerlab.github.io/worksheets
       open_in_new_window: true
 - name: Make
   link: /make
@@ -55,21 +60,21 @@
       link: /blog
       open_in_new_window: false
     - name: Photos
-      link: 'http://bit.ly/cplmakerphotos'
+      link: http://bit.ly/cplmakerphotos
       open_in_new_window: true
     - name: Makers In Chicago
-      link: 'http://makersinchicago.org'
+      link: http://makersinchicago.org
       open_in_new_window: true
     - name: Nation of Makers
-      link: 'https://www.nationofmakers.us/'
+      link: https://www.nationofmakers.us/
       open_in_new_window: true
     - name: Thingiverse
-      link: 'http://thingiverse.com'
+      link: http://thingiverse.com
       open_in_new_window: true
     - name: Netizen
-      link: 'http://netizen.org'
+      link: http://netizen.org
       open_in_new_window: true
     - name: Illinois PPE Network
-      link: 'https://www.illinoisppe.org/'
+      link: https://www.illinoisppe.org/
       open_in_new_window: true
 ---
