@@ -25,10 +25,6 @@ Informational presentation slides that we use for our classes.
 
 Informational presentation slides that we use for our classes.
 
-### [Worksheets 2](/worksheets2)
-
-Informational presentation slides that we use for our classes.
-
 ### [Jobs & Career Training](/education-training)
 
 If you are interested in pursuing a new career path, check out these helpful links & resources.
