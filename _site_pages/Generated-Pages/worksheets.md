@@ -5,11 +5,44 @@ permalink: /worksheets
 ---
 
     
- {% assign works = site.worksheets | sort: "title" %}
- {% if works.size > 0 %}
-		<ul class="worksheets">
-		  {% for work in works %}
-		    <li><a target="_blank" href="{{ work.url }}">{{ work.title }}</a> <a class="fontawesome-icon" title="Launch worksheet" href="{{ work.url }}"><i class="fa fa-fw fa-external-link"></i></a> <a class="print-icon" title="Print Friendly Version" href="{{ deck.url }}?print-pdf"><i class="fa fa-fw fa-print"></i></a></li>
-		  {% endfor %}
-		</ul>
-	{% endif %}
+{% assign topics = "," | split: ","%}
+
+{% for guide in site.guides %}
+ {% assign topics = topics | concat: guide.categories | uniq | sort %}
+{% endfor %}
+
+
+<section class="topics">
+
+    <div id="guide-list">
+      <div class="list-search">
+        <input placeholder="Filter..." class="js-filter-search" /> <i class="fa fa-search"></i>
+      </div>      
+      <div class="list">
+        {% for topic in topics %}
+         {% assign guides = site.guides | where:"categories",topic %}
+         {% if guides.size > 0 %}
+      		<section class="category row">
+      			<div class="col-sm-3">
+      			  <h4 class="topic">{{ topic }}<a name="{{topic}}"></a></h4>
+      			</div>  
+      			<div class="col-sm-8">
+      			<ul>
+      			  {% for guide in guides %}
+      			    <li class="title">
+      			      <a href="{{ guide.url }}">{{ guide.title }}</a>
+        			    <span class="tags">
+        			    {% for tag in guide.tags %}
+                    <a class="tag-name" href="/tags#{{ tag }}">{{ tag }}</a>
+                  {% endfor %}
+                  </span>
+      			    </li>
+      			  {% endfor %}
+      			</ul>
+      			</div>
+      		</section>
+      		{% endif %}
+      	{% endfor %} 
+    	</div>
+    </div>
+</section>
