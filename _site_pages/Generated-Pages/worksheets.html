@@ -1,37 +1,37 @@
 ---
-title: Guides
+title: Worksheets
 header_image: uploads/coding.jpg
-permalink: /guides
+permalink: /worksheets
 ---
 
 {% assign topics = "," | split: ","%}
 
-{% for guide in site.guides %}
- {% assign topics = topics | concat: guide.categories | uniq | sort %}
+{% for work in site.worksheets %}
+ {% assign topics = topics | concat: worksheet.categories | uniq | sort %}
 {% endfor %}
 
 
 <section class="topics">
 
-    <div id="guide-list">
+    <div id="worksheet-list">
       <div class="list-search">
         <input placeholder="Filter..." class="js-filter-search" /> <i class="fa fa-search"></i>
       </div>      
       <div class="list">
         {% for topic in topics %}
-         {% assign guides = site.guides | where:"categories",topic %}
-         {% if guides.size > 0 %}
+         {% assign worksheets = site.worksheets | where:"categories",topic %}
+         {% if worksheets.size > 0 %}
       		<section class="category row">
       			<div class="col-sm-3">
       			  <h4 class="topic">{{ topic }}<a name="{{topic}}"></a></h4>
       			</div>  
       			<div class="col-sm-8">
       			<ul>
-      			  {% for guide in guides %}
+      			  {% for work in worksheets %}
       			    <li class="title">
-      			      <a href="{{ guide.url }}">{{ guide.title }}</a>
+      			      <a href="{{ work.url }}">{{work.title }}</a>
         			    <span class="tags">
-        			    {% for tag in guide.tags %}
+        			    {% for tag in work.tags %}
                     <a class="tag-name" href="/tags#{{ tag }}">{{ tag }}</a>
                   {% endfor %}
                   </span>
