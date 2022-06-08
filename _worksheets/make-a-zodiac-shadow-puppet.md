@@ -15,4 +15,5 @@ difficulty:
 time_required:
 file_attachment_path: /uploads/make-a-zodiac-shadow-puppet.docx
 ---
-## Make a Zodiac Shadow Puppet
+
+## Make a Zodiac Shadow Puppet:
