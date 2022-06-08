@@ -18,17 +18,15 @@
     - name: Slide Decks
       link: /slidedecks
       open_in_new_window: false
-    - name:
-      link:
-      open_in_new_window: true
-    - name:
-      link:
+    - name: Worksheets
+      link: https://cplmakerlab.github.io/worksheets
       open_in_new_window: true
     - name: Videos
       link: https://www.youtube.com/channel/UCgYrYjnoluGLUl-fdpSMSJQ/videos
       open_in_new_window: true
-    - name: Worksheets
-      link: https://cplmakerlab.github.io/worksheets
+    - name: Request Help
+      link: >-
+        https://www.chipublib.org/maker-lab/ask-a-maker-request-help-from-the-maker-lab/
       open_in_new_window: true
 - name: Make
   link: /make
