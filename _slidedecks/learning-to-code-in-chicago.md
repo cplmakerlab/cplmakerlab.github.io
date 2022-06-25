@@ -378,8 +378,7 @@ slides:
 
       &nbsp;
     background_color: '#7b7b7b'
-    background_image: >-
-      /uploads/learning-to-code-in-chicago/screen-shot-2022-01-22-at-10-28-32-am.png
+    background_image:
   - title: IDEs Facts
     content_markdown: |-
       ## IDE &nbsp;Features
@@ -393,6 +392,50 @@ slides:
     background_color: '#7b7b7b'
     background_image: >-
       /uploads/learning-to-code-in-chicago/screen-shot-2022-01-22-at-10-28-32-am.png
+  - title: 'Pycharm '
+    content_markdown: |-
+      ## Pycharm
+
+      https://www.jetbrains.com/pycharm/download/\#section=windows
+
+      &nbsp;
+
+      &nbsp;
+    background_color: '#7b7b7b'
+    background_image: /uploads/learning-to-code-in-chicago/captu1re.PNG
+  - title: Anaconda
+    content_markdown: |-
+      ## Anaconda&nbsp;
+
+      https://www.anaconda.com/products/distribution
+
+      &nbsp;
+
+      &nbsp;
+    background_color: '#7b7b7b'
+    background_image: /uploads/learning-to-code-in-chicago/cap3ture.PNG
+  - title: Pycharm and Anaconda Installation Tutorials
+    content_markdown: >-
+      #### Pycharm and Anaconda Installation Tutorials
+
+
+      * [Tutorial: Install Anaconda on Windows 10](https://youtu.be/0SYs6YGdmZU)
+
+      * [Tutorial: Install Anaconda on macOS](https://youtu.be/wTJqcsqhTCM)
+
+      * [Tutorial: Install PyCharm Professional on Windows
+      10](https://youtu.be/EjYUcxhLMl4)
+
+      * [Tutorial: Install PyCharm Professional on
+      macOS](https://youtu.be/zrYZQmI7zGA)
+
+
+      &nbsp;
+
+
+      &nbsp;
+    background_color: '#7b7b7b'
+    background_image:
   - title: Questions
     content_markdown: '## Questions?'
     background_color: '#7b7b7b'
