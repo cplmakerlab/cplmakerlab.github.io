@@ -375,11 +375,9 @@ slides:
       ## IDEs
 
       Integrated Development Environment&nbsp;
-
-      &nbsp;
     background_color: '#7b7b7b'
     background_image:
-  - title: IDEs Facts
+  - title: IDEs Features
     content_markdown: |-
       ## IDE &nbsp;Features
 
@@ -387,18 +385,13 @@ slides:
       * Debugger: Will alert you to errors & suggest ways to fix them
       * Refactoring: Will re-write code for you
       * Libraries: Various libraries available to import
-
-      &nbsp;
     background_color: '#7b7b7b'
-    background_image: >-
-      /uploads/learning-to-code-in-chicago/screen-shot-2022-01-22-at-10-28-32-am.png
+    background_image:
   - title: Anaconda
     content_markdown: |-
       ## Anaconda: Open Data Science Platform
 
       https://www.anaconda.com/products/distribution
-
-      &nbsp;
 
       &nbsp;
     background_color: '#7b7b7b'
@@ -408,8 +401,6 @@ slides:
       ## Pycharm
 
       https://www.jetbrains.com/pycharm/download/\#section=windows
-
-      &nbsp;
 
       &nbsp;
     background_color: '#7b7b7b'
@@ -428,9 +419,6 @@ slides:
 
       * [Tutorial: Install PyCharm Professional on
       macOS](https://youtu.be/zrYZQmI7zGA)
-
-
-      &nbsp;
 
 
       &nbsp;
