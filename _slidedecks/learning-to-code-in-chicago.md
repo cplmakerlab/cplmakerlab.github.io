@@ -370,9 +370,9 @@ slides:
     background_color: '#7b7b7b'
     background_image: >-
       /uploads/learning-to-code-in-chicago/screen-shot-2022-01-22-at-10-28-32-am.png
-  - title: IDES
+  - title: IDE
     content_markdown: |-
-      ## IDEs
+      ## IDE
 
       Integrated Development Environment&nbsp;
     background_color: '#7b7b7b'
@@ -392,8 +392,6 @@ slides:
       ## Anaconda: Open Data Science Platform
 
       https://www.anaconda.com/products/distribution
-
-      &nbsp;
     background_color: '#7b7b7b'
     background_image: /uploads/learning-to-code-in-chicago/cap3ture.PNG
   - title: 'Pycharm '
@@ -401,8 +399,6 @@ slides:
       ## Pycharm
 
       https://www.jetbrains.com/pycharm/download/\#section=windows
-
-      &nbsp;
     background_color: '#7b7b7b'
     background_image: /uploads/learning-to-code-in-chicago/captu1re.PNG
   - title: Pycharm and Anaconda Installation Tutorials
@@ -419,9 +415,6 @@ slides:
 
       * [Tutorial: Install PyCharm Professional on
       macOS](https://youtu.be/zrYZQmI7zGA)
-
-
-      &nbsp;
     background_color: '#7b7b7b'
     background_image:
   - title: Questions
