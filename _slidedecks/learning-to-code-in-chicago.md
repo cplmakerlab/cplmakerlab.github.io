@@ -370,6 +370,29 @@ slides:
     background_color: '#7b7b7b'
     background_image: >-
       /uploads/learning-to-code-in-chicago/screen-shot-2022-01-22-at-10-28-32-am.png
+  - title: IDES
+    content_markdown: |-
+      ## IDEs
+
+      Integrated Development Environment&nbsp;
+
+      &nbsp;
+    background_color: '#7b7b7b'
+    background_image: >-
+      /uploads/learning-to-code-in-chicago/screen-shot-2022-01-22-at-10-28-32-am.png
+  - title: IDEs Facts
+    content_markdown: |-
+      ## IDE &nbsp;Features
+
+      * &nbsp;Text Editor: Autocompletion, spelling and syntax check&nbsp;
+      * Debugger: Will alert you to errors & suggest ways to fix them
+      * Refactoring: Will re-write code for you
+      * Libraries: Various libraries available to import
+
+      &nbsp;
+    background_color: '#7b7b7b'
+    background_image: >-
+      /uploads/learning-to-code-in-chicago/screen-shot-2022-01-22-at-10-28-32-am.png
   - title: Questions
     content_markdown: '## Questions?'
     background_color: '#7b7b7b'
