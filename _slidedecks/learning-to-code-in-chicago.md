@@ -381,7 +381,7 @@ slides:
     content_markdown: |-
       ## IDE &nbsp;Features
 
-      * &nbsp;Text Editor: Autocompletion, spelling and syntax check&nbsp;
+      * Text Editor: Autocompletion, spelling and syntax check&nbsp;
       * Debugger: Will alert you to errors & suggest ways to fix them
       * Refactoring: Will re-write code for you
       * Libraries: Various libraries available to import
@@ -394,16 +394,16 @@ slides:
       https://www.anaconda.com/products/distribution
     background_color: '#7b7b7b'
     background_image: /uploads/learning-to-code-in-chicago/cap3ture.PNG
-  - title: 'Pycharm '
+  - title: 'PyCharm '
     content_markdown: |-
-      ## Pycharm
+      ## PyCharm
 
       https://www.jetbrains.com/pycharm/download/\#section=windows
     background_color: '#7b7b7b'
     background_image: /uploads/learning-to-code-in-chicago/captu1re.PNG
   - title: Pycharm and Anaconda Installation Tutorials
     content_markdown: >-
-      #### Pycharm and Anaconda Installation Tutorials
+      #### Anaconda and PyCharm Installation Tutorials
 
 
       * [Tutorial: Install Anaconda on Windows 10](https://youtu.be/0SYs6YGdmZU)
