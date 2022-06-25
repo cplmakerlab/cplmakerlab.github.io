@@ -392,6 +392,17 @@ slides:
     background_color: '#7b7b7b'
     background_image: >-
       /uploads/learning-to-code-in-chicago/screen-shot-2022-01-22-at-10-28-32-am.png
+  - title: Anaconda
+    content_markdown: |-
+      ## Anaconda: Open Data Science Platform
+
+      https://www.anaconda.com/products/distribution
+
+      &nbsp;
+
+      &nbsp;
+    background_color: '#7b7b7b'
+    background_image: /uploads/learning-to-code-in-chicago/cap3ture.PNG
   - title: 'Pycharm '
     content_markdown: |-
       ## Pycharm
@@ -403,17 +414,6 @@ slides:
       &nbsp;
     background_color: '#7b7b7b'
     background_image: /uploads/learning-to-code-in-chicago/captu1re.PNG
-  - title: Anaconda
-    content_markdown: |-
-      ## Anaconda&nbsp;
-
-      https://www.anaconda.com/products/distribution
-
-      &nbsp;
-
-      &nbsp;
-    background_color: '#7b7b7b'
-    background_image: /uploads/learning-to-code-in-chicago/cap3ture.PNG
   - title: Pycharm and Anaconda Installation Tutorials
     content_markdown: >-
       #### Pycharm and Anaconda Installation Tutorials
