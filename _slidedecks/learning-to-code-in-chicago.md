@@ -388,17 +388,19 @@ slides:
     background_color: '#7b7b7b'
     background_image:
   - title: Anaconda
-    content_markdown: |-
+    content_markdown: >-
       ## Anaconda: Open Data Science Platform
 
-      https://www.anaconda.com/products/distribution
+
+      [https://www.anaconda.com/products/distribution](https://www.anaconda.com/products/distribution)
     background_color: '#7b7b7b'
     background_image: /uploads/learning-to-code-in-chicago/cap3ture.PNG
   - title: 'PyCharm '
-    content_markdown: |-
+    content_markdown: >-
       ## PyCharm
 
-      https://www.jetbrains.com/pycharm/download/\#section=windows
+
+      [https://www.jetbrains.com/pycharm/download/\#section=windows](https://www.jetbrains.com/pycharm/download/#section=windows)
     background_color: '#7b7b7b'
     background_image: /uploads/learning-to-code-in-chicago/captu1re.PNG
   - title: Pycharm and Anaconda Installation Tutorials
