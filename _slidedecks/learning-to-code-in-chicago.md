@@ -185,14 +185,6 @@ slides:
     background_color: '#000000'
     background_image: /uploads/learning-to-code-in-chicago/1png.PNG
     background_size: contain
-  - title: Free Geek
-    content_markdown: |-
-      ## Free Geek
-
-      [https://www.freegeek.org/](https://www.freegeek.org/)
-    background_color: '#000000'
-    background_image: /uploads/learning-to-code-in-chicago/free-1.PNG
-    background_size: contain
   - title: Diversify Tech
     content_markdown: |-
       ## Diversify&nbsp; Tech
