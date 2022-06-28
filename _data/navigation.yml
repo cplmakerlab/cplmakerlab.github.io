@@ -18,9 +18,6 @@
     - name: Slide Decks
       link: /slidedecks
       open_in_new_window: false
-    - name: Worksheets
-      link: /worksheets
-      open_in_new_window: true
     - name: Videos
       link: https://www.youtube.com/channel/UCgYrYjnoluGLUl-fdpSMSJQ/videos
       open_in_new_window: true
