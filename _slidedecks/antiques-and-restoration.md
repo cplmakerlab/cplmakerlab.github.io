@@ -143,40 +143,8 @@ slides:
     background_color: '#fff7f7'
     background_image:
     background_size: cover
-  - title: Victorian Living Room
-    content_markdown: >-
-      #### Familiar?
-
-
-      [Image
-      Source](https://pixels.com/featured/a-victorian-sitting-room-with-electric-mary-evans-picture-library.html)
-    background_color: '#fff7f7'
-    background_image: >-
-      /uploads/antiques-and-restoration/a-victorian-sitting-room-with-electric-mary-evans-picture-library.jpg
-    background_size: cover
   - title: Cleaning
     content_markdown: '## Cleaning'
-    background_color: '#fff7f7'
-    background_image:
-    background_size: cover
-  - title: Metal
-    content_markdown: >-
-      #### Metal
-
-
-      * Silver: Polish
-
-      * Gold: Polish
-
-      * Brass/ Bronze/ Copper:&nbsp; Consider polishing, but probably leave the
-      patina
-
-      * Iron: Wash with warm water,&nbsp; scrub with kerosene, polish with steel
-      wool (+rust remover), rinse thoroughly, dry with a cloth.
-
-      * Steel: Prevent rust. Clean with vinegar and lime solution. Consider
-      painting, powder coating, or re-surfacing steel that is&nbsp; seriously
-      deteriorating,&nbsp;
     background_color: '#fff7f7'
     background_image:
     background_size: cover
@@ -191,22 +159,6 @@ slides:
       * Lightly wiping down surfaces with water, a rag, and a small amount of
       soap is the safest way to clean antiques. Other methods: vinegar,
       denatured alcohol&nbsp;
-    background_color: '#fff7f7'
-    background_image:
-    background_size: cover
-  - title: Cleaning Your Antiques
-    content_markdown: >-
-      #### Cleaning Your Antiques
-
-
-      * Always do individual research on items before cleaning to see what is
-      recommended.&nbsp;
-
-      * Try the least strong cleaning method first. If not satisfied, try a more
-      intensive method. i.e: Water -&gt; Vinegar
-
-      * Avoid commercial cleaning products, even plant based ones, unless
-      explicitely recomended. Every day cleaners are not meant for antiques.
     background_color: '#fff7f7'
     background_image:
     background_size: cover
@@ -232,6 +184,27 @@ slides:
 
       * Pure beeswax is preferable. A good commercially available wax is Howard
       Feed-N-Wax
+    background_color: '#fff7f7'
+    background_image:
+    background_size: cover
+  - title: Metal
+    content_markdown: >-
+      #### Metal
+
+
+      * Silver: Polish
+
+      * Gold: Polish
+
+      * Brass/ Bronze/ Copper:&nbsp; Consider polishing, but probably leave the
+      patina
+
+      * Iron: Wash with warm water,&nbsp; scrub with kerosene, polish with steel
+      wool (+rust remover), rinse thoroughly, dry with a cloth.
+
+      * Steel: Prevent rust. Clean with vinegar and lime solution. Consider
+      painting, powder coating, or re-surfacing steel that is&nbsp; seriously
+      deteriorating,&nbsp;
     background_color: '#fff7f7'
     background_image:
     background_size: cover
