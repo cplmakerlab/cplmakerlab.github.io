@@ -2,7 +2,6 @@
 title: Welcome to the Maker Lab!
 header_image:
 ---
-
 <div class="cms-embed" data-cms-embed="PGEgZGF0YS1mbGlja3ItZW1iZWQ9InRydWUiIGhyZWY9Imh0dHBzOi8vd3d3LmZsaWNrci5jb20vcGhvdG9zL2NwbF9tYWtlcnNwYWNlL2FsYnVtcy83MjE1NzcxNzM4MTYyOTUzNiIgdGl0bGU9IldlYnNpdGUgUGhvdG9zIj48aW1nIHNyYz0iaHR0cHM6Ly9saXZlLnN0YXRpY2ZsaWNrci5jb20vNjU1MzUvNDkxNjkxMDA1NzJfYTgzMzE4NWRmOV9uLmpwZyIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIyNDAiIGFsdD0iV2Vic2l0ZSBQaG90b3MiPjwvYT48c2NyaXB0IGFzeW5jIHNyYz0iLy9lbWJlZHIuZmxpY2tyLmNvbS9hc3NldHMvY2xpZW50LWNvZGUuanMiIGNoYXJzZXQ9InV0Zi04Ij48L3NjcmlwdD4="><a data-flickr-embed="true" href="https://www.flickr.com/photos/cpl_makerspace/albums/72157717381629536" title="Website Photos"><img src="https://live.staticflickr.com/65535/49169100572_a833185df9_n.jpg" width="800" height="240" alt="Website Photos" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
 
 The Maker Lab, Chicago’s first free and publicly accessible maker space, is on the 3rd floor of Harold Washington Library Center. The Maker Lab features introductory [workshops](https://bit.ly/cplmakerschedule){: target="_blank"} and [open shop](https://chipublib.bibliocommons.com/events/search/q=%22Open%20Shop%22&amp;fq=program:&#40;53f20a07e04c1e3b1c00d3e4&#41;){: target="_blank"} for personal projects and collaboration. We encourage you to explore the full range of making, both high-tech and hands-on.
@@ -25,7 +24,9 @@ Did you just take a class with us? Tell us how we did in this brief [survey](htt
 
 ![QR code to survey](/uploads/index/qr-code-mlclass.png){: width="256" height="256"}
 
-## Hours
+## Coding Survey
+
+Tell us what coding classes you would like to take at the Maker Lab:&nbsp;[https://docs.google.com/forms/](https://docs.google.com/forms/d/e/1FAIpQLSeSmbDoO_TfVZBPK1WTGlWqIUsEM9eI2Jny9JikRVGUE2p4IQ/viewform?usp=sf_link)[...](https://docs.google.com/forms/...)
 
 We have limited hours at this time. Use the [Ask a Maker form](https://www.chipublib.org/maker-lab/ask-a-maker-request-help-from-the-maker-lab/) to schedule a one-on-one or check the upcoming events to register or visit during [Open Shop](https://bit.ly/cplmakerschedule).
 
