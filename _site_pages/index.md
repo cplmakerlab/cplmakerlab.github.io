@@ -18,7 +18,7 @@ Need help coming up with a new project idea? Try the [Maker Lab Idea Generator](
 
 Online workshops are now available. You must register for an online event in advance. [View the Maker Lab calendar](https://bit.ly/cplmakerschedule){: target="_blank" rel="noopener"} for more details.
 
-### Feedback
+## Feedback
 
 Did you just take a class with us? Tell us how we did in this brief [survey](https://www.surveymonkey.com/r/MLClass){: target="_blank" rel="noopener"}.
 
