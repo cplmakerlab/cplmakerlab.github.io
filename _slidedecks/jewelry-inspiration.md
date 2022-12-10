@@ -71,9 +71,4 @@ slides:
     background_color: '#c0ddfb'
     background_image: /uploads/jewelry-inspiration/screen-shot-2020-10-19-at-1-52-20-pm.png
     background_size: cover
-  - title:
-    content_markdown:
-    background_color: '#c0ddfb'
-    background_image: /uploads/jewelry-inspiration/screen-shot-2020-10-19-at-2-16-32-pm.png
-    background_size: cover
 ---
