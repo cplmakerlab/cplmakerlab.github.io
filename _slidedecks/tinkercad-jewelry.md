@@ -1,5 +1,5 @@
 ---
-title: TinkerCAD Jewelry
+title: Jewelry Dimensions and Sizing
 slides:
   - title: Jewelry Dimensions and Sizing
     content_markdown: '## **Jewelry Dimensions and Sizing**'
