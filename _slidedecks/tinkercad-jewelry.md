@@ -1,8 +1,8 @@
 ---
 title: TinkerCAD Jewelry
 slides:
-  - title: Make Jewelry for 3D Printing
-    content_markdown: '## **Make Jewelry for 3D Printing&nbsp;**'
+  - title: Jewelry Dimensions and Sizing
+    content_markdown: '## **Jewelry Dimensions and Sizing**'
     background_color: '#c9ffc7'
     background_image:
   - title: Rings
@@ -110,5 +110,3 @@ slides:
     background_color: '#c9ffc7'
     background_image:
 ---
-
-
