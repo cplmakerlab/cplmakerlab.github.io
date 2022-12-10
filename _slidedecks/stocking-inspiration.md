@@ -1,5 +1,5 @@
 ---
-title: Stocking Inspiration
+title: 'Inspiration: Stockings'
 slides:
   - title: Stocking Inspiration
     content_markdown: '## Stocking Inspiration'
@@ -44,5 +44,3 @@ slides:
     background_size: contain
 tags:
 ---
-
-

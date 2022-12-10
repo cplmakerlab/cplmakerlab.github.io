@@ -1,5 +1,5 @@
 ---
-title: Jewelry Inspiration
+title: 'Inspiration: Jewelry '
 slides:
   - title: Jewelry Inspiration
     content_markdown: '## Jewelry Inspiration'
