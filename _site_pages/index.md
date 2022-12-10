@@ -24,10 +24,6 @@ Did you just take a class with us? Tell us how we did in this brief [survey](htt
 
 ![QR code to survey](/uploads/index/qr-code-mlclass.png){: width="256" height="256"}
 
-## Coding Survey
-
-Tell us what coding classes you would like to take at the Maker Lab:&nbsp;[https://docs.google.com/forms/](https://docs.google.com/forms/d/e/1FAIpQLSeSmbDoO_TfVZBPK1WTGlWqIUsEM9eI2Jny9JikRVGUE2p4IQ/viewform?usp=sf_link)[...](https://docs.google.com/forms/...)
-
 ## Hours
 
 We have limited hours at this time. Use the [Ask a Maker form](https://www.chipublib.org/maker-lab/ask-a-maker-request-help-from-the-maker-lab/) to schedule a one-on-one or check the upcoming events to register or visit during [Open Shop](https://bit.ly/cplmakerschedule).
