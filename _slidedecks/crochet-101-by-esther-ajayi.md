@@ -10,7 +10,7 @@ slides:
     content_markdown:
     background_color:
     background_image: /uploads/crochet-lesson-1.png
-    background_size: cover
+    background_size: contain
 tags:
   - makerinresidence
   - estherajayi
