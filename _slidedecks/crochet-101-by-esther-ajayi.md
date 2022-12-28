@@ -80,4 +80,8 @@ tags:
   - makerinresidence
   - estherajayi
   - textiles
+  - Maker in Residence
+  - Esther Ajayi
+  - Textiles
+  - Knitting
 ---

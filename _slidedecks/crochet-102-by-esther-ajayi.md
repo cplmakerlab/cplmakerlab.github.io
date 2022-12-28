@@ -92,4 +92,8 @@ slides:
     background_image: /uploads/crochet-lesson-2-17.png
     background_size: contain
 tags:
+  - Maker in Residence
+  - Esther Ajayi
+  - Textiles
+  - Knitting
 ---
