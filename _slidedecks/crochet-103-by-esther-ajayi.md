@@ -46,6 +46,56 @@ slides:
     background_color:
     background_image: /uploads/9/crochet-103-8.png
     background_size: contain
+  - title: '10'
+    content_markdown:
+    background_color:
+    background_image: /uploads/10/crochet-103-9.png
+    background_size: contain
+  - title: '11'
+    content_markdown:
+    background_color:
+    background_image: /uploads/11/crochet-103-10.png
+    background_size: contain
+  - title: '12'
+    content_markdown:
+    background_color:
+    background_image: /uploads/12/crochet-103-11.png
+    background_size: contain
+  - title: '13'
+    content_markdown:
+    background_color:
+    background_image: /uploads/13/crochet-103-12.png
+    background_size: contain
+  - title: '14'
+    content_markdown:
+    background_color:
+    background_image: /uploads/14/crochet-103-13.png
+    background_size: contain
+  - title: '15'
+    content_markdown:
+    background_color:
+    background_image: /uploads/15/crochet-103-14.png
+    background_size: contain
+  - title: '16'
+    content_markdown:
+    background_color:
+    background_image: /uploads/16/crochet-103-15.png
+    background_size: contain
+  - title: '17'
+    content_markdown:
+    background_color:
+    background_image: /uploads/17/crochet-103-16.png
+    background_size: contain
+  - title: '18'
+    content_markdown:
+    background_color:
+    background_image: /uploads/18/crochet-103-17.png
+    background_size: contain
+  - title: '19'
+    content_markdown:
+    background_color:
+    background_image: /uploads/crochet-103-18.png
+    background_size: contain
 tags:
   - Maker in Residence
   - Esther Ajayi
