@@ -46,6 +46,36 @@ slides:
     background_color:
     background_image: /uploads/9/crochet-lesson-1-8.png
     background_size: contain
+  - title: '10'
+    content_markdown:
+    background_color:
+    background_image: /uploads/10/crochet-lesson-1-9.png
+    background_size: contain
+  - title: '11'
+    content_markdown:
+    background_color:
+    background_image: /uploads/11/crochet-lesson-1-10.png
+    background_size: contain
+  - title: '12'
+    content_markdown:
+    background_color:
+    background_image: /uploads/12/crochet-lesson-1-11.png
+    background_size: contain
+  - title: '13'
+    content_markdown:
+    background_color:
+    background_image: /uploads/13/crochet-lesson-1-12.png
+    background_size: contain
+  - title: '14'
+    content_markdown:
+    background_color:
+    background_image: /uploads/14/crochet-lesson-1-13.png
+    background_size: contain
+  - title: '15'
+    content_markdown:
+    background_color:
+    background_image: /uploads/15/crochet-lesson-1-14.png
+    background_size: contain
 tags:
   - makerinresidence
   - estherajayi
