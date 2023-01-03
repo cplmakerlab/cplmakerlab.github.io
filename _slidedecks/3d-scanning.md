@@ -112,16 +112,6 @@ slides:
     background_color: '#e75858'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
-    background_color: '#e75858'
-    background_image:
-    background_size: cover
-  - title:
-    content_markdown:
-    background_color: '#e75858'
-    background_image:
-    background_size: cover
 tags:
   - 3D Scanning
   - 3D Printing
