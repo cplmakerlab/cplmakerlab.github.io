@@ -88,7 +88,10 @@ slides:
     content_markdown: |-
       #### POP 2 Scanner
 
-      &nbsp;
+      * Structured light 3D scanning technology
+      * .05mm precision, can scan in color&nbsp;
+      * 20 mm ×20 mm × 20 mm minimum scan volume
+      * Outputs in PLY, OBJ, & STL
     background_color: '#e75858'
     background_image:
     background_size: cover
