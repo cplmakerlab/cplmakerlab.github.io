@@ -9,22 +9,31 @@ slides:
     background_color: '#e75858'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Why use a 3D Scanner?
+    content_markdown: '## Why use a 3D Scanner?'
     background_color: '#e75858'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: 'Why use a 3D Scanner? '
+    content_markdown: >-
+      Why use a 3D Scanner?
+
+
+      1. To make an exact copy of an existing item with a 3D printer
+
+      2. To iterate (slightly modify) an existing design
+
+      3. To add the scanned item into a digital artwork, animated film, video
+      game, or virtual reality environment&nbsp;
     background_color: '#e75858'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: How 3D Scanners Work
+    content_markdown: How 3D Scanners Work
     background_color: '#e75858'
     background_image:
     background_size: cover
-  - title:
+  - title: 3D File Formats
     content_markdown:
     background_color: '#e75858'
     background_image:
