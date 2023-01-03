@@ -47,7 +47,7 @@ slides:
     background_color: '#e75858'
     background_image:
     background_size: cover
-  - title:
+  - title: How does photogrammetry work and why do you need it?
     content_markdown: >-
       ## [How does photogrammetry work and why do you need
       it?](https://www.youtube.com/watch?v=Q-WCKqSPA1w&amp;t=65s)
@@ -68,27 +68,46 @@ slides:
     background_color: '#e75858'
     background_image:
     background_size: cover
+  - title: POP 2 Scanner
+    content_markdown: >-
+      ## POP 2 Scanner
+
+
+      ![](/uploads/pop-2-scanner/6-2b57543c-9744-49e2-808a-5037c30014a3-800x.webp){:
+      width="800" height="800"}
+
+
+      &nbsp;
+    background_color: '#e75858'
+    background_image:
+    background_size: cover
+  - title: POP 2 Scanner
+    content_markdown: |-
+      #### POP 2 Scanner
+
+      &nbsp;
+    background_color: '#e75858'
+    background_image:
+    background_size: cover
+  - title: Scanning Tips
+    content_markdown: |-
+      #### Scanning Tips
+
+      &nbsp;
+    background_color: '#e75858'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#e75858'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#e75858'
+    background_image:
+    background_size: cover
   - title: 3D File Formats
-    content_markdown:
-    background_color: '#e75858'
-    background_image:
-    background_size: cover
-  - title:
-    content_markdown:
-    background_color: '#e75858'
-    background_image:
-    background_size: cover
-  - title:
-    content_markdown:
-    background_color: '#e75858'
-    background_image:
-    background_size: cover
-  - title:
-    content_markdown:
-    background_color: '#e75858'
-    background_image:
-    background_size: cover
-  - title:
     content_markdown:
     background_color: '#e75858'
     background_image:
