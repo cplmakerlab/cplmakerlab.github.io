@@ -32,7 +32,7 @@ slides:
     background_size: cover
   - title: How 3D Scanners Work
     content_markdown: >-
-      #### How do 3D scanners work?
+      #### How do 3D scanners work? They use one of these:&nbsp;
 
 
       * Photogrammetry: measurements calculated from 20-250+ photographs
@@ -40,7 +40,10 @@ slides:
       * Structured Light: triangulates dimensions using small camera &
       &nbsp;projector
 
-      * LASER Triangulation
+      * LASER Triangulation: LIDAR, determines time it takes for laser to
+      return&nbsp;
+
+      * Contact Based: probes the item using physical touch
     background_color: '#e75858'
     background_image:
     background_size: cover
