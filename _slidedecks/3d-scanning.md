@@ -96,7 +96,7 @@ slides:
       * Structured light 3D scanning technology
       * .05mm precision, can scan in color&nbsp;
       * 20 mm ×20 mm × 20 mm minimum scan volume
-      * Scan using Revopoint software
+      * Uses Revopoint software
       * Outputs in PLY, OBJ, & STL
     background_color: '#e75858'
     background_image:
@@ -105,7 +105,10 @@ slides:
     content_markdown: |-
       #### Scanning Tips
 
-      * Scanned objects should generally be the size of your fist
+      * Small scans should generally be the size of your fist
+      * POP 2 has an easier time scanning lighter objects
+      * You can scan people, animals, and plants using the scanner
+      * It is very difficult for the scanner to scan flat objects
     background_color: '#e75858'
     background_image:
     background_size: cover
@@ -115,11 +118,6 @@ slides:
     background_image:
     background_size: cover
   - title:
-    content_markdown:
-    background_color: '#e75858'
-    background_image:
-    background_size: cover
-  - title: 3D File Formats
     content_markdown:
     background_color: '#e75858'
     background_image:
