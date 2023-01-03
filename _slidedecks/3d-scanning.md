@@ -71,6 +71,11 @@ slides:
     background_color: '#e75858'
     background_image:
     background_size: cover
+  - title: What scanner does the Maker Lab have?
+    content_markdown: '## What type of scanner does the Maker Lab have?'
+    background_color: '#e75858'
+    background_image:
+    background_size: cover
   - title: POP 2 Scanner
     content_markdown: >-
       ## POP 2 Scanner
@@ -91,6 +96,7 @@ slides:
       * Structured light 3D scanning technology
       * .05mm precision, can scan in color&nbsp;
       * 20 mm ×20 mm × 20 mm minimum scan volume
+      * Scan using Revopoint software
       * Outputs in PLY, OBJ, & STL
     background_color: '#e75858'
     background_image:
@@ -99,7 +105,7 @@ slides:
     content_markdown: |-
       #### Scanning Tips
 
-      &nbsp;
+      * Scanned objects should generally be the size of your fist
     background_color: '#e75858'
     background_image:
     background_size: cover
