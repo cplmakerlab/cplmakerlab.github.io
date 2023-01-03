@@ -16,7 +16,7 @@ slides:
     background_size: cover
   - title: 'Why use a 3D Scanner? '
     content_markdown: >-
-      Why use a 3D Scanner?
+      #### Why use a 3D Scanner?
 
 
       1. To make an exact copy of an existing item with a 3D printer
@@ -25,20 +25,37 @@ slides:
 
       3. To add the scanned item into a digital artwork, animated film, video
       game, or virtual reality environment&nbsp;
+
+      4. To create virtual copies of items for preservation purposes
     background_color: '#e75858'
     background_image:
     background_size: cover
   - title: How 3D Scanners Work
-    content_markdown: How 3D Scanners Work
+    content_markdown: |-
+      #### How 3D Scanners Work?
+
+      1\. Objects are scanned using&nbsp;
+
+      * Photogrammetry
+      * Structured Light
+    background_color: '#e75858'
+    background_image:
+    background_size: cover
+  - title: 'Photogrammetry vs Structured Light '
+    content_markdown: >-
+      #### Photogrammetry vs Structured Light:
+      [Source](https://www.cambridge.org/core/journals/proceedings-of-the-design-society/article/comparison-of-structured-light-scanning-and-photogrammetry-for-the-digitisation-of-physical-prototypes/66038D84EF1A45F22F601B899EFC0D25)
+
+
+      ![](/uploads/photogrammetry-vs-structured-light/23.PNG){: width="719"
+      height="598"}
+
+
+      &nbsp;
     background_color: '#e75858'
     background_image:
     background_size: cover
   - title: 3D File Formats
-    content_markdown:
-    background_color: '#e75858'
-    background_image:
-    background_size: cover
-  - title:
     content_markdown:
     background_color: '#e75858'
     background_image:
