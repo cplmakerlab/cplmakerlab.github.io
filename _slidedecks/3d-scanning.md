@@ -32,7 +32,10 @@ slides:
     background_size: cover
   - title: How 3D Scanners Work
     content_markdown: >-
-      #### How do 3D scanners work? They use one of these:&nbsp;
+      #### How do 3D scanners work?
+
+
+      #### They use one of these:&nbsp;
 
 
       * Photogrammetry: measurements calculated from 20-250+ photographs
@@ -53,11 +56,11 @@ slides:
       it?](https://www.youtube.com/watch?v=Q-WCKqSPA1w&amp;t=65s)
     background_color: '#e75858'
     background_image: /uploads/capture.PNG
-    background_size: cover
+    background_size: contain
   - title: 'Photogrammetry vs Structured Light '
     content_markdown: >-
-      #### Photogrammetry vs Structured Light:
-      [Source](https://www.cambridge.org/core/journals/proceedings-of-the-design-society/article/comparison-of-structured-light-scanning-and-photogrammetry-for-the-digitisation-of-physical-prototypes/66038D84EF1A45F22F601B899EFC0D25)
+      #### Photogrammetry vs Structured Light
+      ([Source](https://www.cambridge.org/core/journals/proceedings-of-the-design-society/article/comparison-of-structured-light-scanning-and-photogrammetry-for-the-digitisation-of-physical-prototypes/66038D84EF1A45F22F601B899EFC0D25))
 
 
       ![](/uploads/photogrammetry-vs-structured-light/23.PNG){: width="719"
