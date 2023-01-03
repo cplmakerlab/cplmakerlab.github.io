@@ -47,6 +47,13 @@ slides:
     background_color: '#e75858'
     background_image:
     background_size: cover
+  - title:
+    content_markdown: >-
+      ## [How does photogrammetry work and why do you need
+      it?](https://www.youtube.com/watch?v=Q-WCKqSPA1w&amp;t=65s)
+    background_color: '#e75858'
+    background_image: /uploads/capture.PNG
+    background_size: cover
   - title: 'Photogrammetry vs Structured Light '
     content_markdown: >-
       #### Photogrammetry vs Structured Light:
@@ -62,11 +69,6 @@ slides:
     background_image:
     background_size: cover
   - title: 3D File Formats
-    content_markdown:
-    background_color: '#e75858'
-    background_image:
-    background_size: cover
-  - title:
     content_markdown:
     background_color: '#e75858'
     background_image:
