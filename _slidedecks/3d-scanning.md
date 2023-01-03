@@ -31,13 +31,16 @@ slides:
     background_image:
     background_size: cover
   - title: How 3D Scanners Work
-    content_markdown: |-
-      #### How 3D Scanners Work?
+    content_markdown: >-
+      #### How do 3D scanners work?
 
-      1\. Objects are scanned using&nbsp;
 
-      * Photogrammetry
-      * Structured Light
+      * Photogrammetry: measurements calculated from 20-250+ photographs
+
+      * Structured Light: triangulates dimensions using small camera &
+      &nbsp;projector
+
+      * LASER Triangulation
     background_color: '#e75858'
     background_image:
     background_size: cover
