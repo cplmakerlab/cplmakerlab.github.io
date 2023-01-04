@@ -262,16 +262,6 @@ slides:
     background_color:
     background_image: /uploads/introduction-to-portraits/capture.PNG
     background_size: contain
-  - title: Drawing Exercise
-    content_markdown: >-
-      ## Drawing Exercise
-
-
-      Take 10 minutes to draw a self portrait. Afterwards you will have the
-      opportunity to share what you drew.&nbsp;
-    background_color: '#a3e297'
-    background_image:
-    background_size: cover
   - title: How to Draw the Head from Any Angle
     content_markdown: >-
       ## How to Draw the Head from Any Angle
@@ -283,5 +273,15 @@ slides:
       &nbsp;
     background_color: '#a3e297'
     background_image: /uploads/introduction-to-portraits/capture2.PNG
+    background_size: cover
+  - title: Drawing Exercise
+    content_markdown: >-
+      ## Drawing Exercise
+
+
+      Take 10 minutes to draw a self portrait. Afterwards you will have the
+      opportunity to share what you drew.&nbsp;
+    background_color: '#a3e297'
+    background_image:
     background_size: cover
 ---

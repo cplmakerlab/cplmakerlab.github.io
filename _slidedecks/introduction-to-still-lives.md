@@ -92,6 +92,38 @@ slides:
     background_color: '#ffb355'
     background_image:
     background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#ffb355'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#ffb355'
+    background_image:
+    background_size: cover
+  - title:
+    content_markdown:
+    background_color: '#ffb355'
+    background_image:
+    background_size: cover
+  - title: How to Set Up a Still Life
+    content_markdown: >-
+      ## [How to Set Up a Still
+      Life](https://www.youtube.com/watch?v=xgUkdK7CZiQ)
+    background_color: '#ffb355'
+    background_image: /uploads/how-to-set-up-a-still-life/still-life.PNG
+    background_size: contain
+  - title: Drawing Exercise
+    content_markdown: >-
+      ## Drawing Exercise
+
+
+      Take 5 minutes to compose a still life and 10 minutes to draw one.
+      Afterwards you will have the opportunity to share what you drew.&nbsp;
+    background_color: '#ffb355'
+    background_image:
+    background_size: cover
 tags:
   - Art
   - Still Lives
