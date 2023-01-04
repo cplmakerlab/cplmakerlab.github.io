@@ -25,7 +25,7 @@ slides:
     background_size: cover
   - title: Elements of Portraits
     content_markdown: |-
-      ## Elements of Portraits
+      ## Art Terms
 
       &nbsp;
 
@@ -287,5 +287,3 @@ slides:
     background_image: /uploads/introduction-to-portraits/capture2.PNG
     background_size: cover
 ---
-
-

@@ -2,17 +2,35 @@
 title: Introduction to Still Lives
 slides:
   - title: Introduction to Still Lives
-    content_markdown: '# Introduction to Still Lives'
+    content_markdown: >-
+      # Introduction to Still Lives
+
+
+      ![](/uploads/introduction-to-still-lives/europeana-890.png){: width="890"
+      height="445"}
     background_color: '#ffb355'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: What is a still Life?
+    content_markdown: What is a still Life?
     background_color: '#ffb355'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Art Terms
+    content_markdown: |-
+      #### Art Terms
+
+      &nbsp;
+
+      Medium
+
+      Subject
+
+      Color Scheme&nbsp;
+
+      Symbols
+
+      Environment/ Landscape&nbsp;
     background_color: '#ffb355'
     background_image:
     background_size: cover
