@@ -1,8 +1,8 @@
 ---
 title: Introduction to Still Lives
 slides:
-  - title:
-    content_markdown:
+  - title: Introduction to Still Lives
+    content_markdown: '# Introduction to Still Lives'
     background_color: '#ffb355'
     background_image:
     background_size: cover
