@@ -32,8 +32,13 @@ slides:
     background_color: '#ffb355'
     background_image:
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Caravaggio
+    content_markdown: >-
+      ## Caravaggio
+
+
+      Italian, born in 1571. Best known for paintings with dark lighting and
+      dramatic scenes, which are emblamatic of the baroque style.
     background_color: '#ffb355'
     background_image:
     background_size: cover
