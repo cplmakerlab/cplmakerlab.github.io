@@ -23,11 +23,9 @@ slides:
     background_color: '#a3e297'
     background_image:
     background_size: cover
-  - title: Elements of Portraits
+  - title: Art Terms
     content_markdown: |-
       ## Art Terms
-
-      &nbsp;
 
       Medium
 

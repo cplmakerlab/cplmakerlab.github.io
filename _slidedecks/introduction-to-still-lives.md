@@ -12,15 +12,13 @@ slides:
     background_image:
     background_size: cover
   - title: What is a still Life?
-    content_markdown: What is a still Life?
+    content_markdown: '## What is a still Life?'
     background_color: '#ffb355'
     background_image:
     background_size: cover
   - title: Art Terms
     content_markdown: |-
-      #### Art Terms
-
-      &nbsp;
+      ## Art Terms
 
       Medium
 
