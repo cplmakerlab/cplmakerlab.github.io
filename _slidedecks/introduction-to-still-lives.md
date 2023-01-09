@@ -70,7 +70,7 @@ slides:
   - title: Caravaggio 2.5
     content_markdown: '## What do you notice about the fruit?'
     background_color: '#ffb355'
-    background_image: /uploads/caravaggio-2-5/capture.PNG
+    background_image: /uploads/1024px-canestra-di-frutta-caravaggio.jpg
     background_size: contain
   - title: Caravaggio 3
     content_markdown:
