@@ -44,7 +44,8 @@ slides:
       Work 1: &nbsp;
 
 
-      Work 2:&nbsp;
+      Work 2:&nbsp;[Still Life with Fruit and Carafe,
+      1610/1620](https://www.nga.gov/collection/art-object-page.300.html)
 
 
       Work 3:&nbsp;
@@ -60,10 +61,15 @@ slides:
     background_image:
     background_size: cover
   - title:
+    content_markdown: '## Do any of these fruit look peculiar?&nbsp;'
+    background_color: '#ffb355'
+    background_image: /uploads/still-life-with-fruit-and-carafe-1939-1-159.jpg
+    background_size: contain
+  - title:
     content_markdown:
     background_color: '#ffb355'
-    background_image:
-    background_size: cover
+    background_image: /uploads/still-life-with-fruit-and-carafe-1939-1-159.jpg
+    background_size: contain
   - title:
     content_markdown:
     background_color: '#ffb355'
