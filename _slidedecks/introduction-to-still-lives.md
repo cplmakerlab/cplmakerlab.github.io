@@ -86,14 +86,16 @@ slides:
       using assemblage and found objects.&nbsp;
 
 
-      Work 1: &nbsp;
+      Work 1:&nbsp; [Large Owl,
+      1948](https://www.artic.edu/artworks/99760/untitled-large-owl)
 
 
-      Work 2: [Soap Bubble Set,
+      Work 2: [Butterfly Habitat,
+      1940](https://www.artic.edu/artworks/99766/untitled-butterfly-habitat)
+
+
+      Work 3: [Soap Bubble Set,
       1963](https://www.youtube.com/watch?v=hzpmoqSYW9A)
-
-
-      Work 3:&nbsp;
 
 
       (Sources linked to artwork names)
@@ -108,8 +110,13 @@ slides:
   - title: Cornell 1
     content_markdown:
     background_color: '#ffb355'
-    background_image:
-    background_size: cover
+    background_image: /uploads/cornell-1/default.jpg
+    background_size: contain
+  - title: Cornell 1.5
+    content_markdown:
+    background_color: '#ffb355'
+    background_image: /uploads/cornell-2/download.png
+    background_size: contain
   - title: Cornell 2
     content_markdown:
     background_color: '#ffb355'
@@ -121,11 +128,6 @@ slides:
       Cornell](https://www.youtube.com/watch?v=hzpmoqSYW9A)
     background_color: '#ffb355'
     background_image: /uploads/cornell-2-5/captur2e.PNG
-    background_size: cover
-  - title: Cornell 3
-    content_markdown:
-    background_color: '#ffb355'
-    background_image:
     background_size: cover
   - title:
     content_markdown:
