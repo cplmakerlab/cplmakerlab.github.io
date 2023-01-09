@@ -82,14 +82,15 @@ slides:
       ## Joseph Cornell
 
 
-      Italian, born in 1571. Best known for paintings with dark lighting and
-      dramatic scenes which are emblamatic of the baroque style.
+      American, born in 1903.&nbsp; Created thousands of mixed media sculptures
+      using assemblage and found objects.&nbsp;
 
 
       Work 1: &nbsp;
 
 
-      Work 2:&nbsp;
+      Work 2: [Soap Bubble Set,
+      1963](https://www.youtube.com/watch?v=hzpmoqSYW9A)
 
 
       Work 3:&nbsp;
@@ -99,22 +100,29 @@ slides:
     background_color: '#ffb355'
     background_image:
     background_size: cover
-  - title:
+  - title: Marcel Duchamp
     content_markdown:
     background_color: '#ffb355'
     background_image:
     background_size: cover
-  - title:
+  - title: Cornell 1
     content_markdown:
     background_color: '#ffb355'
     background_image:
     background_size: cover
-  - title:
+  - title: Cornell 2
     content_markdown:
     background_color: '#ffb355'
-    background_image:
+    background_image: /uploads/cornell-2/joseph-cornell-soap-bubble-set-1948-web.jpg
+    background_size: contain
+  - title: Cornell 2.5
+    content_markdown: >-
+      ## [The Miniaturized Magic of Joseph
+      Cornell](https://www.youtube.com/watch?v=hzpmoqSYW9A)
+    background_color: '#ffb355'
+    background_image: /uploads/cornell-2-5/captur2e.PNG
     background_size: cover
-  - title:
+  - title: Cornell 3
     content_markdown:
     background_color: '#ffb355'
     background_image:
