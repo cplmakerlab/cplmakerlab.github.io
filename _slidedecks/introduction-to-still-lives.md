@@ -112,11 +112,6 @@ slides:
     background_color: '#ffb355'
     background_image: /uploads/cornell-1/default.jpg
     background_size: contain
-  - title: Cornell 1
-    content_markdown: '## What items do you notice in the assemblage?&nbsp;'
-    background_color: '#ffb355'
-    background_image: /uploads/cornell-1/default.jpg
-    background_size: contain
   - title: Cornell 2
     content_markdown:
     background_color: '#ffb355'
