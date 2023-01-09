@@ -38,7 +38,19 @@ slides:
 
 
       Italian, born in 1571. Best known for paintings with dark lighting and
-      dramatic scenes, which are emblamatic of the baroque style.
+      dramatic scenes which are emblamatic of the baroque style.
+
+
+      Work 1: &nbsp;
+
+
+      Work 2:&nbsp;
+
+
+      Work 3:&nbsp;
+
+
+      (Sources linked to artwork names)
     background_color: '#ffb355'
     background_image:
     background_size: cover
