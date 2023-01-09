@@ -112,17 +112,22 @@ slides:
     background_color: '#ffb355'
     background_image: /uploads/cornell-1/default.jpg
     background_size: contain
-  - title: Cornell 1.5
-    content_markdown:
+  - title: Cornell 1
+    content_markdown: '## What items do you notice in the assemblage?&nbsp;'
     background_color: '#ffb355'
-    background_image: /uploads/cornell-2/download.png
+    background_image: /uploads/cornell-1/default.jpg
     background_size: contain
   - title: Cornell 2
     content_markdown:
     background_color: '#ffb355'
+    background_image: /uploads/cornell-2/download.png
+    background_size: contain
+  - title: Cornell 3
+    content_markdown:
+    background_color: '#ffb355'
     background_image: /uploads/cornell-2/joseph-cornell-soap-bubble-set-1948-web.jpg
     background_size: contain
-  - title: Cornell 2.5
+  - title: Cornell 3.5
     content_markdown: >-
       ## [The Miniaturized Magic of Joseph
       Cornell](https://www.youtube.com/watch?v=hzpmoqSYW9A)
