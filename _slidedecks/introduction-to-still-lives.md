@@ -103,8 +103,8 @@ slides:
   - title: Marcel Duchamp
     content_markdown:
     background_color: '#ffb355'
-    background_image:
-    background_size: cover
+    background_image: /uploads/marcel-duchamp/large.jpg
+    background_size: contain
   - title: Cornell 1
     content_markdown:
     background_color: '#ffb355'
