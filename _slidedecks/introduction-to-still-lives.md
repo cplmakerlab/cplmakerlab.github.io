@@ -57,27 +57,27 @@ slides:
     background_color: '#ffb355'
     background_image:
     background_size: cover
-  - title:
+  - title: Caravaggio 1
     content_markdown:
     background_color: '#ffb355'
     background_image: /uploads/800px-boy-with-a-basket-of-fruit-caravaggio-1593.jpg
     background_size: contain
-  - title:
+  - title: Caravaggio 2
     content_markdown:
     background_color: '#ffb355'
     background_image: /uploads/1024px-canestra-di-frutta-caravaggio.jpg
     background_size: contain
-  - title:
+  - title: Caravaggio 2.5
+    content_markdown: What do you notice about the fruit?
+    background_color: '#ffb355'
+    background_image: /uploads/caravaggio-2-5/capture.PNG
+    background_size: contain
+  - title: Caravaggio 3
     content_markdown:
     background_color: '#ffb355'
-    background_image:
-    background_size: cover
-  - title:
-    content_markdown:
-    background_color: '#ffb355'
-    background_image:
-    background_size: cover
-  - title:
+    background_image: /uploads/caravaggio-still-life-with-fruit-circa-1603.png
+    background_size: contain
+  - title: Joseph Cornell
     content_markdown:
     background_color: '#ffb355'
     background_image:
