@@ -41,14 +41,16 @@ slides:
       dramatic scenes which are emblamatic of the baroque style.
 
 
-      Work 1: &nbsp;
+      Work 1: &nbsp;[Boy with a Basket of Fruit-Caravaggio,
+      1593](https://en.wikipedia.org/wiki/Boy_with_a_Basket_of_Fruit#/media/File:Boy_with_a_Basket_of_Fruit-Caravaggio_&#40;1593&#41;.jpg)
 
 
-      Work 2:&nbsp;[Still Life with Fruit and Carafe,
-      1610/1620](https://www.nga.gov/collection/art-object-page.300.html)
+      Work 2:&nbsp;[Basket of Fruit,
+      1599](https://en.wikipedia.org/wiki/Basket_of_Fruit_%28Caravaggio%29)
 
 
-      Work 3:&nbsp;
+      Work 3:&nbsp;[Still Life with Fruit on a Stone Ledge,
+      1610](https://en.wikipedia.org/wiki/Still_Life_with_Fruit_&#40;Caravaggio&#41;)
 
 
       (Sources linked to artwork names)
@@ -58,18 +60,18 @@ slides:
   - title:
     content_markdown:
     background_color: '#ffb355'
-    background_image:
-    background_size: cover
-  - title:
-    content_markdown: '## Do any of these fruit look peculiar?&nbsp;'
-    background_color: '#ffb355'
-    background_image: /uploads/still-life-with-fruit-and-carafe-1939-1-159.jpg
+    background_image: /uploads/800px-boy-with-a-basket-of-fruit-caravaggio-1593.jpg
     background_size: contain
   - title:
     content_markdown:
     background_color: '#ffb355'
-    background_image: /uploads/still-life-with-fruit-and-carafe-1939-1-159.jpg
+    background_image: /uploads/1024px-canestra-di-frutta-caravaggio.jpg
     background_size: contain
+  - title:
+    content_markdown:
+    background_color: '#ffb355'
+    background_image:
+    background_size: cover
   - title:
     content_markdown:
     background_color: '#ffb355'
