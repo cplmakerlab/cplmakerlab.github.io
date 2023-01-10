@@ -183,26 +183,55 @@ slides:
     background_image: >-
       /uploads/warhol-2-75/andy-warhol-quote-about-tradition-from-the-philosophy-of-andy-warhol-2a7126.jpg
     background_size: contain
-  - title:
-    content_markdown:
+  - title: Terrell Davis
+    content_markdown: >-
+      ## Terrell Davis
+
+
+      American, born in 1998. Created digitally generated images of
+      desktops.&nbsp;
+
+
+      Work 1:&nbsp;
+      [Untitled](https://www.papermag.com/remembering-terrell-davis-2650283108.html?rebelltitem=3#rebelltitem3)
+
+
+      Work
+      2:[Untitled](https://twitter.com/y2k_aesthetic/status/1345484595102289920/photo/1)
+
+
+      Work
+      3:&nbsp;[Untitled](https://twitter.com/y2k_aesthetic/status/1345484595102289920/photo/1)
+
+
+      Work 4:
+      [Untitled](https://y2kaestheticinstitute.tumblr.com/post/144943770283/artwork-by-terrell-davis-2015-16)
+
+
+      (Sources linked to artwork names)
     background_color: '#ffb355'
     background_image:
     background_size: cover
-  - title:
+  - title: Davis 1
     content_markdown:
     background_color: '#ffb355'
-    background_image:
-    background_size: cover
-  - title:
+    background_image: /uploads/img.webp
+    background_size: contain
+  - title: Davis 2
     content_markdown:
     background_color: '#ffb355'
-    background_image:
-    background_size: cover
-  - title:
+    background_image: /uploads/davis-2/capture.PNG
+    background_size: contain
+  - title: Davis 3
     content_markdown:
     background_color: '#ffb355'
-    background_image:
-    background_size: cover
+    background_image: /uploads/davis-3/2.PNG
+    background_size: contain
+  - title: Davis 4
+    content_markdown:
+    background_color: '#ffb355'
+    background_image: /uploads/davis-4/tumblr-o7rjgsjrtr1v0jfsto2-1280.jpg
+    background_size: contain
   - title: How to Set Up a Still Life
     content_markdown: >-
       ## [How to Set Up a Still
