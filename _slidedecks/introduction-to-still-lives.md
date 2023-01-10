@@ -129,11 +129,60 @@ slides:
     background_color: '#ffb355'
     background_image: /uploads/cornell-2-5/captur2e.PNG
     background_size: cover
-  - title:
-    content_markdown:
+  - title: Andy Warhol
+    content_markdown: >-
+      ## Andy Warhol
+
+
+      American, born in 1928.&nbsp; Leading figure of the pop art movement, a
+      return to representational art that used bold colors and hard edges.&nbsp;
+
+
+      Work 1: &nbsp;[Campbell's Soup
+      Can](https://collections.lacma.org/node/207423)
+
+
+      Work 2:
+      [Coca-Cola](https://www.npr.org/sections/thetwo-way/2013/11/11/244559034/how-about-a-coke-warhol-painting-up-for-grabs)
+
+
+      (Sources linked to artwork names)
     background_color: '#ffb355'
     background_image:
     background_size: cover
+  - title: Warhol 1
+    content_markdown:
+    background_color: '#ffb355'
+    background_image: /uploads/warhol-1/ma-19261-web.jpg
+    background_size: contain
+  - title: '1.5'
+    content_markdown:
+    background_color: '#ffb355'
+    background_image: /uploads/1-5/andy-warhol-soup-cans.jpg
+    background_size: contain
+  - title: '1.75'
+    content_markdown:
+    background_color: '#ffb355'
+    background_image: /uploads/1-75/picture4-6-png.webp
+    background_size: contain
+  - title: Warhol 2
+    content_markdown:
+    background_color: '#ffb355'
+    background_image: >-
+      /uploads/warhol-2/coca-cola-3-in-frame-custom-8cf19ac1cd223f2b27862d5f6454f5f0efcc6900-s400-c85.webp
+    background_size: contain
+  - title: Warhol 2.5
+    content_markdown: '## What do you think the meaning of this painting is?'
+    background_color: '#ffb355'
+    background_image: >-
+      /uploads/warhol-2/coca-cola-3-in-frame-custom-8cf19ac1cd223f2b27862d5f6454f5f0efcc6900-s400-c85.webp
+    background_size: contain
+  - title: Warhol 2.75
+    content_markdown:
+    background_color: '#ffb355'
+    background_image: >-
+      /uploads/warhol-2-75/andy-warhol-quote-about-tradition-from-the-philosophy-of-andy-warhol-2a7126.jpg
+    background_size: contain
   - title:
     content_markdown:
     background_color: '#ffb355'
