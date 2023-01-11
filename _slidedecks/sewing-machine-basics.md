@@ -30,6 +30,13 @@ slides:
     content_markdown: >-
       [How do I wind the bobbin? \|
       Brother](https://support.brother.com/g/b/faqend.aspx?c=us&amp;lang=en&amp;prod=hf_ce5000eus&amp;faqid=faqh00000438_001)
+
+
+      [How to Put a Bobbin in Any Sewing Machine – 4 Ways
+      (threadsmonthly.com)](https://threadsmonthly.com/put-bobbin-in-sewing-machine/)
+
+
+      &nbsp;
     background_color:
     background_image: /uploads/slide5.JPG
     background_size: cover
@@ -89,7 +96,13 @@ slides:
     background_image: /uploads/slide16.JPG
     background_size: cover
   - title: threading
-    content_markdown:
+    content_markdown: >-
+      [Singer 4452 I Heavy Duty Quick Start Manual
+      (usermanual.wiki)](https://usermanual.wiki/Singer/Singer4452IHeavyDutyQuickStartManual679086.505835681)
+
+
+      [How to Thread a Sewing Machine - Bing
+      video](https://www.bing.com/videos/search?q=how+to+thread+a+sewing+machine&amp;qft=+filterui%3asite-youtube.com&amp;view=detail&amp;mid=6B86F8F1327633D511AE6B86F8F1327633D511AE&amp;&amp;FORM=VRDGAR&amp;ru=%2Fvideos%2Fsearch%3F%26q%3Dhow%2Bto%2Bthread%2Ba%2Bsewing%2Bmachine%26qft%3D%2Bfilterui%3Asite-youtube.com%26FORM%3DVRFLTR)
     background_color:
     background_image: /uploads/slide17.JPG
     background_size: cover
