@@ -93,24 +93,12 @@ slides:
     background_image: >-
       /uploads/selling-your-designs-online/5d6911e18cc2810c3cae3274-shopify-logo-600x600.jpg
   - title: Pros of Shopify
-    content_markdown: >-
+    content_markdown: |-
       #### Pros
-
 
       \- Very professional, strong analytics tools.&nbsp;
 
-
-      \- For part of the pandemic, sales were equivalent to Black Friday for
-      several weeks in a row. Stock Price
-
-
-      &nbsp;
-
-
-      &nbsp;
-
-
-      &nbsp;
+      \- Many features available to offer deals and coupons.
     background_color: '#ffc1b4'
     background_image:
   - title: Cons of Shopify
