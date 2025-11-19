@@ -30,7 +30,7 @@ Our lab equipment includes: 3D printers, lasercutters, sewing machines, electron
 &nbsp;
 
 * **Bambu P1S 3D Printers**
-  * Build Volume: 9.8" x 9.8" x 9.8" (941 cubic inches)
+  * Build Volume: 9.8” x 9.8” x 9.8” (941 cubic inches)
   * Machine Software: [Bambu Studio](https://bambulab.com/en-us/download/studio)
   * Design software: [Tinkercad](http://tinkercad.com){: target="_blank" rel="noopener"}, [Fusion 360](https://www.autodesk.com/products/fusion-360/personal){: target="_blank" rel="noopener"} (any 3D cad software that can output OBJ or STL)
   * Material: [PLA filament](materials)
