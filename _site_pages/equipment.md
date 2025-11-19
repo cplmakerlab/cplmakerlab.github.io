@@ -72,6 +72,12 @@ Our lab equipment includes: 3D printers, lasercutters, sewing machines, electron
   * Computerized stitch selection (165 built-in stitches)
   * Adjustable speed control
   * Quick-change presser feet
+* [Brother Sewing Machine YouTube Playlist](https://www.youtube.com/playlist?list=PLGzz3_VP9G-esaNxt9qY6oeT1JFaM01lD)
+  * How to Thread Mechanical and Automatic Machines
+  * How to Wind a Bobbin on a Brother Sewing Machine
+  * Bobbin Threading
+  * How to Change Feet
+  * How to Change the Needle
 
 &nbsp;
 
