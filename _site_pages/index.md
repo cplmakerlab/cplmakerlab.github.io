@@ -41,6 +41,6 @@ We have limited hours at this time. Use the [Ask a Maker form](https://www.chipu
 
 * Altgeld Branch, 955 E. 131st Street
 * Legler Regional, 115 S. Pulaski Road
-* Sulzer Regional, 4545 N. Lincoln Avenue
+* Sulzer Regional, 4455 N. Lincoln Avenue
 * Whitney Young Branch, 415 E. 79th Street
 * Woodson Regional, 9525 S. Halsted Street
