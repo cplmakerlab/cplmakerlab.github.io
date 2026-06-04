@@ -46,6 +46,8 @@ Contact individual locations to learn about classes and offerings.
 * [Altgeld Branch](https://www.chipublib.org/locations/4/), 955 E. 131st Street
 * [Douglass Branch](https://www.chipublib.org/locations/25/), 3353 W 13th. Street
 * [Legler Regional](https://www.chipublib.org/locations/42/), 115 S. Pulaski Road
+  * Laser cutter access
 * [Sulzer Regional](https://www.chipublib.org/locations/67/), 4455 N. Lincoln Avenue
+  * Laser cutter access
 * [Whitney Young Branch](https://www.chipublib.org/locations/80/), 415 E. 79th Street
 * [Woodson Regional](https://www.chipublib.org/locations/81/), 9525 S. Halsted Street
