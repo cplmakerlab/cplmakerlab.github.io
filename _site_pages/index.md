@@ -26,7 +26,7 @@ Did you just take a class with us? Tell us how we did in this brief [survey](htt
 
 ## Hours
 
-We have limited hours at this time. Use the [Ask a Maker form](https://www.chipublib.org/maker-lab/ask-a-maker-request-help-from-the-maker-lab/) to schedule a one-on-one or check the upcoming events to register or visit during [Open Shop](https://bit.ly/cplmakerschedule).
+We have limited hours at this time. Use the [Ask a Maker form](https://www.chipublib.org/maker-lab/ask-a-maker-request-help-from-the-maker-lab/) to request a fabrication or check the upcoming events to register or visit during [Open Shop](https://bit.ly/cplmakerschedule).
 
 ## Contact Us
 
@@ -39,8 +39,13 @@ We have limited hours at this time. Use the [Ask a Maker form](https://www.chipu
 
 ## Other locations
 
-* Altgeld Branch, 955 E. 131st Street
-* Legler Regional, 115 S. Pulaski Road
-* Sulzer Regional, 4455 N. Lincoln Avenue
-* Whitney Young Branch, 415 E. 79th Street
-* Woodson Regional, 9525 S. Halsted Street
+We have Maker Labs at several locations. Each location has a 3D printer, vinyl cutter, and sewing machine.
+
+Contact individual locations to learn about classes and offerings.
+
+* [Altgeld Branch](https://www.chipublib.org/locations/4/), 955 E. 131st Street
+* [Douglass Branch](https://www.chipublib.org/locations/25/), 3353 W 13th. Street
+* [Legler Regional](https://www.chipublib.org/locations/42/), 115 S. Pulaski Road
+* [Sulzer Regional](https://www.chipublib.org/locations/67/), 4455 N. Lincoln Avenue
+* [Whitney Young Branch](https://www.chipublib.org/locations/80/), 415 E. 79th Street
+* [Woodson Regional](https://www.chipublib.org/locations/81/), 9525 S. Halsted Street
