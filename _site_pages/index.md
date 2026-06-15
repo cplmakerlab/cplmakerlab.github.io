@@ -4,7 +4,7 @@ header_image:
 ---
 <div class="cms-embed"><a data-flickr-embed="true" href="https://www.flickr.com/photos/cpl_makerspace/albums/72157717381629536" title="Website Photos"><img src="https://live.staticflickr.com/65535/49169100572_a833185df9_n.jpg" width="800" height="240" alt="Website Photos" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
 
-The Maker Lab, Chicago’s first free and publicly accessible maker space, is on the 3rd floor of Harold Washington Library Center. The Maker Lab features introductory [workshops](https://bit.ly/cplmakerschedule){: target="_blank" rel="noopener"} and [open shop](https://chipublib.bibliocommons.com/events/search/q=%22Open%20Shop%22&amp;fq=program:&#40;53f20a07e04c1e3b1c00d3e4&#41;){: target="_blank" rel="noopener"} for personal projects and collaboration. We encourage you to explore the full range of making, both high-tech and hands-on.
+The Maker Lab, Chicago’s first free and publicly accessible maker space, is on the 3rd floor of Harold Washington Library Center. The Maker Lab features introductory [workshops](https://bit.ly/cplmakerschedule){: target="_blank" rel="noopener"} and [open shop](https://chipublib.bibliocommons.com/v2/events?q=%22Open%20Shop%22&amp;locations=34&amp;programs=53f20a07e04c1e3b1c00d3e4){: target="_blank" rel="noopener"} for personal projects and collaboration. We encourage you to explore the full range of making, both high-tech and hands-on.
 
 ## Ask a maker
 
