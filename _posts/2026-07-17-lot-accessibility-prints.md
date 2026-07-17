@@ -1,5 +1,5 @@
 ---
-date:
+date: 2026-07-17 10:00:00
 title: LoT Accessibility Prints
 tags:
   - library of things
